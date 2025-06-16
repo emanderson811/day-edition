@@ -1,0 +1,22 @@
+{% comment %}
+
+    Adds previous and next links to page.
+
+{%- endcomment -%}
+
+<div>
+    <div>
+      {% if text.previous.url %}
+        <a href="{{ text.previous.url | append: '.html' | relative_url }}">
+          <span aria-hidden="true">&laquo;</span> {{ text.previous.title }}
+        </a>
+      {% endif %}
+    </div>
+    <div class="post-nav-next">
+      {% if text.next.url %}
+        <a href="{{ text.next.url | append: '.html' | relative_url }}">
+          {{ text.next.title }} <span aria-hidden="true">&raquo;</span>
+        </a>
+      {% endif %}
+    </div>
+</div>

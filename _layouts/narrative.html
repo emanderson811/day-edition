@@ -4,6 +4,40 @@ layout: default
 
 <article class="narrative">
   <h1 class="text-title">{{ page.title }}</h1>
+  {% if page.author %}
   <p class="byline">by {{ page.author }}</p>
+  {% endif %}
   {{ content }}
 </article>
+
+{% assign texts = site.texts %}
+{% assign current_index = nil %}
+{% for item in texts %}
+  {% if item.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% if current_index %}
+  {% assign prev_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+{% endif %}
+
+<div class="post-nav" style="display: flex; justify-content: space-between; margin-top: 2em;">
+  <div class="post-nav-prev">
+    {% if current_index and prev_index >= 0 %}
+      {% assign prev = texts[prev_index] %}
+      <a href="{{ prev.url | relative_url }}">
+        <span aria-hidden="true">&laquo;</span> {{ prev.title }}
+      </a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if current_index and next_index < texts.size %}
+      {% assign next = texts[next_index] %}
+      <a href="{{ next.url | relative_url }}">
+        {{ next.title }} <span aria-hidden="true">&raquo;</span>
+      </a>
+    {% endif %}
+  </div>
+</div>
