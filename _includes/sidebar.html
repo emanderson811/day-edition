@@ -13,10 +13,19 @@
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
+  
+    <div class="sidebar-texts">
+    {% assign texts_list = site.texts | sort: "title" %}
+    {% for text in texts_list %}
+      <a class="sidebar-nav-item{% if page.url == text.url %} active{% endif %}" href="{{ text.url | relative_url }}">{{ text.title }}</a>
+    {% endfor %}
+    </div>
+
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
+
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
