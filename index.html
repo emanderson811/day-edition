@@ -23,12 +23,14 @@ title: "Ed."
   <h2>Contents</h2>
   <ul class="texts">
   {% for item in site.texts %}
+    {% unless item.path contains '/buildings/' %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
     </li>
+    {% endunless %}
   {% endfor %}
   </ul>
 </div>
