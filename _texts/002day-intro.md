@@ -6,20 +6,6 @@ rights: Public Domain
 source: Iowa State University Library, University Archives
 publication-date: 1980
 sub-sections: Source Material 
-toc:
-- Front Matter
-- Introduction
-- Land Use
-- Transportation
-- Athletic and Recreational Areas
-- Utilities
-- Special Areas
-- Miscellaneous
-- Campus Buildings (Alphabetically Arranged)
-- Apendices
-- Bibliography
-- Campus Maps
-- Index
 ---
 
 ---
