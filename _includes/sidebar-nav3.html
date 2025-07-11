@@ -7,7 +7,7 @@
 <!-- Toggleable sidebar -->
 <aside class="sidebar" id="sidebar" aria-hidden="true">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p>{{ site.title }}</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -15,11 +15,30 @@
 
   
     <div class="sidebar-texts">
-    {% assign texts_list = site.texts %}
-    {% for text in texts_list %}
-      {% unless text.path contains '/buildings/' %}
-      <a class="sidebar-nav-item{% if page.url == text.url %} active{% endif %}" href="{{ text.url | relative_url }}">{{ text.title }}</a>
-      {% endunless %}
+    {%- assign navItems = site.data.texts-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%} 
+        {% for nav in navItems %}
+        {% if nav.stub %}
+          <a class="sidebar-nav-item{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+        {%- else -%}
+        <li class="sidebar-nav-item dropdown"> 
+            {% assign navChildren = site.data.texts-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
+            {%- assign childStubs = navChildren | map: 'stub' -%}
+          <a class="sidebar-nav-item dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ nav.display_name }}</a>
+          <div class="dropdown-menu">
+              {% for c in navChildren %}
+              <a class="dropdown-item {% if page.url == c.stub %}active{% endif %}" href="{{ c.stub | relative_url }}">{{ c.display_name }}</a>
+              {% endfor %}
+          </div>
+        </li>
+        {% endif %}
+        {%- endfor -%}
+        {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null and node.url != "/404.html" %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
     {% endfor %}
     </div>
 
@@ -29,14 +48,7 @@
     {% endcomment %}
 
 
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null and node.url != "/404.html" %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    
 
     <!-- The code below is used for manually entered links  -->
     <span style='cursor:pointer;' onclick="javascript:var hypothesis = document.createElement('script');

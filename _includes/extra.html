@@ -1,0 +1,102 @@
+<style>
+.sidebar-accordion-panel {
+  display: none;
+  padding-left: 1em;
+}
+.sidebar-accordion-toggle[aria-expanded="true"] + .sidebar-accordion-panel {
+  display: block;
+}
+.sidebar-accordion-toggle {
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  padding: 0.5em 0;
+  cursor: pointer;
+  color: #fff;
+  font: inherit;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sidebar-accordion-toggle:hover {
+  background-color: rgba(255,255,255,.2);
+}
+.accordion-icon {
+  margin-left: 0.1em;
+  transition: transform 0.5s;
+  font-size: 0.9em;
+}
+
+/* Rotate icon when expanded */
+.sidebar-accordion-toggle[aria-expanded="true"] .accordion-icon {
+  transform: rotate(180deg);
+}
+.sidebar-accordion-panel .sidebar-nav-item {
+  display: block;
+  padding: 0.25em 0 0.25em 1em;
+  color: #fff;
+  text-decoration: none;
+}
+.sidebar-accordion-panel .sidebar-nav-item:hover,
+.sidebar-accordion-panel .sidebar-nav-item.active {
+  background-color: rgba(255,255,255,.1);
+}
+</style>
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<aside class="sidebar" id="sidebar" aria-hidden="true">
+  <div class="sidebar-item">
+    <p>{{ site.title }}</p>
+  </div>
+
+    <nav class="sidebar-nav">
+        <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+
+        <div class="sidebar-texts">
+        {%- assign navItems = site.data.texts-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
+        {% for nav in navItems %}
+            {% assign navChildren = site.data.texts-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
+            {% if nav.stub %}
+            <a class="sidebar-nav-item{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+            {% elsif navChildren.size > 0 %}
+            <div class="sidebar-accordion-item">
+                <button class="sidebar-accordion-toggle" aria-expanded="false" aria-controls="panel-{{ forloop.index }}" id="toggle-{{ forloop.index }}">
+                {{ nav.display_name }}
+                <span class="accordion-icon" aria-hidden="true">▼</span>
+                </button>
+                <div class="sidebar-accordion-panel" id="panel-{{ forloop.index }}" role="region" aria-labelledby="toggle-{{ forloop.index }}">
+                {% for c in navChildren %}
+                    <a class="sidebar-nav-item{% if page.url == c.stub %} active{% endif %}" href="{{ c.stub | relative_url }}">{{ c.display_name }}</a>
+                {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+        {% assign pages_list = site.pages | sort:"url" %}
+        {% for node in pages_list %}
+            {% if node.title != null and node.url != "/404.html" and node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            {% endif %}
+        {% endfor %}
+        </div>
+    </nav>
+</aside>
+<script>
+document.querySelectorAll('.sidebar-accordion-toggle').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    // Close all panels
+    document.querySelectorAll('.sidebar-accordion-toggle').forEach(function(otherBtn) {
+      if (otherBtn !== btn) {
+        otherBtn.setAttribute('aria-expanded', 'false');
+      }
+    });
+    // Toggle this panel
+    var expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', !expanded);
+  });
+});
+</script>

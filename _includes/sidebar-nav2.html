@@ -1,0 +1,89 @@
+<style>
+    .navbar-toggler-icon {
+        width: 2.0rem; /* Adjust the width */
+        height: 2.0rem; /* Adjust the height */
+    }
+    .nav-item {
+        padding: 0.5rem 0;
+        font-size: 1.0rem;
+    }
+    .offcanvas-title {
+        margin-bottom: 0.1rem; /* Add spacing below the title */
+        color: #ccc;
+    }
+    .offcanvas-description {
+        font-size: 1rem; /* Adjust font size for the description */
+        color: #000; /* Optional: Change text color */
+        margin: 0; /* Remove default margins */
+    }
+ /* Make the navbar transparent */
+    .navbar {
+        background-color: transparent !important;
+        z-index: 10; 
+    }
+    
+
+    /* Ensure the offcanvas menu retains its black background */
+    .offcanvas {
+        background-color: #1583b3 !important;
+    }
+
+</style>
+
+<nav class="navbar navbar-light bg-light position-absolute w-100">
+   <div class="container-fluid">
+        <button class="navbar-toggler bg-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNav" aria-controls="offcanvasNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon bg-light"></span>
+        </button>
+
+    </div>
+    <!-- Offcanvas menu -->
+    <aside class="sidebar" id="sidebar" aria-hidden="true">
+    <div class="offcanvas offcanvas-start bg-light text-black" tabindex="-1" id="offcanvasNav" aria-labelledby="offcanvasNavLabel">
+        <div class="offcanvas-header">
+            <div>
+                <h3 class="offcanvas-title" id="offcanvasNavLabel">{{ site.title }}</h3>
+            </div>
+            <button type="button" class="btn-close btn-close-black" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <nav class="sidebar-nav">
+                <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+            <ul class="navbar-nav">
+                {%- assign navItems = site.data.texts-nav | where_exp: 'item', 'item.display_name and item.dropdown_parent == nil' -%} 
+                {% for nav in navItems %}
+                {% if nav.display_name == "Home" %}
+                <li class="sidebar-nav-item">
+                    <a class="sidebar-nav-item{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% for nav in navItems %}
+                {% if nav.stub %}{%- unless nav.display_name == "Home" -%}
+                <li class="sidebar-nav-item">
+                    <a class="sidebar-nav-item{% if page.url == nav.stub %} active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+                </li>
+                {% endunless %}{% endif %}
+                {%- endfor -%}
+                
+                {% for nav in navItems %}
+                {% unless nav.stub %}
+                <li class="sidebar-nav-item dropdown">
+                    {% assign navChildren = site.data.texts-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
+                    {%- assign childStubs = navChildren | map: 'stub' -%}
+                    <a class="sidebar-nav-item dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ nav.display_name }}</a>
+                    <div class="dropdown-menu">
+                        {% for c in navChildren %}
+                        <a class="dropdown-item {% if page.url == c.stub %}active{% endif %}" href="{{ c.stub | relative_url }}">{{ c.display_name }}</a>
+                        {% endfor %}
+                    </div>
+                </li>
+                {% endunless %}
+                {%- endfor -%}
+            </ul>
+
+            
+        </div>
+    </div>
+    </aside>
+</nav>
