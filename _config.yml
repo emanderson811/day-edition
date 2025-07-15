@@ -5,7 +5,7 @@ title:               The Iowa State University Campus and Its Buildings
 tagline:             'An annotated digital edition'
 description:         "An annotated digital edition of H. Summerfield Day's 1980 publication, The Iowa State University Campus and Its Buildings,"
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/day-edition'
 
 # About/contact
 author:
