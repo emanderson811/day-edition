@@ -10,8 +10,8 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
+$main-font: "EB Garamond", serif;
+$heading-font: "Courier Prime", monospace;
 $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
@@ -29,6 +29,8 @@ $link-color: #841212;
 @import "syntax";
 
 .back-to-top {
+  width: 150px;
+  text-align: center;
   position: fixed;
   top: 100px;
   right: 40px;
@@ -45,7 +47,27 @@ $link-color: #841212;
   pointer-events: none;
   transition: opacity 0.6s ease-in, visibility 0.6s ease-in;
 }
-.back-to-top.show {
+.scroll-to-bottom {
+  width: 150px;
+  text-align: center;
+  position: fixed;
+  top: 150px; // 50px below the back-to-top button
+  right: 40px;
+  z-index: 1000;
+  background: #fff;
+  padding: 8px 14px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.6s ease-in, visibility 0.6s ease-in;
+}
+.back-to-top.show,
+.scroll-to-bottom.show {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
@@ -55,39 +77,58 @@ $link-color: #841212;
 }
 .back-to-top-arrow {
   display: inline;
+  font-size: 1em;
+}
+.scroll-to-bottom-text {
+  display: inline;
+}
+.scroll-to-bottom-arrow {
+  display: inline;
+  font-size: 1em;
+  vertical-align: middle;
 }
 
 
 // For tablets and below
-@media (max-width: 900px) {
+@media (max-width: 950px) {
   .back-to-top {
     right: 16px;
     top: 80px;
-    padding: 8px 10px;
-    font-size: 1em;
+  }
+  .scroll-to-bottom {
+    right: 16px;
+    top: 130px;
   }
 }
 
 
 // For mobile screens
-@media (max-width: 600px) {
-  .back-to-top-text {
-    display: none;
-  }
-  .back-to-top-arrow {
-    display: inline;
-    font-size: 1.3em;
-    vertical-align: middle;
-  }
+@media (max-width: 950px) {
   .back-to-top {
+    right: 8px;
+    top: auto;
+    bottom: 64px;
+    left: auto;
+    width: auto;
+  }
+  .scroll-to-bottom {
     right: 8px;
     top: auto;
     bottom: 24px;
     left: auto;
-    font-size: 0.95em;
-    padding: 7px 8px;
+    width: auto;
   }
+}
 
+@media (max-width: 950px) {
+  .back-to-top-text,
+  .scroll-to-bottom-text {
+    display: none;
+  }
+  .back-to-top-arrow,
+  .scroll-to-bottom-arrow {
+    display: inline;
+  }
 }
 .dropdown-menu {
   border-bottom: 1px solid rgba(255,255,255,.1);

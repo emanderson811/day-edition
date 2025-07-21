@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<a href="#" class="back-to-top"><span class="back-to-top-text">Back to top</span> <span class="back-to-top-arrow">&#9650;</span></a>
+<a href="#" class="back-to-top"><span class="back-to-top-text">Top</span> <span class="back-to-top-arrow">&#9650;</span></a>
+<a href="#" class="scroll-to-bottom"><span class="scroll-to-bottom-text">Bottom</span> <span class="scroll-to-bottom-arrow">&#9660;</span></a>
 <article class="narrative">
   <h1 class="text-title">{{ page.title }}</h1>
   {% if page.author %}
@@ -45,12 +46,25 @@ layout: default
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var backToTop = document.querySelector('.back-to-top');
+  var scrollToBottom = document.querySelector('.scroll-to-bottom');
   window.addEventListener('scroll', function() {
     if (window.scrollY > 2000) {
       backToTop.classList.add('show');
+      scrollToBottom.classList.add('show');
     } else {
       backToTop.classList.remove('show');
+      scrollToBottom.classList.remove('show');
     }
+  });
+
+  backToTop.addEventListener('click', function(e) {
+    e.preventDefault();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  scrollToBottom.addEventListener('click', function(e) {
+    e.preventDefault();
+    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
   });
 });
 </script>

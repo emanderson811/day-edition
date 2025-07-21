@@ -80,16 +80,18 @@ body {
 */
 
 .container {
-  max-width: 32rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
+  max-width: 50rem;
+  padding-left:  2rem;
+  padding-right: 2rem;
   margin-left:  auto;
   margin-right: auto;
 }
 
-@media (min-width: 56em) {
+@media (max-width: 950px) {
   .container {
-    max-width: 38rem;
+    max-width: 25rem; 
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 
@@ -141,6 +143,7 @@ h3 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: "Courier New", monospace;
 }
 
 /* Lists */
@@ -170,7 +173,8 @@ mark {
 
 /* Quotes */
 blockquote {
-  padding: 0rem 1.5rem 0rem 2rem;
+  padding-left: 2rem;
+  padding-right: 0;
   margin: 0 0 20px 0;
   color: $text-color;
   border-left: none;
@@ -200,7 +204,7 @@ img {
 }
 
 /* Tables */
-table {
+/*table {
   margin-bottom: 1rem;
   width: 100%;
   border: 1px solid #e5e5e5;
@@ -216,6 +220,19 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
+}*/
+table {
+  border-collapse: collapse;
+  border: none;
+  background: none;
+  margin-bottom: 1rem;
+  font-family:'Courier New', Courier, monospace;
+}
+
+th, td {
+  border: none;
+  background: none;
+  box-shadow: none;
 }
 
 
@@ -364,7 +381,7 @@ a.sidebar-nav-item:focus {
 
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
-  position: absolute;
+  position: fixed;
   top:  .8rem;
   left: 1rem;
   display: block;
@@ -624,7 +641,7 @@ ul.poetry {
 /* Footnotes styles */
 sub,
 sup {
-  font-size: 75%;
+  font-size: 75;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
