@@ -13,7 +13,7 @@ sub-sections: Title page; Campus View, c 1875; Acknowledgements;
 <img src="{{ site.baseurl }}/assets/day-title-page.jpg" alt="title page of the print edition of The Iowa State University Campus and Its Buildings, 1859-1979 title surrounded by blue floral border">
 <img src="{{ site.baseurl }}/assets/day-1875-campus.jpg" alt="black and white photograph of campus buildings Music Hall, Workshop, Chemical and Physical Laboratory, South Hall Main and President's Barn circa 1875">
 
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 
 I am grateful for the cooperation given me by the University Admini­stration in the compilation of this history. Although the gathering of notes and reference material has extended over a twelve-year period, the actual writing of the manuscript has been possible only during the last two years before retirement from the university staff. During those two years I have been able to spend the major part of my time putting the work into its final form. 
 

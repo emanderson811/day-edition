@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Introduction"
+title: "INTRODUCTION"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
@@ -40,7 +40,7 @@ A discussion of the farms and farm buildings is not included in the scope of thi
 
 All of the material developed for use in the preparation of this vol­ume will also be in the archives for anyone wanting to pursue greater detail on any of the subjects covered here. It includes excerpts from the Minutes of the Boards, from the Biennial Reports and from the stu­dent newspapers, with indexes prepared to make quick reference possi­ble.
 
-## Source Material
+## SOURCE MATERIAL
 
 Many publications have been consulted in the preparation of this work. The principal ones are listed in the Bibliography. The major sources, however, have been the Minutes of the Boards governing the institution, and the student newspapers. The annual and biennial reports of the Boards to the governor or legislature have also been very helpful. 
 
