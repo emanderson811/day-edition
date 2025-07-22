@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Bibliography"
+title: "BIBLIOGRAPHY"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives

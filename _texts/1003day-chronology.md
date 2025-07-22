@@ -1,6 +1,6 @@
 ---
 layout: chronology
-title: "Chronological List of Campus Buildings"
+title: "CHRONOLOGICAL LIST OF CAMPUS BUILDINGS"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
