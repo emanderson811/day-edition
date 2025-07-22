@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Campus Buildings"
+title: "CAMPUS BUILDINGS"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
