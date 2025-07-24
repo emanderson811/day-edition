@@ -4,7 +4,7 @@ layout: default
 <a href="#" class="back-to-top"><span class="back-to-top-text">Top</span> <span class="back-to-top-arrow">&#9650;</span></a>
 <a href="#" class="scroll-to-bottom"><span class="scroll-to-bottom-text">Bottom</span> <span class="scroll-to-bottom-arrow">&#9660;</span></a>
 <article class="narrative">
-  <h1 class="text-title">{{ page.title }}</h1>
+  <h1 class="text-title">{{ page.title | upcase }}</h1>
   {% if page.author %}
   <p class="byline">by {{ page.author }}</p>
   {% endif %}
