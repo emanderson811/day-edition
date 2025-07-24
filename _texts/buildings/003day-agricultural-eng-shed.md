@@ -14,3 +14,12 @@ publication-date: 1980
 ---
 
 ---
+
+Built: 1931 Architect: Henry Geise, Professor of Agricultural Engineering Contractor: Thomas Sloss, Supt. Bldgs. & Grounds 
+A capital appropriation request of $5000 for this building was not allowed in 1928 or 1929. In 1930 the Board approved using money from the General Improvements Fund "when funds are available."(2) 
+The following spring the student paper reported on the work under way, referring to its being under construction on April 11 and expected to be completed in May.(3) It was then described: 
+The new addition is to be a storage shed for machinery that is being stored in various places at present. It will be open on the east. The brick work is the same as that of the present building. The construction is of special interest to the depart ment because the bricks are backed up by a type of cement block that was developed in the department. 
+Since it was first built dividing partitions have been installed and doors added for better weather protection. 
+(1)  Minutes, August 9,  1916  
+(2)  Minutes, May 17, 1930  
+(3)  Iowa State Student, April 11 and 23,  1931
