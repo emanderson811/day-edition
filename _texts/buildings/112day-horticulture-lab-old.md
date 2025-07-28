@@ -1,0 +1,56 @@
+---
+layout: building
+title: "Horticulture Lab (Old)"
+alternative_name: 
+built: 
+addition:
+architect: 
+contractor: 
+razed: 
+author:
+rights: Public Domain
+source: Iowa State University Library, University Archives
+publication-date: 1980 
+---
+---
+
+Built: 1901-02 Architect: Hallett & Rawson Contractor: W.J. Zitterell Razed: 1978 
+Plans for this building were prepared in the spring of 1900 and bids were received in July~ Costs exceeded available funds, all bids were rejected and the project was postponed until the following year. 
+New bids were taken in September 1901 and a contract was awarded to 
+W.J. Zitterell in the amount of $4900. Bids for plumbing and heating work were received in March, 1902, but these proved to be too high and the work was done by the Mechanical Department of the college. 
+Construction started in November 1901.(1) An open house to recognize the formal opening of the laboratory was held on February 22, 1902.(2) The ISC Student included a picture of the new building in the issue of April 9, 1902, and said about it: "The laboratory is of pressed brick, two stories and a basement, and is the only building in America used by an agricultural college exclusively for practical instruction in horticulture." 
+The Old Hort Lab was well described by John Brooks in the "Report of Study. Horticulture Facilities" made in March 1976: 
+One objective of this Study is to evaluate "Old Hort" not only from its functional location and economic aspects., but from the architectural standpoint. There is a feeling among some Uni versity personnel that this building should be retained as an example of the architecture of its period. 
+(1) 
+ISC Student, November 16 and 20, 1901 
+
+(2) 
+ISC Student, February 22, 1902 
+
+
+The building is a two story and basement wood framed structure with exterior bearing walls of red brick. Its dimensions are 45' x 35' with a 6' x 22' projection to the south. The location 
+is on a prominent knoll at the northeastern edge of central campus and the levels of the two floors approximately match those of the upper floors of Horticulture Hall. 
+The building is now used for basement storage for the Horticulture Department aod the first floor is a woodworking studio for the Applied Art Department. The second floor houses offices for some graduate students and professors emeriti of the Horticulture De partment. Access to this floor is up a steep difficult stairway or an exterior wood fire escape which violates all codes. 
+"Old Hort" was never a good building, architecturally. It is dif ficult to imagine that it ever could have been considered well de signed, or desirable from any standpoint because access to the upper floor involved negotiating a narrow, dangerous stairway. 
+The exterior is a random assemblage of standard architectural motifs, chosen without discrimination and improperly scaled. In short, the south front could serve as an example of poor design. The treatment of the entrance is not offensive and would be accept able if no other architectural embellishment had been added. But above it is a Palladian window, much too small and redundant, and above that a crude oversized lunette in the tympanum or gable. The brick quoins offer a 1arring note of complexity, and the rough faced stone sills under the windows are inconsistent with the character intended in the building. 
+The entrance steps and platform are presently in bad condition, 
+but assuming that the cracks and settlement had not occurred, 
+the design of this feature detracts substantially from the appear 
+ance worthy of a building of this importance. 
+If no costly reconstruction were required and if the plan were 
+functionally adequate, the exterior design alone would serve as 
+a compelling reason to remove this building from the campus of 
+Iowa State University. 
+Should the propriety of this criticism be questioned, a photo 
+graph of the south front might be submitted to fifty qualified 
+architects and their opinion sought. 
+The exterior brick bearing walls appear to be structurally sound 
+but should be painted and the windows replaced. There is no 
+evidence of settlement or cracking except at the entrance steps 
+and platform. There is evidence of major plaster failure on the 
+interior of the exterior walls and at the wood lath and plaster 
+ceiling of the second story. The roof and perimeter corni.ce gi.ve 
+294 
+evidence of leaking badly. The floors sag badly and require shoring or replacement. In our opinion, if this building is to be used for the expanded Horticulture facilities, a restoration program as opposed to rehabilitation would be required. 
+The decision to raze the building was made subsequently and it was taken down prior to start of construction for the addition to Horti culture Hall in 1978. 
+At the time the building was being razed it was learned that the ex terior walls were not "brick bearing walls" but instead brick veneer on wood framing.
