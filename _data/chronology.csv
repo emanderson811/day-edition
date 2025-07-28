@@ -1,7 +1,225 @@
 building_name,year_started,year_gone,valuation,url
-Farm House,1860,,"$36,234",
-Cattle Barn (Old),"1860,73",1928,"$10,000",/texts/buildings/035day-cattle-barn-first/
-Main,"1864,71","1901,02","$150,000",
-South Hall,"1868,71",1912,"$4,500",
-Music Hall,"1868,99",1978,"$6,000",
-Marston Cottage,1868,1958,"$5,200",
+Farm House,1860,,"36,234"
+Cattle Barn (Old),"1860,73",1928,"10,000"
+Main,"1864,71","1901,02","150,000"
+South Hall,"1868,71",1912,"4,500"
+Music Hall,"1868,99",1978,"6,000"
+Marston Cottage,1868,1958,"5,200"
+Chemical Laboratory,"1870,73",1913,"25,000"
+Horse Barn (First),1870,1900,500
+Workshop,1870,1898,"5,000"
+Mortensen Cottage,"1877,84",1927,"2,250"
+Pope Cottage,1877,,"2,700"
+Eastwood Cottage,1878,ca. 1890,400
+Creamery (First),"1879,82",1927,700
+Fair Oaks Mansion,1879,1899(?),?
+Farm Boarding Club,1879,1970,800
+Gables,1879,1963,"10,000"
+Boarding Cottage - West,1880,1934,"7,500"
+Feeding Barn,1880,1901,600
+North Hall,1880,1926,"10,455"
+Horticulture Barn (First),1880,1899(?),200
+Boarding Cottage - East,1882,1907,"2,500"
+Farm Laborer's Cottage,1882,1904,"2,500"
+Grounds Cottage,1882,1970,"2,500"
+Laboratory of Mechanics,"1882,84",,"28,053"
+Osborn Cottage,1882,,"2,000"
+Sloss House,1882,,"8,500"
+Gymnasium,1883,1886,?
+Veterinary Barn,1883,1899(?),200(?)
+English Office Building,1884,,"6,000"
+Sanitary Building,1884,1927,"5,000"
+Veterinary Hospital,1884,1926,"2,500"
+Bevier House,1888,,"10,500"
+Coburn House,1888,1975,"8,000"
+Morill Hall,1890,,"71,025"
+Teamster's Cottage No. 2,1890,1970,"2,000"
+Creamery (Second),1891,1905,"12,000"
+Power Station,1891,1912,"2,500"
+Botany Hall,"1892,03",,"122,036"
+Hub,1892,,"19,939"
+Experimental Barn,1894,1901,"4,000"
+Margaret Hall,1894,1938,"50,000"
+Green House,"1896,03",1968,"5,000"
+Building A,1897,1973,"4,500"
+Campanile,1897,,"6,600"
+Aerospace Laboratory,1898,1973,"6,596"
+Engineer's Cottage,1898,1970,"3,000"
+Kildee Cottage,1900,1973,"5,050"
+Knoll,1900,,"41,623"
+Landscape Architecture,1900,,"27,800"
+Marston Hall,1900,,"287,275"
+Norton House,1900,,"10,300"
+Theater Workshop,1900,1979,"4,000"
+Beyer House,1901,1948,"9,700"
+Emergency Hall,1901,1906,"11,200"
+Horticulture Lab (Old),1901,1978,"8,000"
+"White House, Georgia",1901,1972,"11,500"
+Experiment Station Barn,1902,1922,"17,100"
+Agronomy Farm Crops Lab.,1903,1972,"12,000"
+Beardshear Hall,1903,,"604,630"
+Lincoln Way Cottage,1903,1973,"8,000"
+Safford Cottage,1903,1958,"5,700"
+Alumni Hall,1904,,*
+East Hall,1904,,"67,000"
+Horticulture Barn,1904,1949,"10,300"
+Beach House,1905,1961,"9,000"
+Training Shed,1905,1912-13,?
+Building B,1906,,"12,922"
+Curtiss Hall,1906,,"340,000"
+Power & Heating Plant,1906,,"1,366,312"
+Machine Shop,1907,,(See Mech. Engr. Lab.)
+Central Station,1908,1933,500
+Engineering Annex,1909,,"88,100"
+Domestic Technology Bldg.,1910,(See MacKay Hall),
+Quadrangle,1910,,"707,464"
+Carpenter Shop,1911,1972,"1,500"
+State Gymnasium,1911,,"195,040"
+Herdsman's Cottage,1912,1966,"2,000"
+Engineering Research Institute,1913,,"87,525"
+Gilman Hall,"1913,63",,"2,642,662"
+Serum Plant,1913,1926,"11,821"
+South Studio,1913,1925,"2,000"
+Steam & Gas Laboratory,1913,(See Mech. Engr. Lab.),
+Agric. Engineering Garage,1914,1925 (or 6),"1,000"
+Horticulture Hall & Greenhouse,1914,,"661,848"
+Lyon Hall,1914,,"178,869"
+Stadium (Clyde Williams Field),"1914 (25,30,32,61,66)",1978,"1,100,183"
+Freeman Hall,1915,,"299,676"
+Science Hall,"1915,53",,"1,537,124"
+Barton Hall,1916,,"261,048"
+Gun Shed,1916,1924,500
+Horticulture Cottage,1916,1959,"4,000"
+Meat Laboratory,1916,,"53,485"
+Student Services Building,"1916,23",,"901,921"
+Duplex,1917,1970,"5,900"
+Rendering Plant,1917,1936,"2,500"
+Exhibit Hall,1918,,"59,035"
+North Studio,1918,"1935,57","2,000"
+Soil Testing Lab,"1919,56",,"55,507"
+Armory,"1920,23",,"532,480"
+"Field House, P.E.W.",1920,1953,"11,250"
+Oak-Elm Lodges,1920,"1937,38","153,400"
+Davidson Hall,"1921,42",,"135,489"
+Four Apartment House,1921,1967,"10,800"
+Hog Barn & Pavilion,1921,"1969,76","23,620"
+Physics Hall,"1921,50,60",,"2,344,687"
+Birch Hall,1922,,"716,300"
+Sheep Barn,1922,1969,"24,500"
+Ag. Engr. Shop & Shed,1923,1962,"3,344"
+Horse Barn *2,1923,(See Horse Barn and Machine Shed),
+Library,"1923,60,67",,"3,855,238"
+Cattle Barn,"1924,31",,"38,969"
+Electric & Paint Shop,1924,1972,"18,000"
+Grounds Shop,1924,1972,"11,746"
+Horse Barn at Service Area,1924,1972,"9,500"
+Judging Pavilion,1924,,"20,000"
+MacKay Hall (Includes Domest. Tech),1925,,"586,037"
+Veterinary Obstetrics Lab,1925,,"110,934"
+Veterinary Surgery,1925,,
+Veterinary Physiology Res. Lab.,1925,1979,
+Horse Barn & Machine Shed (Includes Horse Barn #2),1926,,"40,100"
+Industrial Education II,"126,36",,"215,709"
+Sweeney Hall (Chem. Engr.) (See 1962),"1927,31",,"1,262,743"
+Dairy Industry,1927,,"599,303"
+Hughes Hall (See Friley Hall),1927,(with Friley),
+Insectary & Greenhouse,"1927,67",,"252,654"
+Memorial Union,"1927,78",,*
+Welch Hall,1928,,"692,850"
+Feed Storage Elevator,1929,1969,"9,889"
+Genetics & Plant Path Greenhouse,1929,1969,"13,500"
+Ruminant Nutrition Lab,1929,,"62,661"
+Ag. Engir. Machine Shed,1931,,"7,200"
+Driver Training Storage,1931,,"2,359"
+Military Garage,1931,,189
+Genetics Laboratory,"1931,48,52",,"166,284"
+Central Stores,"1933,36",(See Phys. Plant Shops),
+Genetics Poultry Lab,1933,,"1,715"
+Nuclear Engineering Lab,1934,,"127,120"
+Roberts Hall,1935,,"487,687"
+Mech. Eng. Lab (Connecting Link),1936,,"127,854"
+Elm Hall,1937,,
+Oak Hall,1938,,"1,329,501"
+Snedecor Hall,"1938,60",,"421,009"
+Friley Hall,"1939,41,49,53",,"3,968,162"
+Agronomy Greenhouse,"1940,50",,"44,035"
+ISU Press Bldg.,"1940,47,51,55,64",,*
+Library Storage Bldg.,1940,,"11,472"
+Physical Educ. (Women's Gym),"1940,70",,"2,822,149"
+Naval Armory,1942,,"68,499"
+Plumbing Shop,1943,1972,"25,000"
+Cottages,1946,1960,?
+Pammel Court,1946,,"199,352"
+Driver Training Lab,1947,,"12,712"
+Metallurgy Bldg. (Ames Lab),1947,,*
+Office & Laboratory (Link),1947,,"593,990"
+"Temporary Buildings ""C"" thru ""S""",1947,Various dates (see text),
+Coover Hall,1948,,"1,223,538"
+Genetics Chick Isolation,1948,,"27,227"
+Plant Introduction Greenhouse,"1948,53,62",,"58,897"
+Synchrotron Building,1948,,"207,272"
+Spedding Hall (Ames Lab),1949,,*
+Agronomy Hall,1950,,"863,483"
+Child Development Bldg.,1951,,"255,421"
+Nickell-Fisher House,1951,,"118,017"
+Quadrangle-North,1954,,"552,046"
+Westgate Hall,1954,,"356,628"
+Andrews-Richards House,1955,,"134,760"
+Linden Hall,1955,,"178,869"
+Hawthorn Court,"1956,58",,"1,343,139"
+Helser Hall,"1956,62",,"1,823,033"
+Purchasing Warehouse,1956,,"16,712"
+Metals Development Bldg. (Ames Lab),"1959,66",,*
+Agronomy Laboratory,1960,,"58,179"
+Biomedical Eng. Lab. (Part of Quadrangle),1960,(with Quadrangle),
+Food Technology,1960,,"467,230"
+Pearson Hall,1960,,"1,442,714"
+Genetics Storage Building,1961,,"2,500"
+Research Reactor,1961,,*
+Communications Building,"1962,79",,"1,009,648"
+Industrial Education,1962,,"176,094"
+Sweeney Hall (includes Chem. E. - 1927),1962,,"1,262,743"
+Beyer Hall,1963,,"1,834,575"
+Buchanan Hall,1963,,"1,373,844"
+Kildee Hall & Lush Auditorium,1963,,"2,102,130"
+Mechanical Maint. (Ames Lab),1963,,*
+Knapp-Storms & Commons,1964,,"4,163,405"
+Physics Hall Addition,1964,,"2,344,687"
+University Village,"1964,67",,"6,165,699"
+Bessey Hall,1965,,"3,502,127"
+Maple-Willow-Larch Halls,"1965,67,68",,"7,908,325"
+Warehouse (Ames Lab),1965,,*
+Warehouse & Shop (Ames Lab),1965,,*
+Maintenance Shop (Ames Lab),1966,,*
+Botany Greenhouse,1966,,"370,852"
+Forestry Greenhouse,1966,,*
+Firemanship Training,1966,,"165,287"
+Paint & Graphite Shop (Ames Lab),1966,,*
+Parking Ramp (Memorial Union),1966,,*
+C.Y. Stephens Auditorium,1966,,"4,353,586"
+Wallace-Wilson & Commons,"1966,67",,"5,104,511"
+Carver Hall,1967,,"2,671,554"
+Computer Science,1967,,"936,752"
+Construction Storage Shed (Ames Lab),1967,,*
+Printing Building,1967,,"291,452"
+Hilton Coliseum,1968,,"8,176,888"
+Horticulture Gardens Bldg.,1968,,"20,000"
+Car Pool Office Bldg.,1969,,"88,474"
+East Hall Addition,1969,,"1,849,731"
+Science Hall Addition #2,1969,,"4,185,214"
+Town Engineering Bldg.,1969,,"3,252,684"
+Ross Hall,1970,,"2,749,258"
+Physical Plant Shops & Central Stores,1971,,"2,224,277"
+Fisher Theater,1972,,"907,912"
+Golf Club House,1972,,"39,931"
+Veterinary Medicine Facilities,1972,,"20,459,674"
+Olsen Building,1973,,*
+Stadium (South Campus),1973,,*
+Physical Plant Storage Shed,1973,,"80,225"
+Scheman Continuing Education Bldg.,1973,,"4,811,831"
+Schilletter Village,1973,,"5,417,248"
+College of Design,1975,,"7,058,251"
+Meats Laboratory,1975,,"3,379,140"
+Seed Science Building,1976,,"1,786,133"
+Music Building,1978,,Incomplete
+Horticulture Hall Addition,1978,,Incomplete
