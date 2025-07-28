@@ -12,24 +12,29 @@ publication-date: 1980
 * ToC
 {:toc}
 
--A ---  
-Abattoir  342  
-(See Meat Laboratory)  
-Aeronautical Engineering  
-Laboratory (See  Aero  154  
+|A||
+|:------|---:|  
+|Abattoir (See Meat Laboratory)| 342|
+|Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)| 154; 236|
+|Aeronautical Laboratory (See Exhibit Hall)| 236|
+|Aerospace Laboratory| 154| 
+|Agricultural Annex (See East Hall)| 224|
+|Agricultural By-Products Lab (See Nuclear Engineering Bldg.)| 366|
+|Agricultural Engineering Addition (See Industrial Education)| 296|
+|Agricultural Engineering Garage| 154| 
+|Agricultural Engineering Hall (See Botany Hall)| 184| 
+|Agricultural Engineering Laboratory(See Davidson Hall)| 219|
+|Agricultural Engineering Machine Shed| 155|
+|Agricultural Engineering Shop & Shed| 156| 
+|Agricultural Hall (See Botany Hall); (See Curtiss Hall)| 184; 215|
+|Agronomy Farm Crops Laboratory| 156|
+|Agronomy Greenhouse| 157|
+|Agronomy Hall| 158|
+|Agronomy Laboratory| 158|
+|Allis House (See Norton House)| 365|
+|Alumni Hall| 159|
 
-space Laboratory; Exhibit Hall) 236 Aeronautical Laboratory 236 
-(See Exhibit Hall) Aerospace Laboratory 154 Agricultural Annex 224 
-(See East Hall) 
-Agricultural By-Products Lab(See Nuclear Engin-366 eering Bldg.) 
-Agricultural Engineering Addition (See Industrial 296 Education) 
-Agricultural Engineering Garage 154 Agricultural Engineering Hall(See Botany Hall) 184 
-Agricultural Engineering Laboratory(See Davidson 219 Hall) 
-Agricultural Engineering Machine Shed 155 Agricultural Engineering Shop & Shed 156 
-Agricultural Hall (See Botany Hall) 184 (See Curtiss Hall) 215 
-Agronomy Farm Crops Labora 
-tory 156 Agronomy Greenhouse 157 Agronomy Hall 158 Agronomy Laboratory 158 Allis House (See Norton 365 
-House) Alumni Hall 159 Ames & College Railway 48 Ames Laboratory 93,163 Andrews-Richards House 165 Animal Husbandry Lab 342 
+Ames & College Railway 48 Ames Laboratory 93,163 Andrews-Richards House 165 Animal Husbandry Lab 342 
 (See Meat Laboratory) Animal Husbandry Research Lab 463 Animal Isolation Building & Addition 103 
 Animal Science Building  302  
 (See Kildee Hall)  
@@ -52,6 +57,8 @@ Auditorium (See Stephens  434
 Auditorium)  
 Automobile Laboratory  236  
 (See Exhibit Hall)  
+
+
 -B - 
 Barn -Geddes  463  
 Barn -Grounds Department  464  
