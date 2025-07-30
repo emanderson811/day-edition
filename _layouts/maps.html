@@ -1,0 +1,38 @@
+---
+layout: narrative
+gallery: true
+---
+
+<div class="card mb-4 text-center">
+
+   <a class="spotlight gallery-img" data-download="true" title="map" href="{{ page.map_url | relative_url }}">
+    <img src="{{ page.map_url | relative_url }}" alt="map" class="img-fluid">
+    <div><small class="text-dark">Click to view full screen</small></div>
+    </a>
+
+</div>
+
+<div class="mb-4 text-center">
+    <table>
+        <thead>
+            <tr>
+            <th>No. on Map</th>
+            <th>Building Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in site.data.maps %}
+            <tr>
+                <td>{{ row.number }}</td>
+                <td>
+                {% if row.url %}
+                    <a href="{{ row.url | relative_url }}">{{ row.building_name }}</a>
+                {% else %}
+                    {{ row.building_name }}
+                {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
