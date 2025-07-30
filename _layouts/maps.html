@@ -22,17 +22,25 @@ gallery: true
         </thead>
         <tbody>
             {% for row in site.data.maps %}
-            <tr>
-                <td>{{ row.number }}</td>
-                <td>
-                {% if row.url %}
-                    <a href="{{ row.url | relative_url }}">{{ row.building_name }}</a>
-                {% else %}
-                    {{ row.building_name }}
+                {% if row.year == page.year %}
+                <tr>
+                    <td>{{ row.number }}</td>
+                    <td>
+                        {% if row.url %}
+                            <a href="{{ row.url | relative_url }}">{{ row.building_name }}</a>
+                        {% else %}
+                            {{ row.building_name }}
+                        {% endif %}
+                    </td>
+                </tr>
                 {% endif %}
-                </td>
-            </tr>
             {% endfor %}
         </tbody>
     </table>
 </div>
+<div class="post-nav" style="display: flex; justify-content: space-between; margin-top: 2em;">
+  <div class="post-nav-prev">
+      <a href="/day-edition/texts/1005day-campus-maps/">
+        <span aria-hidden="true">&laquo;</span> Campus Maps
+      </a>
+  </div>
