@@ -14,7 +14,7 @@ gallery: true
 
 <div class="mb-4 text-center">
     <table>
-        <thead>
+        <thead style="text-align:left">
             <tr>
             <th>No. on Map</th>
             <th>Building Name</th>
@@ -24,8 +24,8 @@ gallery: true
             {% for row in site.data.maps %}
                 {% if row.year == page.year %}
                 <tr>
-                    <td>{{ row.number }}</td>
-                    <td>
+                    <td style="text-align:left">{{ row.number }}</td>
+                    <td style="text-align:left">
                         {% if row.url %}
                             <a href="{{ row.url | relative_url }}">{{ row.building_name }}</a>
                         {% else %}
