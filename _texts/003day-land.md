@@ -14,12 +14,11 @@ publication-date: 1980
 
 ## LAND
 
-The original college and farm grounds consisted of a tract of 648 acres purchased from five different owners. That property included the area bounded on the south by Lincoln Way, on the north by a line from Thirteenth Street to Ontario Street, on the east by Riverside Drive (extended north to Thirteenth) and on the west by Sheldon Ave­nue north to the north boundary, ptus a ten acre tract between the Sheldon exten~ion and Hyland Avenue from a line about at the north side of the cemetery to Ontario Street. (All names here used are cur­rent street names.)
+The original college and farm grounds consisted of a tract of 648 acres purchased from five different owners. That property included the area bounded on the south by Lincoln Way, on the north by a line from Thirteenth Street to Ontario Street, on the east by Riverside Drive (extended north to Thirteenth) and on the west by Sheldon Ave­nue north to the north boundary, plus a ten acre tract between the Sheldon extension and Hyland Avenue from a line about at the north side of the cemetery to Ontario Street. (All names here used are cur­rent street names.)
 
 That area, plus an additional eight acres (between Sheldon and Hyland south from the cemetery to the diagonal street joining those two streets) acquired in 1936, form what is today thought of as "central campus."
 
-Nearby property, exclusive of outlying farms, has been acquired over the years to bring the total to 1727 acres. 
-The University Annual Financial Reports list all the acquisitions, with dates and areas, ·so those figures will not be repeated here. Farm holdings amount to 6574 acres at a number of locations around the 
+Nearby property, exclusive of outlying farms, has been acquired over the years to bring the total to 1727 acres. The University Annual Financial Reports list all the acquisitions, with dates and areas, so those figures will not be repeated here. Farm holdings amount to 6574 acres at a number of locations around the 
 state.
 
 --- 
@@ -45,7 +44,7 @@ Elaborate plans for the Arboretum were prepared at various dates over the next d
 >
 >The arboretum will serve as an outdoor laboratory for several college departments, containing testing grounds and model arrange­ments of plant materials in planting composition and design. A series of soil tests for acidity have been made thruout the area, and the planting is being arranged as it is best suited to the condition of the soil, as well as to the topography of the land.
 >
->Altho the prime function of the arboretum will be for research and survey, the park should be one of the most beautiful areas around the campus, Rothacker says. The grading and design for a formai garden have been completed, and the garden will be one of the important features of the arboretum. 
+>Altho the prime function of the arboretum will be for research and survey, the park should be one of the most beautiful areas around the campus, Rothacker says. The grading and design for a formal garden have been completed, and the garden will be one of the important features of the arboretum. 
 >
 >Hundreds of woody plants have been collected from all over the world and will be placed in the garden. Many of the plants have been secured from the Arnold Arboretum, in Boston, one of the largest arboretums in the world. 
 >
@@ -55,7 +54,7 @@ The development of those early plans was slow. Some help came in 1934 with feder
 >
 >Destined in coming years to become one of the most important plots in the Midwest for the introduction of new plants, shrubs, and trees, the Arboretum will be constructed on land owned by the college along the creek south of the Collegiate Methodist Church, extending about one-half mile upstream. It will cover about 35 acres and will vary in width from 250 to 300 yards. 
 >
->A show garden will mark the east entrance to the wooded park, and paths will wind throughout the whole area. Different species of trees and shrubs will be grouped together for the convenience of classes in. botany and forestry. An effort will be made to put into the Arboretum every plant and tree native to Iowa, with special pools constructed for water plants. 
+>A show garden will mark the east entrance to the wooded park, and paths will wind throughout the whole area. Different species of trees and shrubs will be grouped together for the convenience of classes in botany and forestry. An effort will be made to put into the Arboretum every plant and tree native to Iowa, with special pools constructed for water plants. 
 >
 >An herbaceous garden, used in growing various kinds of grasses, grains, herbs and other small plants, will be located east of the cemetery at the spot now used as a forestry nursery. About 45 acres of heavily wooded land just north of the campus will be used as a game preserve. 
 >
@@ -71,7 +70,7 @@ By 1938 the paper could report on some accomplishment and on contin­uing dreams
 >
 >Visualize 70 acres of land, a stream running through it, 2,450 species and varieties of shrubs and trees that may be found in Iowa and surrounding states and you have an idea of the Iowa State College arboretum that will be well established by 1942. 
 >
->Iowa State's arboretum --which is a short name for botanical tree garden --begins at the junction of Chamberlain and Hayward streets and extends for nearly a mile, past State street and ends near the Agronomy Farm. 
+>Iowa State's arboretum -- which is a short name for botanical tree garden -- begins at the junction of Chamberlain and Hayward streets and extends for nearly a mile, past State street and ends near the Agronomy Farm. 
 >
 >Aided by the local CCC camp and NYA help from the college the work is carried on as funds are appropriated, according to R.R. Rothacker, professor of landscape architecture and chairman of the committee in direct charge of the project. 
 >
@@ -81,8 +80,7 @@ A modification in the use of a portion of the area is reported in the Iowa State
 >
 >Iowa State herbaceous gardens, covering 5 acres near State and Leek streets, is one of the show places at the college rapidly becoming better known, according to its curator, Dr. J. N. Martin. 
 >
->This plot of ground, formerly used by the college Horticulture and Forestry Departments as a nursery, has for the last 3 years 
-been under the supervision of a joint committee on institutional gardens and parks, of which George Godfrey, director of Agricul­tural Relations, is chairman. 
+>This plot of ground, formerly used by the college Horticulture and Forestry Departments as a nursery, has for the last 3 years been under the supervision of a joint committee on institutional gardens and parks, of which George Godfrey, director of Agricul­tural Relations, is chairman. 
 >
 >Varieties of herbs and grasses and oats, wheat, rye and corn from all corners of the world, are planted and tested for climatic and soil reactions. Decorative grasses as well as those used for pasture and hay are sown in the plots. Bent grass for golfing greens, blue grass for fairways and soil binders grow under usual Iowa weather conditions. 
 >
@@ -119,7 +117,7 @@ Two years later the paper reported on the deplorable conditions of the Arboretum
 >
 >The arboretum is located southwest of the main campus along the valley of College Creek. The bulk of it is sandwiched between Sheldon Avenue on the east and State Avenue on the west. 
 >
->It contains some 74 acres of bottomland, side hills, and crests of varied soil types and plant materials. It extends along the creek on both sid~s for about one mile. 
+>It contains some 74 acres of bottomland, side hills, and crests of varied soil types and plant materials. It extends along the creek on both sides for about one mile. 
 >
 >Horticulture director E. L. Denisen said the department has taken over the maintenance and upkeep of the Maney Memorial, an area in the arboretum composed of benches and juniper trees dedicated to the late horticulture director, Dr. Maney. Denisen expressed concern about its future. 
 >
@@ -135,7 +133,7 @@ Two years later the paper reported on the deplorable conditions of the Arboretum
 >
 >As originally planned in 1953 there was to have been some 2,450 individual species and varieties of plants, all labeled. The arboretum was to have been used as teaching laboratories by indi­viduals of at least seven university departments: botany, agron­omy, horticulture, forestry, landscape architecture, zoology, and entomology. 
 >
->A committee representing the seven departments in the spring of 1961 and again. in April of 1962 stated that there are only a few natural areas still existing within walking distance of central campus on University owned property. The problem is to preserve these few areas without interfering with the future development of the University and city. 
+>A committee representing the seven departments in the spring of 1961 and again in April of 1962 stated that there are only a few natural areas still existing within walking distance of central campus on University owned property. The problem is to preserve these few areas without interfering with the future development of the University and city. 
 >
 >Prof. R. E. Buchanan, who was the director of the experiment station when the arboretum was begun, said 12 acres located be­tween Wilmoth and State Streets have been sold to the city for a proposed west side junior high school, and the remaining por­tion is not being maintained as an arboretum. Buchanan blamed the administration for its lack of interest. 
 >
@@ -147,8 +145,7 @@ By 1979 maintenance had improved but the early dreams of the nineteen­thirties 
 
 ## CEMETERY
 
-Concern for the final resting place for college faculty was expressed by the Board of Trustees at its meeting of August 16-19, 1876. It was then "Ordered, That five acres of land be surveyed under direction of President Welch; that the same be set aside for the purposes of a Col­
-lege Cemetery and be transferred from the department of Horticulture and Forestry to the department of Ornamental Grounds." 
+Concern for the final resting place for college faculty was expressed by the Board of Trustees at its meeting of August 16-19, 1876. It was then "Ordered, That five acres of land be surveyed under direction of President Welch; that the same be set aside for the purposes of a Col­lege Cemetery and be transferred from the department of Horticulture and Forestry to the department of Ornamental Grounds." 
 
 It seems reasonable to assume that the selection of the site was then made by President Welch. In 1883 an appropriation of $75.00 was made for fencing the cemetery. No road served the cemetery until 1888 or 1889. The Biennial Report for those years states that provision was made for the construction of a road sixteen and one-half feet wide running from the cemetery gate east until intersecting the road run­ning north from the College. The new road was the first section of what has now become Pammel Drive. At that time the road north from the College was on the west side of Old Main and ran just west of what is today the center line of Gilman and Spedding Halls. 
 
@@ -182,9 +179,9 @@ Current regulations preclude assignment of lots to anyone with less than fifteen
 
 ## LAKE LA VERNE
 
-The first reference to a la~e on campus appeared in the November 19, 1914, edition of the Iowa State Student:
+The first reference to a lake on campus appeared in the November 19, 1914, edition of the Iowa State Student:
 > 
->O. C. Simonds, the well known landscape gardener of Chicago, whose services have been donated to the college by Laverne W. Noyes, graduate of the class of 1 72, spent the first 3 days of this week.studying the needs of the campus. 
+>O. C. Simonds, the well known landscape gardener of Chicago, whose services have been donated to the college by Laverne W. Noyes, graduate of the class of '72, spent the first 3 days of this week studying the needs of the campus. 
 >
 >He gave most of his time to the south part of the campus, which he thinks could be maintained and developed as a park, as has been the policy up to this time. Mr. Simonds thinks it might be possible to make a dam in College Creek a short distance above the new culvert under the interurban line. If his suggestion is carried out there would be a lake about 500 feet long and 100 to 150 feet wide. This would extend nearly to the new concrete bridge at the Welch street entrance and cover most of the low ground which is now in grass.
 
@@ -210,11 +207,11 @@ Construction of the new lake began in September and was substantially completed,
 
 The name "Lake LaVerne" was suggested at a Story County Alumni meeting on May 10, 1916, and was formally approved by the Board the following month. 
 
-The improvements of the lake did not last long. Spring rains, and sometimes floods, brought in large amounts of silt. Various methods were attempted --digging, dredging and hosing --to reduce the amount of sediment, but none was successful. Some years there was enough water to permit skating when the lake froze in the winter. But much of the time there was only a disreputable creek bed often referred to by the students as "Lake LaMud." 
+The improvements of the lake did not last long. Spring rains, and sometimes floods, brought in large amounts of silt. Various methods were attempted -- digging, dredging and hosing -- to reduce the amount of sediment, but none was successful. Some years there was enough water to permit skating when the lake froze in the winter. But much of the time there was only a disreputable creek bed often referred to by the students as "Lake LaMud." 
 
 Engineering plans for modifications to improve the appearance were started in 1928 by Dean Marston, but funds to implement them were not forthcoming until 1933 when a Civilian Conservation Corps project pro­vided manpower to begin construction of a channel to by-pass the lake when silt-laden runoff from the creek occurred. This was a concrete conduit installed on the south side of the lake. That work was com­pleted and the lake filled the following spring. Stone rip-rap was placed on the banks in 1937 and 1938 along with up-stream silting beds. 
 
-The by-pass conduit did not eliminate all silting and by 1959 it be­came necessary to dredge the lake to remove the accumulation of sedi­ment. This was done in the spring of that year by two alumni, R.R. Manatt 1 21 and J. D. Armstrong '37, without charge to the college. Modifications were made in the by-pass system in 1963. 
+The by-pass conduit did not eliminate all silting and by 1959 it be­came necessary to dredge the lake to remove the accumulation of sedi­ment. This was done in the spring of that year by two alumni, R.R. Manatt '21 and J. D. Armstrong '37, without charge to the college. Modifications were made in the by-pass system in 1963. 
 
 Since then the lake has been well maintained and is a campus attrac­tion, especially when the swans, Lancelot and Elaine, sometimes with four or five small cygnets accompanying them, grace the surface of the lake.
 
@@ -222,7 +219,7 @@ Since then the lake has been well maintained and is a campus attrac­tion, espec
 
 ## LANDSCAPING (INCLUDING ORCHARDS AND GARDENS)
 
-(Also see Campus Planning, Pammel Woods and Arboretum)
+<p style="text-align: center;">(Also see Campus Planning, Pammel Woods and Arboretum)</p>
 
 On July 4, 1859, the early settlers of Story and Boone counties held a picnic to celebrate the purchase of the land that was to become the Iowa Agricultural College and Model Farm. The gathering was in the area just east of what is now the cemetery at the edge of the woods along Clear Creek. Between there and Squaw Creek where some trees were seen there was only rolling prairie without shade of any kind. The beauty of today's campus could not have been envisioned at that time. 
 
@@ -232,17 +229,17 @@ The First Annual Report of the Secretary, for the years 1858 and 1859, stated "W
 
 Peter Melendy, Superintendent in 1865, wrote: 
 
->There have been several hundred ornamental and shade trees, and shrubbery, set out. I deemed it essential to make an ample lawn, with here and there a tree, with shrubs for fragrance, and evergreens to relieve the golden of the summer day; with bordered walks and quiet nooks, the embowering shade of trees, with beauti­ful trailing vines, and shrubs, and flowers ....By the judicious employment of trees we may effect almost any amount of alteration and improvement within the scope of landscape scenery. 
+>There have been several hundred ornamental and shade trees, and shrubbery, set out. I deemed it essential to make an ample lawn, with here and there a tree, with shrubs for fragrance, and evergreens to relieve the golden of the summer day; with bordered walks and quiet nooks, the embowering shade of trees, with beauti­ful trailing vines, and shrubs, and flowers...By the judicious employment of trees we may effect almost any amount of alteration and improvement within the scope of landscape scenery. 
 >
->There has been a large lot of small evergreens experimented with the past year, which have not done well. We have now about 160 Cedars that are growing nicely, 600 Balsam Fir, Norway Spruce, White Cedar and Hemlock that are doing well, and will, if cai;:-e is taken with them, make good symmetrical trees. 
+>There has been a large lot of small evergreens experimented with the past year, which have not done well. We have now about 160 Cedars that are growing nicely, 600 Balsam Fir, Norway Spruce, White Cedar and Hemlock that are doing well, and will, if care is taken with them, make good symmetrical trees. 
 >
 >There has been about one mile of willow cuttings set out on the north side of the rail road, and along the west side of the farm. The season was favorable for starting the cuttings, and if they have a fair chance this coming season, will make a fine belt for a wind breaker. We would recommend the planting, on the north line of the farm the entire length, this fine willow for a screen background and protection from north and west winds. The cuttings planted this year were obtained by Mr. Foster, from Overman & Edwards, of Illinois, as a gift to the farm. The cost was but for the transportation. 
 >
 >The following is a list of grapes that have been set out the past year: 6 Delawares, 2 Isabellas, 4 Hartford Prolifics, 4 Logan, 4 Diana, 6 Rebecca, 2 Iowa. We have mislaid the list of fruit trees. 
 >
->The amount of tame grass sown on the farm is not large, and I would recommend the seeding of all the meadows and pastures in tame grass as soon as it can be done. Whole amount of land sown, 43\ acres. On old ground --Timothy, 12 acres; Timothy and Clo­ver, 4 acres; Clover and Blue Grass, 2\ acres; sown on prairie soil and harrowed in, and is doing well, 25 acres. 
+>The amount of tame grass sown on the farm is not large, and I would recommend the seeding of all the meadows and pastures in tame grass as soon as it can be done. Whole amount of land sown, 43 1/2 acres. On old ground -- Timothy, 12 acres; Timothy and Clo­ver, 4 acres; Clover and Blue Grass, 2 1/2 acres; sown on prairie soil and harrowed in, and is doing well, 25 acres. 
 >
->I would recommend the platting and dividing the farm into fields and lanes according to the Superintendent's plat. I think the land on the south side of the orchard fence should be used as lawns for our fine stock, to be kept at the proper seasons, and that we group native and foreign trees promiscuously through the ground, taking for the center of the group, the oak and the chestnut, which are among the largest and the noblest of our trees; the spruce, hemlock, ash and beach, locust and hickory, the cottonwood, sycamore, walnut, soft maple --the arrangement of these should be the subject of careful study. Groups should be always composed of one principal tree, larger and taller than the rest, with others grouped around as subordinates. Plant trees most certainly, and wherever they would be a beauty or a refreshment, let their roots begin to pierce the mould above which their branches may year after year wave with a fascinating grace and a variety --like which there is nothing else in na­ture. [^fn4]
+>I would recommend the platting and dividing the farm into fields and lanes according to the Superintendent's plat. I think the land on the south side of the orchard fence should be used as lawns for our fine stock, to be kept at the proper seasons, and that we group native and foreign trees promiscuously through the ground, taking for the center of the group, the oak and the chestnut, which are among the largest and the noblest of our trees; the spruce, hemlock, ash and beach, locust and hickory, the cottonwood, sycamore, walnut, soft maple -- the arrangement of these should be the subject of careful study. Groups should be always composed of one principal tree, larger and taller than the rest, with others grouped around as subordinates. Plant trees most certainly, and wherever they would be a beauty or a refreshment, let their roots begin to pierce the mould above which their branches may year after year wave with a fascinating grace and a variety -- like which there is nothing else in na­ture. [^fn4]
 
 [^fn4]: Sixth Annual Report ... for 1865.
 
@@ -253,19 +250,19 @@ At the May 1868 meeting of the Board it was resolved "That the Build­ing Commit
 
 In his report at the January 1870 meeting of the Board Thompson said 
 
->A young orchard of 300 apple trees were planted on a piece of land selected "by Dr. Townsend near the west end of the farm. It is sheltered by the natural timber on the west and north & is I think the most suitable site or location for a successful orchard on the farm.... 
+>A young orchard of 300 apple trees were planted on a piece of land selected "by Dr. Townsend near the west end of the farm. It is sheltered by the natural timber on the west and north & is I think the most suitable site or location for a successful orchard on the farm... 
 >
 >Of the evergreens that had been under cultivation on the farm, a considerable number were very successfully transplanted under the direction of the President by students into ornamental groups on different parts of the College grounds and already make a very marked improvement in the appearance of the landscape. 
 
-It was also reported at the same meeting that the terrace in front of the College building had "its three sides neatly turfed, its surface covered with gravel and ffn.ished with a border suitable for the plant­ing of shrubbery next spring." 
+It was also reported at the same meeting that the terrace in front of the College building had "its three sides neatly turfed, its surface covered with gravel and finished with a border suitable for the plant­ing of shrubbery next spring." 
 
 The following order was adopted by the Board in July 1874: 
 
->That the Professor of Horticulture with the advice of the Presi­dent, prepare ground N.W. of the College buildings for an arbore­tum and make stich arrangements for contributors, as they may deem advisable. 
+>That the Professor of Horticulture with the advice of the Presi­dent, prepare ground N.W. of the College buildings for an arbore­tum and make such arrangements for contributors, as they may deem advisable. 
 
 In June 1875 the Board ordered 
 
->That the timber in the northwest corner of the Farm lying south of the rail road be held as ornamental grounds and the same is hereby placed in charge of the Horticultural Department; And ft is further ordered, That the Professor of Horticulture shall at the proper season prepare a strip of ground fifty feet wide along the entire length of the north side of the farm lying south of the railroad and plant the same in timber in the spring of 1876. 
+>That the timber in the northwest corner of the Farm lying south of the rail road be held as ornamental grounds and the same is hereby placed in charge of the Horticultural Department; And it is further ordered, That the Professor of Horticulture shall at the proper season prepare a strip of ground fifty feet wide along the entire length of the north side of the farm lying south of the railroad and plant the same in timber in the spring of 1876. 
 
 The Aurora in the August 1875 issue observed "The college has received a one-horse lawn mower. We have examined the machine to our satisfac­tion and find that where the grass is of proper length it does splen­did work." 
 
@@ -273,7 +270,7 @@ J. L. Budd summarized the then existing condition of the orchards and gardens in
 
 >The original fruit trees, small fruits, etc., planted in this garden for use of farm household, being either entirely dead or in a dilapidated, sod-bound condition, the work was attempted last spring of replanting, and replacing it in respectable shape. 
 >
->Nearly one hundred cherry, plum, and apple trees were planted, and all have made fair growth. The grape vines, raspberries, currants, etc., planted, have also under good care, made a splen­did growth, and bid fair, if continued attention be given, to furnish an abundant supply of fruit in a very short time to this department. The vegetable garden belonging to the farm house, has been managed in connection with the care of the fruit planta­tion, and has entirely supplied the wants of the large family. A supply of potatoes for nearly the whole year is also riow in cellar from this garden. 
+>Nearly one hundred cherry, plum, and apple trees were planted, and all have made fair growth. The grape vines, raspberries, currants, etc., planted, have also under good care, made a splen­did growth, and bid fair, if continued attention be given, to furnish an abundant supply of fruit in a very short time to this department. The vegetable garden belonging to the farm house, has been managed in connection with the care of the fruit planta­tion, and has entirely supplied the wants of the large family. A supply of potatoes for nearly the whole year is also now in cellar from this garden. 
 >
 >The first orchard set out on the College farm occupied a plat near the farm house. This plat has necessarily since become a part of the ornamental grounds. The few trees that could be left, are now fine symmetrical specimens, even bearing a fair crop during the past unfavorable season. 
 >
@@ -287,23 +284,23 @@ In March 1878 The Aurora gave this account of a new development:
 
 A re-platting of the grounds was made in 1887 and specific areas were allocated for "the farm on the one hand and the horticultural and ornamentals on 'Public Grounds' and steward's garden on the other." The map showing the divisions referred to is still in existence. An accompanying tabulation is of interest: 
 
->|----------------------------------------------------------------------------|-----------|
->| Land occupied by horticulture, ornamental grounds, etc.                    | 130 acres |
->| Land occupied by sloughs, creeks, forests, creek bed, bayous, roads, etc.  | 300 acres |
->| Total land not subject to use for farming purposes (about)  | 430 acres |
->| Total good land arable and pasture used in actual farming (about)  | 465 acres |
->| Total College domain  | 895 acres |
+|||
+| Land occupied by horticulture, ornamental grounds, etc.                    | 130 acres |
+| Land occupied by sloughs, creeks, forests, creek bed, bayous, roads, etc.  | 300 acres |
+| Total land not subject to use for farming purposes (about)  | 430 acres |
+| Total good land arable and pasture used in actual farming (about)  | 465 acres |
+| Total College domain  | 895 acres |
 
 
 The original Russian Orchard was completely removed in 1888 by which time all but a few trees had died out. In June of that year The 
 Aurora noted that 
 
->The committee on public grounds ....have made some changes in old groups, taking out trees where they are too plentiful or out of order, and making new plantings where needed. The cottages have long been neglected, but we are well supplied with groups of trees now. The coming generation will find the college of the 
-I.A.C. a beautiful place.... We notice a small group of oaks between the main building and farm house, the first of the kind on the grounds. 
+>The committee on public grounds...have made some changes in old groups, taking out trees where they are too plentiful or out of order, and making new plantings where needed. The cottages have long been neglected, but we are well supplied with groups of trees now. The coming generation will find the college of the 
+I.A.C. a beautiful place...We notice a small group of oaks between the main building and farm house, the first of the kind on the grounds. 
 
 Professor Budd wrote, with obvious pride, in a report in the 14th Biennial Report for 1890-91: 
 
->In laying out and planting the public grounds the thought has been kept in mind of aombining landscape effect and practical instruction to students and visitors. In the form of groups and isolated specimens we now have about every tree and shrub that will succeed fairly well in our climate. 
+>In laying out and planting the public grounds the thought has been kept in mind of combining landscape effect and practical instruction to students and visitors. In the form of groups and isolated specimens we now have about every tree and shrub that will succeed fairly well in our climate. 
 >
 >On the campus, and over the horticultural grounds, varieties and species are labelled and constitute a constant object les­son on a large scale for the study of students and visitors. Taken as a whole the trees and shrubs of the grounds form the best arboretum found west of the Arnold arboretum at Boston. With embellishements, we could soon say that, as a park and landscape garden, our public grounds are not equalled in the west. 
 
