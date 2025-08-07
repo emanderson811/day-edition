@@ -315,7 +315,7 @@ The Student, on June 15, 1897, editorialized on the Russian olive tree:
 
 >The wild olive is distinctively our college tree. With its sil­ver leaves, its yellow blossoms and its black stems, it shows a perfect combination of our college colors. We are thoroughly gratified that Prof. Budd introduced these beautiful trees among the native ones upon the campus. 
 
-In the spring of 1902, on President Beardshear's recommendation, shade trees --90 hard maples and 70 white elms --were planted along what is today known as Stange Road. 0. C. Simonds was retained in late 1902 to advise on building locations and other matters of campus plan­ning. His contributions are covered in the section "Campus Planning." He also supervised installation of new plantings. 
+In the spring of 1902, on President Beardshear's recommendation, shade trees -- 90 hard maples and 70 white elms -- were planted along what is today known as Stange Road. O. C. Simonds was retained in late 1902 to advise on building locations and other matters of campus plan­ning. His contributions are covered in the section "Campus Planning." He also supervised installation of new plantings. 
 
 Responsibility for the maintenance of the Public Grounds was assigned to the head of the Horticulture department by the Board in July 1904 but in August of the same year a Public Grounds committee was estab­lished to supervise the care and development of the grounds. 
 
@@ -339,19 +339,19 @@ In the Biennial Report for 1905-06 the following reference to an arbo­retum is 
 
 The exact location of that arboretum is uncertain but it is thought to have been in the general area of the Campanile. The Forest Garden is probably the area earlier referred to as the Pinetum. 
 
-The Olmsted Brothers were employed as consultants in 1906. Th0eir re­port, discussed under campus planning, was primarily concerned with building locations and general campus development and gave little direct attention to the plantings on the campus exC'ept to propose re­placement of the soft woods by longer lived trees. 
+The Olmsted Brothers were employed as consultants in 1906. Their re­port, discussed under campus planning, was primarily concerned with building locations and general campus development and gave little direct attention to the plantings on the campus except to propose re­placement of the soft woods by longer lived trees. 
 
-In 1908 the line of sycamores was set out along the cinder path be­tween the campus and Ames, and other young trees were put in else­where on the campus. [^fn7] The next spring the paper reported that "The Hort. department has just finished planting five thousand white pine trees in the forestry plots on Squaw Creek." 
+In 1908 the line of sycamores was set out along the cinder path be­tween the campus and Ames, and other young trees were put in else­where on the campus.[^fn7] The next spring the paper reported that "The Hort. department has just finished planting five thousand white pine trees in the forestry plots on Squaw Creek." 
 
 [^fn7]: ISC Student, May 4, 1908.
 
-A new policy in landscape development came in 1909, as recorded in the ISC Student on June 7: 
+A new policy in landscape development came in 1909, as recorded in the <u>ISC Student</u> on June 7: 
 
->For the coming year Pofessor A. T. Erwin will give his entire time to the ornamental and landscape work of the college and severs his connection with the experiment station work. As a part of this plan he has been made superintendent of public grounds and he is to use the campus as a practical laboratory in connection with th.e class room work in this subject. 
+>For the coming year Pofessor A. T. Erwin will give his entire time to the ornamental and landscape work of the college and severs his connection with the experiment station work. As a part of this plan he has been made superintendent of public grounds and he is to use the campus as a practical laboratory in connection with the class room work in this subject. 
 
-Christmas 1914 saw electric lights on the pine tree in front of Beard­shear Hall (then Central) for the first time, and a special program was held on December 20. Through the generosity of Dr. Laverne W. Noyes the services of O. C. Simonds were made available to the college during the years 1915 through 1917. His work in developing Lake La­Verne is covered under that heading. He also worked in an advisory capacity with college personnel in the planting of many trees and shrubs at other locations on the campus. (See "Campus Planning" and "Lake Laverne.·") Early in 1917 Dr. Noyes proposed construction of a second lake on the campus, to be approximately in the area now used as the parking lot east of Knoll Road and south of Union Drive. That plan never materialized. 
+Christmas 1914 saw electric lights on the pine tree in front of Beard­shear Hall (then Central) for the first time, and a special program was held on December 20. Through the generosity of Dr. Laverne W. Noyes the services of O. C. Simonds were made available to the college during the years 1915 through 1917. His work in developing Lake La­Verne is covered under that heading. He also worked in an advisory capacity with college personnel in the planting of many trees and shrubs at other locations on the campus. (See "Campus Planning" and "Lake Laverne.") Early in 1917 Dr. Noyes proposed construction of a second lake on the campus, to be approximately in the area now used as the parking lot east of Knoll Road and south of Union Drive. That plan never materialized. 
 
-Plans for a perennial garden were announced in the Iowa State Student on March 30, 1917: 
+Plans for a perennial garden were announced in the <u>Iowa State Student</u> on March 30, 1917: 
 
 >This spring Prof. A. S. Thurston of the Horticultural department will start a flower garden consisting of herbaceous perennial plants on the plot northeast of the Plant Industry building. This plot has been used as a sheep pasture up until last fall. 
 >
@@ -369,19 +369,19 @@ Removal of dead and dying trees and shrubs and their replacement with new specim
 
 >One hundred fifty-five distinct species of trees are growing on the Iowa State campus, according to Asst. Prof. R.R. Rothacker of the Landscape Architecture Department. 
 >
->These include 32 species of coniferous or cone-bearing trees and 123 species of deciduous or leaf-dropping trees. Some of the less familiaL species are the shadblow, Chinese tree-of-heaven, Russian olive, magnolia and tulip tree. 
+>These include 32 species of coniferous or cone-bearing trees and 123 species of deciduous or leaf-dropping trees. Some of the less familiar species are the shadblow, Chinese tree-of-heaven, Russian olive, magnolia and tulip tree. 
 >
 >Of the well-known species, there are 10 varieties of willow, 11 of oak, 10 of maple and 6 of birch. 
 >
->....Each year the department reconnnends setting out certain trees and supervises their planting by the Department of Build­ings and Grounds. Last year 150 trees were set out. 
+>...Each year the department recommends setting out certain trees and supervises their planting by the Department of Build­ings and Grounds. Last year 150 trees were set out. 
 
-In April of that year American lindens were planted north of the Land­scape Architecture building to replace the European lindens which had died the year before, The new trees were furnished, without charge, by the Henry Kohnakie Nurseries of Painesville, Ohio. 
+In April of that year American lindens were planted north of the Land­scape Architecture building to replace the European lindens which had died the year before. The new trees were furnished, without charge, by the Henry Kohnakie Nurseries of Painesville, Ohio. 
 
 During the winter of 1933-34 a project under the Civil Works Adminis­tration included the transplanting of many trees. 
 
-The Iowa State Student on October 30, 1934, carried an excellent ac­count of some of the earlier plantings and is worth including here: 
+The <u>Iowa State Student</u> on October 30, 1934, carried an excellent ac­count of some of the earlier plantings and is worth including here: 
 
->Many of the old trees which are now campus landmarks were planted while the present site of Dean C. F. Curtiss' home was the loca­tion of the old stagecoach tavern. In front of Memorial Union is a tree grafted from the original Washington Elm and brought here by Prof. T. J. Maney. A row of soft maple stumps, 2 and 3 feet in diameter were left about the flag pole on central campus and were cut down later when the inner circle of hard maples ~ad be­come large enough. 
+>Many of the old trees which are now campus landmarks were planted while the present site of Dean C. F. Curtiss' home was the loca­tion of the old stagecoach tavern. In front of Memorial Union is a tree grafted from the original Washington Elm and brought here by Prof. T. J. Maney. A row of soft maple stumps, 2 and 3 feet in diameter were left about the flag pole on central campus and were cut down later when the inner circle of hard maples had be­come large enough. 
 >
 >The former boundary of the college farm land is marked by a line of honey locusts which runs past the women's dormitories. Another row of trees just south of the walk from the Landscape Architecture Building to the cinder path, marks part of the orig­inal fence rows of the farm. 
 >
@@ -401,7 +401,7 @@ The Iowa State Student on October 30, 1934, carried an excellent ac­count of so
 >
 >At present there are on the campus 93 kinds of trees belonging to 23 different families. Among the more common and more largely represented families are the willow, poplar, walnut, birch, oak, elm, mulberry, rose, pea, maple, dogwood and ash. 
 
-The stone wall with its flowers, at the hill on the north side of Union Drive and Knoll Road was well described in the Iowa State Daily Student on May 22, 1946: 
+The stone wall with its flowers, at the hill on the north side of Union Drive and Knoll Road was well described in the <u>Iowa State Daily Student</u> on May 22, 1946: 
 
 >That walls may be decorative as well as useful is proved by Iowa State's well-known flowering wall at the corner of Knoll road and Union drive. 
 >
@@ -415,7 +415,7 @@ The stone wall with its flowers, at the hill on the north side of Union Drive an
 >
 >Through the three seasons the background flower remains the same --blue catmint. Waves of this flower lead the eye along the wall and form "pockets" at intervals. 
 >
->Along with the campanile the flowering wall has become a feature of Iowa State, changing yet alw~ys the same. 
+>Along with the campanile the flowering wall has become a feature of Iowa State, changing yet always the same. 
 
 New formal gardens were set out east of the greenhouses in 1952 to re­place the perennial garden on the site for the Agronomy Building. "The garden will be on two levels. Cannas and tropical bedding plants will be planted next to the greenhouses, with annuals finishing the higher level. The lower level, two steps down, will be devoted to perennials." [^fn8]
 
@@ -427,8 +427,7 @@ Relocation of the horticulture gardens from near the greenhouses was foreseen in
 
 As new buildings have been erected on the campus each has been land­scaped appropriately under the direction of the campus landscape arch­itect, in full recognition of its relationship not only to the new structure but with concern for its appropriateness in conjunction with other campus planting. 
  
-A recurring maintenance problem arises annually as students, in an effort to save a few minutes of time, take short cuts across the grass and make paths in the lawn. The problem has existed and editorials condemning the practice have appeared in the student paper since the nineteenth century. Snow fences erected in the tall and left stand­
-ing during the early spring have helped to keep some paths from com­pletely killing all grass, but that method has not been completely successful. The problem remains. 
+A recurring maintenance problem arises annually as students, in an effort to save a few minutes of time, take short cuts across the grass and make paths in the lawn. The problem has existed and editorials condemning the practice have appeared in the student paper since the nineteenth century. Snow fences erected in the fall and left stand­ing during the early spring have helped to keep some paths from com­pletely killing all grass, but that method has not been completely successful. The problem remains. 
 
 The firm of Johnson, Johnson & Roy, retained in 1967, developed a long-range campus plan which is discussed under "Campus Planning." Their contribution to landscape planning was minimal. 
 
@@ -444,35 +443,35 @@ In July 1889 The Aurora noted that "part of the timber land near the college cem
 
 The earliest suggestion for maintaining the area as a practical out­door natural habitat appeared in The Aurora for June 1893: 
 
-Some Reasons Why We Need an Arboretum 
+<p style="text-align: center;"><u>Some Reasons Why We Need an Arboretum</u></p>
 
 >That students may be able to study botany in a practical sense, they should have the advantage of studying all plants in their native conditions. The study of an herbarium specimen is as dry a subject for a beginner as the specimen itself is. Besides a beginner should have access to the native plants first. 
 >
->The cultivation of all tillable land and the pasturage of all that cannot be tilled destroys or drives out a large number of our native plants.... 
+>The cultivation of all tillable land and the pasturage of all that cannot be tilled destroys or drives out a large number of our native plants... 
 >
 >During his last college years Dr. Welch took considerable inter­est in the case of a few fine specimens of White Oak in the cem­etery. A year or two ago some person with a larger stock of greed than sense, cut one of them partly down to get a handful of beecomb. The other specimens are dying from exposure, since the timber to the south and east of the cemetery has been grubbed out. 
 >
 >True we have many trees represented on our campus and in the nursery, but if the ground where they stand is wanted for other purposes, the mattock and grubhoe is applied without reference to the value of the plant, or an attempt to save it. There is one single specimen of Hemlock left on the grounds, where I am told there was once a group of them, and that group happened to be in the way of a graceful curve in a road, so the group was grubbed out. 
 >
->To the Sophomore in botany the arboreal are not as useful as the herbaceous plants. The Sophomore must go beyond the old "two­mile" limit to find prairie, or woodland plants that are good representatives of what the plant is, as described in the manual. 
+>To the Sophomore in botany the arboreal are not as useful as the herbaceous plants. The Sophomore must go beyond the old "two-­mile" limit to find prairie, or woodland plants that are good representatives of what the plant is, as described in the manual. 
 >
 >A few distorted dwarfed speciments can be found in the woodland meadows on the farm. 
 >
->....it is just as essential to the work of the student, to have an arboretum as it is to have a campus, athletic grounds, or ex­perimental farm lands .... 
+>...it is just as essential to the work of the student, to have an arboretum as it is to have a campus, athletic grounds, or ex­perimental farm lands...
 >
->The state ought to have a place where the native plants could be grown and.preserved. Aside from an economical standpoint a well arranged arboretum would be an ornament well worth the having. Hence it would not only benefit the department of botany, but the state and college as a whole. It should be the duty of the college to work for and help maintain an arboretum.
+>The state ought to have a place where the native plants could be grown and preserved. Aside from an economical standpoint a well arranged arboretum would be an ornament well worth the having. Hence it would not only benefit the department of botany, but the state and college as a whole. It should be the duty of the college to work for and help maintain an arboretum.
 >
->There is a piece of college land on Clear Creek, to the north and west of the cemetery, that is too rough to be of much value for farming purposes, in fact too rough, if the timber was re­moved to make good meadow land; which contains nearly as many of our native plants as any woodland to be found on the farm, Here, with a little care and expense, they could be preserved. There is a natural bend in the creek to the north of the cemetery that could be taken advantage of, to make an artificial lake (that would not leak~) . 
+>There is a piece of college land on Clear Creek, to the north and west of the cemetery, that is too rough to be of much value for farming purposes, in fact too rough, if the timber was re­moved to make good meadow land; which contains nearly as many of our native plants as any woodland to be found on the farm. Here, with a little care and expense, they could be preserved. There is a natural bend in the creek to the north of the cemetery that could be taken advantage of, to make an artificial lake (that would not leak!). 
 >
->....the right to use that land for such a purpose, with a small amount of means would accomplish something. Our native plants will shift for themselves and do well if given half a chance. 
+>...the right to use that land for such a purpose, with a small amount of means would accomplish something. Our native plants will shift for themselves and do well if given half a chance. 
 
 Whether that editorial in the paper initiated response or merely re­flected generally accepted student and faculty thinking of the period cannot now be determined. Whichever was the case, at the Board meet­ing of November 12-15, 1895, two policies affecting the area were adopted: 
 
->First: That there be set aside for forestry and park purposes the remainder of the land belonging to the College lying west and north of the College cemetery bounded on the south by the extension of the south line of the College cemetery westward to the public road, on the west by the public road, on the north by the railroad and on the east by the irregular line bounding the cultivated land of the farm extending from the railroad to the southeast corner of the College cemetery, 
+><u>First:</u> That there be set aside for forestry and park purposes the remainder of the land belonging to the College lying west and north of the College cemetery bounded on the south by the extension of the south line of the College cemetery westward to the public road, on the west by the public road, on the north by the railroad and on the east by the irregular line bounding the cultivated land of the farm extending from the railroad to the southeast corner of the College cemetery. 
 >
->Second: That it be ordered by the Board that no trees on said tract be cut and that notice to this effect be posted upon the tract. 
+><u>Second:</u> That it be ordered by the Board that no trees on said tract be cut and that notice to this effect be posted upon the tract. 
 
-The following year the May 26, 1896, issue of the IAC Student carried this account about the same area: 
+The following year the May 26, 1896, issue of the <u>IAC Student</u> carried this account about the same area: 
 
 >Some of us have heard rumors that the woodlands to the northwest of the grounds were to be made over into a park. The gist of the matter seems to be this: the trustees have decided to begin in a small way the task of making this part of the ground beautiful. Work will first be done in that portion of the tract lying north­west of the cemetery and this side the stream, extending to the stone arch. Paths will be made through the present tangled growths and Prof. Pammel will begin a system of scientific for­estry, culling inferior trees and planting more valuable ones in their stead. The stream too will have trees planted along its banks. We rejoice at the commencement of this new enterprise which is but a continuation of that policy which has already re­sulted in making the I.A.C. campus almost a synonym for beauty. 
 
