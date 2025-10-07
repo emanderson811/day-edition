@@ -3,8 +3,10 @@
 
   {% include head.html %}
   <body class="theme-base-{{site.color-scheme}}">
-  <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/bootstrap.bundle.js' | relative_url }}"></script>
   <script src="{{ 'assets/js/spotlight.bundle.js' | relative_url }}"></script>
+  
+
     <!-- This if statement decides which sidebar to use -->
     {% if page.toc %}
     {% include sidebar-toc.html %}
@@ -110,6 +112,12 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+<!-- Expose annotation data from _data/annotations.csv -->
+<script>
+  window.ANNOTATIONS = {{ site.data.annotations | jsonify }};
+</script>
 
+<!-- Your custom script (the Popover logic) -->
+<script src="{{ '/assets/js/annotations.js' | relative_url }}" defer></script>
   </body>
 </html>

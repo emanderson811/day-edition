@@ -832,3 +832,9 @@ li.prose-indent {
 .theme-base-brown .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Annotations popovers */
+.ann-target {
+  text-decoration: underline dotted;
+  cursor: help;
+}

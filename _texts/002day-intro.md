@@ -12,7 +12,7 @@ sub-sections: Source Material
 
 Less than twelve years after Iowa attained statehood (on December 28, 1846) the legislature enacted the law establishing the "State Agricul­tural College and Model Farm," and providing for a Board of Trustees to manage the college. Governor Ralph P. Lowe signed the bill on March 22, 1858, the date now recognized as that of the founding of the institution. 
 
-During the spring of 1859 the Trustees studied the question of the lo­cation for the new college. Limited funds available from the state treasury influenced the Board in its decision to accept donations pledged by citizens of Story and Boone counties, and the site west of Squaw Creek was selected on June 21, 1859. A picnic to celebrate that event was held the following July 4 at a location east of what is to­day the university cemetery.
+During the spring of 1859 the Trustees studied the question of the lo­cation for the new college. Limited funds available from the state treasury influenced the Board in its decision to accept donations pledged by citizens of Story and Boone counties, and the site west of <a id="ioway-creek" class="pop-annotation" tabindex="0">Squaw Creek</a> was selected on June 21, 1859. A picnic to celebrate that event was held the following July 4 at a location east of what is to­day the university cemetery.
 
 The earliest developments on the grounds for the new college were more concerned with the Model Farm needs than with the academic aspects. Construction of the Farm House and the Cattle Barn began in 1860; the College Building, Old Main, was not started until 1865, due partly to financial burdens of the Civil War period.
 
