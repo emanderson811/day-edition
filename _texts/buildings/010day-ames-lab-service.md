@@ -19,7 +19,9 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 ## MECHANICAL MAINTENANCE BUILDING 
 
 >Built: 1963-64
+>
 >Architect: Brooks-Borg
+>
 >Contractor: Caldbeck, Inc.
 
 ## WAREHOUSE & SHOP 
@@ -39,7 +41,9 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 ## MAINTENANCE SHOP 
 
 >Built: 1966-67
+>
 >Architect: Tinsley, Higgins, Lighter & Lyon
+>
 >Contractor: King-Bole, Inc. 
 
 (1) Iowa State Daily Student, February 23 and April 28, 1943 
@@ -47,16 +51,21 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 ## PAINT and GRAPHITE SHOP 
 
 >Built: 1966-68
+>
 >Architect: Brown, Healey and Bock
+>
 >Contractor: Carlson-Rockey, Inc. 
 
 ## CONSTRUCTION STORAGE SHED 
 
 >Built: 1967
+>
 >Architect: Ames Laboratory Building & Engineering Services
 
 ## COMPUTER GARAGE 
 
 >Built: 1948
+>
 >Architect: Tinsley Higgins &Lighter, and Ames Lab Bldg. & Engr. Services
+>
 >Located on north side of Physics Hall Addition
