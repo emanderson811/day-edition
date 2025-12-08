@@ -34,7 +34,9 @@ It was 1919 before further steps were taken to obtain the armory. On July 23 of 
 Bids for the steel trusses were taken and a contract was awarded on September 19, 1919 to McClintic Marshall Co. of Pittsburgh, on the basis of their low bid of four received. The bid assumed a building 150 feet wide and 210 feet deep.(1) No general contract was awarded. Supt. of Grounds, Thomas Sloss, was appointed to take charge of construction and to receive bids for and purchase all necessary materials. Excavation started about the first of February in 1920, and construction was completed in the fall of 1921. 
 
 (1) Minutes, May 11-12, 1917 
+
 (2) Minutes, July 6, 1917 
+
 (3) Minutes, 'September 13-14, 1917 
 
 The night of December 16, 1922, the Armory was gutted by a major fire. In addition to the building loss more than $150,000 of army equipment was destroyed by the blaze. A charge of arson was filed but lack of evidence resulted in no sentencing on that charge. Actual cause of the fire was never conclusively determined. 
@@ -50,7 +52,11 @@ the fall of 1948.(5)
 In May, 1955, an appropriation of $150,000 was made for remodeling the Armory. The architect was appointed in June and construction contracts were awarded in October. Structural steel work was accepted in May and the other contracts in September of 1956. That work increased the seating capacity to 8500 and improved the main and subsidiary exits; the ventilating system was improved and roof repairs made. Final cost of this work came to $202,500. Further improvements were made in 1960 62, especially on the heating and ventilating systems and for roof repairs. 
 
 (1)  Minutes,  October  8,  1919  
+
 (2)  Iowa State Student, March 26,  1923  
+
 (3)  Iowa State Daily Student, January 4,  1941  
-0)  Iowa State Daily Student,  October 17,  1946  
+
+(4)  Iowa State Daily Student,  October 17,  1946 
+
 (5)  Iowa State Daily,  October  20, 1948
