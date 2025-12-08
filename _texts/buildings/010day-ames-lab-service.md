@@ -25,10 +25,15 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 WAREHOUSE & SHOP 
 
 >Built: 1965-66
+>
 >Addition: 1969-70
+>
 >Architect: Tinsley, Higgins, Lighter &Lyon
+>
 >>Addition: Ames Laboratory Building & Engineering Services
+>
 >Contractor: King-Bole, Inc.
+>
 >>Addition: James Thompson & Sons
 
 MAINTENANCE SHOP 
