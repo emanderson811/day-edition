@@ -22,6 +22,7 @@ The first request for a building to house large equipment for the Agricultural E
 It was September 1914, however, before any funds were allocated and then only $100 was provided--for "a shed which shall contain two stalls for freight trucks, one stall for Superintendent's automobile, and three stalls for the dept. of Ag. Engr.11 (2) It was a frame building, 23 x 73 feet open to the east. 
 
 (1) ISC Student, September 6, 1898 
+
 (2) Minutes, September 1914 
 
 In 1916 an additional sum of $300 was provided to build a chimney and forge, to provide steam radiation in the forge compartment, and to make "a few slight improvements in the remaining five compartments." (1) 
