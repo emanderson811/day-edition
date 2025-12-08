@@ -22,7 +22,7 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 >Architect: Brooks-Borg
 >Contractor: Caldbeck, Inc.
 
-WAREHOUSE & SHOP 
+## WAREHOUSE & SHOP 
 
 >Built: 1965-66
 >
@@ -36,21 +36,27 @@ WAREHOUSE & SHOP
 >
 >>Addition: James Thompson & Sons
 
-MAINTENANCE SHOP 
+## MAINTENANCE SHOP 
 
->Built: 1966-67 Architect: Tinsley, Higgins, Lighter & Lyon Contractor: King-Bole, Inc. 
+>Built: 1966-67
+>Architect: Tinsley, Higgins, Lighter & Lyon
+>Contractor: King-Bole, Inc. 
 
 (1) Iowa State Daily Student, February 23 and April 28, 1943 
 
-PAINT and GRAPHITE SHOP 
+## PAINT and GRAPHITE SHOP 
 
->Built: 1966-68 Architect: Brown, Healey and Bock Contractor: Carlson-Rockey, Inc. 
+>Built: 1966-68
+>Architect: Brown, Healey and Bock
+>Contractor: Carlson-Rockey, Inc. 
 
-CONSTRUCTION STORAGE SHED 
+## CONSTRUCTION STORAGE SHED 
 
->Built: 1967 Architect: Ames Laboratory Building & Engineering Services
+>Built: 1967
+>Architect: Ames Laboratory Building & Engineering Services
 
-COMPUTER GARAGE 
+## COMPUTER GARAGE 
 
->Built: 1948 Architect: Tinsley Higgins &Lighter, and Ames Lab Bldg. & Engr. Services
+>Built: 1948
+>Architect: Tinsley Higgins &Lighter, and Ames Lab Bldg. & Engr. Services
 >Located on north side of Physics Hall Addition
