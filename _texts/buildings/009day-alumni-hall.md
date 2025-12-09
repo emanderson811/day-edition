@@ -90,4 +90,6 @@ In 1914, after opening of the new State Gymnasium swimming pool, it was decided 
 With the opening of the Memorial Union in 1928 some of the functions of Alumni Hall were changed. The dining room ("College Inn") was closed, game rooms were modified and additional study rooms and offices were provided. 
 
 During World War II Alumni Hall became the Administration Building for the Naval Training School and during that period the upper floor of 
-the south wing was added to provide more dormitory space.(1) The Navy moved out in December 1944 and Y.M.C.A. and Y.W.C.A. operations returned to the buildings and continue now.
+the south wing was added to provide more dormitory space.[^fn10] The Navy moved out in December 1944 and Y.M.C.A. and Y.W.C.A. operations returned to the buildings and continue now.
+
+[^fn10]: Iowa State Daily Student, February 23 and April 28, 1943
