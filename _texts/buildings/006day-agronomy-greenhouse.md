@@ -30,5 +30,3 @@ On December 3 the paper reported that ground had been broken for construction of
 The contract for the third greenhouse wing was awarded in March 1950. Work was accepted as complete in June 1951. 
 
 A fire in January 1953 resulted in a $2650 loss to the building and equipment. 
-
-(1) ISC Student, March 15, 1910
