@@ -16,7 +16,7 @@ publication-date: 1980
 ---
 ---
 
-This third duplex house for Home Management had been considered even before the first two were built, but it was late in 1954 before financing as part of the dormitory system was arranged.(l) Schematic plans by Professor Wolf were approved and the architect was selected in February 1955.(2) 
+This third duplex house for Home Management had been considered even before the first two were built, but it was late in 1954 before financing as part of the dormitory system was arranged.[^fn1] Schematic plans by Professor Wolf were approved and the architect was selected in February 1955.[^fn2] 
 
 Construction started in September 1955 and was completed a year later in time for the opening of the fall quarter. The September 22, 1956, Iowa State Daily reported: 
 
@@ -24,10 +24,10 @@ Construction started in September 1955 and was completed a year later in time fo
 >
 >Among the many objectives of the home management program is to help the home economics student get an integrated view of home making responsibilities and to learn to make decisions on how to use time, money, and other resources to accomplish desired goals." 
 
-In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900' s editor of the AREA journal. (3) 
+In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900' s editor of the AREA journal. [^fn3] 
 
-(1)  Minutes, October 14-15, 1954  
+[^fn1]:  Minutes, October 14-15, 1954  
 
-(2)  Minutes, February 10-11,  1955  
+[^fn2]:  Minutes, February 10-11,  1955  
 
-(3)  Iowa State Daily, December 12,  1962
+[^fn3]:  Iowa State Daily, December 12,  1962
