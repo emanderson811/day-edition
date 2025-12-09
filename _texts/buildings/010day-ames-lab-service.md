@@ -46,7 +46,6 @@ A group of five small buildings stands adjacent to and parallel to the North Wes
 >
 >Contractor: King-Bole, Inc. 
 
-(1) Iowa State Daily Student, February 23 and April 28, 1943 
 
 ## PAINT and GRAPHITE SHOP 
 
