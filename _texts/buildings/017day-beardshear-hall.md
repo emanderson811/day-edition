@@ -17,39 +17,39 @@ publication-date: 1980
 ---
 ---
 
-Less  than  a  month after the fire which destroyed  the north wing of Old Main the Board of Trustees discussed the need for a replacement of the main college building.(1) Discussions continued during the rest of 1901 and through 1902 concerning the cost artd nature of the building, with much emphasis placed on the need to ensure a fireproof structure, 
+Less  than  a  month after the fire which destroyed  the north wing of Old Main the Board of Trustees discussed the need for a replacement of the main college building.[^fn1] Discussions continued during the rest of 1901 and through 1902 concerning the cost artd nature of the building, with much emphasis placed on the need to ensure a fireproof structure, 
 
 In April 1902 a reporter for the ISC Student interviewed President Beardshear and obtained these comments about the status of the pro-posed building: 
 
->The work will be begun as soon as definite plans can be made and the contracts let. State Architect Liebbe had drawn tentative plans for the building which will be of stone, four stories, and thoroughly fire proof throughout, The frontage of the building will be three hundred feet. As regards location, that is not yet settled. Of course, if the present location is selected, the old Main must go soon. The space, however, is not ample for a building of this size without seriously covering the engineering building. The site may be south of the present emergency hall. In that case the old building will remain until the new one is completed.(2)
+>The work will be begun as soon as definite plans can be made and the contracts let. State Architect Liebbe had drawn tentative plans for the building which will be of stone, four stories, and thoroughly fire proof throughout, The frontage of the building will be three hundred feet. As regards location, that is not yet settled. Of course, if the present location is selected, the old Main must go soon. The space, however, is not ample for a building of this size without seriously covering the engineering building. The site may be south of the present emergency hall. In that case the old building will remain until the new one is completed.[^fn2]
 
-The fire of August 14, 1902, which resulted in the loss of the balance of old Main resolved the question of site for the new building. It was November of that year, however, before architects were retained to pre pare final plans for the new building,(3) Plans included provisions of space for the departments of Mathematics, English, Botany, History, Modern Languages, Elocution, and offices for the President of the Col lege, Secretary and Treasurer, and Board of Trustees.(4) 
+The fire of August 14, 1902, which resulted in the loss of the balance of old Main resolved the question of site for the new building. It was November of that year, however, before architects were retained to pre pare final plans for the new building,[^fn3] Plans included provisions of space for the departments of Mathematics, English, Botany, History, Modern Languages, Elocution, and offices for the President of the Col lege, Secretary and Treasurer, and Board of Trustees.[^fn4] 
 
-The structure was referred to as the Central Building during this planning period and retained that designation until 1938 when it was renamed Beardshear Hall.(l) That name had been proposed as early as 1905, just three years after the President's death.(2) 
+The structure was referred to as the Central Building during this planning period and retained that designation until 1938 when it was renamed Beardshear Hall.[^fn5] That name had been proposed as early as 1905, just three years after the President's death.[^fn6] 
 
-(1) Minutes, January 3, 1901 
+[^fn1]: Minutes, January 3, 1901 
 
-(2) ISC Student, April 23, 1902 
+[^fn2]: ISC Student, April 23, 1902 
 
-(3) Minutes, November 21, 1902 
+[^fn3]: Minutes, November 21, 1902 
 
-(4) Minutes, December 1902 
+[^fn4]: Minutes, December 1902 
 
 Bids for the new building were opened on March 26, 1903, but all were rejected because they exceeded available funds. Low bidder was Henry W. Schleuter, of Chicago. The architect subsequently worked with him in developing modifications in the plans and specifications to reduce the bid to $262,000, and a contract was executed in June. Construction started the following month. One of the deletions from the original plans was the dome and attic story. This was reinstated, however, in September 1904 when additional funds were made available by the legis-lature. 
 
-Construction continued through 1904 and 1905. No formal completion date is recorded and it was determined that 11 As soon as any of the rooms in Central Hall are ready for occupancy they will be occupied."(3) 
+Construction continued through 1904 and 1905. No formal completion date is recorded and it was determined that 11 As soon as any of the rooms in Central Hall are ready for occupancy they will be occupied."[^fn7] 
 
-By March, 1906, most of the work was completed and the newspaper(4) provides an excellent description of the space assignments at that time: 
+By March, 1906, most of the work was completed and the newspaper[^fn8] provides an excellent description of the space assignments at that time: 
 
 >Owing to so many alterations of plans and delays in getting ma terial, the completion of the building is still a matter of the future, considerable work in decorations, ornamental work, light ing and work on the outside of the columns being yet undone. The new hall occupies the site of the old main, is built throughout thoroughly fire-proof of buff Bedford stones and other durable materials, there being nothing inflamable in the building but hard wood furniture. It has a frontage of 216 feet, is 112 feet deep and has 78,000 square feet of floor space. It has been described as designed in the classic rennaisance style with a strong Grecian feeling running through the detail of its exterior. The interior is plainly furnished with the exception of the trustees' room, the secretary's room and the president's reception room, which are ornamented with stucco cornices and plastered wall treatment. Look ing down the main corridors, one sees the massive columns of scag liola work, so good an imitation of marble that experts are de ceived. Taken together with the rotunda and two stair halls in the first story form an immense apartment 166 feet long and 36 feet wide, in which the work of registration can be carried on rapidly and comfortably without using any of the offices. 
 
-(1) Minutes, June 14, 1938 
+[^fn5]: Minutes, June 14, 1938 
 
-(2) ISC Student, December 13, 1905 
+[^fn6]: ISC Student, December 13, 1905 
 
-(3) ISC Student, December 16, 1905 
+[^fn7]: ISC Student, December 16, 1905 
 
-(4) ISC Student, March 3, 1906 
+[^fn8]: ISC Student, March 3, 1906 
 
 >The building is already occupied, although complete furnishings are not yet in place. The whole first floor, consisting of 18 rooms, is devoted to the English department. Along the west corridor are the offices of Prof. Noble, Miss Maclean and six recitation rooms and a room furnished with six tables and 24 chairs to be used as a study room of our future debating teams. Just south is the English library, which, when it is equipped will be used by the English instructors and students alike in re search work. It contains 54 chairs and nine tables. The south east corner contains the essay filing room, Prof. Noble's private office and the general English office. 
 >
