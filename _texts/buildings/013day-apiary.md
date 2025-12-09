@@ -13,8 +13,7 @@ source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
 ---
-
->Moved to Bee Farm: 1924
+**Moved to Bee Farm:** 1924
 
 A honey and bee house was authorized for the Entomology Section of the Agricultural Experiment Station at the October 11, 1916, meeting of the Board. A small building called "Apiary" appears on the 1921 campus map, located just north of Osborn Drive about on a line with what is today the west side of Davidson Hall. It appears to have been about 10 x 15 feet in size (if drawn to reasonably accurate scale on that map). 
 
