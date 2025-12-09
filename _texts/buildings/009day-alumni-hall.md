@@ -50,11 +50,11 @@ of each of the three bodies.[^fn6] Work did not proceed as hoped for.
 
 [^fn6]:  Minutes, May 12,  1904  
 
-On February 1, 1905, the ISC STUDENT explained: 
+On February 1, 1905, the *ISC STUDENT* explained: 
 
 >The Y.M.C.A. building was enclosed before the holidays and since then no work has been done upon it. Everyone would like to see it finished and furnished before very long but as long as some of those who subscribed for its erection do not speed up a little more it will have to rest.
 
-The building stood unfinished for almost two years because of lack of funds to continue construction work. An article in the ISC STUDENT of August 31, 1906 discusses the situation at that time: 
+The building stood unfinished for almost two years because of lack of funds to continue construction work. An article in the *ISC STUDENT* of August 31, 1906 discusses the situation at that time: 
 
 >We had hoped very much that at the opening of this school year the students would find the new association building well under way. This would have been the case had it not been for the arrangements which were made for the completion of the building.
 >
