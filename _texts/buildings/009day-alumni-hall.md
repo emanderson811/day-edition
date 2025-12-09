@@ -19,38 +19,36 @@ publication-date: 1980
 ---
 
 The first recorded reference to the building which became Alumni Hall was in a report by President Chamberlain to the Board of Trustees at 
-their meeting in July 1890. He proposed a building to be used by the Christian Associations and the Literary Societies, to be erected by subscription and to be called "The Welch Memorial Hall." The project was approved as presented.(2) 
+their meeting in July 1890. He proposed a building to be used by the Christian Associations and the Literary Societies, to be erected by subscription and to be called "The Welch Memorial Hall." The project was approved as presented.[^fn1] 
 
 The IAC Student, September 4, 1890, reported "The college has long needed such a hall, and the prospect that it will be in existence before '92 seems very flattering. $9000 is already subscribed and it is thought the fund can easily be made to reach $25000." 
 
 During the next ten years there are references to a "Society Hall" from time to time in the student paper, but little formal action was 
-taken until October 1901 when the Trustees approved providing a site and furnishing "heat, light, water and janitor service" for the proposed building. (3) 
+taken until October 1901 when the Trustees approved providing a site and furnishing "heat, light, water and janitor service" for the proposed building. [^fn2] 
 
-The first really concerted effort to raise funds began with a mass meeting of the students in March 1902. (4) Iowa Governor Cummins and YMCA traveling secretary, E.T. Colton, and J.G. Olmsted, "a practical business man of Des Moines" were the scheduled speakers. 
+The first really concerted effort to raise funds began with a mass meeting of the students in March 1902. [^fn3] Iowa Governor Cummins and YMCA traveling secretary, E.T. Colton, and J.G. Olmsted, "a practical business man of Des Moines" were the scheduled speakers. 
 
-(1) Minutes, June 26-27, 1969 
+[^fn1]: Minutes, July 1890 
 
-(2) Minutes, July 1890 
+[^fn2]: Minutes, October 1901 and IAC Student, October 26, 1901 
 
-(3) Minutes, October 1901 and IAC Student, October 26, 1901 
-
-(4) ISC Student, March 15, 1902 
+[^fn3]: ISC Student, March 15, 1902 
 
 By the fall of 1903 sufficient progress had been made to establish that construction could begin in the near future: 
 
->On excursion day the alumni building committee met with the building committee of the proposed Christian Association Hall, and agreed to add  an additional floor to the building to be used by the alumni. The estimated cost of this addition is $15,000, which will be paid by the alumni association in addition to what individuals have already subscribed. This will make the total cost of the building $50,000 and it has been definitely decided to place it just south of Emergency hall. Messrs. Proudfoot & Bird are now working on plans which will include all the recent changes [and if they] are completed, the contract for the foundation will probably be laid this fall. The building as now proposed will have a basement and three floors. The basement will contain a swimming pool, shower baths, lockers, bowling alleys and a cafe. The first floor entrance opens into a large reception hall which will be one of the features of the building. A library, reading rooms, leisure room, the secretary's office, and separate from these is a reception hall and a parlor for women. On the second floor is an assembly room seating four hundred and fifty people, a kitchen, a serving room, and five smaller rooms which ordinarily will be used for bible class rooms and such purposes, but which can be thrown together into one large dining room. The third floor will be a dormitory and the rooms will be let to students during the term but reserved for the alumni during commencement here. Several rooms will be held for the use of alumni visiting during the term. The building will fill a long felt want both in the religious and the social student life and will also be a step toward a future alumni hall."(1) 
+>On excursion day the alumni building committee met with the building committee of the proposed Christian Association Hall, and agreed to add  an additional floor to the building to be used by the alumni. The estimated cost of this addition is $15,000, which will be paid by the alumni association in addition to what individuals have already subscribed. This will make the total cost of the building $50,000 and it has been definitely decided to place it just south of Emergency hall. Messrs. Proudfoot & Bird are now working on plans which will include all the recent changes [and if they] are completed, the contract for the foundation will probably be laid this fall. The building as now proposed will have a basement and three floors. The basement will contain a swimming pool, shower baths, lockers, bowling alleys and a cafe. The first floor entrance opens into a large reception hall which will be one of the features of the building. A library, reading rooms, leisure room, the secretary's office, and separate from these is a reception hall and a parlor for women. On the second floor is an assembly room seating four hundred and fifty people, a kitchen, a serving room, and five smaller rooms which ordinarily will be used for bible class rooms and such purposes, but which can be thrown together into one large dining room. The third floor will be a dormitory and the rooms will be let to students during the term but reserved for the alumni during commencement here. Several rooms will be held for the use of alumni visiting during the term. The building will fill a long felt want both in the religious and the social student life and will also be a step toward a future alumni hall."[^fn4] 
 
 The construction contract was awarded in March 1904 and excavation started soon thereafter. By September the paper could record that the 
-Y.M.C.A. Building "is almost enclosed". (2) 
+Y.M.C.A. Building "is almost enclosed". [^fn5]
 
 A formal agreement was executed in May 1904 between the College, the Y.M.C.A. and the Alumni Association, describing the responsibilities 
-of each of the three bodies.(3) Work did not proceed as hoped for. 
+of each of the three bodies.[^fn6] Work did not proceed as hoped for. 
 
-(1)  ISC  Student,  October 3,  1903  
+[^fn4]:  ISC  Student,  October 3,  1903  
 
-(2)  ISC  Student, September 10,  1904  
+[^fn5]:  ISC  Student, September 10,  1904  
 
-(3)  Minutes, May 12,  1904  
+[^fn6]:  Minutes, May 12,  1904  
 
 On February 1, 1905, the ISC STUDENT explained: 
 
@@ -73,21 +71,21 @@ On September 17, 1906, the paper was able to report: "Definite contract was made
 
 A year later the building was finished: 
 
->After many trials and tribulations, several years of patient waiting, the endurance of the storms of winter and the rains of summer, without doors or windows, Alumni hall, better known to us as the Y,M,C.A. building, is completed. The interior wood work finishing is of oak throughout with hard wood floors. The swimming pool is of enameled brick on both walls and bottom. The assignment of rooms has not yet been definitely made, but the first floor will be used for general purposes, the second floor as assembly room, reading rooms, Bible study room, etc. The rooms of the third floor will be rented out for living rooms or for whatever purpose they may be needed. The furniture for the building is ordered and will be installed sometime during the month of September. (1) 
+>After many trials and tribulations, several years of patient waiting, the endurance of the storms of winter and the rains of summer, without doors or windows, Alumni hall, better known to us as the Y,M,C.A. building, is completed. The interior wood work finishing is of oak throughout with hard wood floors. The swimming pool is of enameled brick on both walls and bottom. The assignment of rooms has not yet been definitely made, but the first floor will be used for general purposes, the second floor as assembly room, reading rooms, Bible study room, etc. The rooms of the third floor will be rented out for living rooms or for whatever purpose they may be needed. The furniture for the building is ordered and will be installed sometime during the month of September. [^fn7] 
 
 Late in the year a dining room was established as reported in the paper: 
 
 >The dining room in the basement of the Y.M.C.A. building will be opened at the beginning of next term. The cafe is to be a thoroughly up-to-date establishment, everything being new and of the latest model. The plan on which it is to be run will be so arranged as to meet the demands of all the people. Those who want a full dinner served to them and those who want but a cup of coffee and sandwich will have found in the cafe a long felt want.
 >
->The associations are to be highly complimented in their attempt to open up a cafe upon the campus for the college has suffered a great deal of knocking on the part of visitors and business men who come here, thinking that naturally there would be a cafe of some kind on the campus and then find out about 12 o'clock after the last car has gone that they must go down town to dinner.(2) 
+>The associations are to be highly complimented in their attempt to open up a cafe upon the campus for the college has suffered a great deal of knocking on the part of visitors and business men who come here, thinking that naturally there would be a cafe of some kind on the campus and then find out about 12 o'clock after the last car has gone that they must go down town to dinner.[^fn8] 
 
-In 1914, after opening of the new State Gymnasium swimming pool, it was decided to eliminate the pool in Alumni Hall and turn the enti:e basement level into dining facilities. At the same time an addition to the south of the building was built to provide new space for the kitchen.(3) This addition included the basement and first floor level of the south wing.
+In 1914, after opening of the new State Gymnasium swimming pool, it was decided to eliminate the pool in Alumni Hall and turn the enti:e basement level into dining facilities. At the same time an addition to the south of the building was built to provide new space for the kitchen.[^fn9] This addition included the basement and first floor level of the south wing.
 
-(1)  ISC  Student, September 2,  1907  
+[^fn7]:  ISC  Student, September 2,  1907  
 
-(2)  ISC  Student, December 16,  1907 
+[^fn8]:  ISC  Student, December 16,  1907 
 
-(3)  Iowa State Student, May  9 and  23, 1914  
+[^fn9]:  Iowa State Student, May  9 and  23, 1914  
 
 With the opening of the Memorial Union in 1928 some of the functions of Alumni Hall were changed. The dining room ("College Inn") was closed, game rooms were modified and additional study rooms and offices were provided. 
 
