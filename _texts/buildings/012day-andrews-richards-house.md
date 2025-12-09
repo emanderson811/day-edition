@@ -18,7 +18,7 @@ publication-date: 1980
 
 This third duplex house for Home Management had been considered even before the first two were built, but it was late in 1954 before financing as part of the dormitory system was arranged.[^fn1] Schematic plans by Professor Wolf were approved and the architect was selected in February 1955.[^fn2] 
 
-Construction started in September 1955 and was completed a year later in time for the opening of the fall quarter. The September 22, 1956, Iowa State Daily reported: 
+Construction started in September 1955 and was completed a year later in time for the opening of the fall quarter. The September 22, 1956, *Iowa State Daily* reported: 
 
 >This duplex includes several economy measures such as no fire places in the living rooms, but one fireplace in the single recreation room to be used by both groups, and a classroom, which is in a new idea, to be used by the group for studying and by the department as an extra classroom....
 >
