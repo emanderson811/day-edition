@@ -17,7 +17,7 @@ publication-date: 1980
 
 ---
 
-The proposed new greenhouse for the Agronomy Department was described in the November 15, 1940 issue of the Iowa State Daily Student: 
+The proposed new greenhouse for the Agronomy Department was described in the November 15, 1940 issue of the *Iowa State Daily Student*: 
 
 >The greenhouse, which will consist of two greenhouse units and a head house, will be located in the area north of the Collegiate Press Building and west of Central Stores. The 20-year plan of Iowa State calls for the later addition of a third greenhouse unit and construction of an Agronomy Building west of the new greenhouse.
 >
