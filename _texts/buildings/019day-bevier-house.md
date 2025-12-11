@@ -19,7 +19,7 @@ publication-date: 1980
 
 The Agricultural Experimentation Station was established in 1888, and a first concern was the erection of a headquarters building. Three thousand dollars was the sum allocated for that purpose. 
 
-The building was erected on a site a little over a hundred feet east of Botany Hall and with its north face on line with the south wall of that building. The Station building was two stories high, frame, with a propagating house attached. In August 1888 The Aurora reported: 
+The building was erected on a site a little over a hundred feet east of Botany Hall and with its north face on line with the south wall of that building. The Station building was two stories high, frame, with a propagating house attached. In August 1888 *The Aurora* reported: 
 
 >The building connected with the Experimentation Station is now complete and the various departments are being furnished with the very best apparatus, books, etc. It is a neat and commodious building and the abunciant funds the officers of the station have had at their disposal, enabled them to procure all the advantages for the most thorough work in their line.
 
