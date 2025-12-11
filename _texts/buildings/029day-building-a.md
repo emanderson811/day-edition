@@ -16,7 +16,7 @@ publication-date: 1980
 
 An appropriation of $5000 was made in the spring of 1897 for Forge Shop and Foundry. Bids were received on June 30 and the contract was awarded for the one building in the amount of $3464. Professor Bissell was appointed local superintendent for the construction. 
 
-The ISC Student described the building in August 1897: 
+The *ISC Student* described the building in August 1897: 
 
 >The new forge shop and foundry for the department of mechanical engineering, the contract for which was let in June and which is to be completed in October, will be located thirty feet due north of the engine room, and will front east with it. The building will be eighty feet long by forty feet wide and the same length as the engine room. The roof is to be of slate, supported by strong steel trusses. On the north, large sky lights, together with many windows will admit ample light for the foundry, as well as add greatly to the general appearance. The shop will be floored with brick and will contain the forges together with all other equipment necessary for that work. In general appearances as to roof, windows and outer finish it will be similar to the electric light plant. (That is, the M,E. Lab.)
 
