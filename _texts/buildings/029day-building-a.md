@@ -22,6 +22,6 @@ The *ISC Student* described the building in August 1897:
 
 It was subsequently reported in the paper that work on the building was completed in December. 
 
-The April 25, 1899, Student reported: "An automatic pneumatic hoist for the foundry is now under construction. Those who heretofore have had it in hand to elevate the coal to the landing of the smelting furnace will best know how to appreciate this improvement." 
+The April 25, 1899, *Student* reported: "An automatic pneumatic hoist for the foundry is now under construction. Those who heretofore have had it in hand to elevate the coal to the landing of the smelting furnace will best know how to appreciate this improvement." 
 
 The building continued in use as a foundry until that function was moved to the Mechanical Engineering Laboratory in 1936. In later years it was the headquarters for the Technical Institute.
