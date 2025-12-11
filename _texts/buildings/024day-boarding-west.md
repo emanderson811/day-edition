@@ -30,7 +30,7 @@ In 1894 remodeling.was undertaken on both floors of the cottage. Plans had been 
 
 The following year the three north rooms in the basement were cemented and made available for an electrical laboratory. 
 
-In August 1899 the IAC Student reported: "The outside woodwork of the cottages has been painted recently. This is a decided improvement which helps the appearance of these buildings greatly." 
+In August 1899 the *IAC Student* reported: "The outside woodwork of the cottages has been painted recently. This is a decided improvement which helps the appearance of these buildings greatly." 
 
 The Building Committee reported to the Board in July 1905: 
 
