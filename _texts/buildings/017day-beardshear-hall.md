@@ -19,7 +19,7 @@ publication-date: 1980
 
 Less  than  a  month after the fire which destroyed  the north wing of Old Main the Board of Trustees discussed the need for a replacement of the main college building.[^fn1] Discussions continued during the rest of 1901 and through 1902 concerning the cost artd nature of the building, with much emphasis placed on the need to ensure a fireproof structure, 
 
-In April 1902 a reporter for the ISC Student interviewed President Beardshear and obtained these comments about the status of the pro-posed building: 
+In April 1902 a reporter for the *ISC Student* interviewed President Beardshear and obtained these comments about the status of the pro-posed building: 
 
 >The work will be begun as soon as definite plans can be made and the contracts let. State Architect Liebbe had drawn tentative plans for the building which will be of stone, four stories, and thoroughly fire proof throughout, The frontage of the building will be three hundred feet. As regards location, that is not yet settled. Of course, if the present location is selected, the old Main must go soon. The space, however, is not ample for a building of this size without seriously covering the engineering building. The site may be south of the present emergency hall. In that case the old building will remain until the new one is completed.[^fn2]
 
