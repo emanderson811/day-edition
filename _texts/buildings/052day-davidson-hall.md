@@ -43,9 +43,9 @@ New bids, based on the revised plans, were received on December 29, 1941, and co
 >| General Contract Plumbing & Heating Electrical | James Thompson & Sons | $82,800 |
 >| ______________________________________________ | _____________________ | _______ |
 >| Plumbing & Heating                             | Palmer Plmbg. Co.     | 16,452  |
->| __________________                             | _________________     | ______  |
+>| ______________________________________________ | _____________________ | ______  |
 >| Electrical                                     | Maier Elect. Co.      | 7,025   |
->| __________                                     | ________________      | _____   |
+>| ______________________________________________ | _____________________ | _______ |
 
 General Contract Plumbing & Heating Electrical  James Thompson & Palmer Plmbg. Co. Maier Elect. Co.  Sons  $82,800 16,452 7,025  
 
