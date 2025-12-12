@@ -13,7 +13,7 @@ contractor:
     - "Netcott Bros."
     - "Fred Fisher"
     - "1958 repairs after fire: J.E. Whitfield Construction Co."
-razed: 1931 (burned down)
+razed: October 6, 1931 (Burned Down)
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
