@@ -6,7 +6,7 @@ built: "First unit built: 1870-71 Second unit: 1872-75"
 addition:
 architect: "(1872) Hugh Brown of Iowa City"
 contractor: 
-razed: "March, 25, 1913" ("Burned Down")
+razed: March, 25, 1913 (Burned Down)
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
