@@ -2,10 +2,12 @@
 layout: building
 title: "Engineering Research Institute"
 alternative_name: 
-built: 
+  - "Transportation Building (or Laboratory)"
+  - "Industrial Arts (in part)"
+built: 1913
 addition:
-architect: 
-contractor: 
+architect: "Proudfoot, Bird & Rawson"
+contractor: "Arthur H. Neumann & Co."
 razed: 
 author:
 rights: Public Domain
