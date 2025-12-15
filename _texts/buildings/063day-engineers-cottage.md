@@ -2,7 +2,7 @@
 layout: building
 title: "Engineer's Cottage"
 alternative_name: "Edgerton House"
-built: 1989
+built: "1989  Moved: 1915"
 addition:
 architect: 
 contractor: "W.M. Rich"
