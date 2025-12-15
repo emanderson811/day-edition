@@ -4,7 +4,7 @@ title: "Cattle Barn"
 alternative_name: 
 built: 
     - 1924-25
-    - "Rebuilt: 1931-32"
+    - "1931-32 (Rebuilt)"
 addition:
 architect: 
     - "Proudfoot, Bird & Rawson"
@@ -13,7 +13,7 @@ contractor:
     - "Netcott Bros."
     - "Fred Fisher"
     - "1958 repairs after fire: J.E. Whitfield Construction Co."
-razed: October 6, 1931 (Burned Down)
+razed: October 6, 1931 (Destroyed by fire)
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
