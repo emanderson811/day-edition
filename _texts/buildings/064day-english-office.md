@@ -37,7 +37,7 @@ for their food service employees.
 
 [^fn1]: 10th Biennial Report, 1882-83 
 
-[^fn2] 21st Biennial Report, 1903-05 
+[^fn2]: 21st Biennial Report, 1903-05 
 
  
 Some time later the Music Department was allocated space in the building until the end of 1928 when they moved into their new quarters in the Maples (Music Hall). In 1929 the second floor was converted into office space for the English Department, and in 1940 the name of the building was changed to English Office Building. 
