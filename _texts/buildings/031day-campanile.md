@@ -50,8 +50,8 @@ Each bell carries an inscription. The quotations used are included here for easy
 
 | | |
 |---|---|
-| E | And soften down the rugged road of life. Kirke White |
-| D | Ring merrily, ye chimes, evermore Charles MacKay |
+| E | And soften down the rugged road of life. -Kirke White |
+| D | Ring merrily, ye chimes, evermore Charles -MacKay |
 
 
 C Harmonizing this earth with what we feel above. -Shelley 
