@@ -10,7 +10,7 @@ architect:
 contractor:
   - "Benson & Marxer  (1909)"
   - "Nelson Construction Co.  (Ceramics Wing)"
-  - Neumann Co.  (1914)"
+  - "Neumann Co.  (1914)"
 razed: 
 author:
 rights: Public Domain
