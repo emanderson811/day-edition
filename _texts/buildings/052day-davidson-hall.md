@@ -40,7 +40,8 @@ Replacement funds were made available from the state in April 1941 and the firm 
 
 New bids, based on the revised plans, were received on December 29, 1941, and construction contracts were awarded  to  the low bidders,   as follows: [^fn4] 
 
-||| 
+| | |
+|---|---|
 |General Contract| James Thompson & Sons|$82,800|
 |Plumbing & Heating|Palmer Plmbg. Co.| 16,452|
 |Electrical| Maier Elect. Co. | 7,025 |
