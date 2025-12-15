@@ -5,7 +5,12 @@ alternative_name: "(Includes Ceramics Building)"
 built: 1909-1910
 addition: 
 architect: 
-contractor: 
+  - "Proudfoot & Bird  (1909)"  
+  - "Proudfoot,  Bird & Rawson  (1914)" 
+contractor:
+  - "Benson & Marxer  (1909)"
+  - "Nelson Construction Co.  (Ceramics Wing)"
+  - Neumann Co.  (1914)"
 razed: 
 author:
 rights: Public Domain
@@ -50,3 +55,5 @@ The Engineering Annex was the home of Architectural Engineering (later
 the Department of Architecture) and Civil Engineering for many years, except for that portion occupied by Ceramic Engineering. 
 The Civil Engineering activities were transferred to Town Engineer 
 ing Building in 1971 and Architecture moved into the new College of Design Building in 1978. Ceramics remains there and other space is used by Materials Science and Engineering, Industrial Engineering and freshman engineering drafting classes.
+
+(1) Minutes, June 14-15, 1956 
