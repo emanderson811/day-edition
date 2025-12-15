@@ -20,9 +20,9 @@ This two-story frame house was built for J.J. Edgerton with an appropriation of 
 
 In 1915 the building was moved to the area south of the Physical Plant where it was the easternmost of the five frame houses located there until the addition to the Women's Gymnasium was built. It was razed in 1970. 
 
-Occupants: 
 
-| | |
+
+|Occupants:  | |
 |--|--|
 |1898 -|J.J. Egerton Prof. P.G. Holden|
 |1907 - 1914|George Mitchell|
