@@ -34,8 +34,9 @@ Mr. Page also reported the physical characteristics of the bells:
 
 |No. |Diameter in feet inches|Note|Weight: cwt.|Weight: gr.|Weight:  lbs. |
 |----|------------------|----|------|----------|--------|
-|1|2 -2 1/2|E|4|0.|15|
-
+|1|2 - 2 1/2|E|4|0.|15|
+|2|2 - 4 1/4|D|4|2.|10|
+|3|2 - 6|C|5|1.|7|
 
 2 -4 1/4 2 -6  E D C  4 4 5  o. 2. 1.  15 10 7 
 2 
