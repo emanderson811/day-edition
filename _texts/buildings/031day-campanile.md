@@ -56,11 +56,18 @@ Each bell carries an inscription. The quotations used are included here for easy
 | C | Harmonizing this earth with what we feel above. -Shelley |
 | B | My language is understood all over the world -Haydn |
 | A | Every deed of goodness done is like a cord set in the heart. -Thomas MacKellan |
-| G | Sweetly on the evening air Sounds the vesper chime of prayer |
-| F | And rings a thousand memories At vesper and at prime. -Coxe |
-| E | Music is the child of praye~, The companion of religion. -Chateaubriand |
+| G | Sweetly on the evening air 
+Sounds the vesper chime of prayer |
+| F | And rings a thousand memories 
+At vesper and at prime. -Coxe |
+| E | Music is the child of prayer, 
+The companion of religion. -Chateaubriand |
 | D | A woman that feareth the Lord, she shall be praised -Proverbs XXXI:30 |
-| C | Then pealed the bells more loud and deep: "God is not dead; nor does He sleep! The Wrong shall fail The Right prevail - With peace on earth, good wil1 to men." |
+| C | Then pealed the bells more loud and deep: 
+"God is not dead; nor does He sleep! 
+The Wrong shall fail 
+The Right prevail - 
+With peace on earth, good will to men." |
 
 This last inscription is from Longfellow but his name does not appear on the bell. All spellings shown are as they appear on the bells. 
 
