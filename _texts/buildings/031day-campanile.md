@@ -48,8 +48,8 @@ The amount for "cwt" in England is 112 pounds rather than 100 pounds as in U.S. 
 
 Each bell carries an inscription. The quotations used are included here for easy reference, for few people have the opportunity to inspect the bells themselves: 
 
-
-|||
+| | |
+|---|---|
 | E | And soften down the rugged road of life. Kirke White |
 | D | Ring merrily, ye chimes, evermore Charles MacKay |
 
