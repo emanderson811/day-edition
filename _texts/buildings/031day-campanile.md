@@ -32,8 +32,14 @@ The chimes reached the campus near the end of October 1899. They were cast at th
 
 Mr. Page also reported the physical characteristics of the bells: 
 
-Diameter in feet inches  cwt.  Weight gr.  lbs.  
-1 2 3  2 -2 1/2 2 -4 1/4 2 -6  E D C  4 4 5  o. 2. 1.  15 10 7  
+|No. |Diameter in feet inches|Note|Weight: cwt.|Weight gr.|Weight  lbs. |
+|----|------------------|----|------|----------|--------|
+|1|2 -2 1/2|E|4|0.|15|
+
+
+2 -4 1/4 2 -6  E D C  4 4 5  o. 2. 1.  15 10 7 
+2 
+3   
 4  2 -7  B  5  3.  15  
 5 6  2 -9 3/4 3 -2  A G  7 9  1. 2.  3 19  
 7 8 9 10  3 -6 3/4 3 -9 1/2 4 -2 1/2 4 -9  F E D C  13 16 21 32  3. 1. 2. o.  21 21 21 0  
