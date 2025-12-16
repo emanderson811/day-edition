@@ -48,6 +48,23 @@ After the building was torn down in 1906 a poem appeared in the *ISC Student*, o
 
 <p class="indent-6">Let others sing of marbled halls,<br>
 Of oaken stairs and pictured walls;<br>
-But dearer far it is to me To praise despised "Emergency." Long and narrow, worn and low, With its windows all arow, There it stood, the scorn of all, Waiting for its own down-fall. 
-Daily thru its echoing halls, We've heard the voices and foot-falls Of Seniors wise and Freshmen green, Of Juniors, and Sophomores serene. Here Seniors met to walk and talk, And Sophomores went to get their "calk", Juniors, to lecture and debate, And Freshmen, to learn to demonstrate. You tell me it has only served its day! I know it, and you may have your way' But remember this if you are wise, "Great men from Emergencies arise."<br> 
+But dearer far it is to me <br>
+To praise despised "Emergency."<br> 
+Long and narrow, worn and low,<br> 
+With its windows all arow,<br>
+There it stood, the scorn of all,<br> 
+Waiting for its own down-fall.<br>
+<br>
+Daily thru its echoing halls,<br> 
+We've heard the voices and foot-falls<br>
+Of Seniors wise and Freshmen green,<br>
+Of Juniors, and Sophomores serene.<br>
+Here Seniors met to walk and talk,<br>
+And Sophomores went to get their "calk",<br>
+Juniors, to lecture and debate,<br>
+And Freshmen, to learn to demonstrate.<br>
+You tell me it has only served its day!<br>
+I know it, and you may have your way'<br>
+But remember this if you are wise,<br>
+"Great men from Emergencies arise."<br> 
 </p><p style="text-align: right;">An Alumnus.</p>
