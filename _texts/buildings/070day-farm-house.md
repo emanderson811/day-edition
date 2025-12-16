@@ -148,8 +148,7 @@ The first occupant of the Farm House was W.H. Fitzpatrick who rented the farm fo
 |1879 | J.C. Hiatt, Farm Superintendent. |
 |1880-1885 | Seaman A. Knapp, Farm Superintendent, Professor of Agriculture, College President 1883-84. |
 |1886-1887 | Herman Knapp, Head of Agriculture. |
-|1887-1890 | Loran P. Smith, Farm Superintendent, Professor of Agriculture, lived in east half. <br> 
-C.F. Barrows, Professor of English, lived in west half. |
+|1887-1890 | Loran P. Smith, Farm Superintendent, Professor of Agriculture, lived in east half. C.F. Barrows, Professor of English, lived in west half. |
 |1891-1895 | James F. Wilson, Farm Superintendent and Professor of Agriculture. |
 |1897-1946 | Charles F. Curtiss, Dean of Agriculture and director of Agricultural Experiment Station.  |
 |1946-1948 | Three women professors: Hoyt, Carlin, McBride. |
