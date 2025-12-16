@@ -22,6 +22,6 @@ The Biennial Report for 1894-95 states: "The new experimental barn makes a new p
 
 This barn had a relatively short life. Its end is recorded in the Biennial Report for 1900-1901: 
 
->At noon, October 25, 1901, the cattle-barn* and new experimental barn were burned. The fire started in the cattle-barn and extended to the experimental barn. The origin of the fire is unknown. These two barns with their contents of hay, feed stuffs, corn and grain were worth about $13,000. The work of the experiment station was carried on in these two barns.
+>At noon, October 25, 1901, the cattle-barn[^fn1] and new experimental barn were burned. The fire started in the cattle-barn and extended to the experimental barn. The origin of the fire is unknown. These two barns with their contents of hay, feed stuffs, corn and grain were worth about $13,000. The work of the experiment station was carried on in these two barns.
 
-* Identified herein as Feeding Barn.
+[^fn1]: Identified herein as Feeding Barn.
