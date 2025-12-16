@@ -18,7 +18,6 @@ source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
 ---
-Built: 1879 Moved to Wallace Road 1915 Razed: 1970 
 
 Original site just east of Library east front, west side of Morrill Road. 
 
