@@ -6,7 +6,7 @@ built: 1880
 addition:
 architect: "Prof T.L. Smith"
 contractor: "F,S. Whiting"
-razed: "1901 (Burned)
+razed: "1901 (Burned)"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
