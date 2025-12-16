@@ -44,7 +44,10 @@ The building was far from satisfactory as is pointed out in the Biennial Report 
 
 After the building was torn down in 1906 a poem appeared in the *ISC Student*, of September 10, 1906, that serves as an epitaph. 
 
-TO "EMERGENCY" HALL 
-Let others sing of marbled halls, Of oaken stairs and pictured walls; But dearer far it is to me To praise despised "Emergency." Long and narrow, worn and low, With its windows all arow, There it stood, the scorn of all, Waiting for its own down-fall. 
-Daily thru its echoing halls, We've heard the voices and foot-falls Of Seniors wise and Freshmen green, Of Juniors, and Sophomores serene. Here Seniors met to walk and talk, And Sophomores went to get their "calk", Juniors, to lecture and debate, And Freshmen, to learn to demonstrate. You tell me it has only served its day! I know it, and you may have your way' But remember this if you are wise, "Great men from Emergencies arise." 
-An Alumnus.
+<p style="text-align: center;">TO "EMERGENCY" HALL</p>
+
+<p class="indent-6">Let others sing of marbled halls,<br>
+Of oaken stairs and pictured walls;<br>
+But dearer far it is to me To praise despised "Emergency." Long and narrow, worn and low, With its windows all arow, There it stood, the scorn of all, Waiting for its own down-fall. 
+Daily thru its echoing halls, We've heard the voices and foot-falls Of Seniors wise and Freshmen green, Of Juniors, and Sophomores serene. Here Seniors met to walk and talk, And Sophomores went to get their "calk", Juniors, to lecture and debate, And Freshmen, to learn to demonstrate. You tell me it has only served its day! I know it, and you may have your way' But remember this if you are wise, "Great men from Emergencies arise."<br> 
+</p><p style="text-align: right;">An Alumnus.</p>
