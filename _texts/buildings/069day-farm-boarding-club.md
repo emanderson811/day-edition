@@ -5,7 +5,9 @@ alternative_name:
   - "Horticulture Hall (or Laboratory)"
   - "Garden House"
   - "Faculty Club"
-built: 1879
+built:
+  - "1879"
+  - "Moved to Wallace Road 1915"
 addition:
 architect: 
 contractor: 
