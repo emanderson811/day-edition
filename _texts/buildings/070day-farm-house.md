@@ -7,7 +7,7 @@ built:
   - "1865 (Completed)"
 addition:
 architect: "Milens Burt of Muscatine"
-contractor: 
+contractor: "No contractor, built by day labor"
 razed: 
 author:
 rights: Public Domain
@@ -15,9 +15,6 @@ source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
 ---
-
-Knapp-Wilson House 
-Construction started: 1860 Completed: 1865 Architect: Milens Burt of Muscatine No contractor, built by day labor 
 
 The first building started on the new college land was the Farm House. Plans for it and the barn, prepared by Milens Burt, architect and builder of Muscatine, had been approved in 1859. 
 
