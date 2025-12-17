@@ -67,6 +67,7 @@ Maintenance of the Farm House was a continuing problem as evidence by the Superi
 [^fn4]: Biennial Report, 1876-77 
 
 
+<img src="{{ site.baseurl }}/assets/day-title-page.jpg" alt="The floor plan of the first floor of the Farm House showing the 1860 structure and 1866 additions.">
 
 
 FARMHOUSE 
