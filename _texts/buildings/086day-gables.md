@@ -47,3 +47,5 @@ Occupants of the house are listed by Dorothy Kehlenbeck[^fn4] as follows:
 |1922-1926|  Kappa Sigma  |
 |1927-1928|  Sigma Alpha, Epsilon  |
 |1928-1963|  International House  |
+
+[^fn4]: Dorothy Kehlenbeck, Manuscript 1969
