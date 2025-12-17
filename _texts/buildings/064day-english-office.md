@@ -3,7 +3,7 @@ layout: building
 title: "English Office Building"
 alternative_name: "Office Building"
 built: 1884
-addition: 1892
+addition: "1892"
 architect: 
   - "Foster & Liebbe 1884"
   - "Josselyn &'Taylor 1892"
