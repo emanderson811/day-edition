@@ -40,7 +40,7 @@ It is probable that this house was moved to the south side of the road at the we
 
 In the Board minutes for May 1897 the following entry is made: 
 
-Prof. Curtiss has called attention to the gardener's house and barn, near the west gate. The house has never been plastered and the roof is worn out. The barn is practically a worthless shed. Your committee recommend a new roof and plastering for the house and that the little barn back of South Hall be moved out to make an addition of two rooms to this house. Also that the abandoned stable near the present club house near Morrill Hall be moved out for the services of the Gardener. 
+>Prof. Curtiss has called attention to the gardener's house and barn, near the west gate. The house has never been plastered and the roof is worn out. The barn is practically a worthless shed. Your committee recommend a new roof and plastering for the house and that the little barn back of South Hall be moved out to make an addition of two rooms to this house. Also that the abandoned stable near the present club house near Morrill Hall be moved out for the services of the Gardener. 
 
 <p style="text-align: right;">(Also see Horticulture Barn-First)</p>
 
