@@ -2,9 +2,9 @@
 layout: building
 title: "Field House - Physical Education for Women"
 alternative_name: 
-  - "Home Economics Annex"
-  - "Chemistry Annex #1"
-  - "Little Ankeny"
+  - 'Home Economics Annex'
+  - 'Chemistry Annex #1'
+  - '"Little Ankeny"'
 built:
   - "1920"
   - "Moved 1926"
