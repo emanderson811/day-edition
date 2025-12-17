@@ -5,11 +5,15 @@ alternative_name:
   - "Home Economics Annex"
   - "Chemistry Annex #1"
   - ""Little Ankeny""
-built: 1920
+built:
+  - "1920"
+  - "Moved 1926
 addition: 1943
-architect: 
-contractor: 
-razed: 
+architect: "1920 A.H. Kimball"
+contractor:
+  - "1920 Thomas Sloss"
+  - "Addition: James Thompson & Sons"
+razed: 1953
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
@@ -19,7 +23,7 @@ publication-date: 1980
 
 Home Economics Annex, Chemistry Annex 4/:1, "Little Ankeny" 
 Built: 1920 Moved: 1926 Addition: 1943 Architect: 1920 A.H. Kimball Contractor: 1920 Thomas Sloss 
-Addition: James Thompson & Sons Razed: 1953 
+Addition: James Thompson & Sons Razed: 
 Locations: Originally built just west of Home Economics Build ing (MacKay Hall). In 1926 moved to site just south of Press Building, now marked by a bronze tablet on a boulder there. 
 The large increase in enrollment in the Home Economics department in 1920 created an urgent need for additional space and the construction of a temporary frame building was authorized.(1) It was described in the April 28, 1920, edition of the Iowa State Student: 
 The new building will be a wooden structure, and the rooms ex tend, end to end, in a half circle, beginning on the northeast corner, thirty feet from the main building. The rooms will measure 28 feet in width. The frontage on the north road will continue 125 feet to the west, and turn south in an L, 95 feet. 
