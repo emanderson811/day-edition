@@ -6,7 +6,7 @@ alternative_name:
     - "Ag. Engineering Hall"
     - "Addn. called Farm Mechanics Building"
 built: 1892
-addition: 1903
+addition: "1903"
 architect: 
     - "1892 Josselyn & Taylor"
     - "1903 Proudfoot & Bird"
