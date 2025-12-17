@@ -6,7 +6,7 @@ alternative_name:
     - "Duplex 'A'"
     - "Paulena Nickell House"
 built: 1951-52
-addition: 1962
+addition: "1962"
 architect: 
     - "1952 Griffith & Haines"
     - "1962 Gerald I. Griffith"
