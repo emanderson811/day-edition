@@ -3,7 +3,7 @@ layout: building
 title: "Coover Hall"
 alternative_name: "Electrical Engineering Building"
 built: 1948-53
-addition: 1958-59
+addition: "1958-59"
 architect:
     - "1948 Brooks-Borg"
     - "1958 Leonard Wolf"
