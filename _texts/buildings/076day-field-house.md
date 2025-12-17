@@ -6,7 +6,7 @@ alternative_name:
   - 'Chemistry Annex #1'
   - '"Little Ankeny"'
 built: "1920; Moved: 1926"
-addition: 1943
+addition: "1943"
 architect: "1920 A.H. Kimball"
 contractor:
   - "1920 Thomas Sloss"
