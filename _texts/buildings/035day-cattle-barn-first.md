@@ -3,7 +3,7 @@ layout: building
 title: "Cattle Barn (First)"
 alternative_name: "Farm Barn"
 built: 1860
-addition: 1873
+addition: "1873"
 architect: "Milens Burt of Muscatine"
 contractor: 
 razed: 1928
