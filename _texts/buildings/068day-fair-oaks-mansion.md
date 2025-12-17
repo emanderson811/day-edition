@@ -42,7 +42,7 @@ In the Board minutes for May 1897 the following entry is made:
 
 Prof. Curtiss has called attention to the gardener's house and barn, near the west gate. The house has never been plastered and the roof is worn out. The barn is practically a worthless shed. Your committee recommend a new roof and plastering for the house and that the little barn back of South Hall be moved out to make an addition of two rooms to this house. Also that the abandoned stable near the present club house near Morrill Hall be moved out for the services of the Gardener. 
 
-(Also see Horticulture Barn-First) 
+</p><p style="text-align: right;">(Also see Horticulture Barn-First)</p>
 
 The following month the minutes report that "the barn north of the depot has been moved to gardener's house near west gate at a cost of ten dollars. We recommend it to be placed in repair." 
 
