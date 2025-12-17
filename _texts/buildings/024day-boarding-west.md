@@ -6,7 +6,7 @@ alternative_name:
     - "Hospital"
     - "Detention Ward"
 built: 1880
-addition: 1882
+addition: "1882"
 architect: "Prof. T.L. Smith"
 contractor: 
     - "F.S. Whiting (1880)"
