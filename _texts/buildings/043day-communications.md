@@ -5,7 +5,7 @@ alternative_name:
     - "Telecommunications Building"
     - "WOI Radio - TV"
 built: 1962-64
-addition: 1979-80
+addition: "1979-80"
 architect:
     - "1962 Amos Emery & Assoc."
     - "1979 Rudi Lee Dreyer & Assoc."
