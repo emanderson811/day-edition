@@ -15,7 +15,7 @@ publication-date: 1980
 
 ---
 
-Location: directly north of the north wing of Old Botany. 
+**Location:** directly north of the north wing of Old Botany. 
 
 The first request for a building to house large equipment for the Agricultural Engineering Department appears in the Biennial Report for 1908-10 when the cost of a building 50 x 120 feet of steel frame, brick walls and slate roof was estimated at $6000. In the report two years later the cost estimate was $10,000. 
 
