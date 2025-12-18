@@ -15,6 +15,7 @@ publication-date: 1980
 ---
 
 **Designed and built:** Thomas Sloss 
+
 **Sold and moved:** 1966 
 
 This house was located at what is today the southeast corner of the East Hall addition. Late in 1911 the Board authorized $1500 for erection of a iive or six room house for the farm herdsman.(1) Work was not started until the following spring when Supt. Sloss was "orderecl to wreck the old veterinary barns, and to commence work on the herdsman's house." (2) 
