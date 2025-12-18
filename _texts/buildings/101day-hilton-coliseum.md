@@ -1,10 +1,11 @@
 ---
 layout: building
 title: "Hilton Coliseum"
-alternative_name: 
+alternative_name: "Fieldhouse-Auditorium"
 built: 
 addition:
 architect: 
+  
 contractor: 
 razed: 
 author:
