@@ -18,7 +18,7 @@ publication-date: 1980
 
 ---
  
-Located 100 feet south of Engineering Annex. Long axis east-west.
+>Located 100 feet south of Engineering Annex. Long axis east-west.
 
 The contract for construction of the Carpenter Shop was let in May 1898, in the amount of $4,387. 
 
