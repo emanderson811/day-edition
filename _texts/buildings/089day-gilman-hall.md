@@ -32,18 +32,18 @@ A story in the May 23, 1914 *Iowa State Student* describes the new building:
 
 [^fn1]: Minutes, September 1913 
 
-<p style="text-align: center;">Large Auditorium in Center</p>
+## Large Auditorium in Center
 
 
 >The total, useable floor space will be 110,000 square feet. An auditorium will be in the center of the building, it beginning on the ground floor at the lowest elevation of the floor and rising at the rear to the level of the first floor. The auditorium lighting will be by a top skylight, to be darkened by a curtain controlled by a motor. The seating capacity of the auditorium is to be 390, which is about that of the auditoriums of the chemistry buildings of the larger universities. The auditorium will be equipped with a reflectoscope stereoptican. A large lecture table will be arranged in triplicate so that the central portion of it can be off the stage into the preparation rooms, where the experiments may be set in place and then set up in the lecture room. 
 >
 >The general ventilation of the building will be controlled by two 30 horse power motors driving fans which will pump into, and force out of, the building 180,000 cubic feet of air a minute. Each floor of each wing will be under damper control so that the air may be shut off. By this ventilating system, the air comes in from the bottom of the floor and is ejected at the top, which in most of the chemistry buildings of the country, is vice versa. The ventilating system is a special one for the Ames chemistry building, and by it the building is divided into units of electrically operated ventilating machinery which controls the opening and closing hoods of the ventilating apertures. Its advantages are positive ventilation and cheapest operation. 
 
-<p style="text-align: center;">Store Room for Each Floor</p>
+## Store Room for Each Floor
 
 >The building has a store room system. All floors have store rooms in vertically the same parts of the building connecting with each other by an elevator and dumb waiter. The administrative office, the office of Prof. W.F. Coover, the new head of the chemistry department succeeding Prof. A.A. Bennett, who went to California soon after the old Chem hall fire, will be on the second floor. The offices of the associate and assisiant professors will be located throughout, and in different parts of the building, adjacent to their particular work and departments. The instructors will have offices, immediately in their sections of the various laboratories.
 
-<p style="text-align: center;">Room for 2500 Students</p>
+## Room for 2500 Students
 
 >The capacity of the building is to be between 2,000 and 2,500 lockers. There were, last semester, 1500 students in the whole college, taking some form of chemistry work. Prof. Coover and the faculty planned the building with the idea in mind to have it accommodate the chemistry department for ten years. "But, at the present rate of development of the college, the building will not do more than do this," says Prof. Coover. 
 >
@@ -51,7 +51,7 @@ A story in the May 23, 1914 *Iowa State Student* describes the new building:
 > 
 >Rooms will be provided for graduate work in applied science, along the lines demanded by the various divisions of the college. It is the purpose of the department of chemistry to offer only that graduate work which is essential to the proper development of the institution. 
 
-<p style="text-align: center;">Asphalt Floors Provided</p>
+## Asphalt Floors Provided
 
 >One of the most important features of the new hall is that the building was planned with the idea of getting away from cement floors, which have a decided and detrimental tiring effect on the body. Asphalt floors will go down in all the working floors of the building. Asphalt flooring is elastic and is said to be much more satisfactory than hard, unelastic concrete where stu dents work entire half days at a time always standing. 
 >
