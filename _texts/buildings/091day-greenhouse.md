@@ -3,7 +3,7 @@ layout: building
 title: "Greenhouse"
 alternative_name: "(East of Botany Hall)"
 built: 1896
-addition:"1903"
+addition: "1903"
 architect: "1903 Proudfoot and Bird"
 contractor: 
   - "1896 Lord & Burnham; M. Hullabarger (foundation)"
