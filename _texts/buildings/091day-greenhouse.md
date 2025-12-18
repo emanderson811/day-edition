@@ -1,6 +1,6 @@
 ---
 layout: building
-title: 
+title: "Greenhouse"
 alternative_name: "(East of Botany Hall)"
 built: 1896
 addition:"1903"
