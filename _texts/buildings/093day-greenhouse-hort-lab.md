@@ -22,8 +22,8 @@ The need for a greenhouse was first stated in the Biennial Report for 1876-77:
 
 State funds were not forthcoming, but a solution was reached as reported in *The Aurora* of April 1879: "Our last legislature, wisely or unwisely, refused to grant an appropriation for building a greenhouse. Yet 'where there's a will, there is a way'.  Prof. Budd improvised a neat little plant room at the horticulture laboratory which is like a New York omnibus, as it will always hold one more flower."
 
-This greenhouse served, though inadequately, until the Experiment Station Building (Bevier Hall) was built with its propagating house in 1888. It continued in use for another few years until it was razed in 1894. 
+This greenhouse served, though inadequately, until the Experiment Station Building (Bevier Hall) was built with its propagating house in 1888.[^fn1] It continued in use for another few years until it was razed in 1894. 
 
 (The Horticulture Laboratory referred to here is the building carried under the name Farm Boarding Club.) 
 
-(1) Minutes, May 1888
+[^fn1]: Minutes, May 1888
