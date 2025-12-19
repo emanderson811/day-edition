@@ -24,7 +24,7 @@ Construction started in September 1955 and was completed a year later in time fo
 >
 >Among the many objectives of the home management program is to help the home economics student get an integrated view of home making responsibilities and to learn to make decisions on how to use time, money, and other resources to accomplish desired goals." 
 
-In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900' s editor of the AREA journal. [^fn3] 
+In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900' s editor of the AHEA journal. [^fn3] 
 
 [^fn1]:  Minutes, October 14-15, 1954  
 
