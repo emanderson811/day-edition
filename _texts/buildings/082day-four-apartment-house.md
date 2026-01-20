@@ -2,7 +2,9 @@
 layout: building
 title: "Four-Apartment House"
 alternative_name: 
-built: "1921; Moved: 1940"
+built: 
+  - "1921"
+  - "Moved: 1940"
 addition:
 architect: 
 contractor: 
