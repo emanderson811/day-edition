@@ -2,7 +2,7 @@
 layout: building
 title: "Agricultural Engineering Machine Shed"
 alternative_name: 
-built: 1931
+built: "1931"
 addition:
 architect: "Henry Geise, Professor of Agricultural Engineering"
 contractor: "Thomas Sloss, Supt. Bldgs. & Grounds"

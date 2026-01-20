@@ -2,7 +2,7 @@
 layout: building
 title: "Agricultural Engineering Shop and Shed"
 alternative_name: "Farrier's Shop"
-built: 1923
+built: "1923"
 addition:
 architect:
 contractor: 

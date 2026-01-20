@@ -2,8 +2,13 @@
 layout: building
 title: "Armory"
 alternative_name: 
-built: "1920-21 Burned: 1922 Rebuilt: 1923"
-addition: "1941 Major Remodeling: 1955-56"
+built: 
+    - "1920-21"
+    - "Burned: 1922"
+    - "Rebuilt: 1923"
+addition: 
+    - "1941"
+    - "Major Remodeling: 1955-56"
 architect: 
     - "Proudfoot, Bird & Rawson"
     - "Brooks, Borg"
