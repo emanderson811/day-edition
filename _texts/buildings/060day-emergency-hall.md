@@ -6,7 +6,7 @@ built: 1901
 addition:
 architect: "H.F. Liebbe"
 contractor: "H.W. Schleuter"
-razed: 1906
+razed: "1906"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
