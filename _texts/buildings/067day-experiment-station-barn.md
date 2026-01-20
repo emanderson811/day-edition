@@ -2,7 +2,7 @@
 layout: building
 title: "Experiment Station Barn"
 alternative_name: 
-built: 1902
+built: "1902"
 addition:
 architect: 
   - "Liebbe"
