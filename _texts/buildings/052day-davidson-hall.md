@@ -2,7 +2,9 @@
 layout: building
 title: "Davidson Hall"
 alternative_name: "Agricultural Engineering Laboratory"
-built: "1921 Occupied: 1922"
+built: 
+ - "1921"
+ - "Occupied: 1922"
 addition:
 architect: "Proudfoot Bird & Rawson"
 contractor: "Supt. Thomas Sloss"
