@@ -2,7 +2,7 @@
 layout: building
 title: "Fruit Storage Shed"
 alternative_name: 
-built: 1916
+built: "1916"
 addition:
 architect: 
 contractor: 
