@@ -2,7 +2,7 @@
 layout: building
 title: "Driver Training Laboratory"
 alternative_name: "Recreation Building"
-built: 1947
+built: "1947"
 addition:
 architect:
 contractor: 
