@@ -2,7 +2,9 @@
 layout: building
 title: "Gilman Hall"
 alternative_name: 
-built: "1913; Remodeled: 1954, 1956, 1960" 
+built: 
+  - "1913"
+  - "Remodeled: 1954, 1956, 1960" 
 addition: "1963-64"
 architect: 
   - "1913 Proudfoot, Bird & Rawson"
