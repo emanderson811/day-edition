@@ -4,7 +4,7 @@ title: "Greenhouse"
 alternative_name: 
   - "(At Experiment Station Building)"
   - "Propagating House"
-built: 1888
+built: "1888"
 addition: 
 architect: "Foster & Liebbe"
 contractor: "Smith & Tusant"
