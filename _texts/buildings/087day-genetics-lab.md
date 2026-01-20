@@ -2,7 +2,7 @@
 layout: building
 title: "Genetics Laboratory"
 alternative_name: 
-built: 1932
+built: "1932"
 addition:
   - "1940-41"
   - "1952-53"
