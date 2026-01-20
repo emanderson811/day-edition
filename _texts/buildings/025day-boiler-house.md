@@ -2,7 +2,7 @@
 layout: building
 title: "Boiler House"
 alternative_name: "At Main Building"
-built: 1876
+built: "1876"
 addition:
 architect:
 contractor: "Peter Raff & Son" 
