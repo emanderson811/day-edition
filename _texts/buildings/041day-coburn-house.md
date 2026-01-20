@@ -6,7 +6,7 @@ alternative_name:
     - "Practice House"
     - "Mary B. Welch House"
     - "Gertrude Coburn Home Management House"
-built: 1888
+built: "1888"
 addition:
 architect:
 contractor: 
