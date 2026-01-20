@@ -2,7 +2,7 @@
 layout: building
 title: "Building 'A'"
 alternative_name: "Foundry"
-built: 1897
+built: "1897"
 addition:
 architect: "Hallett & Rawson"
 contractor: "J.F. Atkinson & Bro."
