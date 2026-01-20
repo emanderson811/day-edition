@@ -2,7 +2,7 @@
 layout: building
 title: "Horticulture Hall and Greenhouse"
 alternative_name: "Plant Propagation Building"
-built: 1914
+built: "1914"
 addition: "1978-80"
 architect: 
   - "Proudfoot, Bird and Rawson (1914)"
