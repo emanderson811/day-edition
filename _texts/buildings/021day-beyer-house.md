@@ -4,7 +4,7 @@ title: "Beyer House"
 alternative_name: 
     - "Child Nursery Annex"
     - "Nurses' Home"
-built: 1901
+built: "1901"
 addition:
 architect:
 contractor: 
