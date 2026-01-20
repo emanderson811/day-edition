@@ -4,7 +4,7 @@ title: "Driver Training Storage"
 alternative_name: 
     - "Garage - Extension Service"
     - "Equipment Storage"
-built: 1931
+built: "1931"
 addition:
 architect:
 contractor: 
