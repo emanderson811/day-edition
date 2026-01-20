@@ -4,7 +4,7 @@ title: "Greenhouse"
 alternative_name: 
   - "(At First Horticulture Laboratory)"
   - "Propagating House"
-built: 1879
+built: "1879"
 addition:
 architect: 
 contractor: 
