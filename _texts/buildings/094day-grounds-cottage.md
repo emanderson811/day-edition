@@ -5,7 +5,7 @@ alternative_name:
   - "Sexton Cottage"
   - "Old Horticulture Cottage"
   - "Gardener's Cottage"
-built: 1882
+built: "1882"
 addition:
 architect: "Professors Knapp and Budd"
 contractor: 
