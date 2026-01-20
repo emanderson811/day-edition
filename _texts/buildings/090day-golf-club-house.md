@@ -2,7 +2,7 @@
 layout: building
 title: "Golf Club House"
 alternative_name: 
-built: 1972
+built: "1972"
 addition:
 architect: "Physical Plant Department"
 contractor: "Physical Plant and Siedelmann Construction Co."
