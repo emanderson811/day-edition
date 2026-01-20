@@ -2,7 +2,7 @@
 layout: building
 title: "Experimental Barn"
 alternative_name: 
-built: 1894
+built: "1894"
 addition:
 architect: "Nourse & Hallett"
 contractor: "Bisbee & Potter"
