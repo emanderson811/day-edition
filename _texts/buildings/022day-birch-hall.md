@@ -4,7 +4,7 @@ title: "Birch Hall"
 alternative_name: 
     - "Welch East"
     - "Dormitory #5 and #6"
-built: 1922
+built: "1922"
 addition: 1924-25
 architect: "Proudfoot, Bird & Rawson"
 contractor: 
