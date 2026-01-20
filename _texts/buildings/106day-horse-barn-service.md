@@ -2,7 +2,7 @@
 layout: building
 title: "Horse Barn at Service Area"
 alternative_name: "Public Grounds Barn"
-built: 1924
+built: "1924"
 addition:
 architect: "Proudfoot, Bird & Rawson"
 contractor: "Peterson, Netcott & Martin"
