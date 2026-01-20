@@ -2,7 +2,7 @@
 layout: building
 title: "Eastwood Cottage"
 alternative_name: "Farm Workman's Cottage"
-built: 1878
+built: "1878"
 addition:
 architect:
 contractor: 
