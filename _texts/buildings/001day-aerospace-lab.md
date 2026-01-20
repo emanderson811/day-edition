@@ -5,7 +5,7 @@ alternative_name:
     - Carpenter Shop
     - Pattern Shop
     - Aeronautical Engineering Laboratory
-built: 1898
+built: "1898"
 addition:
 architect:
 contractor: "Zitterell & Atkinson"
