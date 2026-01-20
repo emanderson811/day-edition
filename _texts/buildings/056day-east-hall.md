@@ -4,7 +4,7 @@ title: "East Hall"
 alternative_name:
     - "Dairy Building (until 1928)"
     - "Agricultural Annex (1928-1961)"
-built: 1904
+built: "1904"
 addition:
 architect: "Proudfoot & Bird"
 contractor: 
