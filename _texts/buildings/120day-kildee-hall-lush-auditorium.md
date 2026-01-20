@@ -26,11 +26,6 @@ plemented the state appropriation.
 Construction contracts were awarded in May 1963.(4) 
 In August of 1963 it was decided to proceed with plans for the audi 
 torium addition to the building, and contracts for that work were 
-(1) 
-Iowa State Student, October 23, 1915 
-
-(2) 
-Ibid. 
 
 
 (3) Minutes, June 22-23, 1961 
