@@ -2,7 +2,7 @@
 layout: building
 title: "Fair Oaks Mansion"
 alternative_name: "Bus House"
-built: 1879
+built: "1879"
 addition:
 architect: 
 contractor: 
