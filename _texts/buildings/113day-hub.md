@@ -4,7 +4,7 @@ title: "The Hub"
 alternative_name: 
   - "Depot"
   - "Bookstore and Post Office"
-built: 1892
+built: "1892"
 addition:
   - "1920"
   - "1946"
