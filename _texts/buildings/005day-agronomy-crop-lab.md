@@ -5,7 +5,7 @@ alternative_name:
     - Stock Pavilion
     - "Judging Pavilion #2"
     - Crop Science Laboratory
-built: 1903
+built: "1903"
 addition:
 architect: "Proudfoot & Bird"
 contractor: 
