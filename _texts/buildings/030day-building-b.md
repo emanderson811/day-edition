@@ -2,7 +2,7 @@
 layout: building
 title: "Building 'B'"
 alternative_name: "Forge Shop"
-built: 1906
+built: "1906"
 addition: 
 architect: "Proudfoot & Bird"
 contractor: "Western Steel Construction Co."
