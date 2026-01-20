@@ -2,7 +2,9 @@
 layout: building
 title: "Duplex"
 alternative_name: 
-built: "1917 Occupancy: 1918"
+built: 
+  - "1917"
+  - "Occupancy: 1918"
 addition:
 architect:
 contractor: "Thomas Sloss"
