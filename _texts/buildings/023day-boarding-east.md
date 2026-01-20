@@ -4,7 +4,7 @@ title: "Boarding Cottage (East)"
 alternative_name: 
     - "Kirkwood Hall"
     - "The Quarters"
-built: 1882
+built: "1882"
 addition:
 architect: "Prof. Belanger"
 contractor: "V. Tomlinson"
