@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-At the May 1881 meeting of the Board of Regents a letter from Pro fessor Budd was read. He requested approval to purchase a team and "to erect a small barn to shelter the same and for storing tools, etc." The Board authorized the purchase of the horses but not building a barn. 
+At the May 1881 meeting of the Board of Regents a letter from Professor Budd was read. He requested approval to purchase a team and "to erect a small barn to shelter the same and for storing tools, etc." The Board authorized the purchase of the horses but not building a barn. 
 
 The following  January the Board appropriated $202 "for the purpose of reimbursing Prof. Budd the amount expended by him in the erection of a barn for the Horticultural Department."[^fn1] 
 
