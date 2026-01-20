@@ -18,7 +18,7 @@ The Towers (with Wallace &Wilson Halls)
 Built: 1964-66 Architects: Crites and McConnell Contractor: James Thompson & Sons 
 Increasing enrollments led to the need for additional housing. The decision was reached to construct a hall for 1200 men with associated dining facilities. This was planned as the first unit in a complex ultimately to house 3600 men. However, only the first and second units were constructed as part of what is now called the Towers Resi dence area. 
 Various sites were considered for the location of this large complex. One was the location on the portion of the golf course then south of the railroad on the north side of Pannnel Drive; another was the old horticulture farm. It was decided to use the poultry farm area and to relocate facilities thereon to a new off-campus site to the south.(2) 
-(1) Minutes, September 24-25, 1964 
+
 (2) Minutes, October 4-6, 1962 
 303 
 The architect agreement was approved in March 1963; plans were com pleted and bids were received in March 1964 with construction con tracts awarded the following month.(l) This project was planned with two buildings, each to house 600 men, and a connecting commons build ing for food service, lounges and other needs for general use. 
