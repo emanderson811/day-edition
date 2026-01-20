@@ -9,7 +9,7 @@ addition:
   - "1920"
   - "1946"
   - "1952"
-architect: "Josseiyn & Taylor"
+architect: "Josselyn & Taylor"
 contractor: "Whiting & Wood"
 razed: 
 author:
