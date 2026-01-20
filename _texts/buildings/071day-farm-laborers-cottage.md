@@ -4,7 +4,7 @@ title: "Farm Laborer's Cottage"
 alternative_name: 
   - "Leighton House"
   - "McKay House"
-built: 1882
+built: "1882"
 addition:
 architect: "Professors Knapp and Budd"
 contractor: 
