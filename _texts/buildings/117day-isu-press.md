@@ -2,7 +2,7 @@
 layout: building
 title: "ISU Press Building"
 alternative_name: "Collegiate Press Building" 
-built: 1940
+built: "1940"
 addition:
   - "1947-48"
   - "1951"
