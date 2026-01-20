@@ -2,7 +2,9 @@
 layout: building
 title: "Cattle Barn"
 alternative_name: 
-built: "1924-25; 1931-32 (Rebuilt)"
+built: 
+    - "1924-25"
+    - "Rebuilt: 1931-32"
 addition:
 architect: 
     - "Proudfoot, Bird & Rawson"
