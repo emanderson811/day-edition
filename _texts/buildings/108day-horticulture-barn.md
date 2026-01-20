@@ -2,7 +2,7 @@
 layout: building
 title: "Horticulture Barn"
 alternative_name: "Child Nursery Building (1928-48)"
-built: 1904
+built: "1904"
 addition:
 architect: "Proudfoot & Bird"
 contractor: "M. Hullibarger"
