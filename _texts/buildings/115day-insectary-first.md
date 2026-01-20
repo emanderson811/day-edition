@@ -2,7 +2,7 @@
 layout: building
 title: "Insectary (First)"
 alternative_name: 
-built: 1903
+built: "1903"
 addition:
 architect: "Proudfoot & Bird"
 contractor: "C.E. Atkinson"
