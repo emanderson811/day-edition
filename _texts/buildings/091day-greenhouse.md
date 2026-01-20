@@ -2,7 +2,7 @@
 layout: building
 title: "Greenhouse"
 alternative_name: "(East of Botany Hall)"
-built: 1896
+built: "1896"
 addition: "1903"
 architect: "1903 Proudfoot and Bird"
 contractor: 
