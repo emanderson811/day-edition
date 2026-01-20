@@ -24,8 +24,7 @@ Superintendent Sloss and his department.
 The pavilion was completed by October 1925 when funds were allocated 
 for fencing of the adjacent areas.(5) 
 In 1931 President Hughes reported that "the Judging Pavilion had been remodeled somewhat in order to make it serviceable for public speaking."(6) 
-(1)  Minutes, December 13-14,  1956  
-(2)  Minutes, April 14-15, 1955  
+
 (3)  Iowa State Student, May 23,  1921  
 (4)  Minutes, September 23,  1924  
 (5)  Minutes,  October 20,  1925  
