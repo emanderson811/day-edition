@@ -2,7 +2,7 @@
 layout: building
 title: "Forage Shed"
 alternative_name: 
-built: 1923
+built: "1923"
 addition:
 architect: 
 contractor: 
