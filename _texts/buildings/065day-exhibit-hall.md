@@ -6,7 +6,7 @@ alternative_name:
   - "Garage"
   - "Automobile Laboratory"
   - "Aeronautical Laboratory"
-built: 1918
+built: "1918"
 addition:
 architect: 
 contractor: 
