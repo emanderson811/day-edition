@@ -2,7 +2,7 @@
 layout: building
 title: "Feeding Barn"
 alternative_name: 
-built: 1880
+built: "1880"
 addition:
 architect: "Prof T.L. Smith"
 contractor: "F,S. Whiting"
