@@ -5,7 +5,7 @@ alternative_name:
     - "(Old) Agricultural Hall"
     - "Ag. Engineering Hall"
     - "Addn. called Farm Mechanics Building"
-built: 1892
+built: "1892"
 addition: "1903"
 architect: 
     - "1892 Josselyn & Taylor"
