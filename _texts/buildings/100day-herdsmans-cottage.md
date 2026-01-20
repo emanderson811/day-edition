@@ -2,7 +2,7 @@
 layout: building
 title: "Herdsman's Cottage"
 alternative_name: 
-built: 1912 
+built: "1912"
 addition:
 architect: 
 contractor: 
