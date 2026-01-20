@@ -4,7 +4,9 @@ title: "Carpenter Shop"
 alternative_name: 
     - "Stock Judging Pavilion"
     - "Pavilion #3"
-built: "1911 Occupied: 1912"
+built: 
+    - "1911" 
+    - "Occupied: 1912"
 addition:
 architect: "Proudfoot & Bird"
 contractor: "Direction by Thomas Sloss"
