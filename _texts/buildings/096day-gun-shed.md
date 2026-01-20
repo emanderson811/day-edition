@@ -2,7 +2,9 @@
 layout: building
 title: "Gun Shed"
 alternative_name: 
-built: "1916; Moved to Dairy Farm: 1924"
+built: 
+  - "1916"
+  - "Moved to Dairy Farm: 1924"
 addition:
 architect: 
 contractor: 
