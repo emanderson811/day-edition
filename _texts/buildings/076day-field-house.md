@@ -5,7 +5,9 @@ alternative_name:
   - 'Home Economics Annex'
   - 'Chemistry Annex #1'
   - '"Little Ankeny"'
-built: "1920; Moved: 1926"
+built:
+  - "1920"
+  - "Moved: 1926"
 addition: "1943"
 architect: "1920 A.H. Kimball"
 contractor:
