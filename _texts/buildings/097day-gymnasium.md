@@ -2,7 +2,7 @@
 layout: building
 title: "Gymnasium"
 alternative_name: 
-built: 1883
+built: "1883"
 addition:
 architect: 
 contractor: 
