@@ -5,7 +5,7 @@ alternative_name:
     - "Stanton Hall"
     - "Hospital"
     - "Detention Ward"
-built: 1880
+built: "1880"
 addition: "1882"
 architect: "Prof. T.L. Smith"
 contractor: 
