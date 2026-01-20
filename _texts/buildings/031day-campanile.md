@@ -2,7 +2,7 @@
 layout: building
 title: "Campanile"
 alternative_name: 
-built: 1897
+built: "1897"
 addition:
 architect: "George E. Hallett"
 contractor: "J.F. Atkinson & Bro."
