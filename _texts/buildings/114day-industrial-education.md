@@ -22,7 +22,7 @@ Work on the project was completed and accepted in March 1963.[^fn3]
 
 Remodeling to the extent of about $10,000 was done in 1973. 
 
-[^fn1]]:  Minutes, March 8-9,  1962  
+[^fn1]:  Minutes, March 8-9,  1962  
 
 [^fn2]: Iowa State Daily, August 17, 1961  
 
