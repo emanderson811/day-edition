@@ -2,7 +2,7 @@
 layout: building
 title: "Feed Storage Elevator"
 alternative_name: "Feed Barn"
-built: 1929
+built: "1929"
 addition:
 architect: 
   - "Proudfoot"
