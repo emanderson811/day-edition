@@ -5,7 +5,7 @@ alternative_name:
     - "Experiment Station Building"
     - "Klatter Klub"
     - "Sloss House"
-built: 1888
+built: "1888"
 addition:
 architect: "Foster & Liebbe"
 contractor: "Smith & Tusant"
