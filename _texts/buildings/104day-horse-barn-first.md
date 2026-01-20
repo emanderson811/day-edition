@@ -2,7 +2,7 @@
 layout: building
 title: "Horse Barn (First)"
 alternative_name: 
-built: 1870
+built: "1870"
 addition:
 architect: 
 contractor: 
