@@ -18,7 +18,7 @@ publication-date: 1980
 
 Located on north side of Lincoln Way, second lot east of Knoll Road. 
 
-Mrs. Beardshear was granted a building site for her home in November 1902, under the same terms and conditions established for Dr. Cessna. (See Kildee Cottage.) 
+Mrs. Beardshear was granted a building site for her home in November 1902, under the same terms and conditions established for Dr. Cessna. (See [Kildee Cottage](https://emanderson811.github.io/day-edition/texts/buildings/119day-kildee-cottage/).) 
 
 In April, 1903, it was reported that "the foundation brick for Mrs. Beardshear's house are on the grounds and work is to be begun soon." [^fn1]
 
