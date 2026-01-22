@@ -18,7 +18,7 @@ This building is composed of three units built at different times, but now formi
 
 ## MACHINE SHOP  
 
-</p>Built: 1907-08<br> 
+<p>Built: 1907-08<br> 
 Architect: Proudfoot & Bird<br>
 Contractor: H.W. Schleuter <p>
   
@@ -26,7 +26,8 @@ The Machine Shop was the first part of the laboratory to be built and fciifl'!ms
 
 "During the construction of this building the board became convinced that much additional room could be obtained at small additional cost by building a gallery around the main floor." [^fn2] An additional $1000 was made available for that construction and the building was completed in the summer of 1908. 
 
-STEAM AND GAS LABORATORY 
+## STEAM AND GAS LABORATORY 
+
 Built: 1913-1914 Architect: Proudfoot Bird & Rawson Contractor: C.E. Heaps 
 This unit includes the east 120 feet and north wing of the Mechanical Engineering Laboratory. The contract was let in October 1912, but construction did not start until the following spring.(3) The 125 feet high smoke-stack of radial brick was built in conjunction with the laboratory. The stack was razed in 1978. The building was ready for occupancy in February 1914.(4) This unit, too, had a second floor around the perimeter with a large area open from first floor to the roof. 
 
