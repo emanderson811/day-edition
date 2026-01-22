@@ -14,28 +14,29 @@ publication-date: 1980
 ---
 ---
 
-This building is composed of three units built at different times, but 
-now  forming  a  single structure.  These units  are discussed under their  
-earlier names  as  headings.  
-MACHINE  SHOP  
+This building is composed of three units built at different times, but now forming a single structure. These units are discussed under their earlier names as headings.  
 
-Built: 1907"-08 Architect: Proudfoot & Bird Contractor: H.W. Schleuter 
-The Machine Shop was the first part of the laboratory to be built and fciifl'!ms the west portion of the present building. Plans were pre pared early in 1907 and the construction contract was awarded in May of that year.(1) 
-"During the construction of this building the board became convinced that much additional room could be obtained at small additional cost by building a gallery around the main floor." (2) An additional $1000 was made available for that construction and the building was completed in the summer of 190'8. 
+## MACHINE SHOP  
+
+</p>Built: 1907-08<br> 
+Architect: Proudfoot & Bird<br>
+Contractor: H.W. Schleuter <p>
+  
+The Machine Shop was the first part of the laboratory to be built and fciifl'!ms the west portion of the present building. Plans were prepared early in 1907 and the construction contract was awarded in May of that year.[^fn1]
+
+"During the construction of this building the board became convinced that much additional room could be obtained at small additional cost by building a gallery around the main floor." [^fn2] An additional $1000 was made available for that construction and the building was completed in the summer of 1908. 
+
 STEAM AND GAS LABORATORY 
 Built: 1913-1914 Architect: Proudfoot Bird & Rawson Contractor: C.E. Heaps 
 This unit includes the east 120 feet and north wing of the Mechanical Engineering Laboratory. The contract was let in October 1912, but construction did not start until the following spring.(3) The 125 feet high smoke-stack of radial brick was built in conjunction with the laboratory. The stack was razed in 1978. The building was ready for occupancy in February 1914.(4) This unit, too, had a second floor around the perimeter with a large area open from first floor to the roof. 
-(1) 
-Minutes, May 1907 
 
-(2) 
-Biennial Report, 1906-08 
+[^fn1]: Minutes, May 1907 
 
-(3) 
-ISC Student, April 1, 1913 
+[^fn2]: Biennial Report, 1906-08 
 
-(4) 
-ISC Student, March 3, 1914 
+[^fn3]: ISC Student, April 1, 1913 
+
+[^fn4]: ISC Student, March 3, 1914 
 
 
 ADDITION TO STEAM AND GAS LABORATORY 
@@ -53,3 +54,9 @@ wiring and installation of fixtures in the remodeled areas,
 painting, and asphalt tile floors.(1) 
 Plans for this remodeling were prepared by the Physical Plant De partment and construction work was by that department "on a job order basis for individual sections as they can be vacated." (2) 
 The final report, April ~962, showed a total cost of $51,757.86 ex pended on this second phase of remodeling.
+
+(1) 
+Minutes, June 1959 
+
+(2) 
+Minutes, November 1959 
