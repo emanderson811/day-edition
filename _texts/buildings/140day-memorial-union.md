@@ -34,11 +34,6 @@ Contractors:  1927  Arthur H.  Neumann & Co.
 1972  Allen Construction Co.  
 1978  Story Construction Co.  
 
-(1) 
-Minutes, June 1959 
-
-(2) 
-Minutes, November 1959 
 
 
 349 
