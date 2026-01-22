@@ -80,7 +80,8 @@ A new architect, Charles A. Dunham, of Burlington, was employed in February 1865
 <p style="text-align: right;">Your obediant servant,</p>
 
   <p style="text-align: right;">C.A. Dunham,<br>
-Architect Iowa Agl. College Building Burlington Iowa, Nov. 22nd, 1865</p>
+Architect Iowa Agl. College Building <br>
+Burlington Iowa, Nov. 22nd, 1865</p>
 
 During 1865 and the spring of 1866 the foundations were completely rebuilt and most of the basement finished. On June 25, 1866 a contract was signed with Jacob Reichard for completion of the building. About the same time an agreement was executed with Dunham for preparing plans and specifications and for superintending construction. The construction contract called for the building to be completed by the first day of October 1867. That was not accomplished. Delays were caused by harsh weather, difficulties in getting materials and lack of adequate appropriations. 
 
