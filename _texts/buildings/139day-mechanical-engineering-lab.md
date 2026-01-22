@@ -20,7 +20,7 @@ This building is composed of three units built at different times, but now formi
 
 <p>Built: 1907-08<br> 
 Architect: Proudfoot & Bird<br>
-Contractor: H.W. Schleuter <p>
+Contractor: H.W. Schleuter <p/>
   
 The Machine Shop was the first part of the laboratory to be built and fciifl'!ms the west portion of the present building. Plans were prepared early in 1907 and the construction contract was awarded in May of that year.[^fn1]
 
