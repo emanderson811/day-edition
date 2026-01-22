@@ -21,9 +21,7 @@ Biennial Report (July 1, 1903 to June 30, 1905):
 Among our needs for additional buildings one of the most urgent is that of a building to be used as an Animal Husbandry labora tory. A building of this kind would serve a most useful prupose 
 in connection with both the instruction and research work of the College and Experiment Station. 
 It was not until 1913 that the building was approved.(4) Two years later "The Board Architect was instructed to prepare tentative plans."(5) Final plans were approved in August 1916(6) and the decision was made 
-(1)  Minutes, May  1909  
-(2)  Minutes, April 1924  
-(3)  Minutes,  June  1955  
+ 
 (4)  ISC  Student, May 20,  1913  
 (5)  Minutes, January 22,  1915  
 (6)  Minutes, August 9,  1916  
