@@ -65,9 +65,9 @@ In March, 1959, an appropriation of $50,000 was made for further remodeling:
 
 >This project will consist of remodeling to provide five more classrooms and to improve all of the existing classrooms in the building. The work will include construction of partitions, in stallation of plumbing, heating and ventilating services, re wiring and installation of fixtures in the remodeled areas, painting, and asphalt tile floors.[^fn5]
 
-Plans for this remodeling were prepared by the Physical Plant De partment and construction work was by that department "on a job order basis for individual sections as they can be vacated." (2) 
+Plans for this remodeling were prepared by the Physical Plant De partment and construction work was by that department "on a job order basis for individual sections as they can be vacated." [^fn6] 
 
-The final report, April ~962, showed a total cost of $51,757.86 ex pended on this second phase of remodeling.
+The final report, April 1962, showed a total cost of $51,757.86 expended on this second phase of remodeling.
 
 [^fn5]: Minutes, June 1959 
 
