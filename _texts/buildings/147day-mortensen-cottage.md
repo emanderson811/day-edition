@@ -2,7 +2,9 @@
 layout: building
 title: "Mortensen Cottage"
 alternative_name: "Budd House"
-built: "1877"
+built: 
+  - "1877"
+  - "Relocated: 1892"
 addition: "1884"
 architect: 
 contractor: 
@@ -13,8 +15,6 @@ source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
 ---
-
-Relocated: 1892 
 
 Originally located on site where Botany Hall stands now. 
 
