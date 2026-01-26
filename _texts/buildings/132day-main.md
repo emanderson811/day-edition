@@ -79,7 +79,7 @@ A new architect, Charles A. Dunham, of Burlington, was employed in February 1865
 
 <p style="text-align: right;">Your obediant servant,</p>
 
-    <p style="text-align: right;">C.A. Dunham,<br>
+<p style="text-align: right;">C.A. Dunham,<br>
 Architect Iowa Agl. College Building <br>
 Burlington Iowa, Nov. 22nd, 1865</p>
 
