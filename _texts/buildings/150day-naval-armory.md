@@ -1,7 +1,9 @@
 ---
 layout: building
 title: "Naval Armory"
-alternative_name: "Naval Diesel School Laboratory" 
+alternative_name: 
+  - "Naval Diesel School Laboratory"
+  - "Addition to Mechanical Engineering Laboratory"
 built: "1942"
 addition:
 architect: "A.H. Kimball"
@@ -12,9 +14,7 @@ rights: Public Domain
 source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
----
-
-Addition to Mechanical Engineering Laboratory 
+--- 
 
 The steps taken in the development of this proiect are not well brought out in the Board Minutes. The earliest reference was at the October 4, 1940, meeting when authorization was given "to accept works Progress Administration funds if they are made available for improvement and building projects for the Reserve Officers Training Corps, if and when needed, subject to final approval by the Iowa State Board of Education." 
 
