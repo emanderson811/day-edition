@@ -25,10 +25,7 @@ that year includes a third unit, attached to the south end of the
 southern of the original two buildings. No references have been lo 
 cated to indicate anything about construction of the third element. 
 The Financial Report first records the value at $650 in 1932 and con 
-(1)  Minutes, April 12-13,  1951  
-(2)  Minutes, May 7-8,  1959  
-(3)  Iowa State Daily,  June  18, 1959  
-(4)  Minutes,  June  16-17,  1966  
+
 
 tinues it at that figure until 1977 when a reduction to $188.06 was made to allow for the value of the original two units which were razed early that year. 
 The remaining unit is currently used as a storage area.
