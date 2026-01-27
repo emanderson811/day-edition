@@ -22,4 +22,4 @@ Home Management Duplex B became the Genevieve Fisher House in 1957. In 1962 the 
 
 When the College of Education became a separate entity in 1968 the Nickell-Fisher House became its headquarters and continued in that use until 1976. Since then the house has served as student living quarters. 
 
-Also see entry under <a href="https://emanderson811.github.io/day-edition/texts/buildings/039day-child-devel-building/">Child Development Building.</a>)
+Also see entry under <a href="https://emanderson811.github.io/day-edition/texts/buildings/039day-child-devel-building/">Child Development Building.</a>
