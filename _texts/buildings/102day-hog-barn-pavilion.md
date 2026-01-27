@@ -24,7 +24,7 @@ By October the site had been prepared by leveling and grading.[^fn3] The buildin
 
 [^fn1]:  Minutes, May 26-27,  1921  
 
-[^fn2]:  Minutes, August  31  -September 1,  1921  
+[^fn2]:  Minutes, August  31 - September 1,  1921  
 
 [^fn3]:  Iowa  State Student,  October 14,  1921  
 
