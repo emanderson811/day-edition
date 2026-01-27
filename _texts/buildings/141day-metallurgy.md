@@ -23,7 +23,7 @@ In March 1947 a lease was executed for the building site, which had been determi
 |(b)| Installation of equipment Building in the Metallurgy | 121,700 |
 |(c)| Moving of two Home Management houses from the Metallurgy Building site | 25,000 |
 |(d)| Connection of utilities, grading, landscaping walks and drives for the Metallurgy Building | 40,000 |
-| | |-----------|
+| | |__________|
 | | | $236,700 |
 
 >Payment of the above projects to be out of funds furnished by the Atomic Energy Commission.[^fn2] 
