@@ -23,6 +23,6 @@ At the Board meeting in July 1895 a report was adopted "that the old coal house 
 
 A different coal house apparently served Morrill Hall at one time. In 1894 "The President called attention to the desirablility of moving the old coal shed now located back of Morrill Hall."[^fn2] At the same meeting it was agreed "that the old coal house north of the main building be torn down." That was undoubtedly a variant designation of the Morrill Hall coal house. 
 
-[^fn1]: Minutes, November  December 1892 
+[^fn1]: Minutes, November - December 1892 
 
 [^fn2]: Minutes, August 1894
