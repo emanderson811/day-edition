@@ -40,7 +40,7 @@ Bids for the steel trusses were taken and a contract was awarded on September 19
 
 [^fn2]: Minutes, July 6, 1917 
 
-[^fn3]: Minutes, 'September 13-14, 1917 
+[^fn3]: Minutes, September 13-14, 1917 
 
 The night of December 16, 1922, the Armory was gutted by a major fire. In addition to the building loss more than $150,000 of army equipment was destroyed by the blaze. A charge of arson was filed but lack of evidence resulted in no sentencing on that charge. Actual cause of the fire was never conclusively determined. 
 
