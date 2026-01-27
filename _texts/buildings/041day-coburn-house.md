@@ -32,7 +32,7 @@ The Coburn Rouse, along with the Bevier House, were moved again in 1947 when Met
 
 The house continued to serve the Home Management function until the fifties when new buildings for that use were built on Richardson Court. 
 
-[^fn1]: Minutes, July 31 -August 2, 1888 
+[^fn1]: Minutes, July 31 - August 2, 1888 
 
 [^fn2]: Minutes, October 1947 
 
