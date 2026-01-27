@@ -48,4 +48,4 @@ Margaret Hall was completely destroyed by a fire the night of April 9, 1938.
 
 [^fn5]:  Minutes, August 1915  
 
-[^fn6]:  J.C.  S.chilletter,  1970
+[^fn6]:  J.C.  Schilletter,  1970
