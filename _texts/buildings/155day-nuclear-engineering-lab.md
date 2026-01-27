@@ -22,7 +22,7 @@ The earliest reference to this building appears in the Minutes of November 3-4, 
 
 Transfer of title to the land on which the building was to be constructed from the State to the federal government was then authorized. Although funds were provided through the Department of Agriculture and the Public Works Administration, the actual design and construction was left in the hands of the College.[^fn1]
 
-No references have been found to determine the exact dates of the beginning and completion of construction, but the <u>Iowa State Student</u> on April 26, 1934, reported that the date of June 1 for completion would be delayed about a month because of lack of materials. 
+No references have been found to determine the exact dates of the beginning and completion of construction, but the *Iowa State Student* on April 26, 1934, reported that the date of June 1 for completion would be delayed about a month because of lack of materials. 
 
 In 1946 title to the land and building was re-conveyed, at no cost, to the State.[^fn2] The building then became known as West Chemical Engineering and was used by that department until 1958-59 when the nuclear reactor was installed and the name Nuclear Engineering Laboratory was adopted. 
 
