@@ -34,7 +34,7 @@ An interesting note appeared in the *IAC Student* on March 7, 1903: "The college
 
 In 1905 both East and West Cottages were repaired and steam heat was piped to each room. 
 
-[^fn1]: IAC Student, August 7,'1890
+[^fn1]: IAC Student, August 7, 1890
 
 [^fn2]: IAC Student, October 1, 1902
 
