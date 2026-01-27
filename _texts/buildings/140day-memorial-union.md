@@ -47,7 +47,7 @@ On September 23, 1928, the cafeteria line was first put into operation and the f
 
 [^fn1]: Pride,  (1972)  pp.  5-6  
 
-[^fn2]: Iowa State St uden t, May 23,  1926 
+[^fn2]: Iowa State Student, May 23,  1926 
 
 [^fn3]: Pride,  (1972)  p.  82  
 
