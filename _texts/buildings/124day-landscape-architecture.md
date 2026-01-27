@@ -24,6 +24,6 @@ In January of 1930 an appropriation of $18,000 was made to remodel the structure
 
 The building continued in use by Landscape Architecture until 1978 when that department moved to the new College of Design. It is currently being used for agronomy and journalism overflow. 
 
-[^fn1]: Minutes, August 31 -September 1, 1899
+[^fn1]: Minutes, August 31 - September 1, 1899
 
 [^fn2]: Minutes, October 1930 
