@@ -2,6 +2,9 @@
 layout: building
 title: "Oak-Elm Halls"
 alternative_name: 
+  - "Elm Hall"
+  - "Oak Hall"
+  - "Oak-Elm Addition"
 built: 
 addition:
 architect: 
@@ -14,22 +17,25 @@ publication-date: 1980
 ---
 ---
 
-Elm Hall, Oak Hall Oak-Elm Addition
-ELM HALL 
-Built: 1937-38 Architect: Dougher Rich & Woodburn Contractor: Ben Cole & Son 
+## ELM HALL 
+
+<p>Built: 1937-38 <br>
+Architect: Dougher Rich & Woodburn <br>
+Contractor: Ben Cole & Son </p>
+
 About the time construction was starting on Roberts Hall President Hughes was already looking ahead to the need for additional women's housing. At the October 18, 1935, Board meeting he reported: 
 While we hope to open another dormitory for women in 1936, 
 there is every indication that within a few years still another dormitory for women should be built. I bring this up now not 
 for action but for your information and to advise you that in my judgment we should begin this year to formulate our plans 
 for the location and design of this building. 
-It was January of 1937 before action was taken by the Board, and approval of the new dormitory was granted. The following month the architect was retained. Construction started in June 1937 and was completed and the building occupied in March 1938.(1) 
+It was January of 1937 before action was taken by the Board, and approval of the new dormitory was granted. The following month the architect was retained. Construction started in June 1937 and was completed and the building occupied in March 1938.[^fn1] 
 Elm Hall was built on the site of the earlier Elm Lodge and continued the use of that name. 
 OAK HALL 
 Built: 1938-39 Architect: Dougher Rich & Woodburn Contractor: W.A. Klinger 
-Increasing enrollments continued the pressure for more housing and in May 1938 another building project was authorized. A federal grant of $119,988 from the Public Works Administration was approved in August.(2) Bids were received in October and construction initiated about the first of November.(3) The PWA grant was increased by $2700 
-(1)  Minutes, March 22 March, 12, 1938  and May 3, 1938;  and  Iowa  State Student,  
-(2)  Minutes, August 15,  1938  
-(3)  Iowa State Daily Student,  November  2,  1938  
+Increasing enrollments continued the pressure for more housing and in May 1938 another building project was authorized. A federal grant of $119,988 from the Public Works Administration was approved in August.[^fn2] Bids were received in October and construction initiated about the first of November.[^fn3] The PWA grant was increased by $2700 
+[^fn1]:  Minutes, March 22 March, 12, 1938  and May 3, 1938;  and  Iowa  State Student,  
+[^fn2]:  Minutes, August 15,  1938  
+[^fn3]:  Iowa State Daily Student,  November  2,  1938  
 
 367 
 in August 1939.(1) The new Oak Hall, named after Oak Lodge which earlier occupied its site, was ready for use in September 1939.(2) 
