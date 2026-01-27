@@ -45,6 +45,6 @@ In 1978 planning began for an addition to the north side of the building. The ne
 
 [^fn3]: Iowa State Daily, March 26, 1964 
 
-[^fn4]: Iowa State Daily, May 19, 1964 
+[^fn4]: Iowa State Daily, March 26, 1964 
 
-[^fn5]: Iowa State Daily, March 26, 1964
+[^fn5]: Iowa State Daily, May 19, 1964
