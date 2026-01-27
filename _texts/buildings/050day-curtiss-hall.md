@@ -27,7 +27,7 @@ Bids were first received in February 1906, but they proved to be too high. Plans
 
 [^fn2]: Minutes, December 14, 1905 
 
-[^fn3]: Minutes, August i0, 1906 
+[^fn3]: Minutes, August 10, 1906 
 
 The site selected for the building was "one hundred (100) feet directly east of the site recommended by Olmsted Brothers."[^fn4] The *ISC Student* explained the change: "A great deal of indignation has been stirred up by the proposed location of the building on the central lawn. Faculty and students alike have felt that it was not right to mar our beautiful lawn by placing a building in the center of it."[^fn5] 
 
