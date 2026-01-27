@@ -28,7 +28,7 @@ By 1962 the legal problems had been settled, new bids on the Helser Hall additio
 
 [^fn1]:  Minutes, January 14-15, 1954 
 
-[^fn2]: Minutes, November 9--10, 1955 
+[^fn2]: Minutes, November 9-10, 1955 
 
 [^fn3]: Minutes, May 10-11, 1956 
 
