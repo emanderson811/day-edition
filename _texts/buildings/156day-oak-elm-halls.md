@@ -24,12 +24,13 @@ Architect: Dougher Rich & Woodburn <br>
 Contractor: Ben Cole & Son </p>
 
 About the time construction was starting on Roberts Hall President Hughes was already looking ahead to the need for additional women's housing. At the October 18, 1935, Board meeting he reported: 
-While we hope to open another dormitory for women in 1936, 
-there is every indication that within a few years still another dormitory for women should be built. I bring this up now not 
-for action but for your information and to advise you that in my judgment we should begin this year to formulate our plans 
-for the location and design of this building. 
+
+While we hope to open another dormitory for women in 1936, there is every indication that within a few years still another dormitory for women should be built. I bring this up now not for action but for your information and to advise you that in my judgment we should begin this year to formulate our plans for the location and design of this building. 
+
 It was January of 1937 before action was taken by the Board, and approval of the new dormitory was granted. The following month the architect was retained. Construction started in June 1937 and was completed and the building occupied in March 1938.[^fn1] 
+
 Elm Hall was built on the site of the earlier Elm Lodge and continued the use of that name. 
+
 OAK HALL 
 Built: 1938-39 Architect: Dougher Rich & Woodburn Contractor: W.A. Klinger 
 Increasing enrollments continued the pressure for more housing and in May 1938 another building project was authorized. A federal grant of $119,988 from the Public Works Administration was approved in August.[^fn2] Bids were received in October and construction initiated about the first of November.[^fn3] The PWA grant was increased by $2700 
