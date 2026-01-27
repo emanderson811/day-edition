@@ -123,7 +123,7 @@ It did not take long to outgrow the College Building. At the January 1870 meetin
 >
 >All these public rooms would be accessible from the inside through the halls in the corresponding stories and from the outside through a hall running across the west end of the extended wings. I am of the opinion that the-kitchen should be in a small separate building. 
 
-[^fn2]: Report of the Commissioners of Agriculture for the Year 1865. pp. l78-179;Washington D,C, 1866 
+[^fn2]: Report of the Commissioners of Agriculture for the Year 1865. pp. 178-179; Washington D.C. 1866 
 
 >The extension of these wings as contemplated in the original draft will give symmetry and completeness to the entire building and furnish just the public space we need, neither more nor less.
 
