@@ -21,7 +21,7 @@ Design of the building started in 1959 and the construction contracts were award
 The building was completed and in use in June 1962.(5) 
 In 1964 the name, Pearson Hall was assigned to the building in recogni tion of one-time President RRymond Allen Pearson. 
 It has provided office space for the departments of English, Foreign Languages, and for Media Resources in recent years. 
-(1)  Iowa  State Daily, July 27,  1967  
+ 
 (2)  Iowa State Daily,  November  29, 1956  
 (3)  Iowa  State Daily, May  l l,  1959  
 (4)  Minutes,  October  13-14,  1960  
