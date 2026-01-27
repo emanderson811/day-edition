@@ -33,4 +33,4 @@ In 1940 funds provided by the Rockefeller Foundation resulted in tha constructio
  
 An addition along the west side, about half again the width of the original building, was made possible by grants from the Atomic Energy Commission in 1952. Those funds were related to research projects on the biological effects of penetrating radiations. The College paid only for the cost of the construction of the building shell while the federal funds covered the costs of all plumbing, electrical work and equipment for the interior. The work was accomplished under three sets of contracts and all were completed at the end of 1953.
 
-[^fn4]: Minutes, N vember 1, 1940
+[^fn4]: Minutes, November 1, 1940
