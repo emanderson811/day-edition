@@ -34,7 +34,7 @@ In 1926 the front (east) porch was enclosed, the kitchen was enlarged and more e
 
 [^fn2]: Minutes, December 23, 1904 
 
-[^fn3]: Iowa State Stud~nt, January 4, 1922 
+[^fn3]: Iowa State Student, January 4, 1922 
 
 [^fn4]: Iowa State Student, January 8, 1927 
 
