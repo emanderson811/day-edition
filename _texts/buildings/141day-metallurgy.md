@@ -26,40 +26,42 @@ In March 1947 a lease was executed for the building site, which had been determi
 | | |__________|
 | | | $236,700 |
 
-<table class="cost-table">
+BOOOOOOOOO
+
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td>(a)</td>
     <td>Erection of temporary pre-fab storage buildings for Atomic Institute</td>
-    <td class="amount">$50,000</td>
+    <td style="text-align: right;">$50,000</td>
   </tr>
   <tr>
     <td>(b)</td>
     <td>Installation of equipment in the Metallurgy Building</td>
-    <td class="amount">121,700</td>
+    <td style="text-align: right;">121,700</td>
   </tr>
   <tr>
     <td>(c)</td>
     <td>Moving of two Home Management houses from the Metallurgy Building site</td>
-    <td class="amount">25,000</td>
+    <td style="text-align: right;">25,000</td>
   </tr>
   <tr>
     <td>(d)</td>
     <td>Connection of utilities, grading, landscaping walks and drives for the Metallurgy Building</td>
-    <td class="amount">40,000</td>
+    <td style="text-align: right;">40,000</td>
   </tr>
 
-  <!-- SUBTOTAL LINE -->
-  <tr class="sum-line">
+  <!-- PHYSICAL LINE -->
+  <tr>
     <td></td>
     <td></td>
-    <td></td>
+    <td style="border-top: 2px solid black;"></td>
   </tr>
 
   <!-- TOTAL -->
   <tr>
     <td></td>
     <td></td>
-    <td class="amount total">$236,700</td>
+    <td style="text-align: right; font-weight: bold;">$236,700</td>
   </tr>
 </table>
 
