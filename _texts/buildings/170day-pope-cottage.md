@@ -27,36 +27,36 @@ Professor of Chemistry, Thomas E. Pope, built this house on the south side of wh
     <td style="padding-left: 10px;">Alfred A. Bennet</td>
   </tr>
   <tr>
-    <td>1898 - 1936</td>
-    <td>Alvin B.. Noble</td>
+    <td style="padding-right: 10px;">1898 - 1936</td>
+    <td style="padding-left: 10px;">Alvin B.. Noble</td>
   </tr>
   <tr>
-    <td>1937 - 1944</td>
-    <td>Arthur C. Bunce</td>
+    <td style="padding-right: 10px;">1937 - 1944</td>
+    <td style="padding-left: 10px;">Arthur C. Bunce</td>
   </tr>
   <tr>
-    <td>1944 - 1954</td>
-    <td>George R. Fowler</td>
+    <td style="padding-right: 10px;">1944 - 1954</td>
+    <td style="padding-left: 10px;">George R. Fowler</td>
   </tr>
   <tr>
-    <td>1954 - 1960</td>
-    <td>James H. Jensen</td>
+    <td style="padding-right: 10px;">1954 - 1960</td>
+    <td style="padding-left: 10px;">James H. Jensen</td>
   </tr>
   <tr>
-    <td>1961 - 1963</td>
-    <td>E.M. Bartels</td>
+    <td style="padding-right: 10px;">1961 - 1963</td>
+    <td style="padding-left: 10px;">E.M. Bartels</td>
   </tr>
   <tr>
-    <td>1963 - 1964</td>
-    <td>Lynden Faris</td>
+    <td style="padding-right: 10px;">1963 - 1964</td>
+    <td style="padding-left: 10px;">Lynden Faris</td>
   </tr>
   <tr>
-    <td>1964 - 1967</td>
-    <td>Everett M. Bartels</td>
+    <td style="padding-right: 10px;">1964 - 1967</td>
+    <td style="padding-left: 10px;">Everett M. Bartels</td>
   </tr>
   <tr>
-    <td> 1967 - </td>
-    <td>Music Department</td>
+    <td style="padding-right: 10px;"> 1967 - </td>
+    <td style="padding-left: 10px;">Music Department</td>
   </tr>
 </table>
 
