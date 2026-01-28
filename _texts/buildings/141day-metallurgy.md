@@ -18,16 +18,6 @@ The first reference to this building appears in the Minutes of November 1-2, 194
 
 In March 1947 a lease was executed for the building site, which had been determined the previous month. Bids for construction were received and the contract awarded in July 1947.[^fn1] In January 1948 the construction contract was modified to incorporate additional work: 
 
-|--|--|--|
-|(a)| Erection of temporary pre-fab storage buildings for Atomic Institute | $50,000 |
-|(b)| Installation of equipment Building in the Metallurgy | 121,700 |
-|(c)| Moving of two Home Management houses from the Metallurgy Building site | 25,000 |
-|(d)| Connection of utilities, grading, landscaping walks and drives for the Metallurgy Building | 40,000 |
-| | |__________|
-| | | $236,700 |
-
-BOOOOOOOOO
-
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td>(a)</td>
@@ -61,7 +51,7 @@ BOOOOOOOOO
   <tr>
     <td></td>
     <td></td>
-    <td style="text-align: right; font-weight: bold;">$236,700</td>
+    <td style="text-align: right;">$236,700</td>
   </tr>
 </table>
 
