@@ -24,7 +24,7 @@ In 1964 the name, Pearson Hall was assigned to the building in recognition of on
 
 It has provided office space for the departments of English, Foreign Languages, and for Media Resources in recent years. 
  
-[^fn1:]  Iowa State Daily, November 29, 1956  
+[^fn1]:  Iowa State Daily, November 29, 1956  
 
 [^fn2]:  Iowa State Daily, May 11, 1959  
 
