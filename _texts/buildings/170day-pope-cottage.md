@@ -32,4 +32,15 @@ Professor of Chemistry, Thomas E. Pope, built this house on the south side of wh
 |1964 - 1967 |Everett M. Bartels |
 |1967 - | Music Department |
 
+<table>
+  <tr>
+    <td>1886 - 1897</td>
+    <td>Alfred A. Bennet</td>
+  </tr>
+  <tr>
+    <td>1898 - 1936</td>
+    <td>Alvin B.. Noble</td>
+  </tr>
+</table>
+
 This frame house was typical of the residential design of its period with two stories and basement. Inside plumbing and electricity were installed in 1902. The porch on the southeast corner was added in 1924.
