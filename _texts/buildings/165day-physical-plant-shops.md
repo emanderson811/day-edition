@@ -25,7 +25,7 @@ Contractor:  1933  Kucharo Const.  Co.
 At the Board meeting of April 26, 1933, President Hughes made the following recommendation which was approved and referred to the Special Building Committee with power to act: 
 I recommend that $30,000 of the Book Store fund be spent in the erection of the first unit of the Central Stores Building, this building to be of the simplest possible construction of brick and concrete and having two stories and a basement, the floor of the first story to be on a level with a truck bed so that material can be loaded in and out most readily. The erection of this build ing will free the rear of Botany Building from use as a store room and would thus make available some very much needed space for the Botany Department. It would also make possible the con solidation of two store rooms and save some money in help. There are many other advantages in this arrangement, and I hope the Board will approve this recommendation. 
 It seems probable that the preliminary plans had been developed prior to that date since construction bids were received on June 27, in cluding an alternate proposal to omit the three south bays. A contract was awarded on the basis of the smaller size building. The mechanical and electrical work was to be provided by the Buildings and Grounds 
-(1) Iowa State Daily Student, November 2, 1945 
+
 378 
 Department. (1) 
 When excavation was made for the foundations a layer of quick sand was encountered. This resulted in a change in footing design and a separate contract for the additional labor and material, in the amount of $3258.15, was negotiated with the contractor for the extra costs.(2) 
