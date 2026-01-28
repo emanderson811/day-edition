@@ -44,14 +44,12 @@ In March 1947 a lease was executed for the building site, which had been determi
     <td style="text-align: right;">40,000</td>
   </tr>
 
-  <-- PHYSICAL LINE -->
   <tr>
     <td></td>
     <td></td>
     <td style="border-top: 1px solid black;"></td>
   </tr>
 
-  <-- TOTAL -->
   <tr>
     <td></td>
     <td></td>
