@@ -48,7 +48,7 @@ In March 1947 a lease was executed for the building site, which had been determi
   <tr>
     <td></td>
     <td></td>
-    <td style="border-top: 2px solid black;"></td>
+    <td style="border-top: 1px solid black;"></td>
   </tr>
 
   <-- TOTAL -->
