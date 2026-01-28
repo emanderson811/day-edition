@@ -16,7 +16,6 @@ publication-date: 1980
 ---
 ---
 
-Purchased by College:
 Purchased for $3,000 
 
 Professor of Chemistry, Thomas E. Pope, built this house on the south side of what is now Lincoln Way in 1877. When he was called to M.I.T. he offered the property to the college and the purchase was agreed to in 1884. Professor Wynn had rented it from Professor Pope before the purchase was made and remained there through 1885. Subsequent occupants are listed: 
