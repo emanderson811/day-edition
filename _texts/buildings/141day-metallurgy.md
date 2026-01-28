@@ -26,6 +26,43 @@ In March 1947 a lease was executed for the building site, which had been determi
 | | |__________|
 | | | $236,700 |
 
+<table class="cost-table">
+  <tr>
+    <td>(a)</td>
+    <td>Erection of temporary pre-fab storage buildings for Atomic Institute</td>
+    <td class="amount">$50,000</td>
+  </tr>
+  <tr>
+    <td>(b)</td>
+    <td>Installation of equipment in the Metallurgy Building</td>
+    <td class="amount">121,700</td>
+  </tr>
+  <tr>
+    <td>(c)</td>
+    <td>Moving of two Home Management houses from the Metallurgy Building site</td>
+    <td class="amount">25,000</td>
+  </tr>
+  <tr>
+    <td>(d)</td>
+    <td>Connection of utilities, grading, landscaping walks and drives for the Metallurgy Building</td>
+    <td class="amount">40,000</td>
+  </tr>
+
+  <!-- SUBTOTAL LINE -->
+  <tr class="sum-line">
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <!-- TOTAL -->
+  <tr>
+    <td></td>
+    <td></td>
+    <td class="amount total">$236,700</td>
+  </tr>
+</table>
+
 >Payment of the above projects to be out of funds furnished by the Atomic Energy Commission.[^fn2] 
 
 During 1948 contracts for the laboratory equipment and for an inter communicating system were entered into. 
