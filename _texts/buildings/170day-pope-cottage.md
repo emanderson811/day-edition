@@ -21,17 +21,6 @@ Purchased for $3,000
 
 Professor of Chemistry, Thomas E. Pope, built this house on the south side of what is now Lincoln Way in 1877. When he was called to M.I.T. he offered the property to the college and the purchase was agreed to in 1884. Professor Wynn had rented it from Professor Pope before the purchase was made and remained there through 1885. Subsequent occupants are listed: 
 
-|--|--|
-|1886 - 1897 | Alfred A. Bennett|
-|1898 - 1936 | Alvin B.. Noble |
-|1937 - 1944 | Arthur C. Bunce |
-|1944 - 1954 | George R. Fowler |
-|1954 - 1960 | James H. Jensen |
-|1961 - 1963 | E.M. Bartels |
-|1963 - 1964 | Lynden Faris |
-|1964 - 1967 |Everett M. Bartels |
-|1967 - | Music Department |
-
 <table>
   <tr>
     <td>1886 - 1897</td>
@@ -40,6 +29,34 @@ Professor of Chemistry, Thomas E. Pope, built this house on the south side of wh
   <tr>
     <td>1898 - 1936</td>
     <td>Alvin B.. Noble</td>
+  </tr>
+  <tr>
+    <td>1937 - 1944</td>
+    <td>Arthur C. Bunce</td>
+  </tr>
+  <tr>
+    <td>1944 - 1954</td>
+    <td>George R. Fowler</td>
+  </tr>
+  <tr>
+    <td>1954 - 1960</td>
+    <td>James H. Jensen</td>
+  </tr>
+  <tr>
+    <td>1961 - 1963</td>
+    <td>E.M. Bartels</td>
+  </tr>
+  <tr>
+    <td>1963 - 1964</td>
+    <td>Lynden Faris</td>
+  </tr>
+  <tr>
+    <td>1964 - 1967</td>
+    <td>Everett M. Bartels</td>
+  </tr>
+  <tr>
+    <td> 1967 - </td>
+    <td>Music Department</td>
   </tr>
 </table>
 
