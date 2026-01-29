@@ -16,7 +16,7 @@ publication-date: 1980
 
 Located at about the intersection of today's Osborn Drive and Wallace Road, or perhaps a little farther south. 
 
-A structure to cover the pump and boiler near the spring had been built as part of the water system installed in 1872.[^fn1] (See section on Water Supply in this volume.) 
+A structure to cover the pump and boiler near the spring had been built as part of the water system installed in 1872.[^fn1] (See section on [Water Supply](https://emanderson811.github.io/day-edition/texts/006day-utilities/#water-supply) in this volume.) 
 
 In 1897 a recommendation was made "that the old grinding house and engine room be fitted over for an implement store house and suitable provisions made therein for instruction in agricultural physics."[^fn2] It is thought that the structure here referred to was the 1872 pump house. At the same meeting the Board adopted a report against making repairs because "your committee after an examination of the building find it dilapidated and badly out of repair, and its convenience very poor, really unfit for an implement shed." 
 
