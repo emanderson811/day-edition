@@ -2,59 +2,59 @@
 layout: building
 title: "Power and Heating Plant"
 alternative_name: 
-built: 
+built: "1906-07"
 addition:
-architect: 
-contractor: 
+  - "1910"
+  - "1948-50"
+architect:
+  - "1906 Proudfoot and Bird<br>
+  Mechanical System by Professor G.W. Bissell"
+  - "1910 Proudfoot Bird & Rawson"
+  - "1948 (& subsequent) Brown Engineering Company"
+contractor:
+  - "1906 Bartlett & Kling"
+  - "1910 C.W. Ennis"
+  - "1948 Fuel Economy Engineering Co."
+  - "1968 Ringland-Johnson-Crowley"
 razed: 
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
----
+--- 
 
-Built: 1906-07 Additions: 1910, 1948-50 
-Architect: 1906 Proudfoot and Bird 
-Mechanical System by Professor G,W, Bissell 
-1910 Proudfoot Bird & Rawson 
-1948 (& subsequent) Brown Engineering Company 
-Contractor: 1906 Bartlett & Kling 
-1910 C.W. Ennis 
-1948 Fuel Economy Engineering Co. 
-1968 Ringland-Johnson-Crowley 
 The idea of a central heating system for all college buildings was expressed as early as 1891 as recorded in the Biennial Report for 1890-91: 
-We should have a general central heating system connecting all 
-of these buildings, thereby making janitor hire much less, dimin 
-ishing the cost of fuel and adding greatly to the security of 
-all of our buildings from fire, as well as contributing to the 
-cleanliness and general culture of the whole institution. 
-For the next ten years, with expansion of the Power Station on the west side of the campus it was possible to "get by". Construction of Engineering Hall (Marston) in 1900-03, and Central (Beardshear) in 
-1903-06 would add new loads impossible to meet at the Power Station and the need for a new facility became imperative. In 1904 the archi tect was retained to prepare plans for the new structure and Professor Bissell was authorized to draw up plans and specifications for all of the mechanical equipment. 
-At that time the site for the new plant was assumed to be north of Margaret Hall. The Simonds landscape plan of 1903 showed the site at a location where the Quadrangle was built later. The present lo cation was finally determined in May 1906.(1) 
+
+>We should have a general central heating system connecting all of these buildings, thereby making janitor hire much less, diminishing the cost of fuel and adding greatly to the security of all of our buildings from fire, as well as contributing to the cleanliness and general culture of the whole institution. 
+
+For the next ten years, with expansion of the Power Station on the west side of the campus it was possible to "get by". Construction of Engineering Hall (Marston) in 1900-03, and Central (Beardshear) in 1903-06 would add new loads impossible to meet at the Power Station and the need for a new facility became imperative. In 1904 the architect was retained to prepare plans for the new structure and Professor Bissell was authorized to draw up plans and specifications for all of the mechanical equipment. 
+
+At that time the site for the new plant was assumed to be north of Margaret Hall. The Simonds landscape plan of 1903 showed the site at a location where the Quadrangle was built later. The present location was finally determined in May 1906.[^fn1] 
+
 Construction bids had been received in January and again in March 1905, but both times they exceeded available funds and were rejected, New bids for construction at the east side of the campus, and subsequent to a new appropriation, were submitted at the June 5-6, 1906, Board meeting and the contract was then awarded to Bartlett & Kling. 
+
 When the building construction was completed the following year the generating equipment was ready and power was then furnished to the entire campus. By 1908 one boiler had been installed and heat was being furnished, through the tunnel system to the major buildings on 
 the campus. 
-(1) Minutes, May 9, 1906 
+
+[^fn1]: Minutes, May 9, 1906 
+
 An addition to the plant to make room for additional boilers was erected in 1910. In 1912 coal and ash handling equipment was installed. A new concrete smoke stack, 225 feet tall, was built in 1913-14. The older portion of the building received a new tile roof in 1914. Two new boilers were added in 1915, as were new stokers. 
-A new 2200 volt 1250 KVA 3-phase steam generator was installed in 1919.(1) The item in the paper about the installation stated that "the new generato!" will carry the full load of the college and the 
-lighting of the Fourth Ward." 
+
+A new 2200 volt 1250 KVA 3-phase steam generator was installed in 1919.[^fn2] The item in the paper about the installation stated that "the new generator" will carry the full load of the college and the lighting of the Fourth Ward." 
+
 In 1928 a new 1500 KW turbine was purchased and a cooling pond was built in association with it. Ten years later a new steam boiler was put in to replace two older ones, and other related equipment was also included. 
-A contract for engineering services in the design of alterations and additions to the Power and Heating Plant was executed with Brown Engineering Company in 1946. This initiated a project involving ex tensive remodeling and changes in the building and equipment, a pro cess that has continued to the present in several stages. A turbo-  
-generator unit, surface cqndensor, steam generator, switchgear cooling 
-tower, and coal handling and ash handling equipment were contracted 
-for in 1947. The following year enlargement of the building was 
-started to provide space for the new equipment. That contract was 
-completed in 1950. 
-The steam generator was converted to gas instead of coal in 1951, and 
-a new generator unit was added in 1952. 
+
+A contract for engineering services in the design of alterations and additions to the Power and Heating Plant was executed with Brown Engineering Company in 1946. This initiated a project involving extensive remodeling and changes in the building and equipment, a process that has continued to the present in several stages. A turbo generator unit, surface condensor, steam generator, switchgear cooling tower, and coal handling and ash handling equipment were contracted for in 1947. The following year enlargement of the building was started to provide space for the new equipment. That contract was completed in 1950. 
+
+The steam generator was converted to gas instead of coal in 1951, and a new generator unit was added in 1952. 
+
 In 1952 contracts were awarded for an additional steam generator and for a turbo generator for electric power, both with various items of associated equipment. These replaced older units no longer adequate for then current needs. The new equipment necessitated some changes within the building. 
-Numerous equipment additions, modifications and replacements within 
-the building were made in the sixties and seventies, and continue as new loads are generated by additional buildings on the campus. 
-A central chilled water system for the cooling of campus buildings was initiated in 1966 with the retention of Brown Engineering Company 
-to design the system. Contracts for the chilled water equipment and 
-for addition to the building to provide for it were executed in 1968. 
-A fire on July 2, 1979, seriously damaged an electrical turbine in the 
-building artd also destroyed sections of the roof and south wall of the 
-plant. 
-(1) Iowa State Student, October 1, 1919
+
+Numerous equipment additions, modifications and replacements within the building were made in the sixties and seventies, and continue as new loads are generated by additional buildings on the campus.
+
+A central chilled water system for the cooling of campus buildings was initiated in 1966 with the retention of Brown Engineering Company to design the system. Contracts for the chilled water equipment and for addition to the building to provide for it were executed in 1968. 
+
+A fire on July 2, 1979, seriously damaged an electrical turbine in the building and also destroyed sections of the roof and south wall of the plant. 
+
+[^fn2]: Iowa State Student, October 1, 1919
