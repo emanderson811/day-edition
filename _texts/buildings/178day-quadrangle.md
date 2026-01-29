@@ -52,4 +52,4 @@ Frevert-Ramsey-Drey were selected as architects for a major remodeling of the bu
 
 [^fn4]: Iowa State Daily, October 31, 1962 
 
-The building name was modified to Quadrangle when the Veterinarians moved out and the Diagnostic Laboratory wing became known as Quadrangle North. (See that separate entry.) The Biomedical Engineering wing then lost separate identity and is now considered part of the Quadrangle.
+The building name was modified to Quadrangle when the Veterinarians moved out and the Diagnostic Laboratory wing became known as Quadrangle North. [(See that separate entry.)](https://emanderson811.github.io/day-edition/texts/buildings/179day-quadrangle-north/) The Biomedical Engineering wing then lost separate identity and is now considered part of the Quadrangle.
