@@ -7,8 +7,7 @@ addition:
   - "1910"
   - "1948-50"
 architect:
-  - "1906 Proudfoot and Bird<br>
-  Mechanical System by Professor G.W. Bissell"
+  - "1906 Proudfoot and Bird, Mechanical System by Professor G.W. Bissell"
   - "1910 Proudfoot Bird & Rawson"
   - "1948 (& subsequent) Brown Engineering Company"
 contractor:
