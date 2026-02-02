@@ -57,7 +57,7 @@ A report on long range plans for the campus, in the December 10, 1960, edition o
 The addition was designed to eliminate the two separate kitchens and dining rooms in the halls and provide a single facility capable of 
 serving 600 people. New student rooms were also provided. 
 
-In 1968 a renovation project was undertaken to modernize the showers and other plumbing facilities. Brooks, Borg and Skiles were architects and James Tbompson & Sons the contractor for that work. 
+In 1968 a renovation project was undertaken to modernize the showers and other plumbing facilities. Brooks, Borg and Skiles were architects and James Thompson & Sons the contractor for that work. 
 
 [^fn4]:  Minutes, August 2,  1939  
 
