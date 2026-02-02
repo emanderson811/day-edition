@@ -38,6 +38,6 @@ During construction of the new facility Dean I.A. Merchant was quoted in the pap
 
 The building was accepted as complete in May 1956. 
 
-For changes in 1976 and later see entry for [Quadrangle](https://emanderson811.github.io/day-edition/texts/buildings/178day-quadrangle/).
+For changes in 1976 and later [see entry for Quadrangle](https://emanderson811.github.io/day-edition/texts/buildings/178day-quadrangle/).
 
 [^fn4]: Iowa State Daily, March 24, 1955 
