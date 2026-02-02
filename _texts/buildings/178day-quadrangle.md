@@ -40,7 +40,7 @@ Minor modifications and repairs were made in subsequent years. In 1929 a frame a
 
 That frame structure continued in use until it was razed to make room for the new Diagnostic Laboratory in 1954. 
 
-The Christian Petersen mural sculpture and his free-standing figure of "The Gentle Doctor" were installed in the Quadrangle court in 1938. The mural was subsequently removed to the new facilities when the college moved there in 1975. (See "Sculpture".) The southwest wing of the Quadrangle, most recently known as the Biomedical Engineering Laboratory, has been called Instrumentation Research Laboratory in all of the Board proceedings. It had also been referred to as Physiological Instrumentation Research Laboratory (title on contract drawings), and Biomedical Electronics Laboratory. 
+The Christian Petersen mural sculpture and his free-standing figure of "The Gentle Doctor" were installed in the Quadrangle court in 1938. The mural was subsequently removed to the new facilities when the college moved there in 1975. [(See "Sculpture".)](https://emanderson811.github.io/day-edition/texts/008day-misc/#sculpture) The southwest wing of the Quadrangle, most recently known as the Biomedical Engineering Laboratory, has been called Instrumentation Research Laboratory in all of the Board proceedings. It had also been referred to as Physiological Instrumentation Research Laboratory (title on contract drawings), and Biomedical Electronics Laboratory. 
 
 A grant of $200,000 from the United States Public Health Service covered about half the first cost of the building and equipment. Construction contracts were awarded in December 1960 and it was completed for use in the fall of 1962.[^fn4] 
 
