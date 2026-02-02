@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-Located about 175 1 west and slightly north of the south wing of Old Main. (Shown on 1883 map.) 
+Located about 175' west and slightly north of the south wing of Old Main. (Shown on 1883 map.) 
 
 In the fall of 1882 *The Aurora* reported: "A majority of the students have organized themselves into a stock company for the purpose of establishing a gymnasium." Elsewhere in the same issue[^fn1] it was stated that the students were aided by the faculty. The following April the paper was able to note that "Our Gymnasium Association ....is getting ready as rapidly as possible to perfect its plans for active work." Work on construction must have started very soon thereafter because in June the editor asked "Why isn't the Gymnasium completed?" A couple of months later it was recorded that the gymnasium was "at last finished." [^fn2] 
 
