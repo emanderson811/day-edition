@@ -18,7 +18,7 @@ An appropriation by the 61st General Assemply (1965) together with a grant from 
 
 Its function was given in the project description presented to the Board when preliminary plans were completed: 
 
->The building will house the Computer Science group of the Compu tation Center, including administrative, clerical and research offices, and computer equipment rooms. It will also contain three research laboratories, three conference and seminar rooms and five classrooms varying in size from 40 to 50 student capacity. [^fn1]
+>The building will house the Computer Science group of the Computation Center, including administrative, clerical and research offices, and computer equipment rooms. It will also contain three research laboratories, three conference and seminar rooms and five classrooms varying in size from 40 to 50 student capacity. [^fn1]
 
 Contracts for construction of the building were awarded on August 1, 1967, [^fn2] and it was ready for occupancy in the fall of 1969. 
 
