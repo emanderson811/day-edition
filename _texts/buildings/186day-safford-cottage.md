@@ -21,10 +21,7 @@ Lincoln Way just east of Mrs. Beardshear's house in 1903. This was
 a location about 200 feet west of what is now Linden Hall. 
 In 1912 he sold the house to Miss Ruth B. Safford, instructor in English, who lived in it until September 1923 when it was purchased 
 from her by the College for $5700, including the garage. 
-Subsequents occupants were:(3) 
-(1) Kooser, 1939 
-(2) 
-Minutes, February 7-8 and November 14-15, 1947 
+Subsequents occupants were:(3)  
 
 (3) 
 D. Kehlenbeck, typed notes 
