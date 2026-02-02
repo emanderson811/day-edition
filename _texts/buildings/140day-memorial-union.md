@@ -33,7 +33,7 @@ publication-date: 1980
 ---
 ---              
     
-(The Memorial Union Parking Ramp is duscussed separately under the heading "Parking Ramp - Memorial Union.") 
+(The Memorial Union Parking Ramp is discussed separately under the heading ["Parking Ramp - Memorial Union."](https://emanderson811.github.io/day-edition/texts/buildings/162day-parking-ramp-mu/)) 
 
 The concept of a memorial to the men who lost their lives In World War I developed almost at the same time the Armistice was signed on November 11, 1918. Various ideas were suggested: a grotto, a piece of sculpture, a park, a gateway, a fountain, a union building.[^fn1] Committees were formed and votes taken to establish preferences. It was not until June 1920 that a firm decision was reached by students, faculty and alumni. The Memorial Union then became the goal of an extended campaign to raise funds for the building. 
 
