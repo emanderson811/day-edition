@@ -79,6 +79,6 @@ The Building and Business Committee of the Board studied the report and at the M
 
 >The Building and Business Committee recommended that ultimately the site of The Knoll be used for institutional buildings, and that the University officials be instructed to explore potential sites suitable for a new residence for the President and report back to the State Board of Regents. On motion by Mr. Redeker, which was seconded and passed, the recommendation of the Building and Business Committee was approved. 
 
-Study_of the question continued for another year, until June 1966 when it was decided to remodel the Knoll for continued use as the President's home.[^fn1] Plans were completed and the contract for the remodeling was awarded in September 1966. President Parks had moved into the Knoll at the time of his inauguration, July 1, 1965, and he and his family put up with the many inconveniences during the remodeling operation. 
+Study of the question continued for another year, until June 1966 when it was decided to remodel the Knoll for continued use as the President's home.[^fn1] Plans were completed and the contract for the remodeling was awarded in September 1966. President Parks had moved into the Knoll at the time of his inauguration, July 1, 1965, and he and his family put up with the many inconveniences during the remodeling operation. 
 
 [^fn1]: Minutes, June 16-17, 1966
