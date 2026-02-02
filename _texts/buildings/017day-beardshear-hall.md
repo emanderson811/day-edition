@@ -65,7 +65,7 @@ In the years since the building was first occupied there have been many changes 
 
 The first major change in use came in 1913 Jhen the library was moved from Morrill Hall to Central because of the greater protection of the fireproof building. It took space on the west side of both the ground and first floors, and remained in the building until the new Library was ready in 1925. 
 
-The Botany department was moved out (to Botany Hall) in 1928. 
+The Botany department was moved out [(to Botany Hall)](https://emanderson811.github.io/day-edition/texts/buildings/027day-botany-hall/) in 1928. 
 
 As the institution has grown, more and more space became needed for administrative and staff offices, and classrooms have been remodeled to satisfy those needs. Air conditioning from the central chilled water system was installed in much of the building in the 1970's. 
 
