@@ -24,6 +24,6 @@ State funds were not forthcoming, but a solution was reached as reported in *The
 
 This greenhouse served, though inadequately, until the Experiment Station Building (Bevier Hall) was built with its propagating house in 1888.[^fn1] It continued in use for another few years until it was razed in 1894. 
 
-(The Horticulture Laboratory referred to here is the building carried under the name Farm Boarding Club.) 
+(The Horticulture Laboratory referred to here is the building carried under the name [Farm Boarding Club.](https://emanderson811.github.io/day-edition/texts/buildings/069day-farm-boarding-club/)) 
 
 [^fn1]: Minutes, May 1888
