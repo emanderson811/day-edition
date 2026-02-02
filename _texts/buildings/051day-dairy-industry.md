@@ -40,11 +40,11 @@ The cornerstone of the building was placed with due ceremony on November 29, 192
  
 The interior court of the quadrangle was improved, as described in the *Iowa State Student* on April 20, 1929: 
 
->Plans for the garden of the new dairy building are almost com plete. Professor P.H. Elwood, head of the Landscape Architecture Department, is making the final plans for the garden now. 
+>Plans for the garden of the new dairy building are almost complete. Professor P.H. Elwood, head of the Landscape Architecture Department, is making the final plans for the garden now. 
 >
 >The garden will be surrounded by a gravel walk and several walks will lead to the center from this outer walk. There will be a flower bed in the center and a fountain also has been proposed. The fountain, if it is built, will be supplied with water from the ammonia ice machine inside the building. It is also planned to put benches in the garden and upon the veranda overlooking the garden. When visitors go through the building they will be served ice-cream in the garden or up on the veranda. 
 
-In September 1930 it was reported that the Ceramic Engineering De partment was constructing the "ornamental fountain". [^fn5] Development of the court continued over a period of several years. It was completed by 1937 as recorded in the *Iowa State Student* on May 13, that year:
+In September 1930 it was reported that the Ceramic Engineering Department was constructing the "ornamental fountain". [^fn5] Development of the court continued over a period of several years. It was completed by 1937 as recorded in the *Iowa State Student* on May 13, that year:
 
 >Prof. C,A. Iverson's 8 years' dream of a model dairy court is being realized. Eight years ago the space was used as a tennis court. Three years ago terracotta plaques depicting typical dairy scenes were made by Christian Petersen and placed below the middle plaque. Last year the debris was removed from the court and the court was filled in with dirt.
 >
