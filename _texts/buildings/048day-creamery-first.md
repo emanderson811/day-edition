@@ -10,7 +10,7 @@ addition:
     - "Remodeled and Moved: 1891"
 architect:
 contractor: 
-razed: 1927
+razed: "1927"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
