@@ -11,7 +11,7 @@ architect: "Proudfoot & Bird"
 contractor: 
     - "C.E. Atkinson (Gen'l)"
     - "Campbell Heating Co. (Plbg. & Htg.)"
-razed: 1972
+razed: "1972"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
