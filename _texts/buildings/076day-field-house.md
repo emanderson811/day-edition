@@ -13,7 +13,7 @@ architect: "1920 A.H. Kimball"
 contractor:
   - "1920 Thomas Sloss"
   - "Addition: James Thompson & Sons"
-razed: 1953
+razed: "1953"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
