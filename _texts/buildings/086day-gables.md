@@ -6,7 +6,7 @@ built: "1879-80"
 addition:
 architect: 
 contractor: 
-razed: 1963
+razed: "1963"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
