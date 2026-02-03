@@ -16,7 +16,7 @@ publication-date: 1980
 ---
 ---
 
-**razed:** 1926 [^fn1]
+**Razed:** 1926 [^fn1]
 
 This building was located at what is now the northwest corner of the Veterinary Clinic. It was a U-shaped structure 100 feet wide with the two wings, each 40 feet wide by 150 feet long, built of brick and with cement floor. It faced south. 
 
