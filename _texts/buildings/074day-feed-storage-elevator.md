@@ -8,7 +8,7 @@ architect:
   - "Proudfoot"
   - "Rawson & Souers"
 contractor: "L.D. Anthony (masonry only)"
-razed: 1969
+razed: "1969"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
