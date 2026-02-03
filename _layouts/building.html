@@ -14,7 +14,7 @@ layout: narrative
   {% if page.addition %}<p><strong>Addition:</strong>{% for addition in page.addition %} {{ addition }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
   {% if page.architect %}<p><strong>Architect:</strong> {% for architect in page.architect %}{{ architect }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
   {% if page.contractor %}<p><strong>Contractor:</strong> {% for contractor in page.contractor %}{{ contractor }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
-  {% if page.razed %}<p><strong>Razed:</strong> {{ page.razed }}</p>{% endif %}
+  {% if page.razed %}<p><strong>Razed:</strong> {% for razed in page.razed %}{{ razed }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>{% endif %}
 </div>
 
 {{ content }}
