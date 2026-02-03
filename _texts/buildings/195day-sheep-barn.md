@@ -2,11 +2,11 @@
 layout: building
 title: "Sheep Barn"
 alternative_name: 
-built: 
-addition:
-architect: 
-contractor: 
-razed: 
+built: "1922"
+addition: "1925"
+architect: "Proudfoot, Bird & Rawson"
+contractor: "Supt. of Buildings and Grounds"
+razed: "1969"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
@@ -14,7 +14,6 @@ publication-date: 1980
 ---
 ---
 
-Built: 1922 Addition: 1925 Architect: Proudfoot, Bird & Rawson Contractor: Supt. of Buildings and Grounds Razed: 1969 
 The Sheep Barn was built on the site, now open, just north of the Antigenic Laboratory (Agronomy Laboratory). 
 Prior to about 1921 many of the animals used by the "animal husbandry" department were housed in the area east of the buildings on the east side of Knoll Road, south of the physical plant area and north of Col lege Creek. It was then decided that animals should be relocated to the north to the area in the vicinity of the then fairly new Meat Laboratory, and steps were taken to effect that move. 
 The Sheep Barn was one element in the new complex, and was described in the Iowa State Student on September 27, 1922: 
