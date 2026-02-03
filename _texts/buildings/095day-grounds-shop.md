@@ -6,7 +6,7 @@ built: "1924-25"
 addition:
 architect: 
 contractor: "F.M. Eller"
-razed: 1972
+razed: "1972"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
