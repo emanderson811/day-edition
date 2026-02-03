@@ -30,7 +30,7 @@ The original building was built by the Agricultural Engineering department as an
 >
 >The barn is the first of its kind in the country, the plans having been originally worked out by Professor Davidson and others in the Agricultural Engineering Department. The construction work going on at the present time is under the supervision of Henry Giese, an assistant in the department.
 
-The Financial Report for 1930 called this "Utility Barn" and valued it at $ll,600. 
+The Financial Report for 1930 called this "Utility Barn" and valued it at $11,600. 
 
 Bids for an addition to the building were received in November 1954, but these were rejected, plans were modified, new bids were taken and contracts awarded in February 1955.[^fn1] The work was accepted the following January.[^fn2]
 
