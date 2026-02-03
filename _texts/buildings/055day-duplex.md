@@ -8,7 +8,7 @@ built:
 addition:
 architect:
 contractor: "Thomas Sloss"
-razed: 1970
+razed: "1970"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
