@@ -6,7 +6,7 @@ built: "1860"
 addition: "1873"
 architect: "Milens Burt of Muscatine"
 contractor: 
-razed: 1928
+razed: "1928"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
