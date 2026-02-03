@@ -9,7 +9,7 @@ built: "1898"
 addition:
 architect:
 contractor: "Zitterell & Atkinson"
-razed: 1973
+razed: "1973"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
