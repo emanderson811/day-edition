@@ -6,7 +6,7 @@ built: "1904"
 addition:
 architect: "Proudfoot & Bird"
 contractor: "M. Hullibarger"
-razed: 1949
+razed: "1949"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
