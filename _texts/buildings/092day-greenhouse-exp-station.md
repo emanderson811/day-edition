@@ -8,7 +8,7 @@ built: "1888"
 addition: 
 architect: "Foster & Liebbe"
 contractor: "Smith & Tusant"
-razed: 1897
+razed: "1897"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
