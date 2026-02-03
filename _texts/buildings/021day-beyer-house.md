@@ -8,7 +8,7 @@ built: "1901"
 addition:
 architect:
 contractor: 
-razed: 1948-49
+razed: "1948-49"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
