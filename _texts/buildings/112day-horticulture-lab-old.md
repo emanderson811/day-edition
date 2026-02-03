@@ -6,7 +6,7 @@ built: 1901-1902
 addition:
 architect: Hallett & Rawson
 contractor: W.J. Zitterell
-razed: 1978
+razed: "1978"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
