@@ -8,7 +8,7 @@ built: "1924"
 addition:
 architect: "Proudfoot, Bird & Rawson"
 contractor: "Garner - Stiles Co."
-razed: 1972
+razed: "1972"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
