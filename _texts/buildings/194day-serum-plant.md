@@ -16,8 +16,8 @@ publication-date: 1980
 ---
 ---
 
-## razed ##: 1926 [^fn1]
-##razed:## 1926 [^fn1]
+**razed:** 1926 [^fn1]
+
 This building was located at what is now the northwest corner of the Veterinary Clinic. It was a U-shaped structure 100 feet wide with the two wings, each 40 feet wide by 150 feet long, built of brick and with cement floor. It faced south. 
 
 A hog-cholera epidemic in 1913 resulted in the loss of 25 percent of the state's swine population.[^fn2] The Serum Plant was erected that year, on an emergency basis, to produce a serum to counteract the disease. A special state appropriation provided for construction, equipment and some operating costs, although the total operation was assumed to be self-supporting. 
