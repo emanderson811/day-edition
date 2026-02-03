@@ -8,7 +8,7 @@ architect: "1903 Proudfoot and Bird"
 contractor: 
   - "1896 Lord & Burnham; M. Hullabarger (foundation)"
   - "1903 C.E. Atkinson"
-razed: 1968
+razed: "1968"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
