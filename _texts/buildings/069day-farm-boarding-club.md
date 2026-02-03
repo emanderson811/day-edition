@@ -11,7 +11,7 @@ built:
 addition:
 architect: 
 contractor: 
-razed: 1970
+razed: "1970"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
