@@ -8,7 +8,7 @@ built: "1882"
 addition:
 architect: "Professors Knapp and Budd"
 contractor: 
-razed: 1904
+razed: "1904"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
