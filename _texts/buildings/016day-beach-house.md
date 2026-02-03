@@ -8,7 +8,7 @@ built: 1905-06
 addition:
 architect:
 contractor: "W.J. Gordon"
-razed: 1961
+razed: "1961"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
