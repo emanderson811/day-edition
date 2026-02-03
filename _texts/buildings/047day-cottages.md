@@ -6,7 +6,7 @@ built: 1946-47
 addition:
 architect:
 contractor: 
-razed: 1960
+razed: "1960"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
