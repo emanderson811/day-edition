@@ -6,7 +6,7 @@ built: "1908"
 addition:
 architect:
 contractor: 
-razed: 1933
+razed: "1933"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
