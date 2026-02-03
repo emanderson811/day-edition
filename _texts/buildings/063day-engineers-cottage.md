@@ -8,7 +8,7 @@ built:
 addition:
 architect: 
 contractor: "W.M. Rich"
-razed: 1970
+razed: "1970"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
