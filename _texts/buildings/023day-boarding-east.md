@@ -8,7 +8,7 @@ built: "1882"
 addition:
 architect: "Prof. Belanger"
 contractor: "V. Tomlinson"
-razed: 1907
+razed: "1907"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
