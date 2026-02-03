@@ -6,7 +6,7 @@ built: "1929-30"
 addition:
 architect: 
 contractor: "Foley Greenhouse Mfg. Co."
-razed: 1969
+razed: "1969"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
