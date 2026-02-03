@@ -6,7 +6,7 @@ built: "1924"
 addition:
 architect: "Proudfoot, Bird & Rawson"
 contractor: "Peterson, Netcott & Martin"
-razed: 1972
+razed: "1972"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
