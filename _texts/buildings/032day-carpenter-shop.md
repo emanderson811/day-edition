@@ -10,7 +10,7 @@ built:
 addition:
 architect: "Proudfoot & Bird"
 contractor: "Direction by Thomas Sloss"
-razed: 1972
+razed: "1972"
 author:
 rights: Public Domain
 source: Iowa State University Library, University Archives
