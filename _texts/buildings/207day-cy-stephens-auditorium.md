@@ -38,7 +38,7 @@ Seating capacity of the auditorium:
 
 <table style="width: 500px;">
   <tr>
-    <td>Main floorh</td>
+    <td>Main floor</td>
     <td>1618</td>
   </tr>
   <tr>
@@ -56,11 +56,11 @@ Seating capacity of the auditorium:
 
   <tr>
     <td></td>
-    <td style="border-top: 1px solid black;"></td>
+    <td style="border-top: 1px solid black; width: 20px"></td>
   </tr>
 
   <tr>
-    <td>Total normal</td>
+    <td>Total normal!!!</td>
     <td>2637</td>
   </tr>
 </table>
