@@ -39,19 +39,19 @@ Seating capacity of the auditorium:
 <table>
   <tr>
     <td>Main floor</td>
-    <td style="text-align: right;">1618</td>
+    <td>1618</td>
   </tr>
   <tr>
     <td>First balcony</td>
-    <td style="text-align: right;">457</td>
+    <td>457</td>
   </tr>
   <tr>
     <td>Second balcony</td>
-    <td style="text-align: right;">352</td>
+    <td>352</td>
   </tr>
   <tr>
     <td>Third balcony</td>
-    <td style="text-align: right;">210</td>
+    <td>210</td>
   </tr>
 
   <tr>
@@ -61,7 +61,7 @@ Seating capacity of the auditorium:
 
   <tr>
     <td>Total normal</td>
-    <td style="text-align: right;">2637</td>
+    <td>2637</td>
   </tr>
 </table>
 
