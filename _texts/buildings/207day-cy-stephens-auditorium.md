@@ -36,6 +36,33 @@ The immense, colorful, Japanese-made stage curtain was the gift of J.W. Fisher o
 
 Seating capacity of the auditorium: 
 
-Main floor 1618 First balcony 457 Second balcony 352 Third balcony 210 
-Total normal 2637 
+<table>
+  <tr>
+    <td>Main floor</td>
+    <td style="text-align: right;">1618</td>
+  </tr>
+  <tr>
+    <td>First balcony</td>
+    <td style="text-align: right;">457</td>
+  </tr>
+  <tr>
+    <td>Second balcony</td>
+    <td style="text-align: right;">352</td>
+  </tr>
+  <tr>
+    <td>Third balcony</td>
+    <td style="text-align: right;">210</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td style="border-top: 1px solid black;"></td>
+  </tr>
+
+  <tr>
+    <td>Total normal</td>
+    <td style="text-align: right;">2637</td>
+  </tr>
+</table>
+
 Expansion possible with 112 seats on orchestra lift when that is not used for the production.
