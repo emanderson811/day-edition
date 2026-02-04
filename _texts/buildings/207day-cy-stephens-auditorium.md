@@ -65,4 +65,15 @@ Seating capacity of the auditorium:
   </tr>
 </table>
 
+|--|--|
+|Main floor|1618|
+|First balcony|457|
+|Second balcony|352|
+|Third balcony|210|
+<tr>
+    <td></td>
+    <td style="border-top: 1px solid black;"></td>
+  </tr>
+|Total normal|2637|
+
 Expansion possible with 112 seats on orchestra lift when that is not used for the production.
