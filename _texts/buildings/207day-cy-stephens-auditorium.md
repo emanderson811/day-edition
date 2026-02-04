@@ -60,7 +60,7 @@ Seating capacity of the auditorium:
   </tr>
 
   <tr>
-    <td>Total normal!!!</td>
+    <td>Total normal</td>
     <td>2637</td>
   </tr>
 </table>
