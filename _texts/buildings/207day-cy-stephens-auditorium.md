@@ -36,7 +36,7 @@ The immense, colorful, Japanese-made stage curtain was the gift of J.W. Fisher o
 
 Seating capacity of the auditorium: 
 
-<table>
+<table style="padding-left: 30px;">
   <tr>
     <td>Main floor</td>
     <td>1618</td>
