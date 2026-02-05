@@ -22,7 +22,7 @@ In 1885, after the new Veterinary Hospital was completed, the barn was transferr
 
 This is almost certainly the barn referred to in the Sept. 1892 action of the Board approving transfer of the "bus house and barn" to the Agricultural department and approval of moving them to a new location. The following May the Building Committee was instructed "to act at once" to remove the "house and barn belonging to the steward's department, from the grounds set aside for the Athletic Association."[^fn2] The Biennial Report for 1892-93 reports that the two buildings had been "moved to a more suitable location and put in better repair and condition." 
 
-It is thought that the site selected for the new location of the house was on the south side of the road near the west gate, but where the barn was moved is not known. ([See discussion under Fair Oaks Mansion.])(https://emanderson811.github.io/day-edition/texts/buildings/068day-fair-oaks-mansion/)
+It is thought that the site selected for the new location of the house was on the south side of the road near the west gate, but where the barn was moved is not known. ([See discussion under Fair Oaks Mansion.](https://emanderson811.github.io/day-edition/texts/buildings/068day-fair-oaks-mansion/) 
 
 [^fn1]: Minutes, November 1885 
 
