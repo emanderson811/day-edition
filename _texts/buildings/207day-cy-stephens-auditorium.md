@@ -16,7 +16,7 @@ publication-date: 1980
 ---
 ---
 
-This was the first building constructed at the Iowa State Center, and brought to reality the dream of President Hilton which he had first proposed in 1954. [(See section on Iowa State Center.)](https://emanderson811.github.io/day-edition/texts/007day-special-areas/#iowa-state-center)
+This was the first building constructed at the Iowa State Center, and brought to reality the dream of President Hilton which he had first proposed in 1954. ([See section on Iowa State Center.])(https://emanderson811.github.io/day-edition/texts/007day-special-areas/#iowa-state-center)
 
 Architects were selected by the Board of Governors of the Iowa State University Foundation and their action was concurred in by the Board of Regents at the latter's April 9-10, 1964, meeting. The appointment was for the four buildings and the site development of the Iowa State Center project. 
 
