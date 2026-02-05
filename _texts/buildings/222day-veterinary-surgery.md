@@ -1,7 +1,7 @@
 ---
 layout: building
 title: "Veterinary Surgery"
-alternative_name: 
+alternative_name: "Military Stables - South (or West)"
 built: 
 addition:
 architect: 
@@ -13,6 +13,3 @@ source: Iowa State University Library, University Archives
 publication-date: 1980 
 ---
 ---
-
-VETERINARY SURGERY 
-Military Stables -South (or West)
