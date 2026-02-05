@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
  
-Located where Bessey Hali stands now. 
+Located where Bessey Hall stands now. 
 
 The July 1890 Board minutes record an appropriation of $750 from the Experiment Station fund for building a house for station employee, located on the Northwest corner of the lot known as the calf-pasture. 
 
