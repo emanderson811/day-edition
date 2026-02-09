@@ -137,9 +137,9 @@ Another piece of fire-fighting equipment was added in October of that same year,
 
 >Iowa State has a valuable addition to its fire fighting equipment in the form of a new chemical truck. This truck is an American­LaFrance type E body, mounted on a Ford one-ton chassis. 
 >
->This truck is painted with the official fire department red, with black and white finishing lines. The chassis is a one-ton Ford with a wheel-base of 124 inches, capable of making a speed of thirty-five miles per hour; 30 x 3 1/2 pneumatic tires are used on the front wheels and 32 x 4 1/2 on the rear. The tires are mounted on demountable rims. The body is constructed of light wood, reinforced with steel rods. An eight-inch locomotive bell is mounted on the dash. An ordinary Ford lighting system is used, two extra lanterns being included in the outfit. 
+>This truck is painted with the official fire department red, with black and white finishing lines. The chassis is a one-ton Ford with a wheel-base of 124 inches, capable of making a speed of thirty-five miles per hour; 30 x 3 &frac12; pneumatic tires are used on the front wheels and 32 x 4 &frac12; on the rear. The tires are mounted on demountable rims. The body is constructed of light wood, reinforced with steel rods. An eight-inch locomotive bell is mounted on the dash. An ordinary Ford lighting system is used, two extra lanterns being included in the outfit. 
 >
->The compartment which holds a thousand feet of 2 1/2 inch hose is under the chemical tanks, which have a capacity of twenty-five gallons each. The tanks are made of one-piece seamless steel, and in tests have withstood a pressure of 400 pounds per square inch. Beneath the tanks are drippans, which catch any chemicals that might drip down during the process of filling the tanks. Four fifty-foot lengths of 3/4 inch four-ply hose make up the chemical hose equipment. 
+>The compartment which holds a thousand feet of 2 &frac12; inch hose is under the chemical tanks, which have a capacity of twenty-five gallons each. The tanks are made of one-piece seamless steel, and in tests have withstood a pressure of 400 pounds per square inch. Beneath the tanks are drippans, which catch any chemicals that might drip down during the process of filling the tanks. Four fifty-foot lengths of &frac34; inch four-ply hose make up the chemical hose equipment. 
 >
 >The nozzle of this hose cannot stick shut, insuring a free flow of chemicals at all times. The chemical hose basket holds 250 feet of this hose. Two non-corrosive receptacles, bolted to the running board, contain the extra acid, and two heavy sheet steel soda cannisters hold the extra soda. 
 >
@@ -155,7 +155,7 @@ An agreement between the Ames fire department and the college was entered into b
 
 In 1931 a new approach was taken to protection of the campus buildings and those in the west part of Ames when it was agreed to build a fire station under the west stadium bleachers. Costs of the new construc­tion and maintenance and operation of the unit would be shared by the college and the city. This arrangement proved satisfactory and was con­tinued until the city built its new substation on Welch Avenue in the fall of 1966. The university contributed to its construction and con­tinues to make annual payments for its support. 
 
-Other fire protective steps have been taken to minimize danger to the campus community. Sprinkler systems have been installed, more fire hydrants have been placed about the campus, fire and smoke de­tectors and alarms have been put in a number of buildings and fire ex­tinguishers have been generously located in all buildings. 
+Other fire protective steps have been taken to minimize danger to the campus community. Sprinkler systems have been installed, more fire hydrants have been placed about the campus, fire and smoke de­tectors and alarms have been put in a number of buildings and fire extinguishers have been generously located in all buildings. 
 
 ## FIRES 
 
