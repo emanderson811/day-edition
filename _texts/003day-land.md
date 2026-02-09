@@ -29,15 +29,18 @@ During the 19th and early 20th century various references to an arbo­retum have
 
 The land which became the Arboretum was acquired by the college in 1924, including the property between Hayward and Sheldon Avenues which is now used as parking space, but was originally included with the College Creek valley westward to State Avenue as part of the proposed Arboretum. The earliest extant plat of the area is dated March 1, 1924. It shows a curving driveway running west from Hayward Avenue, across Sheldon and continuing to State (then Wells) Avenue with a branch turning north to Arbor (then Leek) Street. It is interesting to note that golf links and a golf house are shown on that plan on the south side of College Creek between Sheldon and State.
 
-An article in the Iowa State Student on May 20, 1925, outlines the plans for the area at that time: 
+An article in the *Iowa State Student* on May 20, 1925, outlines the plans for the area at that time: 
+
 >The horticulture department has recently acquired several new farms which include the college creek south west of the campus for about a mile and one-quarter. Since the land on the sides of the creek was rough and could not be used for farm lands the area has been given to the landscape department for an arboretum.
 >
->Part of the old arboretum north of Chemistry and Physics build­ings has already been moved. Several hundred dollars worth of plants including over 500 trees have already been purchased and planted near the creek this spring. Over 1000 more trees have been ordered. The object is to get a background of trees as soon as possible. The dump south of Wesley hall has been filled up with dirt furnished by the city and trees have been planted there. 
-At the present time the grounds include over 100 acres and the plans for development have a specimen garden near the entrance of Hayward, south of Lincoln way. It is planned that every type of plant that will grow in this region will be planted and used for class study in this garden. 
+>Part of the old arboretum north of Chemistry and Physics build­ings has already been moved. Several hundred dollars worth of plants including over 500 trees have already been purchased and planted near the creek this spring. Over 1000 more trees have been ordered. The object is to get a background of trees as soon as possible. The dump south of Wesley hall has been filled up with dirt furnished by the city and trees have been planted there.
+>
+>At the present time the grounds include over 100 acres and the plans for development have a specimen garden near the entrance of Hayward, south of Lincoln way. It is planned that every type of plant that will grow in this region will be planted and used for class study in this garden. 
 >
 >A road will follow the creek to the back of the arboretum. The land will be developed with park-like treatment including borders of trees, shrubs, lakes and flowers. The far end will include only native plants. These will be planted in a natural develop­ment. All of it will be very informal except the specimen gar­den at the entrance.
 
-Elaborate plans for the Arboretum were prepared at various dates over the next decade, particularly by Rothacker, who used the term "Cura­tor" as his title on the plans. Most of those studies included an area along the creek valley extending a half mile west of State Ave­nue, as well as that acreage previously referred to between Hayward and State. A December 14, 1929, story in the college paper records some of Rothacker's ideas: 
+Elaborate plans for the Arboretum were prepared at various dates over the next decade, particularly by Rothacker, who used the term "Curator" as his title on the plans. Most of those studies included an area along the creek valley extending a half mile west of State Avenue, as well as that acreage previously referred to between Hayward and State. A December 14, 1929, story in the college paper records some of Rothacker's ideas: 
+
 >"'The Ames Arboretum' is suggested as the name of the botanical garden and arboretum now under development at Iowa State College," states Prof. R.R. Rothacker, of the Landscape Architecture De­partment.
 > 
 >"Four years ago," says Professor Rothacker, "the plan for the garden was outlined which, when completed, will cover an area of 50 acres. The site chosen is in the College Creek valley, one mile west of the corner of Lincoln Way and Hayward Avenue." 
@@ -50,7 +53,7 @@ Elaborate plans for the Arboretum were prepared at various dates over the next d
 >
 >There are very few arboretums in the United States, because of the great length of time, the large amount of money, and the technical knowledge necessary to create such a project. Other arboretums are being developed at Pennsylvania State College, Cornell University and the University of Michigan. The govern­ment is planning to finance the development of such a garden near Washington, D.C., on a site adjacent to the Anacostia river. 
 
-The development of those early plans was slow. Some help came in 1934 with federal participation in a Civil Works Administration project, described in the Iowa State Student on February 10 of that year: 
+The development of those early plans was slow. Some help came in 1934 with federal participation in a Civil Works Administration project, described in the *Iowa State Student* on February 10 of that year: 
 >
 >Destined in coming years to become one of the most important plots in the Midwest for the introduction of new plants, shrubs, and trees, the Arboretum will be constructed on land owned by the college along the creek south of the Collegiate Methodist Church, extending about one-half mile upstream. It will cover about 35 acres and will vary in width from 250 to 300 yards. 
 >
@@ -67,7 +70,7 @@ The development of those early plans was slow. Some help came in 1934 with feder
 By 1938 the paper could report on some accomplishment and on contin­uing dreams for the future:[^fn1] 
 
 [^fn1]: Iowa State Daily Student, December 13, 1938.
->
+
 >Visualize 70 acres of land, a stream running through it, 2,450 species and varieties of shrubs and trees that may be found in Iowa and surrounding states and you have an idea of the Iowa State College arboretum that will be well established by 1942. 
 >
 >Iowa State's arboretum -- which is a short name for botanical tree garden -- begins at the junction of Chamberlain and Hayward streets and extends for nearly a mile, past State street and ends near the Agronomy Farm. 
@@ -76,8 +79,8 @@ By 1938 the paper could report on some accomplishment and on contin­uing dreams
 >
 >Ten foot-bridges, a concrete culvert and a cinder path stretching the entire length have been constructed to date. The creek has been widened in three places by dams built for erosion control. Work is also being carried on to have the ground ready for plant­ing as funds are appropriated. Thus far, only a few of the final forestry plots have been actually established. 
 
-A modification in the use of a portion of the area is reported in the Iowa State Daily Student on September 27, 1940: 
->
+A modification in the use of a portion of the area is reported in the *Iowa State Daily Student* on September 27, 1940: 
+
 >Iowa State herbaceous gardens, covering 5 acres near State and Leek streets, is one of the show places at the college rapidly becoming better known, according to its curator, Dr. J. N. Martin. 
 >
 >This plot of ground, formerly used by the college Horticulture and Forestry Departments as a nursery, has for the last 3 years been under the supervision of a joint committee on institutional gardens and parks, of which George Godfrey, director of Agricul­tural Relations, is chairman. 
@@ -93,8 +96,8 @@ Martin works with daily.
 
 Over the succeeding years little mention is made of any activity in the arboretum. 
 
-On July 8, 1965 the Iowa State Daily tells of the then current condi­tions: 
->
+On July 8, 1965 the *Iowa State Daily* tells of the then current condi­tions: 
+
 >Hopes for the building of an arboretum, originally scheduled for completion in 1942, are still alive in the various natural science departments on campus. 
 >
 >The arboretum, which was first begun in 1938, is located south of Lincoln Way on the west side of Sheldon Avenue. It extends nearly a mile and ends near the agronomy farm. 
@@ -112,7 +115,7 @@ On July 8, 1965 the Iowa State Daily tells of the then current condi­tions:
 >Work was discontinued some years ago apparently due to lack of funds, but plans are again stirring in hopes of finally complet­ing the project.
 
 Two years later the paper reported on the deplorable conditions of the Arboretum:[^fn2]
->
+
 >"It's the shame of Iowa State." That's how Prof. John M. Aikman, botany, describes the University arboretum. Aikman, who was one of the arboretum's major enthusiasts, pointed out the arboretum's five bridges and memorials are "going to Pot." He condemned the University as lacking the "missionary spirit" necessary to gain better coordination within the departments con­cerned. "If you look at Wisconsin's arboretum and then come back here it makes you sick." Aikman wondered why more hasn't been done considering the number of people interested in its develop­ment. 
 >
 >The arboretum is located southwest of the main campus along the valley of College Creek. The bulk of it is sandwiched between Sheldon Avenue on the east and State Avenue on the west. 
@@ -145,16 +148,16 @@ By 1979 maintenance had improved but the early dreams of the nineteen­thirties 
 
 ## CEMETERY
 
-Concern for the final resting place for college faculty was expressed by the Board of Trustees at its meeting of August 16-19, 1876. It was then "Ordered, That five acres of land be surveyed under direction of President Welch; that the same be set aside for the purposes of a Col­lege Cemetery and be transferred from the department of Horticulture and Forestry to the department of Ornamental Grounds." 
+Concern for the final resting place for college faculty was expressed by the Board of Trustees at its meeting of August 16-19, 1876. It was then "Ordered, That five acres of land be surveyed under direction of President Welch; that the same be set aside for the purposes of a College Cemetery and be transferred from the department of Horticulture and Forestry to the department of Ornamental Grounds." 
 
 It seems reasonable to assume that the selection of the site was then made by President Welch. In 1883 an appropriation of $75.00 was made for fencing the cemetery. No road served the cemetery until 1888 or 1889. The Biennial Report for those years states that provision was made for the construction of a road sixteen and one-half feet wide running from the cemetery gate east until intersecting the road run­ning north from the College. The new road was the first section of what has now become Pammel Drive. At that time the road north from the College was on the west side of Old Main and ran just west of what is today the center line of Gilman and Spedding Halls. 
 
-In November 1895 the Trustees authorized enlargement of the cemetery "as much as necessary for cemetery purposes," and authorized an ex­penditure of $100.00 in order that "the cemetery be beautified and ornamented and thoroughly cared for." 
+In November 1895 the Trustees authorized enlargement of the cemetery "as much as necessary for cemetery purposes," and authorized an expenditure of $100.00 in order that "the cemetery be beautified and ornamented and thoroughly cared for." 
 
 Funds for completion of the cemetery plat were made available in 1904. In the 21st & 22nd Biennial Reports, 1903-1906, references were made to inadequate care of the cemetery. 
 
 In 1906 the President was authorized to assign lots "as occasion arises" and report such assignments to the Board "in order that they may be entered of record." The first regulations governing the use of the cemetery were adopted by the Board of Trustees at their meeting of April 12, 1907. They were stated: 
->
+
 >The privilege of interment in the College Cemetery shall be re­stricted to the College Faculty and their immediate connections. The general care and supervision of the Cemetery shall be vested in the Public Grounds Committee. 
 >
 >The Public Grounds Committee may assign lots in the College Ceme­tery subject to the following conditions: 
@@ -179,8 +182,8 @@ Current regulations preclude assignment of lots to anyone with less than fifteen
 
 ## LAKE LA VERNE
 
-The first reference to a lake on campus appeared in the November 19, 1914, edition of the Iowa State Student:
-> 
+The first reference to a lake on campus appeared in the November 19, 1914, edition of the *Iowa State Student:*
+
 >O. C. Simonds, the well known landscape gardener of Chicago, whose services have been donated to the college by Laverne W. Noyes, graduate of the class of '72, spent the first 3 days of this week studying the needs of the campus. 
 >
 >He gave most of his time to the south part of the campus, which he thinks could be maintained and developed as a park, as has been the policy up to this time. Mr. Simonds thinks it might be possible to make a dam in College Creek a short distance above the new culvert under the interurban line. If his suggestion is carried out there would be a lake about 500 feet long and 100 to 150 feet wide. This would extend nearly to the new concrete bridge at the Welch street entrance and cover most of the low ground which is now in grass.
@@ -188,7 +191,7 @@ The first reference to a lake on campus appeared in the November 19, 1914, editi
 The "culvert under the interurban" was just a few feet east of Lynn street at Lincoln Way (using current street names).
 
 Action was taken quickly, for just a month later the paper carried this report:
-> 
+
 >"When students come back from vacation a skating pond will be ready for them," said Supt. Thomas Sloss today. College Creek is to be dammed just above the interurban bridge. The water will be raised two feet. This will make a pond which will extend nearly to Champlin's bridge. 
 >
 >Superintendent Sloss has men working on the dam at present. The Cardinal Guild will keep the ice cleared of snow. It is thus assured that the skaters of the college will have a chance to use their skates this winter. 
@@ -219,7 +222,7 @@ Since then the lake has been well maintained and is a campus attrac­tion, espec
 
 ## LANDSCAPING (INCLUDING ORCHARDS AND GARDENS)
 
-<p style="text-align: center;">(Also see Campus Planning, Pammel Woods and Arboretum)</p>
+<p style="text-align: center;">(Also see [Campus Planning](https://emanderson811.github.io/day-edition/texts/009day-campus-planning/), [Pammel Woods](https://emanderson811.github.io/day-edition/texts/003day-land/#pammel-woods) and [Arboretum](https://emanderson811.github.io/day-edition/texts/003day-land/#arboretum))</p>
 
 On July 4, 1859, the early settlers of Story and Boone counties held a picnic to celebrate the purchase of the land that was to become the Iowa Agricultural College and Model Farm. The gathering was in the area just east of what is now the cemetery at the edge of the woods along Clear Creek. Between there and Squaw Creek where some trees were seen there was only rolling prairie without shade of any kind. The beauty of today's campus could not have been envisioned at that time. 
 
