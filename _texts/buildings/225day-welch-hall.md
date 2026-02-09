@@ -26,7 +26,7 @@ This unit completed the south side and southwest corner of the dormitory group w
 
 The building was described in the April 23, 1929, issue of the *Iowa State Student*: 
 
->The Mary B. Welch West Hall, which held its open house last Saturday, is named after the wife of the first president of Iowa State, She was also the founder of the Home Economics Division. 
+>The Mary B. Welch West Hall, which held its open house last Saturday, is named after the wife of the first president of Iowa State. She was also the founder of the Home Economics Division. 
 >
 >The new hall is a dignified brick colonial of four stories with a solid, massive front door which is characteristic of the northern colonial style. One of the parlors is attractively furnished with comfortable chairs of various styles; a davenport and chair in futuristic design; a magazine chest; and tables including end tables and davenport table. In the Fireplace Lounge, there is a huge fireplace of interesting design. This room has been furnished to carry out the early American idea. Chintz curtains, hooked rugs, colonial wrought iron fixtures, ladder-back chairs, butter fly table, and the old-fashioned geranium plant have been used to make a typical setting for the fire place of natural wood with nails showing. In another parlor, wicker furniture with gay cushions make the room comfortable.
 >
