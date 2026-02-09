@@ -350,7 +350,7 @@ A.H. Sr., and Fred Bergmeyer, For. So. in delivering the campus mail.
 >
 >The campus mail system, which is not affiliated in any manner with the United States mails, was originated a number of years ago by the late Herman Kanpp, then treasurer of the college. Until 1930 the volume was comparatively small and deliveries were made during the noon hour but since that time the mail has been carried by two college students, each working half the day. 
 >
->In delivering the 400,000 pieces of campus mail each calendar year these student carriers make two trips of 2 1/2 miles each day, making a total of four deliveries a day to the college buildings. The United States mail distributed from Station A to the buildings on the campus is approximately twice the volume of that of the campus system. 
+>In delivering the 400,000 pieces of campus mail each calendar year these student carriers make two trips of 2 &frac12; miles each day, making a total of four deliveries a day to the college buildings. The United States mail distributed from Station A to the buildings on the campus is approximately twice the volume of that of the campus system. 
 >
 >The student mail carriers maintain a definite schedule of delivery between the 30 college buildings which comprise the route. Start­ing from Morrill Hall, the college-trained mailmen travel over the western side of the campus, then up to the northern edge, over to the east side and finish at the starting point approxi­mately 2 hours later. 
 >
@@ -411,7 +411,7 @@ A new antenna tower was built in late 1938 and early 1939 with the first broadca
 >Construction was begun Thursday on the new 400-foot WOI radio tower which will be located just west of the polo field. The 
 J.E. Lovejoy Company, Des Moines, was awarded the contract for the erection of the tower with a bid of $8,174. 
 >
->The project is being financed in part by a PWA grant for 45 per­cent of the costs. The total cost will be approximately $11,000, according to W.E. Stewart, chief engineer of WOI, and the work will require 2 1/2 months for completion. 
+>The project is being financed in part by a PWA grant for 45 per­cent of the costs. The total cost will be approximately $11,000, according to W.E. Stewart, chief engineer of WOI, and the work will require 2 &frac12; months for completion. 
 >
 >The tower is triangular in shape measuring 22 feet on each side at the base. It will stand on reinforced concrete piers. The steel frame is fabricated in 20 foot sections which will be hoisted into position and welded in place, 
 >
@@ -581,7 +581,7 @@ It was 1944 before another major storm was reported. That one was recorded in th
 >
 >Both Thursday's and Friday's storms were classified as 100-year rains, not likely to happen oftener than once in a century, by Prof. A. Englehorn, of the Agricultural Experiment Station. The odds against two 100-year rains coming within the same week or even year are astronomical, he said. 
 >
->The storm Friday night reached the greater intensity, with an average of 1/2 inch of rainfall every 15 minutes during the first hour. Thursday's rainfall reached its height between 9 and 11 p.m., when almost 3 inches fell. 
+>The storm Friday night reached the greater intensity, with an average of &frac12; inch of rainfall every 15 minutes during the first hour. Thursday's rainfall reached its height between 9 and 11 p.m., when almost 3 inches fell. 
 >
 >The weekend's rainfall total reached 8.37 inches. Thursday's storm was the heaviest, 4.53 inches with Friday's total of 3.68 not far behind. A J16 inch rain fell Saturday. Yesterday's rainfall was estimated unofficially at .85. 
 >
