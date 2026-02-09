@@ -290,7 +290,7 @@ A re-platting of the grounds was made in 1887 and specific areas were allocated 
 
 <table>
  <tr>
-  <td>Land occupied by horticulture, ornamental grounds, etc.</td>
+  <td style="width:70%">Land occupied by horticulture, ornamental grounds, etc.</td>
   <td>130 acres</td>
  </tr>
  <tr>
