@@ -287,15 +287,15 @@ In March 1878 *The Aurora* gave this account of a new development:
 >Prof. Budd has commenced in earnest with his horticultural de­partment this spring. The new Russian orchard which he has started will contain over twelve hundred trees, grafted with six hundred varieties from northern Europe. He also has seventy thousand grafts which will be immediately put into a nursery on the farm. The next year he will follow this up by taking hold of the plums, grapes, raspberries, currants, etc. 
 
 A re-platting of the grounds was made in 1887 and specific areas were allocated for "the farm on the one hand and the horticultural and ornamentals on 'Public Grounds' and steward's garden on the other." The map showing the divisions referred to is still in existence. An accompanying tabulation is of interest: 
-
+ ersgsfdfb
 <table>
  <tr>
-  <td style="width:70%">Land occupied by horticulture, ornamental grounds, etc.</td>
+  <td style="width:78%">Land occupied by horticulture, ornamental grounds, etc.</td>
   <td>130 acres</td>
  </tr>
  <tr>
   <td>Land occupied by slouphs, creeks, forests, creed bed, bayous, roads, etc.</td>
-  <td><u>300 acres</u></td>
+  <td>300 acres</td>
  </tr>
  <tr>
   <td>Total land not subject to use for farming purposes (about)</td>
@@ -303,21 +303,13 @@ A re-platting of the grounds was made in 1887 and specific areas were allocated 
  </tr>
  <tr>
   <td>Total good land arable and pasture used in actual farming (about)</td>
-  <td><u>456 acres</u></td>
+  <td>456 acres</td>
  </tr>
  <tr>
   <td>Total College domain</td>
   <td>895 acres</td>
  </tr>
 </table>
-
-|||
-| Land occupied by horticulture, ornamental grounds, etc.                    | 130 acres |
-| Land occupied by sloughs, creeks, forests, creek bed, bayous, roads, etc.  | 300 acres |
-| Total land not subject to use for farming purposes (about)  | 430 acres |
-| Total good land arable and pasture used in actual farming (about)  | 465 acres |
-| Total College domain  | 895 acres |
-
 
 The original Russian Orchard was completely removed in 1888 by which time all but a few trees had died out. In June of that year The 
 Aurora noted that 
