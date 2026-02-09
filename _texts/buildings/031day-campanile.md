@@ -34,15 +34,15 @@ Mr. Page also reported the physical characteristics of the bells:
 
 |No. |Diameter in feet inches|Note|Weight: cwt.|Weight: gr.|Weight:  lbs. |
 |----|------------------|----|------|----------|--------|
-|1|2 - 2 1/2|E|4|0.|15|
-|2|2 - 4 1/4|D|4|2.|10|
+|1|2 - 2 &frac12;|E|4|0.|15|
+|2|2 - 4 &frac14;|D|4|2.|10|
 |3|2 - 6|C|5|1.| 7|
 |4|2 - 7|B|5|3.|15|
-|5|2 - 9 3/4|A|7|1.| 3|
+|5|2 - 9 &frac34;|A|7|1.| 3|
 |6|3 - 2|G|9|2.|19|
-|7|3 - 6 3/4|F|13|3.|21|
-|8|3 - 9 1/2|E|16|1.|21|
-|9|4 - 2 1/2|D|21|2.|21|
+|7|3 - 6 &frac34;|F|13|3.|21|
+|8|3 - 9 &frac12;|E|16|1.|21|
+|9|4 - 2 &frac12;|D|21|2.|21|
 |10|4 - 9|C|32|0.|0|
 
 The amount for "cwt" in England is 112 pounds rather than 100 pounds as in U.S. usage, so bell No. 1 weighs 463 lbs. and No. 10 3584 lbs.
