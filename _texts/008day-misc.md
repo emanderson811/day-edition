@@ -81,7 +81,7 @@ The danger of fire was recognized early in the history of the college. In Novemb
 
 In 1876, at the March 30-31 meeting, the Board ordered, 
 
->That the sum of $135.00 or so much there\ of as may be necessary be appropriated from Interest Fund for the purpose of purchasing a ladder, hooks, buckets, ropes, axes and a trumpet for the fire department of the College. 
+>That the sum of $135.00 or so much there of as may be necessary be appropriated from Interest Fund for the purpose of purchasing a ladder, hooks, buckets, ropes, axes and a trumpet for the fire department of the College. 
 >
 >And it is further Ordered, that a fire company be organized under the direction of Gen. Geddes from among the students of the College, that said company shall drill not less than one hour per week, and for the time spent in such drill they shall receive a compensation to be fixed by the Industrial Committee, said compensation not to exceed the rate per hour paid for uninstructive labor, and the company shall at all times respond promptly to the usual fire sig­nal whatever that may'be. 
 
