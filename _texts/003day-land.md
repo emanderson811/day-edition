@@ -287,7 +287,7 @@ In March 1878 *The Aurora* gave this account of a new development:
 >Prof. Budd has commenced in earnest with his horticultural de­partment this spring. The new Russian orchard which he has started will contain over twelve hundred trees, grafted with six hundred varieties from northern Europe. He also has seventy thousand grafts which will be immediately put into a nursery on the farm. The next year he will follow this up by taking hold of the plums, grapes, raspberries, currants, etc. 
 
 A re-platting of the grounds was made in 1887 and specific areas were allocated for "the farm on the one hand and the horticultural and ornamentals on 'Public Grounds' and steward's garden on the other." The map showing the divisions referred to is still in existence. An accompanying tabulation is of interest: 
- ersgsfdfb
+
 <table>
  <tr>
   <td style="width:78%">Land occupied by horticulture, ornamental grounds, etc.</td>
@@ -311,11 +311,10 @@ A re-platting of the grounds was made in 1887 and specific areas were allocated 
  </tr>
 </table>
 
-The original Russian Orchard was completely removed in 1888 by which time all but a few trees had died out. In June of that year The 
-Aurora noted that 
+The original Russian Orchard was completely removed in 1888 by which time all but a few trees had died out. In June of that year *The 
+Aurora* noted that 
 
->The committee on public grounds...have made some changes in old groups, taking out trees where they are too plentiful or out of order, and making new plantings where needed. The cottages have long been neglected, but we are well supplied with groups of trees now. The coming generation will find the college of the 
-I.A.C. a beautiful place...We notice a small group of oaks between the main building and farm house, the first of the kind on the grounds. 
+>The committee on public grounds...have made some changes in old groups, taking out trees where they are too plentiful or out of order, and making new plantings where needed. The cottages have long been neglected, but we are well supplied with groups of trees now. The coming generation will find the college of the I.A.C. a beautiful place... We notice a small group of oaks between the main building and farm house, the first of the kind on the grounds. 
 
 Professor Budd wrote, with obvious pride, in a report in the 14th Biennial Report for 1890-91: 
 
@@ -323,14 +322,13 @@ Professor Budd wrote, with obvious pride, in a report in the 14th Biennial Repor
 >
 >On the campus, and over the horticultural grounds, varieties and species are labelled and constitute a constant object les­son on a large scale for the study of students and visitors. Taken as a whole the trees and shrubs of the grounds form the best arboretum found west of the Arnold arboretum at Boston. With embellishements, we could soon say that, as a park and landscape garden, our public grounds are not equalled in the west. 
 
-A similar expression of pride in the campus, though on a lesser scale, appeared in the July 1892 Aurora: 
+A similar expression of pride in the campus, though on a lesser scale, appeared in the July 1892 *Aurora*: 
 
->The finest grove of evergreens on the college grounds is found on the grounds surrounding the houses occupied by Profs. Osborn and Pammel. It is hereafter to be known as the Pinetum. The trees are not only beautiful examples of their kind, but there are a good many species represented. This spring a dozen addi­tional species have been planted. As most of these are hardy the college Pinetum will contain nearly all conifers that will 
-grow in Iowa. 
+>The finest grove of evergreens on the college grounds is found on the grounds surrounding the houses occupied by Profs. Osborn and Pammel. It is hereafter to be known as the Pinetum. The trees are not only beautiful examples of their kind, but there are a good many species represented. This spring a dozen addi­tional species have been planted. As most of these are hardy the college Pinetum will contain nearly all conifers that will grow in Iowa. 
 
 The houses referred to in the above paragraph are those now called Osborn Cottage and Sloss House.
 
-The Student, on June 15, 1897, editorialized on the Russian olive tree: 
+*The Student*, on June 15, 1897, editorialized on the Russian olive tree: 
 
 >The wild olive is distinctively our college tree. With its sil­ver leaves, its yellow blossoms and its black stems, it shows a perfect combination of our college colors. We are thoroughly gratified that Prof. Budd introduced these beautiful trees among the native ones upon the campus. 
 
@@ -364,13 +362,13 @@ In 1908 the line of sycamores was set out along the cinder path be­tween the ca
 
 [^fn7]: ISC Student, May 4, 1908.
 
-A new policy in landscape development came in 1909, as recorded in the <u>ISC Student</u> on June 7: 
+A new policy in landscape development came in 1909, as recorded in the *ISC Student* on June 7: 
 
 >For the coming year Pofessor A. T. Erwin will give his entire time to the ornamental and landscape work of the college and severs his connection with the experiment station work. As a part of this plan he has been made superintendent of public grounds and he is to use the campus as a practical laboratory in connection with the class room work in this subject. 
 
 Christmas 1914 saw electric lights on the pine tree in front of Beard­shear Hall (then Central) for the first time, and a special program was held on December 20. Through the generosity of Dr. Laverne W. Noyes the services of O. C. Simonds were made available to the college during the years 1915 through 1917. His work in developing Lake La­Verne is covered under that heading. He also worked in an advisory capacity with college personnel in the planting of many trees and shrubs at other locations on the campus. (See "Campus Planning" and "Lake Laverne.") Early in 1917 Dr. Noyes proposed construction of a second lake on the campus, to be approximately in the area now used as the parking lot east of Knoll Road and south of Union Drive. That plan never materialized. 
 
-Plans for a perennial garden were announced in the <u>Iowa State Student</u> on March 30, 1917: 
+Plans for a perennial garden were announced in the *Iowa State Student* on March 30, 1917: 
 
 >This spring Prof. A. S. Thurston of the Horticultural department will start a flower garden consisting of herbaceous perennial plants on the plot northeast of the Plant Industry building. This plot has been used as a sheep pasture up until last fall. 
 >
@@ -384,7 +382,7 @@ A year later, at the April 1920 meeting the Board took action of a similar natur
 
 >The President of the College was authorized to appoint a com­mittee, including the superintendent of Buildings and Grounds and the professor of Landscape Architecture, to have charge of the plantings on the campus, but to act under the direction of the President of the College. 
 
-Removal of dead and dying trees and shrubs and their replacement with new specimens has been an ongoing activity on the campus almost from the beginning of the college. No attempt is made here to record the frequent allocation of funds for landscape improvements entered in the minutes or articles about new plantings included as news items in the student paper. A typical account appeared in the Iowa State Student on February 11, 1933: 
+Removal of dead and dying trees and shrubs and their replacement with new specimens has been an ongoing activity on the campus almost from the beginning of the college. No attempt is made here to record the frequent allocation of funds for landscape improvements entered in the minutes or articles about new plantings included as news items in the student paper. A typical account appeared in the *Iowa State Student* on February 11, 1933: 
 
 >One hundred fifty-five distinct species of trees are growing on the Iowa State campus, according to Asst. Prof. R.R. Rothacker of the Landscape Architecture Department. 
 >
@@ -398,7 +396,7 @@ In April of that year American lindens were planted north of the Land­scape Arc
 
 During the winter of 1933-34 a project under the Civil Works Adminis­tration included the transplanting of many trees. 
 
-The <u>Iowa State Student</u> on October 30, 1934, carried an excellent ac­count of some of the earlier plantings and is worth including here: 
+The *Iowa State Student* on October 30, 1934, carried an excellent ac­count of some of the earlier plantings and is worth including here: 
 
 >Many of the old trees which are now campus landmarks were planted while the present site of Dean C. F. Curtiss' home was the loca­tion of the old stagecoach tavern. In front of Memorial Union is a tree grafted from the original Washington Elm and brought here by Prof. T. J. Maney. A row of soft maple stumps, 2 and 3 feet in diameter were left about the flag pole on central campus and were cut down later when the inner circle of hard maples had be­come large enough. 
 >
@@ -420,7 +418,7 @@ The <u>Iowa State Student</u> on October 30, 1934, carried an excellent ac­coun
 >
 >At present there are on the campus 93 kinds of trees belonging to 23 different families. Among the more common and more largely represented families are the willow, poplar, walnut, birch, oak, elm, mulberry, rose, pea, maple, dogwood and ash. 
 
-The stone wall with its flowers, at the hill on the north side of Union Drive and Knoll Road was well described in the <u>Iowa State Daily Student</u> on May 22, 1946: 
+The stone wall with its flowers, at the hill on the north side of Union Drive and Knoll Road was well described in the *Iowa State Daily Student* on May 22, 1946: 
 
 >That walls may be decorative as well as useful is proved by Iowa State's well-known flowering wall at the corner of Knoll road and Union drive. 
 >
