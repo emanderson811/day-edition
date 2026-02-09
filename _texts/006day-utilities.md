@@ -20,7 +20,7 @@ By 1865 the Minutes record that "Your committee have not been as successful as t
 
 [^fn1]: Minutes, March 23-24, 1865
 
-A well was dug at the Farm House, 32 3/4 feet deep as reported in the Minutes of the January 14-16, 1867, meeting. This was said to provide "good water and plenty of it." For the College building a well was dug at the head of a spring "about three hundred yards west of the Building and by the use of a wind mill force the water to the upper story of the Building." That report expanded on the description: 
+A well was dug at the Farm House, 32 &frac34; feet deep as reported in the Minutes of the January 14-16, 1867, meeting. This was said to provide "good water and plenty of it." For the College building a well was dug at the head of a spring "about three hundred yards west of the Building and by the use of a wind mill force the water to the upper story of the Building." That report expanded on the description: 
 
 >The supply of water has been abundant and of good quality for drinking and cooking purposes. It is quite hard, however, and I recommend to your consideration the importance of building cisterns of large size for the supply of water in the Laundry. 
 >
