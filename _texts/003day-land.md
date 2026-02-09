@@ -240,15 +240,16 @@ Peter Melendy, Superintendent in 1865, wrote:
 >
 >The following is a list of grapes that have been set out the past year: 6 Delawares, 2 Isabellas, 4 Hartford Prolifics, 4 Logan, 4 Diana, 6 Rebecca, 2 Iowa. We have mislaid the list of fruit trees. 
 >
->The amount of tame grass sown on the farm is not large, and I would recommend the seeding of all the meadows and pastures in tame grass as soon as it can be done. Whole amount of land sown, 43 1/2 acres. On old ground -- Timothy, 12 acres; Timothy and Clo­ver, 4 acres; Clover and Blue Grass, 2 1/2 acres; sown on prairie soil and harrowed in, and is doing well, 25 acres. 
+>The amount of tame grass sown on the farm is not large, and I would recommend the seeding of all the meadows and pastures in tame grass as soon as it can be done. Whole amount of land sown, 43 &frac12; acres. On old ground -- Timothy, 12 acres; Timothy and Clo­ver, 4 acres; Clover and Blue Grass, 2 &frac12; acres; sown on prairie soil and harrowed in, and is doing well, 25 acres. 
 >
 >I would recommend the platting and dividing the farm into fields and lanes according to the Superintendent's plat. I think the land on the south side of the orchard fence should be used as lawns for our fine stock, to be kept at the proper seasons, and that we group native and foreign trees promiscuously through the ground, taking for the center of the group, the oak and the chestnut, which are among the largest and the noblest of our trees; the spruce, hemlock, ash and beach, locust and hickory, the cottonwood, sycamore, walnut, soft maple -- the arrangement of these should be the subject of careful study. Groups should be always composed of one principal tree, larger and taller than the rest, with others grouped around as subordinates. Plant trees most certainly, and wherever they would be a beauty or a refreshment, let their roots begin to pierce the mould above which their branches may year after year wave with a fascinating grace and a variety -- like which there is nothing else in na­ture. [^fn4]
 
-[^fn4]: Sixth Annual Report ... for 1865.
+[^fn4]: Sixth Annual Report... for 1865.
 
 In 1868, H. M. Thompson, Superintendent, reported to the Board that "The Orchard produced some few apples but of inferior quality owing to the drought. The young vines also produced a few grapes, which with currants, gooseberries etc. were all used in the House." [^fn5]
 
 [^fn5]: Minutes Jan. 13-17, 1868.
+
 At the May 1868 meeting of the Board it was resolved "That the Build­ing Committee be instructed to procure immediately the services of a first class landscape gardener to lay out the grounds of the College Farm with a view to the exact location of the Professors residences and the beautifying of the grounds." The following November the Board asked the Secretary to "notify the Landscape Gardener that the Board do not require his services he having failed to furnish plans in proper time so agreed upon with the Committee." At the same meeting approval was requested to relocate the orchard to the west side of the grounds. 
 
 In his report at the January 1870 meeting of the Board Thompson said 
@@ -267,7 +268,7 @@ In June 1875 the Board ordered
 
 >That the timber in the northwest corner of the Farm lying south of the rail road be held as ornamental grounds and the same is hereby placed in charge of the Horticultural Department; And it is further ordered, That the Professor of Horticulture shall at the proper season prepare a strip of ground fifty feet wide along the entire length of the north side of the farm lying south of the railroad and plant the same in timber in the spring of 1876. 
 
-The Aurora in the August 1875 issue observed "The college has received a one-horse lawn mower. We have examined the machine to our satisfac­tion and find that where the grass is of proper length it does splen­did work." 
+*The Aurora* in the August 1875 issue observed "The college has received a one-horse lawn mower. We have examined the machine to our satisfac­tion and find that where the grass is of proper length it does splen­did work." 
 
 J. L. Budd summarized the then existing condition of the orchards and gardens in the Biennial Report for 1876-77:
 
@@ -281,11 +282,34 @@ J. L. Budd summarized the then existing condition of the orchards and gardens in
 
 The last paragraph refers to the orchard on the west side of the grounds. 
 
-In March 1878 The Aurora gave this account of a new development: 
+In March 1878 *The Aurora* gave this account of a new development: 
 
 >Prof. Budd has commenced in earnest with his horticultural de­partment this spring. The new Russian orchard which he has started will contain over twelve hundred trees, grafted with six hundred varieties from northern Europe. He also has seventy thousand grafts which will be immediately put into a nursery on the farm. The next year he will follow this up by taking hold of the plums, grapes, raspberries, currants, etc. 
 
 A re-platting of the grounds was made in 1887 and specific areas were allocated for "the farm on the one hand and the horticultural and ornamentals on 'Public Grounds' and steward's garden on the other." The map showing the divisions referred to is still in existence. An accompanying tabulation is of interest: 
+
+<table>
+ <tr>
+  <td>Land occupied by horticulture, ornamental grounds, etc.</td>
+  <td>130 acres</td>
+ </tr>
+ <tr>
+  <td>Land occupied by slouphs, creeks, forests, creed bed, bayous, roads, etc.</td>
+  <td><u>300 acres</u></td>
+ </tr>
+ <tr>
+  <td>Total land not subject to use for farming purposes (about)</td>
+  <td>430 acres</td>
+ </tr>
+ <tr>
+  <td>Total good land arable and pasture used in actual farming (about)</td>
+  <td><u>456 acres</u></td>
+ </tr>
+ <tr>
+  <td>Total College domain</td>
+  <td>895 acres</td>
+ </tr>
+</table>
 
 |||
 | Land occupied by horticulture, ornamental grounds, etc.                    | 130 acres |
