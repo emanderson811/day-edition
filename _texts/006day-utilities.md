@@ -16,7 +16,7 @@ publication-date: 1980
 
 During the first years of the college the only source of water was from natural springs. The First Annual Report, for the years 1858-59, mentions "the large spring" lying to the north-north east of the barn. That spring was about at what is today the intersec­tion of Sixth Street and Wallace Road. It was originally thought that water from that spring could be "conveyed by means of an Hy­draulic Ram to"all these building sites." The sites referred to were those for the barns, the Farm House and the College (Main). 
 
-By 1865 the Minutes record that "Your committee have not been as successful as they would desire in conveying the water from the spring to the building." (Main) A pipe line of 1 1/2" drain tile laid in cement had been built "but the pipe leaked and is probably a failure. It is supposed that the tile is not laid well in the mortar ....We would recommend the finishing of the water Ram for the benefit of the College, Farm House and Barn. It is much needed at the barn."[^fn1] 
+By 1865 the Minutes record that "Your committee have not been as successful as they would desire in conveying the water from the spring to the building." (Main) A pipe line of 1 &frac12;" drain tile laid in cement had been built "but the pipe leaked and is probably a failure. It is supposed that the tile is not laid well in the mortar ....We would recommend the finishing of the water Ram for the benefit of the College, Farm House and Barn. It is much needed at the barn."[^fn1] 
 
 [^fn1]: Minutes, March 23-24, 1865
 
