@@ -28,7 +28,8 @@ Funds were granted and in May 1870 the Board instructed the building committee t
 
 The building was described in the 4th Biennial Report (1870-71): 
 
->A frame workshop 30 x 30 feet, two stories high, with an engine house containing two laundry rooms 27 x 23 1/2 feet, also two storied, with a brick smoke-stack fifty feet high and necessary fixtures, was erected under the direction of the committee, at a cost of five thousand dollars.
+>A frame workshop 30 x 30 feet, two stories high, with an engine house containing two laundry rooms 27 x 23 ½ — &frac12;
+feet, also two storied, with a brick smoke-stack fifty feet high and necessary fixtures, was erected under the direction of the committee, at a cost of five thousand dollars.
 
 When the workshop was moved in 1885 the laundry room wing was torn down and rebuilt. The functions of the building were set forth in the 13th Biennial Report (1888-89): 
 
