@@ -24,7 +24,7 @@ publication-date: 1980
 
 The Cow Wing of the Clinic was the first unit of this building. It is the east wing of the structure. The construction contract was awarded on June 30, 1926, and the work was completed and accepted on December 1 of that year. It was planned as part of a larger structure to be completed at a later date. This unit was designed "for the purpose of carrying on special instruction concerning the diseases of cattle. This will be strictly educational work and will be used by a large group of our undergraduate students and by a group of veterinarians who already have gone out with not enough instruction in regard to the handling of cattle." [^fn1] 
 
-At the Board meeting of June 5, 1934, President Hughes reported: "At the present time the clinical facilities for giving the upper class students actual practice in treating diseased animals is wholly in adequate and very unsatisfactory in arrangement. An expenditure of $133,000.00 for the completion of the Veterinary Clinic unit is very urgently needed." 
+At the Board meeting of June 5, 1934, President Hughes reported: "At the present time the clinical facilities for giving the upper class students actual practice in treating diseased animals is wholly inadequate and very unsatisfactory in arrangement. An expenditure of $133,000.00 for the completion of the Veterinary Clinic unit is very urgently needed." 
 
 A state appropriation of $99,000 was made in early 1935, and a grant of $81,000 was received from the federal Public Works Administration in September 1936, assuring adequate funds for the construction of the second phase of the building. At the same time the name "Charles Henry Stange Memorial Veterinary Clinic" was approved by the Board.[^fn2] 
 
