@@ -26,7 +26,7 @@ The legislature appropriated $150,000 for a new engineering building early in 19
 >
 >4. Drawings. Each competing architect shall submit the following drawings: Front elevation, side elevation, rear elevation, longitudinal section, transverse section, plans of each floor, and perspective drawing. 
 >
->5. Scale of Drawings. Drawings shall be made to the scale of 1/8 inch to one foot. 
+>5. Scale of Drawings. Drawings shall be made to the scale of &frac18; inch to one foot. 
 >
 >6. Rendering of Drawings. All drawings shall be finished in black and white, without borders or other irrelevant embellishments. 
 >
