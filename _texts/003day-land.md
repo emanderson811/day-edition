@@ -222,7 +222,7 @@ Since then the lake has been well maintained and is a campus attrac­tion, espec
 
 ## LANDSCAPING (INCLUDING ORCHARDS AND GARDENS)
 
-<p style="text-align: center;">(Also see [Campus Planning](https://emanderson811.github.io/day-edition/texts/009day-campus-planning/), [Pammel Woods](https://emanderson811.github.io/day-edition/texts/003day-land/#pammel-woods) and [Arboretum](https://emanderson811.github.io/day-edition/texts/003day-land/#arboretum))</p>
+(Also see [Campus Planning](https://emanderson811.github.io/day-edition/texts/009day-campus-planning/), [Pammel Woods](https://emanderson811.github.io/day-edition/texts/003day-land/#pammel-woods) and [Arboretum](https://emanderson811.github.io/day-edition/texts/003day-land/#arboretum))</p>
 
 On July 4, 1859, the early settlers of Story and Boone counties held a picnic to celebrate the purchase of the land that was to become the Iowa Agricultural College and Model Farm. The gathering was in the area just east of what is now the cemetery at the edge of the woods along Clear Creek. Between there and Squaw Creek where some trees were seen there was only rolling prairie without shade of any kind. The beauty of today's campus could not have been envisioned at that time. 
 
