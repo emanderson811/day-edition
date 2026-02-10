@@ -458,7 +458,7 @@ The northwest corner of the college grounds received little attention during the
 
 In July 1889 The Aurora noted that "part of the timber land near the college cemetery (has) been cleared away, and the land is now growing crops." 
 
-The earliest suggestion for maintaining the area as a practical out­door natural habitat appeared in The Aurora for June 1893: 
+The earliest suggestion for maintaining the area as a practical out­door natural habitat appeared in *The Aurora* for June 1893: 
 
 <p style="text-align: center;"><u>Some Reasons Why We Need an Arboretum</u></p>
 
@@ -488,11 +488,11 @@ Whether that editorial in the paper initiated response or merely re­flected gen
 >
 ><u>Second:</u> That it be ordered by the Board that no trees on said tract be cut and that notice to this effect be posted upon the tract. 
 
-The following year the May 26, 1896, issue of the <u>IAC Student</u> carried this account about the same area: 
+The following year the May 26, 1896, issue of the *IAC Student* carried this account about the same area: 
 
 >Some of us have heard rumors that the woodlands to the northwest of the grounds were to be made over into a park. The gist of the matter seems to be this: the trustees have decided to begin in a small way the task of making this part of the ground beautiful. Work will first be done in that portion of the tract lying north­west of the cemetery and this side the stream, extending to the stone arch. Paths will be made through the present tangled growths and Prof. Pammel will begin a system of scientific for­estry, culling inferior trees and planting more valuable ones in their stead. The stream too will have trees planted along its banks. We rejoice at the commencement of this new enterprise which is but a continuation of that policy which has already re­sulted in making the I.A.C. campus almost a synonym for beauty. 
 
-A year later the Public Grounds committee reported to the Board that "we have examined College Park and find that it would require a large expenditure of money to make such improvements as would be any prac­tical benefit, and as we have not any funds at our disposal at this time, would not recommend any improvement at present."[^fn9] During 1913 and again in 1914 a temporary camp was set up "in the woods near the college cemetery" for prisoners from the Anamosa reformatory. They lived in tents and were em~loyed on various campus improvement pro­jects. 
+A year later the Public Grounds committee reported to the Board that "we have examined College Park and find that it would require a large expenditure of money to make such improvements as would be any prac­tical benefit, and as we have not any funds at our disposal at this time, would not recommend any improvement at present."[^fn9] During 1913 and again in 1914 a temporary camp was set up "in the woods near the college cemetery" for prisoners from the Anamosa reformatory. They lived in tents and were employed on various campus improvement pro­jects. 
 
 [^fn9]: Minutes, May 18-21, 1897.
 
@@ -506,7 +506,7 @@ The Board responded to the report:
 
 >Upon the recommendation of President Pearson, the grounds desig­nated above and known as College Park are to be transferred to the management of a committee to be appointed by the President of the College, the said committee to include representatives of the Botany, Forestry and Landscape Architecture Departments, with the understanding that the expenses will not exceed $800 a year, which will be paid out of the fund entitled Maintenance and im­provement of Public Grounds. 
 
-The Board action was promptly respected as seen in the April 23 issue of the Iowa State Student: 
+The Board action was promptly respected as seen in the April 23 issue of the *Iowa State Student*: 
 
 >Work will be commenced immediately on the college park, which is located north of the experimental plots, in an effort to get it into the best of condition. Trees will be trimmed up, shrubs will be planted and a general cleanup will be made. 
 >
@@ -532,9 +532,9 @@ The original access to the farm from the county road was described by Professor 
 
 [^fn11]: Annals of Iowa, April 1909. 
 
->It was a raw February day on which I reached the quite forlorn looking village of Ames. It impressed me with its treelessness and small houses with no shrubs and no dooryards, as a village which was all out of doors, and lonesome and unprotected. The drive over the rough, mud road, over a rickety bridge and the "bottoms" of Squaw Creek, was not reassuring. The mean approach to the college just at the base of the hill, and up through the barnyard, by the old Farm House, and then across the fields to the president's house might well have dampened the ardor of the newcomer .... Look back with me, and see this campus as the young botanist saw it. There were no drives, no walks, no paths, no smooth lawn, and only a few small trees. 
+>It was a raw February day on which I reached the quite forlorn looking village of Ames. It impressed me with its treelessness and small houses with no shrubs and no dooryards, as a village which was all out of doors, and lonesome and unprotected. The drive over the rough, mud road, over a rickety bridge and the "bottoms" of Squaw Creek, was not reassuring. The mean approach to the college just at the base of the hill, and up through the barnyard, by the old Farm House, and then across the fields to the president's house might well have dampened the ardor of the newcomer... Look back with me, and see this campus as the young botanist saw it. There were no drives, no walks, no paths, no smooth lawn, and only a few small trees. 
 
-Professor Bessey arrived in 1870. The route he remembered would have taken him north from the county road about where the Maple-Willow­Larch towers stand today and then west up the hill near the south side of the Power Plant and on to the Farm House. 
+Professor Bessey arrived in 1870. The route he remembered would have taken him north from the county road about where the Maple-Willow­-Larch towers stand today and then west up the hill near the south side of the Power Plant and on to the Farm House. 
 
 President Welch's stepdaughter recalled her arrival by the same route in September 1869: "the patient mule team plodded wearily through the mud." [^fn12] 
 
@@ -565,13 +565,13 @@ During the 1890's several road changes were made, resulting principal­ly from t
 
 A new campus entrance road with a bridge across College Creek was de­veloped north from Welch Avenue in 1911. 
 
-Paving of some of the campus roads was started in 1910 on an experi­mental basis sponsored by the Iowa Highway Commission, the U.S. Dept. of Agriculture and "one of the large companies manufacturing artifi­cial asphalt road material." That company donated a carload of the artificial asphalt binder and the work was to be done under the direc­tion of an "expe"rt furnished by the United State Agricultural Depart­ment." [^fn17]
+Paving of some of the campus roads was started in 1910 on an experi­mental basis sponsored by the Iowa Highway Commission, the U.S. Dept. of Agriculture and "one of the large companies manufacturing artifi­cial asphalt road material." That company donated a carload of the artificial asphalt binder and the work was to be done under the direc­tion of an "expert furnished by the United State Agricultural Depart­ment." [^fn17]
 
 [^fn17]: Biennial Report, 1908-10.
 
-On October 4, 1913, the ISC Student reported: 
+On October 4, 1913, the *ISC Student* reported: 
 
->Asphalt is being added to the new concrete pavements as the last step in the completion of the campus roads .... The covering of asphalt will make the concrete wear longer, be easier on the horses' feet, and will not be so slippery as it will be covered with sand as soon as it is laid. 
+>Asphalt is being added to the new concrete pavements as the last step in the completion of the campus roads ...The covering of asphalt will make the concrete wear longer, be easier on the horses' feet, and will not be so slippery as it will be covered with sand as soon as it is laid. 
 
 The entrance road to the campus at the east end of the lake (Lynn Ave­nue) was built in 1916. 
 
@@ -593,7 +593,7 @@ The condition of the road connecting the College with Ames was des­cribed in th
 
 >There is an urgent necessity that the graded road which runs some seventy rods through the bottom land of the College farm should be improved by widening, paving with stone and covering it with twelve or fifteen inches of gravel. This portion of the highway to Ames consists of a low, narrow causeway which, being frequent­ly overflowed by freshets, is in such condition as to render ac­cess to the College from Ames unpleasant and often difficult. In fact the causeway with its perpetual mud and ruts which deepen with every rain is a serious evil, and the success of the insti­tution demands that it should be thoroughly repaired. The citi­zens of the district in which it lies are unable to do the work, the College funds cannot properly be used for such a purpose, and we are therefore compelled to ask for a small appropriation from the Legislature. The cost of thorough grading and gravel­ing will be $2,000. 
 
-That requested appropriation was apparently not made because in the July 1878 issue of the Aurora it was reported: 
+That requested appropriation was apparently not made because in the July 1878 issue of the *Aurora* it was reported: 
 
 >This season will see the road between the College and Ames thoroughly repaired. The grade of the entire length will be raised about two feet. The expense will be defrayed by subscrip­tions by the professors of the College and the business men of Ames. 
 
@@ -601,15 +601,15 @@ At the November 1881 meeting of the Board it was ordered
 
 >That the President of the College and the Professors of Agricul­ture and Horticulture be directed to give to the Supervisor of District No. 2 notice to put the highway on the South side of the College farm in passable order before the 20th of November, and said officers are ordered to close the gates on that date and to prevent further travel through the College grounds. They are hereby directed to prosecute any parties who force their way through after that date, 
 
-The Biennial Report for 1882-83 refers to an appropriation of $300 which was used for the road which "was put in excellent condition.11 There is no record of prosecution of trespassers. Onr can only specu­late that the campus roads may have been better maintained than the county road and therefore provided a more inviting travel route. 
+The Biennial Report for 1882-83 refers to an appropriation of $300 which was used for the road which "was put in excellent condition." There is no record of prosecution of trespassers. One can only specu­late that the campus roads may have been better maintained than the county road and therefore provided a more inviting travel route. 
 
-The Aurora for June 1892 reported that a "flood broke through the levee near the wagon road between Ames and the college in such a way as to be deflected upon the road in the form of a whirl-pool which washed out a hole eighty feet in diameter and thirty feet deep." 
+The *Aurora* for June 1892 reported that a "flood broke through the levee near the wagon road between Ames and the college in such a way as to be deflected upon the road in the form of a whirl-pool which washed out a hole eighty feet in diameter and thirty feet deep." 
 
-"An automobile was seen upon-our highways last Saturday," reported the ISC Student on June 12, 1900. And thus a new era opened. 
+"An automobile was seen upon-our highways last Saturday," reported the *ISC Student* on June 12, 1900. And thus a new era opened. 
 
-Maps of the 1890's identify the present Lincoln Way as "Highway from Ames to Boone." A map printed in the ISC Student in October 1904 is the earliest item found referring to the road as Boone Street. Its extension eastwdrd in Ames was probably so designated in the original city plat. 
+Maps of the 1890's identify the present Lincoln Way as "Highway from Ames to Boone." A map printed in the *ISC Student* in October 1904 is the earliest item found referring to the road as Boone Street. Its extension eastwdrd in Ames was probably so designated in the original city plat. 
 
-By city ordinance of April 23, 1914, Boone Street east of Sheldon Ave­nue (then Pike Street) was renamed Lincoln Way in recognition of it as a segment of the new transcontinental Lincoln Highway. The name Lin­coln Way was also applied to Pike Street north to what is now Oakland Street (which was then known as Ontario Street). That portion of the highway was more generally referred to as Lincoln Way -North. 
+By city ordinance of April 23, 1914, Boone Street east of Sheldon Ave­nue (then Pike Street) was renamed Lincoln Way in recognition of it as a segment of the new transcontinental Lincoln Highway. The name Lin­coln Way was also applied to Pike Street north to what is now Oakland Street (which was then known as Ontario Street). That portion of the highway was more generally referred to as Lincoln Way-North. 
 
 Before 1915 Boone Street had been only a dirt and gravel road, often damaged by high water from Squaw Creek. In July of that year the col­lege agreed to participate in the cost of paving the portion adjacent to the college land. Delays developed and, although the City of Ames had by then paved Boone Street east from the corner of the college property (Riverside Drive), it was September of 1921 before concrete paving from there west to Welch Avenue was open to traffic. 
 
@@ -617,7 +617,7 @@ Plans for widening of Lincoln Way were initiated in 1955, but disagree­ments be
 
 ### STANGE ROAD 
 
-In July 1893 the Board appropriated $150 "to repair'the north farm bridge." It is surmised that the bridge was across Squaw Creek on about the line of today's Stange Road, but this can only be conjecture unless other information or a contemporary map can be located. 
+In July 1893 the Board appropriated $150 "to repair the north farm bridge." It is surmised that the bridge was across Squaw Creek on about the line of today's Stange Road, but this can only be conjecture unless other information or a contemporary map can be located. 
 
 Construction of North Road (as Stange Road was then called) was first discussed following receipt of a petition from people living north of the college property to the Board at its June 1904 meeting. However, it was 1915 before that road was ready for use, with a new concrete bridge over Squaw Creek and a one lane underpass at the North Western track crossing. 
 
@@ -645,7 +645,7 @@ An ice jam in February 1946 resulted in loss of piling on the Squaw Creek bridge
 
 Although the extension of 13th street west from Stange Road to the Ontario Street-Hyland Avenue corner had been contemplated since 1921, it was 1966 before serious study of a proposed route was undertaken. Much concern was expressed by faculty interested in the preservation of Pammel Woods about the potential damage to that area. Plans were finally developed for a route, almost entirely on the north side of the tracks, resulting in a minimum of encroachment on the sensitive grounds. 
 
-In 1972 title to the land for the 13th Street extension was trans­ferred from the University to the City of Ames. The agreement with the city included a condition that the University would widen the p@r­tion of 13th Street from Stange Road east across University land and construct a new four lane bridge over Squaw Creek. That was accom­plished in 1974-75. 
+In 1972 title to the land for the 13th Street extension was trans­ferred from the University to the City of Ames. The agreement with the city included a condition that the University would widen the par­tion of 13th Street from Stange Road east across University land and construct a new four lane bridge over Squaw Creek. That was accom­plished in 1974-75. 
 
 The planned route for the extension west to Ontario Street was graded by the city, and at that time a grade crossing of the Northwestern tracks was contemplated. However, the railroad demanded a separation and plans had to be revised to include an underpass for the highway. As of this writing the city expects the road to be open for travel sometime in 1981. 
 
@@ -663,7 +663,7 @@ Changes to the west end of Sixth Street in 1961 improved the inter­section at W
 
 ### ELWOOD DRIVE 
 
-The planning and development of Elwood Drive extended over a long period of time. Its status in 1963 was described in the Iowa State Daily on September 26 of that year: 
+The planning and development of Elwood Drive extended over a long period of time. Its status in 1963 was described in the *Iowa State Daily* on September 26 of that year: 
 
 >A preliminary survey has been taken by the Lechner Engineering Company for Elwood Drive, a new roadway to be built from 13th Street South to Squaw Creek and Riverside Drive. The road will also connect the new Iowa State Center to the highway 30 bypass under construction south of Ames. The high grade of this road will also act as a dyke in case of high water and channel traf­fic from 6th Street to the campus. The project has been in the planning stage since 1955. 
 
@@ -677,7 +677,7 @@ The route of Elwood Drive was entirely on University property and it was therefo
 
 Dirt paths probably developed in the vicinity of Old Main as soon as the college was opened. The early roads on the campus were undoubted­ly used as pedestrian ways as well as for wagons between Main and the Farm House and the barn, and between Main and the president's house (South Hall). 
 
-The first reference to a separate walk appeared in the April 1874 issue of the Aurora: 
+The first reference to a separate walk appeared in the April 1874 issue of the *Aurora*: 
 
 >A new walk extending from the east end of the laboratory to Profs. Hutchin's and Thomson's house, greatly adds to the com­fort, convenience, and beauty of the residence of these gentle­men. 
 
@@ -687,23 +687,23 @@ In January 1876 the Board ordered
 
 >That a plank walk eight feet wide made of two in. plank on 4 x 4 stringers be built from the Main College Building to the Physical Laboratory, the same to be constructed under the direction of the President of the College, and there is hereby appropriated from Interest Fund the sum of $250.00 or so much thereof as may be necessary. 
 
-The Aurora in May 1876 recognized the improvement: 
+The *Aurora* in May 1876 recognized the improvement: 
 
 >The new plank walk between the College and Laboratory is much appreciated by the students, first, because it is a step higher than the mud, and second, on account of its dimensions, it will admit a group walking together. 
 
-By 1882 that walk was referred to in the Aurora as in a dilapidated condition, and in November of the same year the .Board ordered the Pub­lic Grounds Committee to !'take charge of the walk....and if they think best-replace the present wooden walk with a gravel one." 
+By 1882 that walk was referred to in the *Aurora* as in a dilapidated condition, and in November of the same year the Board ordered the Pub­lic Grounds Committee to "take charge of the walk...and if they think best replace the present wooden walk with a gravel one." 
 
 As other buildings were erected on the campus walks were put in to serve them. 
 
->Now we have a two plank walk to North Hall ....Walks to the greenhouse and to the cottages will be next in order. [^fn18] 
+>Now we have a two plank walk to North Hall... Walks to the greenhouse and to the cottages will be next in order. [^fn18] 
 
 [^fn18]: Aurora June 1886
  
 Early in the 1890's concrete walks were being used as seen in the Biennial Report for 1890-91: 
 
->The buildings and grounds have been greatly improved by the cement walks and some newly graveled driveways all of which add greatly to the beauty of the grounds and the comfort of the people. There should be much additional work by way of cement walks connecting the main building with the other buildings adjoining.· A good cement walk is economical in cost and out­lasts any other ordinary walk that could be used. 
+>The buildings and grounds have been greatly improved by the cement walks and some newly graveled driveways all of which add greatly to the beauty of the grounds and the comfort of the people. There should be much additional work by way of cement walks connecting the main building with the other buildings adjoining. A good cement walk is economical in cost and out­lasts any other ordinary walk that could be used. 
 
-Conditions where walks were not provided are reflected in an edi­torial comment in the September 17, 1895, IAC Student: 
+Conditions where walks were not provided are reflected in an edi­torial comment in the September 17, 1895, *IAC Student*: 
 
 >The cement walk is now finished and wading to Agricultural Hall in the mud is a thing of the past. 
 
@@ -715,7 +715,7 @@ The Board referred the matter to the Committee on Grounds with power to act. A 1
 
 During 1906 and 1907 a number of new concrete walks were built, par­ticularly on the west side of the campus serving the engineering buildings and to the west gate. 
 
-On March 13, 1900, the ISC Student editor wrote: 
+On March 13, 1900, the *ISC Student* editor wrote: 
 
 >There are several things we need. One is a footbridge across the motor bridge that will be safe alike for industrious hus­tlers and loitering lovers. From each end of this we need a sidewalk leading toward Ames and leading toward the college. 
 
@@ -735,10 +735,10 @@ The pedestrian underpass from west Pannnel Court was constructed under the railr
 
 The walk from Hawthorn Court through the underpass was installed in 1962. By 1979 practically all major walks had been built with con­crete, although a few less heavily used routes have only gravel sur­faces. 
 
-Through the years a maJ6r problem has been the formation of dirt paths across the lawn areas, developed by students (and frequently faculty and staff) wanting to short-cut the surfaced walks. The student papers ever since about 1892 have editorially criticized the practice. Snow fences to minimize the paths have been placed in the fall and remain until spring when the grass has become well estab­lished, but even these do not eliminate the formation of new paths which kill the grass. There seems to be no fool-proof way to re­solve the annual recurrence of the practice of taking short-cuts. 
+Through the years a major problem has been the formation of dirt paths across the lawn areas, developed by students (and frequently faculty and staff) wanting to short-cut the surfaced walks. The student papers ever since about 1892 have editorially criticized the practice. Snow fences to minimize the paths have been placed in the fall and remain until spring when the grass has become well estab­lished, but even these do not eliminate the formation of new paths which kill the grass. There seems to be no fool-proof way to re­solve the annual recurrence of the practice of taking short-cuts. 
 
 ## WEST COURT and TRAILERS 
-The earliest record of student use of trailers for housing appeared in the September 19, 1936, issue of the Iowa State Student: 
+The earliest record of student use of trailers for housing appeared in the September 19, 1936, issue of the *Iowa State Student*: 
 
 >"Iowa State College does not encourage students living in trail­ers during the winter and is not providing any space for them this year," according to B.H. Platt, superintendent of buildings and grounds. 
 >
@@ -748,13 +748,13 @@ The earliest record of student use of trailers for housing appeared in the Septe
 
 Two years later the paper carried an account of "Trailer Town" at West Gate with seven trailers. These were undoubtedly on the west side of Sheldon Avenue but the exact location has not been determined. 
 
-At the time Pammel Court was started on the north side of Panunel Drive in 1946-7, an area in the northwest corner, adjacent to what was then the recreational area, was allocated for privately owned trailers. This was inadequate space for all of the requests and West Court was established in the area now known as Franklin Park on Franklin Avenue south of Lincoln Way. That area had formerly been a c.c.c. camp and the college, in 1944, had purchased four acres and the buildings. The trailer area included some land to the north rented for the pur­pose. At its peak West Court had a total of about 130 units including both trailers and small prefabricated houses. 
+At the time Pammel Court was started on the north side of Panunel Drive in 1946-7, an area in the northwest corner, adjacent to what was then the recreational area, was allocated for privately owned trailers. This was inadequate space for all of the requests and West Court was established in the area now known as Franklin Park on Franklin Avenue south of Lincoln Way. That area had formerly been a C.C.C. camp and the college, in 1944, had purchased four acres and the buildings. The trailer area included some land to the north rented for the pur­pose. At its peak West Court had a total of about 130 units including both trailers and small prefabricated houses. 
 
-The facilities at West Court were described in the Iowa State Daily Student on February 12, 1947: 
+The facilities at West Court were described in the *Iowa State Daily Student* on February 12, 1947: 
 
->The court has progressed to a well organized community of trail­ers with a governing council and mayor, traffic checkers and po­lice protection.... 
+>The court has progressed to a well organized community of trail­ers with a governing council and mayor, traffic checkers and po­lice protection...
 >
->Street lights were installed last quarter and most of the wards have walks. A conununity wash house is available with four wash­ing machines. On meeting nights the washroom also doubles as a clubroom for the group although it will accommodate barely 75 of the 260 members. 
+>Street lights were installed last quarter and most of the wards have walks. A community wash house is available with four wash­ing machines. On meeting nights the washroom also doubles as a clubroom for the group although it will accommodate barely 75 of the 260 members. 
 
 By August of that year the paper could report that a 24 by 54 feet recreation building was being constructed at West Court. 
 
