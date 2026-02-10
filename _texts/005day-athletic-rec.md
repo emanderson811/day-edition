@@ -14,24 +14,25 @@ publication-date: 1980
 
 ## ATHLETIC FIELDS
 
-The earliest reference found to what could be called an athletic field is seen in the 1897 Bomb where events of 1884 included the statement. "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the Aurora noted that "The Athletic Association has been making improve­ments on its track." On March 10, 1892, the IAC Student reported that "The athle.tic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
+The earliest reference found to what could be called an athletic field is seen in the *1897 Bomb* where events of 1884 included the statement. "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the *Aurora* noted that "The Athletic Association has been making improve­ments on its track." On March 10, 1892, the *IAC Student* reported that "The athletic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
 
 In 1892 the Board set aside the large area west of Morrill Hall, consisting of about 12 or 13 acres, for the athletic grounds.[^fn1] Early in 1893 work began on installing an underground tile drainage system in the area and also the operation of leveling the field. 
 
 [^fn1]: Minutes, Sept. 27-29,  1892 and Aurora,  October 1892
 
-On May 27, 1893 the IAC Student briefly described the new athletic fields: 
+On May 27, 1893 the *IAC Student* briefly described the new athletic fields: 
 
->Our race track on the new grounds is to be constructed in the shape of the figu~e 8, three laps to the mile. It will enclose the football grounds in its southern eye and its northern eye will enclose apparatus for acrobatic training. The diamond is to be placed to the east of center of the figure. 
+>Our race track on the new grounds is to be constructed in the shape of the figure 8, three laps to the mile. It will enclose the football grounds in its southern eye and its northern eye will enclose apparatus for acrobatic training. The diamond is to be placed to the east of center of the figure. 
 
-It was a year later, however,before the work of grading, leveling and layout of the track was completed and ready for use. 
+It was a year later, however, before the work of grading, leveling and layout of the track was completed and ready for use. 
 
 The field was fenced (for football) in 1900[^fn2]; wood bleachers were built the same year.[^fn3] Four new sections were added in 1904. 
 
 [^fn2]: ISC Student,  Oct.  1,  1900
+
 [^fn3]: ISC Student,  Oct.  15, 1900
 
-The November 16, 1901, issue of the ISC Student suggested that a name be given to the athletic field. Just when a name was adopted is uncertain. During 1902 and 1903 there were more editorials and names proposed. The area is identified as "State Field" on a map printed in the ISC Student in October 1904, but no record has been found relating to a formal dedication or adoption of that name. By 1905 the addition of portable bleachers provided a seating capacity of "well over two thousand,"[^fn4] and for the first time reserved seating for "a nominal sum" was charged.
+The November 16, 1901, issue of the *ISC Student* suggested that a name be given to the athletic field. Just when a name was adopted is uncertain. During 1902 and 1903 there were more editorials and names proposed. The area is identified as "State Field" on a map printed in the *ISC Student* in October 1904, but no record has been found relating to a formal dedication or adoption of that name. By 1905 the addition of portable bleachers provided a seating capacity of "well over two thousand,"[^fn4] and for the first time reserved seating for "a nominal sum" was charged.
 
 [^fn4]: ISC Student, Sept. 16,  1905  
  
@@ -41,7 +42,7 @@ Moving of the field was formally discussed about that same time, as recorded in 
 
 Shortage of funds delayed development of the new field, although grading was done spasmodically over the next few years. But it was 1914 before the field was in full use. 
 
-That field became known as "New State Field" or just "State Field". As early as January 13, 1916, the Iowa State Student was editorially calling for the field and the gymnasium to be designated by more appropriate names. The field was dedicated as "Clyde Willhms Field" in the fall of 1938 in honor of the man who served Iowa State from 1906 to 1919 and as athletic director for the last five of those years. 
+That field became known as "New State Field" or just "State Field". As early as January 13, 1916, the *Iowa State Student* was editorially calling for the field and the gymnasium to be designated by more appropriate names. The field was dedicated as "Clyde Williams Field" in the fall of 1938 in honor of the man who served Iowa State from 1906 to 1919 and as athletic director for the last five of those years. 
 
 In later years various improvements were made to the field and maintenance was necessarily continuous. 
 
@@ -49,21 +50,21 @@ Clyde Williams Field continued as the site for all home football games through t
 
 Since 1975 football has been seen at the new South Campus field and Stadium. 
 
-A separate women's athletic field was first mentioned in 1921 when this item appeared in the Iowa State Student on April 4: 
+A separate women's athletic field was first mentioned in 1921 when this item appeared in the *Iowa State Student* on April 4: 
 
->Inadequate facilities for women's athletics would be greatly relieved, it is thought, by a proposed plan for the development of new playgrounds south of the temporary dormitories. Pro­vision would be made for a baseball diamond, tennis courts and soccer field. Hockey grounds would remain at the present loca­tion north of engineering hall. Although plans are complete, exectution of the program must await the provisi@n of funds, according to Miss W.R. Tilden, head of women's athletics .... 
+>Inadequate facilities for women's athletics would be greatly relieved, it is thought, by a proposed plan for the development of new playgrounds south of the temporary dormitories. Pro­vision would be made for a baseball diamond, tennis courts and soccer field. Hockey grounds would remain at the present loca­tion north of engineering hall. Although plans are complete, exectution of the program must await the provision of funds, according to Miss W.R. Tilden, head of women's athletics...
 >
 >Miss Tilden has asked that, in connection with the development of this field for the girls, that boys remain off the field. 
 
-The next reference to women's fields occurs in the May 14, 1925, issue of the Iowa State Student: 
+The next reference to women's fields occurs in the May 14, 1925, issue of the *Iowa State Student*: 
 
->Extensive addition to the women's athletic field at the east of the dormitory group will be made. When the plan is completed the field will extend south to Lincoln Way and east to the bend in the creek. It will include a new track, volley ball courts, handball, archery, soccer, quoits, jumping pits, a baseball diamond anct the tennis courts. 
+>Extensive addition to the women's athletic field at the east of the dormitory group will be made. When the plan is completed the field will extend south to Lincoln Way and east to the bend in the creek. It will include a new track, volley ball courts, handball, archery, soccer, quoits, jumping pits, a baseball diamond and the tennis courts. 
 
 On December 10, 1929, the Board approved President Hughes recommenda­tion 
 
 >That a strip wide enough for hockey fields be taken off the animal husbandry field east of the Women's Dormitory and added to the athletic grounds for girls. 
 
-Discussing the plans for the proposed women's gymnasium an article in the Iowa State Student on June 2, 1937, also mentions outside activities: 
+Discussing the plans for the proposed women's gymnasium an article in the *Iowa State Student* on June 2, 1937, also mentions outside activities: 
 
 >Plans for playfields and a riding school also are included in the predictions for the next 20 years. Outdoor playfields will cover 20 to 30 acres, which will be divided into four baseball diamonds in spring, two hockey fields in fall, six deck tennis and badminton courts in fall, and 15 to 16 tennis courts (ten hard and five clay). 
 
@@ -85,7 +86,7 @@ In 1974 that field was formally named "Cap Timm Field" in honor of Professor of 
 
 ## GOLF COURSE 
 
-An interest in golf, among faculty members, is first recorded in the ISC Student on May 22, 1900: 
+An interest in golf, among faculty members, is first recorded in the *ISC Student* on May 22, 1900: 
 
 >The golf links of the faculty golf club are being laid out in the pasture north of the experiment barn. 
 
@@ -95,13 +96,13 @@ That was either unsatisfactory or abandoned soon thereafter because the paper of
 
 No other mention of golf has been found during the next quarter of a century. 
 
-On April 12, 1927, an article in the Iowa State Student presents a new approach: 
+On April 12, 1927, an article in the *Iowa State Student* presents a new approach: 
 
 >For several years a campus golf course has been one of the dreams of a large number of professors and students of Iowa State who are interested in the game and follow it closely. 
 >
->A demand for a convenient, economical course which would be available for students, faculty members and college employees has been discussed by various groups and at one time the matter was considered by former President Pearson. However, in each instance the campaign fell thru before accomplishing concrete results .... 
+>A demand for a convenient, economical course which would be available for students, faculty members and college employees has been discussed by various groups and at one time the matter was considered by former President Pearson. However, in each instance the campaign fell thru before accomplishing concrete results... 
 >
->Interest in a golf course located near the campus is present in the minds of a sufficient number of students and faculty mem­bers to make its success certain, once it could be obtained .... 
+>Interest in a golf course located near the campus is present in the minds of a sufficient number of students and faculty mem­bers to make its success certain, once it could be obtained... 
 
 The next year Professor P.H. Elwood had his senior students in land­scape architecture plan a golf course in the Arboretum area, which was favorably received except for the legality of using the Arboretum for that purpose.[^fn6]
 
@@ -111,7 +112,7 @@ In 1930 President Hughes, in addressing the faculty at the start of the fall ter
 
 [^fn7]: Iowa State Student, Sept. 22, 1930
 
-During the following two or three years various sites were mentioned, including the Horticulture Farm. On May 2, 1931 the Iowa State Student proposed the land "north and west of the college cemetery .... It is the hope of many that a golf course will be built near the campus by next fall so that this sport may be included on the intra­mural schedule for next year." 
+During the following two or three years various sites were mentioned, including the Horticulture Farm. On May 2, 1931 the *Iowa State Student* proposed the land "north and west of the college cemetery... It is the hope of many that a golf course will be built near the campus by next fall so that this sport may be included on the intra­mural schedule for next year." 
 
 A practice green and two approach tees were built in an area just south of State Gymnasium in 1933. That was initiated by Director of Athletics George Veenker. 
 
@@ -123,25 +124,25 @@ By later summer of that year construction of the golf course was under way, as r
 
 [^fn9]: Iowa State Student
 
->An Iowa State recreational area which will include an 18-hole golf course, bridle paths, picnic areas and lagoon for canoeing is now under construction in the North Woods, a scant 500 yards from the middle of the campus .... 
+>An Iowa State recreational area which will include an 18-hole golf course, bridle paths, picnic areas and lagoon for canoeing is now under construction in the North Woods, a scant 500 yards from the middle of the campus... 
 >
->Already a great amount of work has been done on the project since its inception approximately a month and a half ago. CCC labor has cleared a number of trees from the ground to become fairways on the opposite side of the Chicago and Northwestern railway tracks from the campus .... 
+>Already a great amount of work has been done on the project since its inception approximately a month and a half ago. CCC labor has cleared a number of trees from the ground to become fairways on the opposite side of the Chicago and Northwestern railway tracks from the campus... 
 >
->According to George Veenker, director of athletics, the course and recreational area will be ready for use in May of 1937. The fairways will be seeded next August and the bent grass greens put in place so that the area may be used the following spring.... 
+>According to George Veenker, director of athletics, the course and recreational area will be ready for use in May of 1937. The fairways will be seeded next August and the bent grass greens put in place so that the area may be used the following spring... 
 >
->There will be two holes on the south side of the railroad tracks, the first and the eighteenth, but the land for those two is as yet unavailable .... 
+>There will be two holes on the south side of the railroad tracks, the first and the eighteenth, but the land for those two is as yet unavailable... 
 >
->The golf course itself is now planned to be approximately a 6,000-yard course, which may be extended to 6,500 yards through construction of large teeing spots .... 
+>The golf course itself is now planned to be approximately a 6,000-yard course, which may be extended to 6,500 yards through construction of large teeing spots... 
 >
->When the golf course is completed, it will offer the golfer a different problem on practically every hole. It was designed by Perry Maxwell, one of the outstanding golf architects in the United States .... 
+>When the golf course is completed, it will offer the golfer a different problem on practically every hole. It was designed by Perry Maxwell, one of the outstanding golf architects in the United States... 
 
-Unavailability of pipe for the irrigation system prevented the seed­ing of the greens in 1936, with the result of a year's delay in the planned date for opening of the course for use. The status of the work was fully oescribed in the issue of the Iowa State Student for September 19, 1936, which also noted that the project was largely built with CCC labor and WPA employees with only a small amount of state money going into the project. (CCC stands for the Civilian Conservation Corps and WPA represents the Works Progress Administra­tion, both federal agencies of depression days.) 
+Unavailability of pipe for the irrigation system prevented the seed­ing of the greens in 1936, with the result of a year's delay in the planned date for opening of the course for use. The status of the work was fully described in the issue of the *Iowa State Student* for September 19, 1936, which also noted that the project was largely built with CCC labor and WPA employees with only a small amount of state money going into the project. (CCC stands for the Civilian Conservation Corps and WPA represents the Works Progress Administra­tion, both federal agencies of depression days.) 
 
 The golf course was dedicated and opened for use on May 12, 1938.[^fn10] The paper on that date also included a plat of the course.
 
 [^fn10]: Daily Iowa State Student, May 12, 1938
 
-In late 1959 the name "George F. Veenker Golf Course" was formally adopted to honor the man who was primarily responsible for its planning and development. He had been Iowa State's football coach from 1931 to 1936 and a'thletic director from 1937 to 1945. He died September 8, 1959. 
+In late 1959 the name "George F. Veenker Golf Course" was formally adopted to honor the man who was primarily responsible for its planning and development. He had been Iowa State's football coach from 1931 to 1936 and athletic director from 1937 to 1945. He died September 8, 1959. 
 
 The proposed extension of 13th Street west from Stange Road to On­tario Street resulted in forced changes to be made in the golf course in the early 1970's. The two holes south of the railroad tracks were relocated to the north side and several of the other fairways were modified to adapt to that change. 
 
