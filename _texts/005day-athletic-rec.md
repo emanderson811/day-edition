@@ -14,7 +14,7 @@ publication-date: 1980
 
 ## ATHLETIC FIELDS
 
-The earliest reference found to what could be called an athletic field is seen in the *1897 Bomb* where events of 1884 included the statement. "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the *Aurora* noted that "The Athletic Association has been making improve­ments on its track." On March 10, 1892, the *IAC Student* reported that "The athletic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
+The earliest reference found to what could be called an athletic field is seen in the *1897 Bomb* where events of 1884 included the statement. "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the *Aurora* noted that "The Athletic Association has been making improvements on its track." On March 10, 1892, the *IAC Student* reported that "The athletic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
 
 In 1892 the Board set aside the large area west of Morrill Hall, consisting of about 12 or 13 acres, for the athletic grounds.[^fn1] Early in 1893 work began on installing an underground tile drainage system in the area and also the operation of leveling the field. 
 
@@ -154,7 +154,7 @@ In addition to the athletic fields, used primarily for football and baseball var
 
 ### Playfield North of State Gymnasium
 
-Before construction of Beyer Hall and later Town Engineering Build­ing, the entire area north of Union Drive to PaDllllel Drive and all college land west of Bissell Drive had been set aside as "playground area". It included tennis courts at the south end and other open and intramural fields north of those courts, including football prac­tice fields. This came about in 1913 when the farm experimental work was moved from that area to the Zumwalt farm. 
+Before construction of Beyer Hall and later Town Engineering Build­ing, the entire area north of Union Drive to Pammel Drive and all college land west of Bissell Drive had been set aside as "playground area". It included tennis courts at the south end and other open and intramural fields north of those courts, including football prac­tice fields. This came about in 1913 when the farm experimental work was moved from that area to the Zumwalt farm. 
 
 Five Baseball diamonds were made in this area in 1915, one for "con­tests among the members of the inter-fraternity baseball league, one to the inter-club league, and the remaining three to the inter­class teams."[^fn11]
 
@@ -166,7 +166,7 @@ The fields north of Lincoln Way, east of Wallace Road, south of College Creek an
 
 ### Hockey 
 
-The April 15, 1905, edition of the ISC Student records that "The girls of Margaret Hall have a new hockey field, which is situated east of the Campanile and just west of Prof. Bissel's residence." (That residence is the one known today as Sloss House.) 
+The April 15, 1905, edition of the *ISC Student* records that "The girls of Margaret Hall have a new hockey field, which is situated east of the Campanile and just west of Prof. Bissel's residence." (That residence is the one known today as Sloss House.) 
 
 In 1917 the Minutes for September 21 note that "Superintendent Sloss is authorized to provide a hockey field for women students on the old athletic field north of Engineering Hall." Presumably that location continued until 1929 when land was added for hockey fields adjacent to the women's athletic grounds. 
 
@@ -182,15 +182,15 @@ Outdoor or lawn bowling was introduced in 1934 with the construction of eight la
 
 [^fn13]: Iowa State Student, May 19, 1934
 
-On June 2, 1938, this account appeared in the Daily Iowa State Stu­dent: 
+On June 2, 1938, this account appeared in the *Daily Iowa State Stu­dent*: 
 
->Lawn bowling enthusiasts will get their first 1938 fling at the sport at Iowa State within a week or 10 days ....Starting next fall ....lawn bowling will be included as a regular intra­mural sport on the Cyclone program....Lawn bowling was so pop­ular among faculty and townspeople last summer that the heavy usage wore down the grass, necessitating reseeding the green. By next fall the newly-construsted bowling green south of the gymnasium will be open for intramural play. This new green will be superior to the older one, Director Veenker believes. 
+>Lawn bowling enthusiasts will get their first 1938 fling at the sport at Iowa State within a week or 10 days ...Starting next fall...lawn bowling will be included as a regular intra­mural sport on the Cyclone program... Lawn bowling was so pop­ular among faculty and townspeople last summer that the heavy usage wore down the grass, necessitating reseeding the green. By next fall the newly-constructed bowling green south of the gymnasium will be open for intramural play. This new green will be superior to the older one, Director Veenker believes. 
 
 ### Polo 
 
-The only reference found to a polo field occurred in the May 16, 1931, copy of the Iowa State Student, although there were several articles in that general period about the polo team. The article commenting on the field states
+The only reference found to a polo field occurred in the May 16, 1931, copy of the *Iowa State Student*, although there were several articles in that general period about the polo team. The article commenting on the field states
 
->The polo practice grounds west of the Armory are in danger of being made unfit for use because of the thotlessness and care!essness of a few persons ....all offenders were either faculty members or college employees who were driving their automobiles across the polo field ....
+>The polo practice grounds west of the Armory are in danger of being made unfit for use because of the thotlessness and carelessness of a few persons... all offenders were either faculty members or college employees who were driving their automobiles across the polo field...
 
 ### Drill Field
 
@@ -202,7 +202,7 @@ More recently the fields east of Bissell Road have been used by the military uni
 
 ### Ice Skating 
 
-The earliest request for a place for ice skating appeared in the ISC Student in 1904, but no specific location was suggested. In 1912 and 1913 consideration was given to the possibility of flood­ing the old athletic fi~ld west of Morrill Hall but that proved unfeasible because of the topography. 
+The earliest request for a place for ice skating appeared in the *ISC Student* in 1904, but no specific location was suggested. In 1912 and 1913 consideration was given to the possibility of flood­ing the old athletic field west of Morrill Hall but that proved unfeasible because of the topography. 
 
 It was the winter of 1914-15 that ice skating became possible for the first time when a dam was built on College Creek to flood the low area that is now Lake LaVerne. The weather turned cold enough in early January to permit use of the pond so formed. 
 
@@ -210,17 +210,17 @@ Construction of Lake Laverne assured good skating the next year. How­ever, ther
 
 ## TENNIS COURTS 
 
-When tennis was first played on the campus has not been determined. The earliest reference located occurs in the July 1885 copy of the Aurora which noted that "The lawn has been cross-barred with white­wash for accommodation of Lawn Tennis." By June 1890 that paper re­corded that "Tennis courts literally cover the campus, and the even­ing recreation hour seems not nearly long enough." 
+When tennis was first played on the campus has not been determined. The earliest reference located occurs in the July 1885 copy of the *Aurora* which noted that "The lawn has been cross-barred with white­wash for accommodation of Lawn Tennis." By June 1890 that paper re­corded that "Tennis courts literally cover the campus, and the evening recreation hour seems not nearly long enough." 
 
-The Athletic Grounds, west of Morrill Hall, were established in 1892 and most of the tennis courts were moved to that area. However, work in developing the courts area was slow, and in April 1893 the IAC Student wrote, "The campus is dotted with many new tennis courts." Three months later that source said there were twenty-three courts on the campus. 
+The Athletic Grounds, west of Morrill Hall, were established in 1892 and most of the tennis courts were moved to that area. However, work in developing the courts area was slow, and in April 1893 the *IAC Student* wrote, "The campus is dotted with many new tennis courts." Three months later that source said there were twenty-three courts on the campus. 
 
-The first mention of tennis courts for women appeared in the ISC Student on April 15, 1905: "Two dirt tennis courts have been pre­pared for the girls just north of the Faculty club which will be for the exclusive use of the girls." In 1909 the women's courts were relocated to the n9rth side of the street at about the location where Physics Hall stands now. Four new courts for women were in­stalled west of the Home Economics building in 1913.[^fn14] 
+The first mention of tennis courts for women appeared in the *ISC Student* on April 15, 1905: "Two dirt tennis courts have been pre­pared for the girls just north of the Faculty club which will be for the exclusive use of the girls." In 1909 the women's courts were relocated to the north side of the street at about the location where Physics Hall stands now. Four new courts for women were in­stalled west of the Home Economics building in 1913.[^fn14] 
 
 [^fn14]: Minutes, July 1913
 
-After construction of State Gymnasium new tennis courts were built across the street to the north, on the land now occupied by Beyer Hall. The September 11, 1914, issue of Iowa State Student records that work was about to start on fourteen courts in that location. Clay for the surface of the courts came from Marshalltown. It was late in 1916 before any of those courts were ready for play. 
+After construction of State Gymnasium new tennis courts were built across the street to the north, on the land now occupied by Beyer Hall. The September 11, 1914, issue of *Iowa State Student* records that work was about to start on fourteen courts in that location. Clay for the surface of the courts came from Marshalltown. It was late in 1916 before any of those courts were ready for play. 
 
->Only two weeks remain before the eight new tennis courts north of the gymansium will be completed ....Four new courts will be built immediately north of Engineering hall where the old courts now are, sometime this fall. These courts will not be ready for use until next spring. Eventually four new courts will also be built east of those across from the gymnasium, making twelve courts in a row. Just when these will be built has not been announced.[^fn15]
+>Only two weeks remain before the eight new tennis courts north of the gymansium will be completed... Four new courts will be built immediately north of Engineering hall where the old courts now are, sometime this fall. These courts will not be ready for use until next spring. Eventually four new courts will also be built east of those across from the gymnasium, making twelve courts in a row. Just when these will be built has not been announced.[^fn15]
 
 [^fn15]: Iowa State Student, Sept. 19, 1916
 
