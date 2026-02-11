@@ -236,11 +236,6 @@ The first telephone installation was noted in *The Aurora* in April 1878:
 
 In 1881 a report to the Board of Trustees relating to connecting the college with Ames by telephone was made at the May meeting of the Board. The estimated costs are of some interest: 
 
->|For  installation of poles and  lines |  $  84.00  |
-|Cost with  one  instrument |  98.00  |
-|Cost with  two  instruments |  112 .00  |
-|For each additional  instrument |  14.00  |
-
 <table>
  <tr>
   <td>For installation of poles and lines</td>
