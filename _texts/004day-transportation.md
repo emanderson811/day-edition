@@ -140,7 +140,7 @@ In 1915 discussions began regarding the extension of the campus line to serve th
 
 [^fn12]: Iowa State Student, Oct. 17,  1916
 
-From the time the original Ames to College line had been started the one-way fare had been five cents. In 1920 the railway requested approval of an increase to eight cents or sixteen tickets for a dollar.[^fn13] That request was referred to a committee whose action is not recorded. However, in the Minutes for the meeting of the Board on May 6, 1927, when an increase to ten cents was asked for, it was said that "some years ago...this was raised to a seven cent fare."
+From the time the original Ames to College line had been started the one-way fare had been five cents. In 1920 the railway requested approval of an increase to eight cents or sixteen tickets for a dollar.[^fn13] That request was referred to a committee whose action is not recorded. However, in the Minutes for the meeting of the Board on May 6, 1927, when an increase to ten cents was asked for, it was said that "some years ago... this was raised to a seven cent fare."
 
 [^fn13]: Minutes Sept. 15,  1920
 
