@@ -104,21 +104,21 @@ A completely new concept was introduced in 1954 when President James H. Hilton a
 >
 >Now seriously we cannot at this time plan on state appropriations for this type of building. It will take all the money we can hope to get in the immediate years ahead for classroom and labor­atory buildings to provide the necessary facilities for *increased* enrollments and expanded research programs. 
 >
->Funds for such a Center will have to come from some other source. I am hoping that somewhere, sometime, we might find an individual or individuals who will give us a large grant to start the project. Such buildings have been given to other state supported institu­tions and I cannot see why this institution --one of the truly great education centers of the country --should not try to se­cure things which will add culture and enjoyment and dignity to our total educational processes. In my books this is a Must. 
+>Funds for such a Center will have to come from some other source. I am hoping that somewhere, sometime, we might find an individual or individuals who will give us a large grant to start the project. Such buildings have been given to other state supported institu­tions and I cannot see why this institution -- one of the truly great education centers of the country -- should not try to se­cure things which will add culture and enjoyment and dignity to our total educational processes. In my books this is a Must. 
 
-A month later Dr. Hilton spoke to a group of students and the talk was reported in the October 13 Iowa State Daily: 
+A month later Dr. Hilton spoke to a group of students and the talk was reported in the October 13 *Iowa State Daily*: 
 
->....Then Dr. Hilton explained his "dream" for Iowa State, the building he calls "the Iowa State College Center." "I have no money for the Center," he said, then firmly added, "I'm deter­mined I'll find money for this." 
+>...Then Dr. Hilton explained his "dream" for Iowa State, the building he calls "the Iowa State College Center." "I have no money for the Center," he said, then firmly added, "I'm deter­mined I'll find money for this." 
 >
->An architect's front-view drawing of the Center was shown on a movie screen.....The new Center would have an auditorium with about 4,000 seats, a coliseum with a 12,000 to 15,000 seating capacity and space for radio, TV and cultural activities. 
+>An architect's front-view drawing of the Center was shown on a movie screen... The new Center would have an auditorium with about 4,000 seats, a coliseum with a 12,000 to 15,000 seating capacity and space for radio, TV and cultural activities. 
 
 The drawing referred to in that article showed three separate but connected buildings facing south and located on the north side of Lin­coln Way in what is now the intramural field. That was before any plans had been considered for the construction of residence halls east of Wallace Road. Those first schematic drawings had been prepared by Leonard Wolf, Supervising Architect and head of the department of Architecture and Architectural Engineering. 
 
-Just when the proposed site was shifted from the north to the south side of Lincoln Way has not been determined, but "Progress Report No. 1" of the Long-Range Campus Planning Committee, dated June 20, 1955, includes this item under the heading of ''Basic Planning Principles for Expanding Campus": 
+Just when the proposed site was shifted from the north to the south side of Lincoln Way has not been determined, but "Progress Report No. 1" of the Long-Range Campus Planning Committee, dated June 20, 1955, includes this item under the heading of "Basic Planning Principles for Expanding Campus": 
 
->A new stadium gym and baseball field should be located east of Beech Avenue and south of Lincoln Way. The intra~ural field can also be expanded in this area. The plan for this development should be integrated with President Hilton's proposed Iowa State College Center. 
+>A new stadium gym and baseball field should be located east of Beech Avenue and south of Lincoln Way. The intramural field can also be expanded in this area. The plan for this development should be integrated with President Hilton's proposed Iowa State College Center. 
 
-The first contribution to the Center was reported to have been a two­dollar bill sent to President Hilton by a faculty member immediately after his first announcement of the original "dream". In the spring of 1956 the Iowa State Daily reported gifts of $200 from Greek Week Hilltoppers, $500 from the senior class and $1500 from the Homecoming Interim Committee. But it was not until after the incorporation of the Iowa State College Foundation in July 1958 that real progress was made in obtaining funds for the project. (After the College became a University the Foundation name was modified to reflect that change.) 
+The first contribution to the Center was reported to have been a two­-dollar bill sent to President Hilton by a faculty member immediately after his first announcement of the original "dream". In the spring of 1956 the Iowa State Daily reported gifts of $200 from Greek Week Hilltoppers, $500 from the senior class and $1500 from the Homecoming Interim Committee. But it was not until after the incorporation of the Iowa State College Foundation in July 1958 that real progress was made in obtaining funds for the project. (After the College became a University the Foundation name was modified to reflect that change.) 
 
 At its first annual meeting on May 28, 1959, a motion was carried unanimously: 
 
@@ -126,7 +126,7 @@ At its first annual meeting on May 28, 1959, a motion was carried unanimously:
 
 [^fn3]: Minutes Board of Governors Iowa State Foundation
 
-The following year John Brooks, of Brooks-Borg, ArchitectE\ presented a plan for a round structure providing the multipurpose facilities of a coliseum and auditorium. That plan was further developed in 1960-61 and at the 1961 meeting of the Board of Governors of the Foundation when the general scheme was approved but with the request to study alternative exterior treatments. That scheme showed a cir­cular building located about where the Scheman Continuing Education Building now stands, with access from Lincoln Way and parking in a U-shape around the perimeter and with a reflecting pool between the auditorium and the highway. 
+The following year John Brooks, of Brooks-Borg, Architects presented a plan for a round structure providing the multipurpose facilities of a coliseum and auditorium. That plan was further developed in 1960-61 and at the 1961 meeting of the Board of Governors of the Foundation when the general scheme was approved but with the request to study alternative exterior treatments. That scheme showed a cir­cular building located about where the Scheman Continuing Education Building now stands, with access from Lincoln Way and parking in a U-shape around the perimeter and with a reflecting pool between the auditorium and the highway. 
 
 By 1963 the concept of the planning changed as recorded in the minutes of a meeting of the Board of Directors of the Foundation: 
 
@@ -134,7 +134,7 @@ By 1963 the concept of the planning changed as recorded in the minutes of a meet
 
 [^fn4]: Minutes, Board of Directors, Oct. 25, 1963
 
-At the same meeting a Building Committee was appointed to select an architect, the cost of the project for const~uction, operating and maintenance and to estimate "probable income through rent, concessions, etc." The three units then contemplated were a "Little Theater" and auditorium in one building, a coliseum and a "continuation center." 
+At the same meeting a Building Committee was appointed to select an architect, the cost of the project for construction, operating and maintenance and to estimate "probable income through rent, concessions, etc." The three units then contemplated were a "Little Theater" and auditorium in one building, a coliseum and a "continuation center." 
 
 In March 1964 the Building Committee announced the selection of archi­tects for the Center and the Board of Regents concurred in the appoint­ment the following month. The architects were named as a joint ven­ture of Crites and McConnell of Cedar Rapids, and Brooks-Borg of Des Moines. 
 
@@ -152,11 +152,11 @@ The area long known as the Poultry Farm included a 20 acre block pur­chased in 
 
 Information on the farm buildings erected there is meager and incomplete. 
 
-On May 20, 1913, the ISC Student noted that "the legislature has also approved ....a poultry husbandry laboratory." 
+On May 20, 1913, the *ISC Student* noted that "the legislature has also approved ...a poultry husbandry laboratory." 
 
-Minutes of the Board for August 9, 1916, record authorization to proceed with construction of Poultry House --$776.87. The next month the paper mentioned a "new poultry shed at the poultry farm" among the minor improvements to be seen by new or returning students. 
+Minutes of the Board for August 9, 1916, record authorization to proceed with construction of Poultry House -- $776.87. The next month the paper mentioned a "new poultry shed at the poultry farm" among the minor improvements to be seen by new or returning students. 
 
-The following account of a proposed building appeared in the Iowa State Student on October 14, 1916: 
+The following account of a proposed building appeared in the *Iowa State Student* on October 14, 1916: 
 
 >Simplicity of construction, economy of outlay and a unique venti­lating system characterize the new farm poultry house to be built at the poultry farm this fall. It is a popular type of poultry house, designated by the agricultural experiment station to meet the requirements of typical farm conditions. 
 >
@@ -166,7 +166,7 @@ The following account of a proposed building appeared in the Iowa State Student 
 >
 >The house costs but $150 a section to build and is of most simple construction throughout. Because of the heretofore heavy call for poultry house plans it is thought that the present plans which are now available will prove very popular. 
 
-In December the paper included "an $800 poultry house at the poultry farm in a list of buildings" which Superintendent Sloss is now erecting or will soon start. The next developments came in 1920. The April 13 Minutes that year show a recommendation by President Pearson for the construction of a brooder house, but a meeting on the 30th of that same month record that a decision regarding the brooder house "will be postponed." But on May 3 the following article appeared in the Iowa State Student: 
+In December the paper included "an $800 poultry house at the poultry farm in a list of buildings" which Superintendent Sloss is now erecting or will soon start. The next developments came in 1920. The April 13 Minutes that year show a recommendation by President Pearson for the construction of a brooder house, but a meeting on the 30th of that same month record that a decision regarding the brooder house "will be postponed." But on May 3 the following article appeared in the *Iowa State Student*: 
 
 >Construction of the new $8,000 Poultry building at Iowa State College will be completed this week, according to H.A. Bitten­bender, head of the poultry husbandry department. In equipment, no poultry plant in the United States surpasses the one now under construction at Ames. 
 >
@@ -184,7 +184,7 @@ A year later (May 18, 1921) the paper reported additional work at the poultry fa
 >
 >Students who take two years of poultry work will follow a course which will require them to carry the chickens thru a year. It will give them an opportunity to handle all phases of the work on their own responsibility. 
 >
->"Iowa is fortunate in securing this equipment," says Mr. Bitten­bender, "since it affords an excellent opportunity to gather data and do experimental work with individual flocks, such as the every day far-mer has to handle. With the large number of pens of different breeds, many problems will present themselves, the solution of which will help the industry!' 
+>"Iowa is fortunate in securing this equipment," says Mr. Bitten­bender, "since it affords an excellent opportunity to gather data and do experimental work with individual flocks, such as the every day farmer has to handle. With the large number of pens of different breeds, many problems will present themselves, the solution of which will help the industry." 
 >
 >Funds for this work are provided by a bill fathered by Senator W.S. Kenyon of Iowa. 
 
@@ -202,19 +202,20 @@ In 1964 all of the buildings were razed to make way for the new resi­dence hall
 
 <p style="text-align: center;">(VMRI)</p>
 
-The land for the "Research :Farm," in what is now the southwest corner of the South Campus, was purchased for that purpose in 1921. A frame residence and a garage (also frame) were there at that time. 
+The land for the "Research Farm," in what is now the southwest corner of the South Campus, was purchased for that purpose in 1921. A frame residence and a garage (also frame) were there at that time. 
 
 The Research Laboratory was built in 1927 by Superintendent of Build­ings Thomas Sloss, from plans by Proudfoot, Rawson & Souers. An addition to it was constructed in 1968. 
 
 Numerous small buildings, barns and sheds were subsequently added to the site, but are not significant enough to be individually described. 
 
-An Isolation Laboratory was erected in 1962--plans by Russell and Lynch and contracted by James Thompson & Sons. A second unit addition to that structure was built in 1976, along with a separate Equipment Storage Building. Architects for both were Lynch-Payne-Champion­Bernabe, and construction contracts for both went to Allen Construction Co. 
+An Isolation Laboratory was erected in 1962--plans by Russell and Lynch and contracted by James Thompson & Sons. A second unit addition to that structure was built in 1976, along with a separate Equipment Storage Building. Architects for both were Lynch-Payne-Champion-­Bernabe, and construction contracts for both went to Allen Construction Co. 
 
 A new Poultry Isolation Building, from plans by Engineer Norval H. Curry, was erected by R. Friedrich & Sons, Inc., in 1971. This re­placed an earlier structure destroyed by fire in 1967. 
 
 The research section of the Division of Veterinary Medicine became the Veterinary Medicine Research Institute in 1943. 
 
 ## THE YMCA and LYNN FUHRER LODGE 
+
 The Young Men's Christian Association has been an active organization on the campus since 1890, in which year the earlier Christian Asso­ciation was divided into Y.M.C.A. and the Y.W.C.A. Both groups were leaders in the effort to obtain a building for their use and that of other societies on the campus, as well as a headquarters for alumni. Their actions resulted in the erection of Alumni Hall, completed in 1907. 
 
 Since that date both groups have maintained their headquarters in that building (except for a brief period during World War II when it was used by the Navy). 
