@@ -22,17 +22,15 @@ When construction for the College Building was started in 1864 the con­tract fo
 
 >to burn seven hundred and fifty thousand at $5.85 per thousand and the College furnish the wood. The first kiln of 200,000 was burned well, but unfortunately too much lime gravel was in the clay which burst the brick; in accepting this kiln there was a deduction of 10 per cent. We have paid them on this kiln $1010.00. 
 >
->The second kiln contained about 100,000 of better made than the first, but not as a burn. We have paid $451.00 on this kiln. The kiln is on the land of Mr. Porter, formerly owned by W.J. Graham, adjoining the farm. We will have to pay Mr. Graham 20 cts. per 
-thousand. The first hundred thousand nothing to be paid on. The whole amount paid to Chamberlin & Co. is $1338.82.[^fn2] 
+>The second kiln contained about 100,000 of better made than the first, but not as a burn. We have paid $451.00 on this kiln. The kiln is on the land of Mr. Porter, formerly owned by W.J. Graham, adjoining the farm. We will have to pay Mr. Graham 20 cts. per thousand. The first hundred thousand nothing to be paid on. The whole amount paid to Chamberlin & Co. is $1338.82.[^fn2] 
 
-[^fn2]: Sixth Annual Report ....for  1865
+[^fn2]: Sixth Annual Report... for  1865
 
-Whether the kiln on Mr. Porter's land refers only to the second burn is uncertain. Perhaps the first kiln was on the farm. In a letter request­ing additional compensation, on March 20, 1865, B.K. Bronson of Chamber­lin & Co. refers to the first kiln burned (200M) "and those made in the yard (some 60M more)."[^fn3] This seems to indicate that there were two diffe~ent locations. 
+Whether the kiln on Mr. Porter's land refers only to the second burn is uncertain. Perhaps the first kiln was on the farm. In a letter request­ing additional compensation, on March 20, 1865, B.K. Bronson of Chamber­lin & Co. refers to the first kiln burned (200M) "and those made in the yard (some 60M more)."[^fn3] This seems to indicate that there were two different locations. 
 
 [^fn3]: Board Minutes, March  1865
 
-At the same Board meeting A.J. Graves, then farm manager reported that in August of 1865 he had "commenced to haul away first brick kiln.... moved about one hundred thousand to college." In October he had "hauled thirty-five cords of wood to brick yard." And in November "hauled lum­ber from brick yard for fence." (Mr. Bronson's request for additional 
-funds was rejected.) 
+At the same Board meeting A.J. Graves, then farm manager reported that in August of 1865 he had "commenced to haul away first brick kiln... moved about one hundred thousand to college." In October he had "hauled thirty-five cords of wood to brick yard." And in November "hauled lum­ber from brick yard for fence." (Mr. Bronson's request for additional funds was rejected.) 
 
 Charles A. Dunham, the architect retained in 1865 to replace the pre­vious architect, expressed his opinion of the bricks made earlier: 
 
@@ -42,20 +40,32 @@ Charles A. Dunham, the architect retained in 1865 to replace the pre­vious arch
 
 In 1865 a new contract for brick work was entered into with S.A. Robert­son of Des Moines. He, with Dunham, determined the site of the brick­yard. He reported: 
 
->I selected a site in the timber as the most eligible location notwithstanding it would cost heavily to clear and grade the same ....In the month of April work was commenced on the yard and pushed forward as rapidly as possible and we were ready for brick making in May. There being no suitable place for boarding men employed, it was, necessary to build suitable buildings and in accordance with your instructions to build the same with the least possible expense compatible with the health and comfort of the men, a building 16 x 60 feet was commenced upon my arrival on the ground ....The buildings were completed early in May. The nec­essary bedding, cooking utensils, etc. were procured, cooks em­ployed and from that time on the men were well satisfied, and I think considerable money saved besides having the men close to their work.... 
+>I selected a site in the timber as the most eligible location notwithstanding it would cost heavily to clear and grade the same... In the month of April work was commenced on the yard and pushed forward as rapidly as possible and we were ready for brick making in May. There being no suitable place for boarding men employed, it was, necessary to build suitable buildings and in accordance with your instructions to build the same with the least possible expense compatible with the health and comfort of the men, a building 16 x 60 feet was commenced upon my arrival on the ground... The buildings were completed early in May. The nec­essary bedding, cooking utensils, etc. were procured, cooks em­ployed and from that time on the men were well satisfied, and I think considerable money saved besides having the men close to their work... 
 >
->"Notwithstanding the extremely bad weather during the greater part of the first four months----hard on brickmakers and masons---­losing thousands of brick on account of the heavy storms and rains----the character of the clay and the scarcity of covering lumber, yet I think I can with some little pride refer to the a­mount of work done and quality of brick made. The clay was diffi­cult to work cracking in the yard and at times I almost despaired but after experimenting, working and trying, first class brick were made and can be made hereafter. 
+>"Notwithstanding the extremely bad weather during the greater part of the first four months -- hard on brickmakers and masons -- losing thousands of brick on account of the heavy storms and rains -- the character of the clay and the scarcity of covering lumber, yet I think I can with some little pride refer to the a­mount of work done and quality of brick made. The clay was diffi­cult to work cracking in the yard and at times I almost despaired but after experimenting, working and trying, first class brick were made and can be made hereafter. 
 >
->On the 16th day of August I received a notice from you to suspend operations the money appropriated by the General Assembly being nearly exhausted ....Before I left the farm, the tools used in the work were gathered together and safely stored away, the boarding house goods and chattels cleaned and packed and all things left in good shape for a renewal of operations in the spring. The missing and broken tools and articles I am happy to say made but a small list.[^fn5] 
+>On the 16th day of August I received a notice from you to suspend operations the money appropriated by the General Assembly being nearly exhausted... Before I left the farm, the tools used in the work were gathered together and safely stored away, the boarding house goods and chattels cleaned and packed and all things left in good shape for a renewal of operations in the spring. The missing and broken tools and articles I am happy to say made but a small list.[^fn5] 
 
 [^fn5]: Board Minutes, Jan. 1866
 
-Robertson  then  itemized his  labor costs,  including the following:  
->|Preparing Brickyard | $350.50 |
-|Boardinghouse Building | 96.00 |
-|Lime House, Tool House  etc. | 30.00 |
+Robertson then itemized his labor costs, including the following:  
 
-Building the  Boarding house  took 1520  feet of native  lumber and  5475  feet of pine. For·the Lime House he used 450 feet of native lumber and 2000 feet of pine. Brickyard lumber, all pine came to 8000 feet. The lumber was apparently furnished by the College. 
+<table>
+ <tr>
+  <td>Preparing Brickyard</td>
+  <td>$350.50</td>
+ </tr>
+ <tr>
+  <td>Boardinghouse Building</td>
+  <td>96.00</td>
+ </tr>
+ <tr>
+  <td>Lime House, Tool House etc.</td>
+  <td>30.00</td>
+ </tr>
+</table>
+
+Building the  Boarding house took 1520 feet of native lumber and 5475 feet of pine. For the Lime House he used 450 feet of native lumber and 2000 feet of pine. Brickyard lumber, all pine came to 8000 feet. The lumber was apparently furnished by the College. 
 
 The following May (1866) the Building Committee spent $47.50 for lum­ber to repair the "Boarding Shanty."[^fn6] 
 
@@ -63,7 +73,7 @@ The following May (1866) the Building Committee spent $47.50 for lum­ber to rep
 
 During that summer brickmaking was continued under Mr. Banks, the foreman. He estimated upwards of 50,000 lost due to bad weather. A total of $3857.56 was expended for brick making in 1866. By the end of the season 
 
->The material for making the brick became quite scarce, sometimes the foreman despaired·of being able to succeed in finding suitable clay accessible to the yard and had to haul it much farther than on the previous year. The brick made are of excellent quality and much superior the workmen say to those made the previous year.[^fn7]
+>The material for making the brick became quite scarce, sometimes the foreman despaired of being able to succeed in finding suitable clay accessible to the yard and had to haul it much farther than on the previous year. The brick made are of excellent quality and much superior the workmen say to those made the previous year.[^fn7]
 
 [^fn7]: Board Minutes, Jan. 1867
 
@@ -71,7 +81,7 @@ With all needed bricks made it was decided to close out the brickyard and a publ
 
 Thus ended the brickyard operations on the College farm. 
 
-The location of the brickyard cannot be established with certainty. In the January 1868 Board Minutes there is a reference to ''15 or 16 acres of flat wetish land" northwest of the College and between that and the brickyard. It was earlier stated that the yard would be set up on land requiring timber to be cleared. Thus, it seems it would have been in the timber along Clear Creek, probably in what is now Pammel Woods. Positive identification can only be made if exploratory archeological excavations were undertaken. The evidence is undoubted­ly in the ground, but the end would probably not justify the cost or the damage to existing plant life in the area. 
+The location of the brickyard cannot be established with certainty. In the January 1868 Board Minutes there is a reference to "15 or 16 acres of flat wetish land" northwest of the College and between that and the brickyard. It was earlier stated that the yard would be set up on land requiring timber to be cleared. Thus, it seems it would have been in the timber along Clear Creek, probably in what is now Pammel Woods. Positive identification can only be made if exploratory archeological excavations were undertaken. The evidence is undoubted­ly in the ground, but the end would probably not justify the cost or the damage to existing plant life in the area. 
 
 ## FIRE PROTECTION
 
