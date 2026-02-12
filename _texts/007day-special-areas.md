@@ -16,7 +16,7 @@ publication-date: 1980
 
 <p style="text-align: center;">Atomic Energy Commission<br>and<br>Energy and Mineral Resources Research Institute</p>
 
-The Iowa State College Institute for Atomic Research (IAR) was or­ganized on Novemb~r 1, 1945, but not formally dedicated until May 17, 1947, the date considered as that of the establishment of the IAR and the Ames Laboratory.[^fn1] The IAR was the administrative body while the Ames Laboratory was the operational organization. Both were under control of the United States Atomic Energy Commission. 
+The Iowa State College Institute for Atomic Research (IAR) was or­ganized on November 1, 1945, but not formally dedicated until May 17, 1947, the date considered as that of the establishment of the IAR and the Ames Laboratory.[^fn1] The IAR was the administrative body while the Ames Laboratory was the operational organization. Both were under control of the United States Atomic Energy Commission. 
 
 [^fn1]: The News of Iowa State, May-June 1972
 
@@ -34,41 +34,41 @@ The Ames Laboratory buildings have all been constructed on land owned by the col
 
 The need for an auditorium on the campus was first expressed by President Beardshear in the 8iennial Report for 1900-01: 
 
->We have a chapel with a seating capacity of 625 and an enroll­ment of about 1,000 students a term. We are off in a community by ourselves, away from halls and opera houses, so that it is impossibfe to rent a room adequate for the needs of our public assemblies. A room with a sufficient capacity for the public work and gatherings of the college is an unavoidable demand, but in view of our other needs this matter must go over. 
+>We have a chapel with a seating capacity of 625 and an enroll­ment of about 1,000 students a term. We are off in a community by ourselves, away from halls and opera houses, so that it is impossible to rent a room adequate for the needs of our public assemblies. A room with a sufficient capacity for the public work and gatherings of the college is an unavoidable demand, but in view of our other needs this matter must go over. 
 
 During the next fifteen years the request was repeated in various Biennial Reports. In the 1914-16 report President Pearson proposed an asking of $10,000 for the construction of a "temporary auditorium." State Gymnasium had been completed in 1913 and had provided some re­lief but conflicts with athletic events created numerous problems. 
 
-The first student input occurred in 1917 when the Iowa State Student on January 23, carried an editorial calling for an auditorium, and in the February 17 edition questioned the wisdom of a temporary building for the purpose. 
+The first student input occurred in 1917 when the *Iowa State Student* on January 23, carried an editorial calling for an auditorium, and in the February 17 edition questioned the wisdom of a temporary building for the purpose. 
 
 In 1923 President Pearson entered a request for an appropriation of $350,000 for an auditorium. No further references to such a struc­ture appear for another thirteen years, during which time State Gym­nasium, the Armory and the Curtiss auditorium were used for most large gatherings. 
 
-On March 28, 1936, the following editorial appeared in the Iowa State Student: 
+On March 28, 1936, the following editorial appeared in the *Iowa State Student*: 
 
 >Again Thursday night we saw the need for a large activity center at Iowa State. We need a center that can accomodate at least 6000 people. 
 >
->There are many students who have paid for their activity books and who want to see the games, but there isn't room for all who want to come. Many have to miss these events. The same was true at the Minneapolis Symphony concerts, the Don Cossack re­view, many of the lectures and most of the games. Students alone aren't disappointed. Many Ames and Des Moines people, too, were disappointed at not hearing Ormandy on his last tour with the Minneapolis Symphony--but there wasn't r~om. These people would have come to this concert, and they would come to future concerts and lectures. 
+>There are many students who have paid for their activity books and who want to see the games, but there isn't room for all who want to come. Many have to miss these events. The same was true at the Minneapolis Symphony concerts, the Don Cossack re­view, many of the lectures and most of the games. Students alone aren't disappointed. Many Ames and Des Moines people, too, were disappointed at not hearing Ormandy on his last tour with the Minneapolis Symphony--but there wasn't room. These people would have come to this concert, and they would come to future concerts and lectures. 
 >
 >True, the activities the students alone are concerned with would not make a large activity center pay. But other factors would. Why do Iowa farm people hold their meetings in Chicago, the in­dustrial center of the country? Because there is no other place to hold these meetings. 
 >
->The Iowa State campus, the most centrally located spot in Iowa is the center of agricultural study ·and farm life of the state. But because Iowa itself is the national center of agriculture our campus could readily become the center for most national agri­cultural activity --shows, exhibits, concerts, plays, lectures, meetings and conventions. 
+>The Iowa State campus, the most centrally located spot in Iowa is the center of agricultural study and farm life of the state. But because Iowa itself is the national center of agriculture our campus could readily become the center for most national agri­cultural activity -- shows, exhibits, concerts, plays, lectures, meetings and conventions. 
 >
 >Such a center, kept open all year around, would soon pay for it­self. The activities of the student body are already dove-tailed with those of various groups, but neither is able to completely enjoy its own show. Iowa State is the natural center for the farm life of the nation. Why not make the most of our opportun­ity and thereby benefit both our student body and the people in agriculture? 
 
 In September that same year the paper headlined an editorial "We Need an Auditorium Now!" A year later, on September 25, the paper included this report on a talk by President Friley: 
 
->....Particularly strong was appeal for a new auditorium. At the present time, Iowa State's total seating capacity in Auditoriums is as follows: Physics lecture room, 300; Chemistry lecture room 300; Engineering assembly 400; MacKay auditorium, 500; Ag­ricultural assembly, 800; Great Hall, 1000, and Gymnasium, 2500. 
+>...Particularly strong was appeal for a new auditorium. At the present time, Iowa State's total seating capacity in Auditoriums is as follows: Physics lecture room, 300; Chemistry lecture room 300; Engineering assembly 400; MacKay auditorium, 500; Ag­ricultural assembly, 800; Great Hall, 1000, and Gymnasium, 2500. 
 >
 >Quoting Friley, "With a student body of S,000 not to mention the staff of the College, and with an increasing number of concerts, lectures, convocations and other attractions, none of these meet­ing places is adequate for the increasingly large audiences. Sev­eral times during the session 1936-37 from 3,000 to 4,000 people were crowded into the Gymnasium, which has a normal seating capac­ity of only 2,500. For one concert more than 5,000 people had applied for tickets." 
 
 The Board minutes for May 3, 1938, include an Auditorium in the list of important building needs. 
 
-New interest was generated in 1939 and 1940. On December 14, 1939, this account appeared in the Iowa State Daily Student: 
+New interest was generated in 1939 and 1940. On December 14, 1939, this account appeared in the *Iowa State Daily Student*: 
 
 >Dreams for a new combined auditorium and fieldhouse took on a note of reality yesterday, when Pres. Charles E. Friley appointed a special committee to consider the "feasibility and desirability of erecting such a structure," and to draw up suitable plans. 
 
 A month later, on January 24, the paper could report: 
 
->Tentative plans, in blueprint form, for a proposed auditorium­fieldhouse are to be submitted to the general committee this week for approval, Dean M.D. Helser, chairman, revealed yesterday. 
+>Tentative plans, in blueprint form, for a proposed auditorium­-fieldhouse are to be submitted to the general committee this week for approval, Dean M.D. Helser, chairman, revealed yesterday. 
 >
 >Plans have been drawn by Prof. A.H. Kimball, head of the Archi­tectural Engineering Department. 
 >
@@ -78,13 +78,13 @@ A month later, on January 24, the paper could report:
 >
 >Several plans for financing the project have been proposed, Helser said, but none has been accepted. 
 
-In May, 194D, the committee decided to postpone further action for a year "for proper con~Hderation of all the proposals for the structure, further study of the two possible sites, and solution of financing."[^fn2] 
+In May, 1940, the committee decided to postpone further action for a year "for proper consideration of all the proposals for the structure, further study of the two possible sites, and solution of financing."[^fn2] 
 
 [^fn2]: Iowa State Daily Student, May 7, 1940
 
 World War II interrupted all thoughts of building and it was October 1945 before further references to the proposed building appear. On the 26th of that month the student paper reported: 
 
->Committees to push plans for a field house have been formed by the Iowa State Alumni Association.... 
+>Committees to push plans for a field house have been formed by the Iowa State Alumni Association...
 >
 >The fieldhouse will be known as the Cyclone Memorial Fieldhouse in memory of members of the original cyclone team and the Iowa State men and women who gave their lives during World War II. 
 
@@ -100,9 +100,9 @@ A completely new concept was introduced in 1954 when President James H. Hilton a
 >
 >Where would we build such a layout as this if we had the money? The best location would be on the levee east of the girls' dormi­tories, north of Lincoln Highway. Naturally this area would have to be filled in so that it could not overflow when we have our periodic floods. 
 >
->Well, that is one of my dreams for the future. It probably will take years to complete it. You may think I am unrealistic, a dreamer, a visionary or just plain crazy. But may I say to you that I have already been called all those things and some other things, too, about this project, and if any of you feel that I should be discouraged in this venture you should think up some other terms --because I am quite determined about this Center. 
+>Well, that is one of my dreams for the future. It probably will take years to complete it. You may think I am unrealistic, a dreamer, a visionary or just plain crazy. But may I say to you that I have already been called all those things and some other things, too, about this project, and if any of you feel that I should be discouraged in this venture you should think up some other terms -- because I am quite determined about this Center. 
 >
->Now seriously we cannot at this time plan on state appropriations for this type of building. It will take all the money we can hope to get in the immediate years ahead for classroom and labor­atory buildings to provide the necessary facilities for increased enrollments and expanded research programs. 
+>Now seriously we cannot at this time plan on state appropriations for this type of building. It will take all the money we can hope to get in the immediate years ahead for classroom and labor­atory buildings to provide the necessary facilities for *increased* enrollments and expanded research programs. 
 >
 >Funds for such a Center will have to come from some other source. I am hoping that somewhere, sometime, we might find an individual or individuals who will give us a large grant to start the project. Such buildings have been given to other state supported institu­tions and I cannot see why this institution --one of the truly great education centers of the country --should not try to se­cure things which will add culture and enjoyment and dignity to our total educational processes. In my books this is a Must. 
 
