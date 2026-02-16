@@ -199,7 +199,7 @@ Major fires have destroyed several campus buildings. These are dis­cussed under
   <td>South Hall</td>
  </tr>
  <tr>
-  <td>Jan. 31, 1912, 1922, & Jan. 7, 1951, March 30, 1963</td>
+  <td>Jan. 31, 1912, 1922, Jan. 7, 1951, March 30, 1963</td>
   <td>The Gables</td>
  </tr>
  <tr>
@@ -223,7 +223,7 @@ Major fires have destroyed several campus buildings. These are dis­cussed under
   <td>Cattle Barn (rebuilt)</td>
  </tr>
  <tr>
-  <td>Aug, 16. 1935</td>
+  <td>Aug. 16, 1935</td>
   <td>Dairy Barn & Feed Barn (on Dairy Farm - rebuilt)</td>
  </tr>
  <tr>
@@ -239,7 +239,7 @@ Major fires have destroyed several campus buildings. These are dis­cussed under
   <td>Livestock Shelter (west of Brookside Park)</td>
  </tr>
  <tr>
-  <td>March 21, 1941</td>
+  <td>March 31, 1941</td>
   <td>Davidson Hall (rebuilt)</td>
  </tr>
  <tr>
@@ -264,15 +264,15 @@ Other fires, less damaging than those listed above, have occurred from time to t
 
 ## FLAG POLES 
 
-When the first free-standing flag pole was set up on the campus cannot be determined, but there is an 1895 reference in the ISC Student to its having been blown down in a gale in 1889. The flag was also flown from the staff on top of the north tower of Old Main, probably only in the years when no campus pole existed. 
+When the first free-standing flag pole was set up on the campus cannot be determined, but there is an 1895 reference in the *ISC Student* to its having been blown down in a gale in 1889. The flag was also flown from the staff on top of the north tower of Old Main, probably only in the years when no campus pole existed. 
 
 A new replacement pole was erected in October 1895. It is described as one "whose timber was purchased in the state of Washington. It is one hundred and twenty feet above the ground."[^fn12] That flagpole was erected in central campus at almost the same location as the one standing now. It served the college until rotting of its base re­sulted in its fall and destruction in January 1903. 
 
 [^fn12]: 16th Biennial Report, 1894-95
 
-In September 1904 the Board appropriated $144 for the purchase of a new flagstaff. LaVerne Noyes (class of '72), Manager of Aermotor Windmill Works of Chicago, donated a steel windmill tower to serve as a flagstaff. Erected in November it was 133 feet high, set in con­crete. Reaction to the new structure came rapidly. An editor of the ISC Student, on November 26, wrote: 
+In September 1904 the Board appropriated $144 for the purchase of a new flagstaff. LaVerne Noyes (class of '72), Manager of Aermotor Windmill Works of Chicago, donated a steel windmill tower to serve as a flagstaff. Erected in November it was 133 feet high, set in con­crete. Reaction to the new structure came rapidly. An editor of the *ISC Student*, on November 26, wrote: 
 
->If there is one thing above all others that we feel inclined to talk about just now, it certainly is this new addition to what was once our campus but must now be known as our barnyard. Imagine, if it is possible, such a flagstaff for a state institution. Think how you will like to hear strangers say, "Yes, this is the agri­cultural college, for there is the windmill. Sure enough: and there are the cowpaths leading up to it." Won't a picture of cen­tral barnyard, pasture or? look pretty now? Why, the short course men will say, "Where was the cyclone? It must have been a hard one to blow the entire wheel off your pumping machine." To tell the plain truth, this is about the worst frost we have seen on campus this fall. 
+>If there is one thing above all others that we feel inclined to talk about just now, it certainly is this new addition to what was once our campus but must now be known as our barnyard. Imagine, if it is possible, such a flagstaff for a state institution. Think how you will like to hear strangers say, "Yes, this is the agricultural college, for there is the windmill. Sure enough: and there are the cowpaths leading up to it." Won't a picture of cen­tral barnyard, pasture or ? look pretty now? Why, the short course men will say, "Where was the cyclone? It must have been a hard one to blow the entire wheel off your pumping machine." To tell the plain truth, this is about the worst frost we have seen on campus this fall. 
 
 Only a day or two later the tower was torn down at night, and the edi­tor apologized November 30: 
 
@@ -280,17 +280,17 @@ Only a day or two later the tower was torn down at night, and the edi­tor apolo
 
 The individuals responsible for the end of the windmill tower were never identified. Whether a flag ever flew on its top is questionable. 
 
-Beardshear Hall (then Central Building) was completed in 1906, and the flag was flown from xhe staff above its east entrance. 
+Beardshear Hall (then Central Building) was completed in 1906, and the flag was flown from the staff above its east entrance. 
 
 A new steel flag pole was set up in March 1908.[^fn13] This was the gift of the class of 1907 with some help from the class of 1906. Located where the original wood pole had stood, it was 128 feet high and carried the American flag, and in later years the Iowa flag as well, until January 1974. After serving the campus for over sixty-six years it then succumbed to erosion and collapsed as it was being taken down for repairs. 
 
 [^fn13]: ISC Student, March 31, 1908
 
-A replacement came in June 1975 when an eighty-eight feet high aluminum pole was raised at the location of previous ones. This a counter­weighted pole that allows it to be tipped to the ground for repair or replacement of pulleys or, lines. The national and state flags now fly daily above the cluster of trees in the middle of the campus. 
+A replacement came in June 1975 when an eighty-eight feet high aluminum pole was raised at the location of previous ones. This a counter­weighted pole that allows it to be tipped to the ground for repair or replacement of pulleys or lines. The national and state flags now fly daily above the cluster of trees in the middle of the campus. 
 
 In April 1979 a new flagpole was erected by the Memorial Union in the area between that building and the Parking Ramp. Funds for the pro­ject, including the pole, flag and landscaping, were donated for that purpose by the Veishea Central Committee. 
 
-The display of weather service flags was started by Captain James R. Lincoln; professor of military tactics, in the late 1880's. In the Aurora of April 1888 it is reported that he ''now dispenses weather tidings from the top of a most unbecoming staff, which has been erected near the tomb of '76, on the campus." 
+The display of weather service flags was started by Captain James R. Lincoln; professor of military tactics, in the late 1880's. In the *Aurora* of April 1888 it is reported that he "now dispenses weather tidings from the top of a most unbecoming staff, which has been erected near the tomb of '76, on the campus." 
 
 In 1895 a staff was placed on Botany Hall (then Agricultural Hall) for the display of the weather signals. 
 
@@ -298,23 +298,23 @@ Flagstaffs are also mounted on Marston and Curtiss Halls.
 
 ## MEMORIALS and CLASS GIFTS 
 
-Over the years various people, classes and events have been recognized by the placement of memorial plaques or other types of markers about the campus. Names of buildings and streets, as well as houses in the residence halls, also are forms of memorials but these will not be in­cluded here. Where personal names have been given to buildings they are mentioned in the statements on the individual buildings elsewhere in this volume: Street names are similarly discussed in that section. For the residence hall house names refer to the works of J.C. Schil.. letter. Memorials in the form of tablets, fountains and other features inside of buildings are not discussed here. 
+Over the years various people, classes and events have been recognized by the placement of memorial plaques or other types of markers about the campus. Names of buildings and streets, as well as houses in the residence halls, also are forms of memorials but these will not be in­cluded here. Where personal names have been given to buildings they are mentioned in the statements on the individual buildings elsewhere in this volume. Street names are similarly discussed in that section. For the residence hall house names refer to the works of J.C. Schilletter. Memorials in the form of tablets, fountains and other features inside of buildings are not discussed here. 
 
 Many individual classes have made gifts of one kind or another. Only those which are visible on the campus itself are included here. The office of the Alumni Association maintains a complete list of all class gifts. 
 
 The earliest memorial on record is the large boulder near the flag­pole, inscribed "Class 1876". The bronze tablet, later mounted on the boulder and listing the names of the class members, was placed about 1925. 
 
-The class of 1891 erected a fountain, as recorded in the IAC Student on November 11, 1891: 
+The class of 1891 erected a fountain, as recorded in the *IAC Student* on November 11, 1891: 
 
 >The class of '91 leave a lasting and more pleasurable souvenir than any previous class. In the triangle, just between Main Building and Morrill Hall, it has erected a large, beautiful fountain. May its flowing waters ever keep the memories of Class '91 fresh in the minds of those following in its footsteps. 
 
-Less than two years later the paper complained in an editorial comment that "The fountain acts sick and needs attention these days". On April 5, 1905, the ISC Student reported, "The fountain which has stood for so many years in front of the motor station and otherwise known as the '91 class memorial has been removed to the machine shop for refit­ting." Whether the fountain was put in operation again after that time is uncertain. No later references to it have been found. The area between Central (Beardshear) and Morrill Hall was completely re­graded in 1907 and the fountain would definitely have been gone after that date if not earlier. 
+Less than two years later the paper complained in an editorial comment that "The fountain acts sick and needs attention these days". On April 5, 1905, the *ISC Student* reported, "The fountain which has stood for so many years in front of the motor station and otherwise known as the '91 class memorial has been removed to the machine shop for refit­ting." Whether the fountain was put in operation again after that time is uncertain. No later references to it have been found. The area between Central (Beardshear) and Morrill Hall was completely re­graded in 1907 and the fountain would definitely have been gone after that date if not earlier. 
 
 The Campanile, a memorial erected in 1897, is discussed under that heading in another section. The gift of the classes of 1906 and 1907 is included in the section entitled Flagpoles. 
 
 Concrete benches were provided by the class of 1916. The exact num­ber originally is uncertain. One later reference indicated "a dozen," and another reference reports the loss of some through vandalism. Six can be found on the central campus today. Some of these still retain a small bronze plate on the top reading "Made by Industrial Arts Students Iowa State College." The supports and the edges of the benches are decoratively treated. 
 
-At commencement on June 6, 1917, groups of trees on the central camp­us were dedicated to six highly respected former faculty members: Dr. A.S. Welch, Dr. William~-Beardshear, Dr. Seaman A. Knapp, Dr. Charles E. Bessey,, Dr. Millikan Stalker and Prof. J.L. Budd. A seventh man, Dr. LaVerne Noyes, was also honored by having Lake La­Verne and trees at its west end dedicated to his memory. Another group of trees was dedicated to Dr. Edgar W. Stanton on June 10, 1923. The boulders and bronze tablets marking the tree groups were placed in the spring of 1925. 
+At commencement on June 6, 1917, groups of trees on the central camp­us were dedicated to six highly respected former faculty members: Dr. A.S. Welch, Dr. William M. Beardshear, Dr. Seaman A. Knapp, Dr. Charles E. Bessey, Dr. Millikan Stalker and Prof. J.L. Budd. A seventh man, Dr. LaVerne Noyes, was also honored by having Lake La­Verne and trees at its west end dedicated to his memory. Another group of trees was dedicated to Dr. Edgar W. Stanton on June 10, 1923. The boulders and bronze tablets marking the tree groups were placed in the spring of 1925. 
 
 Three more sites were marked with bronze tablets in 1927. One marks the site where a picnic was held on July 4, 1859, celebrating the acquisition of the land for the new college. It is on the north side of Pammel Drive and south of the southwest corner of the Communica­tions Building. The second marker is in honor of W.T. Hornaday and his work as a zoologist and conservationist. The third tablet was placed at the Farmhouse where it incorrectly identifies that as "the site of the old tavern and trail through Story County in pioneer days." See discussion of Farmhouse. 
 
