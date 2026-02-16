@@ -16,7 +16,7 @@ publication-date: 1980
 
 The first brick made on the college grounds were those for the walls of the Farm House.[^fn1] The exact location of that 1860 brickyard has not been identified. 
 
-[^fn1]: Report of  the Commissioner of Agriculture  for  the Year  1865.  p.  174
+[^fn1]: Report of the Commissioner of Agriculture for the Year 1865. p. 174
 
 When construction for the College Building was started in 1864 the con­tract for the manufacture and laying of the bricks was awarded to Chamber­lin & Co. of Jones County 
 
@@ -24,7 +24,7 @@ When construction for the College Building was started in 1864 the con­tract fo
 >
 >The second kiln contained about 100,000 of better made than the first, but not as a burn. We have paid $451.00 on this kiln. The kiln is on the land of Mr. Porter, formerly owned by W.J. Graham, adjoining the farm. We will have to pay Mr. Graham 20 cts. per thousand. The first hundred thousand nothing to be paid on. The whole amount paid to Chamberlin & Co. is $1338.82.[^fn2] 
 
-[^fn2]: Sixth Annual Report... for  1865
+[^fn2]: Sixth Annual Report... for 1865
 
 Whether the kiln on Mr. Porter's land refers only to the second burn is uncertain. Perhaps the first kiln was on the farm. In a letter request­ing additional compensation, on March 20, 1865, B.K. Bronson of Chamber­lin & Co. refers to the first kiln burned (200M) "and those made in the yard (some 60M more)."[^fn3] This seems to indicate that there were two different locations. 
 
@@ -65,7 +65,7 @@ Robertson then itemized his labor costs, including the following:
  </tr>
 </table>
 
-Building the  Boarding house took 1520 feet of native lumber and 5475 feet of pine. For the Lime House he used 450 feet of native lumber and 2000 feet of pine. Brickyard lumber, all pine came to 8000 feet. The lumber was apparently furnished by the College. 
+Building the Boarding house took 1520 feet of native lumber and 5475 feet of pine. For the Lime House he used 450 feet of native lumber and 2000 feet of pine. Brickyard lumber, all pine came to 8000 feet. The lumber was apparently furnished by the College. 
 
 The following May (1866) the Building Committee spent $47.50 for lum­ber to repair the "Boarding Shanty."[^fn6] 
 
@@ -93,23 +93,23 @@ In 1876, at the March 30-31 meeting, the Board ordered,
 
 >That the sum of $135.00 or so much there of as may be necessary be appropriated from Interest Fund for the purpose of purchasing a ladder, hooks, buckets, ropes, axes and a trumpet for the fire department of the College. 
 >
->And it is further Ordered, that a fire company be organized under the direction of Gen. Geddes from among the students of the College, that said company shall drill not less than one hour per week, and for the time spent in such drill they shall receive a compensation to be fixed by the Industrial Committee, said compensation not to exceed the rate per hour paid for uninstructive labor, and the company shall at all times respond promptly to the usual fire sig­nal whatever that may'be. 
+>And it is further Ordered, that a fire company be organized under the direction of Gen. Geddes from among the students of the College, that said company shall drill not less than one hour per week, and for the time spent in such drill they shall receive a compensation to be fixed by the Industrial Committee, said compensation not to exceed the rate per hour paid for uninstructive labor, and the company shall at all times respond promptly to the usual fire sig­nal whatever that may be. 
 
-A fire drill was reported in the May 1883 issue of the Aurora. 
+A fire drill was reported in the May 1883 issue of the *Aurora*. 
 
 Five hundred feet of rubber hose and two nozzles were purchased in 1896.[^fn9] 
 
 [^fn9]: Minutes, Nov. 23-25, 1896
 
-Additional funds were provided in 1899. The April 18, 1899 ISC Student could report that "Fifteen hundred feet of hose and hook and ladder outfit have been ordered," and the Minutes of the June Board meeting records that 
+Additional funds were provided in 1899. The April 18, 1899 *ISC Student* could report that "Fifteen hundred feet of hose and hook and ladder outfit have been ordered," and the Minutes of the June Board meeting records that 
 
 >Competitive bids were received on building for truck and hose­cart, and a building covered with corrigated [sic] iron has been erected at a cost of $166.33. 
 >
->Prof. Beyer has charge of the department. 3 companies have been organized and arrangements made for practical drills .... 
+>Prof. Beyer has charge of the department. 3 companies have been organized and arrangements made for practical drills... 
 
-The burning of the Experimental and Feeding Barns provoked this editor­ial in the ISC Student on October 26, 1901: 
+The burning of the Experimental and Feeding Barns provoked this editor­ial in the *ISC Student* on October 26, 1901: 
 
->The need of more ample fire protection was again evidenced yester­day, when the station barn was destroyed by fire. The thousand feet of hose with which the college is equipped is entirely in­adequate to reach a fire so distant from the water plugs as the one yesterday. The need of efficient fire drill was again evident, although good work was done considering the means at hand. We would suggest that if no other means can be found to make time for drilling fire companies, that a part of the men be excused from military -0rill to take regular training in fire drills and fire protection. Almost the entire loss by fire yesterday could have been obviated had there been plenty of apparatus and twenty men who knew how to use it. 
+>The need of more ample fire protection was again evidenced yester­day, when the station barn was destroyed by fire. The thousand feet of hose with which the college is equipped is entirely in­adequate to reach a fire so distant from the water plugs as the one yesterday. The need of efficient fire drill was again evident, although good work was done considering the means at hand. We would suggest that if no other means can be found to make time for drilling fire companies, that a part of the men be excused from military drill to take regular training in fire drills and fire protection. Almost the entire loss by fire yesterday could have been obviated had there been plenty of apparatus and twenty men who knew how to use it. 
 
 The following July the Board approved the expenditure of $900 "for ex­tension of water mains for fire protection at Station barn." 
 
@@ -119,9 +119,9 @@ The City of Ames was granted permission to erect a "hose house" on the southwest
 
 [^fn10]: Minutes, Nov. 1911
 
-Following the burning of the Armory in December 1922, the ISC Student expressed the need for and importance of providing a fire department station in the Fourth Ward. 
+Following the burning of the Armory in December 1922, the *ISC Student* expressed the need for and importance of providing a fire department station in the Fourth Ward. 
 
-On February 7, 1923, the Iowa State Student reported that additional precautions against fire damages had been taken by the college: 
+On February 7, 1923, the *Iowa State Student* reported that additional precautions against fire damages had been taken by the college: 
 
 >Approximately $1500 has been spent by Iowa State for new fire fighting equipment, part of which has already arrived on the campus and been put in place, according to Herman Knapp, college treasurer. 
 >
@@ -145,7 +145,7 @@ An item in the same paper two days later adds interest for the history of colleg
 
 Another piece of fire-fighting equipment was added in October of that same year, as recorded in the student paper for October 8, 1923: 
 
->Iowa State has a valuable addition to its fire fighting equipment in the form of a new chemical truck. This truck is an American­LaFrance type E body, mounted on a Ford one-ton chassis. 
+>Iowa State has a valuable addition to its fire fighting equipment in the form of a new chemical truck. This truck is an American-­LaFrance type E body, mounted on a Ford one-ton chassis. 
 >
 >This truck is painted with the official fire department red, with black and white finishing lines. The chassis is a one-ton Ford with a wheel-base of 124 inches, capable of making a speed of thirty-five miles per hour; 30 x 3 &frac12; pneumatic tires are used on the front wheels and 32 x 4 &frac12; on the rear. The tires are mounted on demountable rims. The body is constructed of light wood, reinforced with steel rods. An eight-inch locomotive bell is mounted on the dash. An ordinary Ford lighting system is used, two extra lanterns being included in the outfit. 
 >
@@ -155,7 +155,7 @@ Another piece of fire-fighting equipment was added in October of that same year,
 >
 >The piping system is so arranged that one large tank can be filled from the smaller containers while the other large tank is being discharged, and plain water can be pumped through the large hose, if the supply of chemicals runs out. Two three-gallon extinguishers complete the chemical apparatus. An axe, with a pick head, a 36-inch crowbar, one 20-foot extension ladder, with rapid hoisting device, and a 12-foot solid roof ladder with folding hooks make up the new equipment for getting at fires in out-of-the way places. 
 
-The Laundry and Chemical Truck Building (later known as the Electric and Paint Shop) was built in 1924 and became the headquarters for the college fire apparatus. In 1930 the Iowa State Student noted that it housed "the college fire truck, which is manned by five students staying at the building during the night and by one of the carpenters in the shop next door during classes." 
+The Laundry and Chemical Truck Building (later known as the Electric and Paint Shop) was built in 1924 and became the headquarters for the college fire apparatus. In 1930 the *Iowa State Student* noted that it housed "the college fire truck, which is manned by five students staying at the building during the night and by one of the carpenters in the shop next door during classes." 
 
 An agreement between the Ames fire department and the college was entered into by Board action on January 19, 1925. It follows: 
 
@@ -163,17 +163,17 @@ An agreement between the Ames fire department and the college was entered into b
 >
 >In case of fire in the Business district of the fourth ward (out­side of College campus) the college fire truck shall respond to the call. The truck shall be stationed at a point near enough the fire so that the Fire Chief can get hose from the truck or order our men to use the chemicals. Our fire truck and men shall be at call of the Chief for anything he may want of us up to our capacity. In case College truck should be at fire first, they can use chemicals until Fire Chief arrives, when he will take full charge and give our men orders how to proceed. Fire trucks have right of way on streets going to fire but not returning. 
 
-In 1931 a new approach was taken to protection of the campus buildings and those in the west part of Ames when it was agreed to build a fire station under the west stadium bleachers. Costs of the new construc­tion and maintenance and operation of the unit would be shared by the college and the city. This arrangement proved satisfactory and was con­tinued until the city built its new substation on Welch Avenue in the fall of 1966. The university contributed to its construction and con­tinues to make annual payments for its support. 
+In 1931 a new approach was taken to protection of the campus buildings and those in the west part of Ames when it was agreed to build a fire station under the west stadium bleachers. Costs of the new construc­tion and maintenance and operation of the unit would be shared by the college and the city. This arrangement proved satisfactory and was con­tinued until the city built its new substation on Welch Avenue in the fall of 1966. The university contributed to its construction and continues to make annual payments for its support. 
 
 Other fire protective steps have been taken to minimize danger to the campus community. Sprinkler systems have been installed, more fire hydrants have been placed about the campus, fire and smoke de­tectors and alarms have been put in a number of buildings and fire extinguishers have been generously located in all buildings. 
 
 ## FIRES 
 
-The gas house, which house4 the equipment providing lights in Old Main, was the site of several early-day fires. The 1897 Bomb records the following incident among the entries for 1875: 
+The gas house, which housed the equipment providing lights in Old Main, was the site of several early-day fires. The 1897 *Bomb* records the following incident among the entries for 1875: 
 
->One evening something was the matter with the gas meter. Prof. Thompson and Mr. Kimberly, with a lighted candle, went into the gas house. to see what was the trouble. It appeared that the gas meter was leaking and filled the room with gas which instantly took fire from the candle. For a moment they were enveloped in a sheet of flame. Their faces and hands were badly burned but under the care of college physician, Dr. Hutchins, they speedily re­covered. 
+>One evening something was the matter with the gas meter. Prof. Thompson and Mr. Kimberly, with a lighted candle, went into the gas house to see what was the trouble. It appeared that the gas meter was leaking and filled the room with gas which instantly took fire from the candle. For a moment they were enveloped in a sheet of flame. Their faces and hands were badly burned but under the care of college physician, Dr. Hutchins, they speedily re­covered. 
 
-The Aurora, in June 1881, reported that lightning caused a fire in the gas house, but with minimal damage. Another blaze there occurred just two years later. 
+The *Aurora*, in June 1881, reported that lightning caused a fire in the gas house, but with minimal damage. Another blaze there occurred just two years later. 
 
 In 1885 the hog barn was destroyed by fire. It was not replaced until 1891. 
 
@@ -183,26 +183,82 @@ A fire in one of the dormitory rooms in Main resulted in the loss of most of the
 
 Several fires not related to buildings were noted as having been caused from sparks from the railroad engine in the 1890's. 
 
-Major fires have destroyed several campus buildings. These are dis­cussed under the individual buildings but are tabulated here for quick 
-reference: 
->|Dec. 7, 1900 and Aug. 14, 1902 | Main |
-|Oct. 25, 1901 | Experimental Barn and Feeding Barn |
-|Jan. 5, 1912 | South Hall |
-|Jan. 31, 1912, 1922 Jan. 7, 1951, March 30, 1963 | The Gables |
-|March 25, 1913 | Chemical & Physical Laboratory |
-|Jan. 8, 1922 | Hog House |
-|Oct. 6, 1922 | Experiment Station Barn |
-|Dec. 16, 1922 | Armory (rebuilt) |
-|Oct. 7, 1931 | Cattle Barn (rebuilt) |
-|Aug. 16, 1935 | Dairy Barn & Feed Barn (on Dairy Farm -rebuilt) |
-|April 9, 1938 | Margaret Hall |
-|May 31, 1938 | Sheep Shed |
-|April 27, 1940 | Livestock Shelter (west of Brookside Park) |
-|March 31, 1941 | Davidson Hall (rebuilt) |
-|June 16, 1956 | Barn at Vet. Med. Research Institute |
-|Oct. 19, 1958 | Cattle Barn (eastwing) (rebuilt) |
-|March 5, 1959 | Sheep Barn |
-|Feb. 15, 1967 | Poultry House at Vet Med. Research Institute |
+Major fires have destroyed several campus buildings. These are dis­cussed under the individual buildings but are tabulated here for quick reference: 
+
+<table>
+ <tr>
+  <td>Dec. 7, 1900 and Aug. 14, 1902</td>
+  <td>Main</td>
+ </tr>
+ <tr>
+  <td>Oct. 25, 1901</td>
+  <td>Experimental Barn and Feeding Barn</td>
+ </tr>
+ <tr>
+  <td>Jan. 5, 1912</td>
+  <td>South Hall</td>
+ </tr>
+ <tr>
+  <td>Jan. 31, 1912, 1922, & Jan. 7, 1951, March 30, 1963</td>
+  <td>The Gables</td>
+ </tr>
+ <tr>
+  <td>March 25, 1913</td>
+  <td>Chemical & Physical Laboratory</td>
+ </tr>
+ <tr>
+  <td>Jan. 8, 1922</td>
+  <td>Hog House</td>
+ </tr>
+ <tr>
+  <td>Oct. 6, 1922</td>
+  <td>Experiment Station Barn</td>
+ </tr>
+ <tr>
+  <td>Dec. 16, 1922</td>
+  <td>Armory (rebuilt)</td>
+ </tr>
+ <tr>
+  <td>Oct. 7, 1931</td>
+  <td>Cattle Barn (rebuilt)</td>
+ </tr>
+ <tr>
+  <td>Aug, 16. 1935</td>
+  <td>Dairy Barn & Feed Barn (on Dairy Farm - rebuilt)</td>
+ </tr>
+ <tr>
+  <td>April 9, 1938</td>
+  <td>Margaret Hall</td>
+ </tr>
+ <tr>
+  <td>May 31, 1938</td>
+  <td>Sheep Shed</td>
+ </tr>
+ <tr>
+  <td>April 27, 1940</td>
+  <td>Livestock Shelter (west of Brookside Park)</td>
+ </tr>
+ <tr>
+  <td>March 21, 1941</td>
+  <td>Davidson Hall (rebuilt)</td>
+ </tr>
+ <tr>
+  <td>June 16, 1956</td>
+  <td>Barn at Vet. Med. Research Institute</td>
+ </tr>
+ <tr>
+  <td>Oct. 19, 1958</td>
+  <td>Cattle Barn (eastwing) (rebuilt)</td>
+ </tr>
+ <tr>
+  <td>March 5, 1959</td>
+  <td>Sheep Barn</td>
+ </tr>
+ <tr>
+  <td>Feb. 15, 1967</td>
+  <td>Poultry House at Vet. Med. Research Institute</td>
+ </tr>
+</table>
 
 Other fires, less damaging than those listed above, have occurred from time to time in campus buildings. A number of the fires resulted from assumed or suspected acts of arson, but no one was ever apprehended as responsible. 
 
