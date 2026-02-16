@@ -102,7 +102,7 @@ A completely new concept was introduced in 1954 when President James H. Hilton a
 >
 >Well, that is one of my dreams for the future. It probably will take years to complete it. You may think I am unrealistic, a dreamer, a visionary or just plain crazy. But may I say to you that I have already been called all those things and some other things, too, about this project, and if any of you feel that I should be discouraged in this venture you should think up some other terms -- because I am quite determined about this Center. 
 >
->Now seriously we cannot at this time plan on state appropriations for this type of building. It will take all the money we can hope to get in the immediate years ahead for classroom and labor­atory buildings to provide the necessary facilities for *increased* enrollments and expanded research programs. 
+>Now seriously we cannot at this time plan on state appropriations for this type of building. It will take all the money we can hope to get in the immediate years ahead for classroom and labor­atory buildings to provide the necessary facilities for <u>increased</u> enrollments and expanded research programs. 
 >
 >Funds for such a Center will have to come from some other source. I am hoping that somewhere, sometime, we might find an individual or individuals who will give us a large grant to start the project. Such buildings have been given to other state supported institu­tions and I cannot see why this institution -- one of the truly great education centers of the country -- should not try to se­cure things which will add culture and enjoyment and dignity to our total educational processes. In my books this is a Must. 
 
