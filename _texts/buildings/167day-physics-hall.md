@@ -32,7 +32,7 @@ An interesting aspect of the construction of this building was the making of bri
 
 >One of the features in the construction of the new Physics building is the use of cement brick which are being made on the job. 
 >
->The finishing brick used in the first 6 1/2 feet are of white cement and sand. This type of brick is much lighter than the clay brick and easier to handle, although they crack and break easily.
+>The finishing brick used in the first 6 &frac12; feet are of white cement and sand. This type of brick is much lighter than the clay brick and easier to handle, although they crack and break easily.
 >
 >For the upper part of the construction a buff brick is being made in which rock dust is used in place of sand and has proven very successful, the finished brick taking a fine lustre.
 > 
@@ -44,15 +44,15 @@ About a month later, on November 27, the paper reported:
 >
 >The most serious shortage is in brick layers. Two nine-hour shifts of laborers are working on the brick machines turning out about 2500 completed bricks every nine hours. Five hundred thousand of these bricks will be needed to complete the building.
 >
->With the exception of the facing brick for the inside walls, all the material for finishing the building is now on hand .... 
+>With the exception of the facing brick for the inside walls, all the material for finishing the building is now on hand... 
 
 The cornerstone for the building was laid on December 6, 1922, with President Pearson presiding at the ceremony. 
 
-By September "The 277 x 181 foot Physics building with its outside row of rooms practically completed, is the largest and most nearly complete building under construction on the Iowa State campus ...."[^fn1] 
+By September "The 277 x 181 foot Physics building with its outside row of rooms practically completed, is the largest and most nearly complete building under construction on the Iowa State campus..."[^fn1] 
 
 A general description of the building appeared in the student paper on November 23, 1923: 
 
->The new Physics building .... is now occupied, although it is not completely finished inside. It is located just east of the Chemistry and Science building. It is a one story construction, built of brick, and faced with Bedford limestone. The walls of the recitation rooms and laboratories are finished in gray and buff brick, the floor being concrete. The corridors are floored with red tile which was made by the ceramics department. The work was rushed during the summer so that the building would be ready for occupation during the fall quarter. It is said to be the best equipped physics building in the country. Each room has connections for alternating and direct electrical current, gas, water, and compressed air. Switchboards in various rooms are so arranged that apparatus can be connected to any of the various sources of current in the building. The heat is supplied from the college power plant, and is connected to the building by a new heating tunnel which joins the old one. A fully equipped machine shop is included in the building. Except for some work in the basement, and inside finishes the building is completed. The total cost of the building was $250,000, while new equipment valued at more than $50,000 will be installed. 
+>The new Physics building... is now occupied, although it is not completely finished inside. It is located just east of the Chemistry and Science building. It is a one story construction, built of brick, and faced with Bedford limestone. The walls of the recitation rooms and laboratories are finished in gray and buff brick, the floor being concrete. The corridors are floored with red tile which was made by the ceramics department. The work was rushed during the summer so that the building would be ready for occupation during the fall quarter. It is said to be the best equipped physics building in the country. Each room has connections for alternating and direct electrical current, gas, water, and compressed air. Switchboards in various rooms are so arranged that apparatus can be connected to any of the various sources of current in the building. The heat is supplied from the college power plant, and is connected to the building by a new heating tunnel which joins the old one. A fully equipped machine shop is included in the building. Except for some work in the basement, and inside finishes the building is completed. The total cost of the building was $250,000, while new equipment valued at more than $50,000 will be installed. 
 
 The instrument maker's shop was installed in 1930.[^fn2] Acoustic panels were installed in the large lecture hall in 1931.[^fn3] 
 
