@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-The first reference to this building appears in the Minutes of November 1-2, 1946, when "President Friley stated that the Federal Government probably would make funds available for an atomic research building, and that the Government had requested the Iowa State College to designate architects for the project." In January the Board was informed "that the United States Army had selected ....architects to design the Atomic Institute Building." 
+The first reference to this building appears in the Minutes of November 1-2, 1946, when "President Friley stated that the Federal Government probably would make funds available for an atomic research building, and that the Government had requested the Iowa State College to designate architects for the project." In January the Board was informed "that the United States Army had selected... architects to design the Atomic Institute Building." 
 
 In March 1947 a lease was executed for the building site, which had been determined the previous month. Bids for construction were received and the contract awarded in July 1947.[^fn1] In January 1948 the construction contract was modified to incorporate additional work: 
 
