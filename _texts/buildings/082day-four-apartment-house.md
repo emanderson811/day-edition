@@ -26,12 +26,12 @@ Construction was approved in June 1921. Presumably it was built by the Building 
 
 The Sept. 28, 1921, edition of the *Iowa State Student* makes this brief reference: 
 
->....new apartments have been provided for the engineers at the power plant. The apartment is located across the tracks, south of the plant. Room has been provided for four families. 
+>...new apartments have been provided for the engineers at the power plant. The apartment is located across the tracks, south of the plant. Room has been provided for four families. 
 
 
 The Board minutes for April 14, 1921, stated, "At least two apartments to have three rooms with bath and the other two or three rooms with bath." The minutes of the August 31-September 1, 1921, meeting added 
 
->....this building will be heated by steam from the Power Plant. Each apartment will have its own meter and occupants will pay for the heat on bills rendered ....similarly, occupants will pay for water and electric current. The rental to be collected each month will be twenty-five dollars for each of the two center apartments and twenty-seven dollars for each of the two end apartments .... 
+>...this building will be heated by steam from the Power Plant. Each apartment will have its own meter and occupants will pay for the heat on bills rendered ...similarly, occupants will pay for water and electric current. The rental to be collected each month will be twenty-five dollars for each of the two center apartments and twenty-seven dollars for each of the two end apartments... 
 
 In 1940, just before the construction of the Women's Gym was started, the building was moved to a site on the east side of Beech Avenue, just north of the intersection with Sunset Drive. The Biennial Report for the period ending June 30, 1940, reports the cost of moving the building was $604.68. 
 
