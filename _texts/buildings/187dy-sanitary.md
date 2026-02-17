@@ -21,7 +21,7 @@ publication-date: 1980
 
 Located about 200 feet northwest of the northwest corner of Memorial Union. 
 
-"Prominent among the urgent necessities I have mentioned, is a college hospital for sick students.... We believe that we could secure the College from the inroads of the various infections if we had the means of isolating the patient so that we could at once disinfect his room. A college hospital, which could be built at limited expense would thus enable us, in nearly all cases, to save the suffering, if not the lives, of the young people committed to our charge."[^fn1] 
+"Prominent among the urgent necessities I have mentioned, is a college hospital for sick students... We believe that we could secure the College from the inroads of the various infections if we had the means of isolating the patient so that we could at once disinfect his room. A college hospital, which could be built at limited expense would thus enable us, in nearly all cases, to save the suffering, if not the lives, of the young people committed to our charge."[^fn1] 
 
 Funds were made available in the following year, 1884, when plans were prepared and contract for construction was awarded at a cost of $4000. 
 
