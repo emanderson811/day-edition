@@ -24,7 +24,7 @@ In January, 1915, a request was made for $150,000 for the building and the follo
 
 Construction of the building started in the summer of 1921, with a budget of $72,000.[^fn2] It was described in the *Iowa State Student* on November 4, 1921: 
 
->The structure is to be a one-story brick building, 220 feet long by 180 feet wide, with a large court in the center and entrances at each end. At present this will house, mainly, the tractor and gas engine laboratory....work will be started some time later on the three-story building to be built directly in front of the laboratory in which the balance of the agricultural engineering work will be carried on. This will contain office and class rooms. 
+>The structure is to be a one-story brick building, 220 feet long by 180 feet wide, with a large court in the center and entrances at each end. At present this will house, mainly, the tractor and gas engine laboratory... work will be started some time later on the three-story building to be built directly in front of the laboratory in which the balance of the agricultural engineering work will be carried on. This will contain office and class rooms. 
 
 Construction was completed at the end of January 1922. 
 
@@ -40,7 +40,7 @@ Replacement funds were made available from the state in April 1941 and the firm 
 
 [^fn3]: Minutes, November 11, 1941 
 
-New bids, based on the revised plans, were received on December 29, 1941, and construction contracts were awarded  to  the low bidders,   as follows: [^fn4] 
+New bids, based on the revised plans, were received on December 29, 1941, and construction contracts were awarded to the low bidders, as follows: [^fn4] 
 
 | | |
 |---|---|
@@ -50,13 +50,13 @@ New bids, based on the revised plans, were received on December 29, 1941, and co
 
 The February l7, 1942, issue of the *Iowa State Daily Student* described the new plans: 
 
->The old building....will be replaced by a structure which will have a second story on the south wing. The rest of the new building will be similar to the old structure....with the second story addition adding approximately 20 percent more floor area to that of the old building. 
+>The old building... will be replaced by a structure which will have a second story on the south wing. The rest of the new building will be similar to the old structure... with the second story addition adding approximately 20 percent more floor area to that of the old building. 
 >
->The second story will contain four classrooms, two drafting laboratories, 10 offices, a seminar room and a graduate students' room. The first floor will include two large classrooms, nine offices, and storage rooms in the south wing. The west wing, least affected by the fire will remain practically the same as it was .... 
+>The second story will contain four classrooms, two drafting laboratories, 10 offices, a seminar room and a graduate students' room. The first floor will include two large classrooms, nine offices, and storage rooms in the south wing. The west wing, least affected by the fire will remain practically the same as it was... 
 >
->The east wing will be reconstructed, using the wall of the former building which was not destroyed in the fire. There will be five laboratories, a materials laboratory, farm mechanics laboratory, structural research and machinery research laboratory in the west wing as well as a carpenter shop and a farm mechanics shop. The open service court in the center of the building will be retained .... 
+>The east wing will be reconstructed, using the wall of the former building which was not destroyed in the fire. There will be five laboratories, a materials laboratory, farm mechanics laboratory, structural research and machinery research laboratory in the west wing as well as a carpenter shop and a farm mechanics shop. The open service court in the center of the building will be retained... 
 >
->The south wing will measure 189 by 42 feet. The whole building will be 226 feet deep. The building will have the same ground area and the foundations will remain the same with the exception of the south facade and the east and west ends of the south wing. As in the original building there will be no basement .... 
+>The south wing will measure 189 by 42 feet. The whole building will be 226 feet deep. The building will have the same ground area and the foundations will remain the same with the exception of the south facade and the east and west ends of the south wing. As in the original building there will be no basement... 
 
 Construction started the end of February 1942[^fn5] and was completed in time for the start of the fall quarter. 
 
