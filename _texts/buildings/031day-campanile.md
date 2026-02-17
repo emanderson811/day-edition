@@ -16,7 +16,7 @@ publication-date: 1980
 
 The idea of a bell tower was first expressed in a letter from Pro fessor E.W. Stanton to the Board of Trustees: 
 
->I have been informed by your committee of the action of the Board in giving to the new women's building the name of Margaret Hall .... Since the suggestion that the friends of the College desired it named in memory of Mrs. Stanton was mentioned to me there has grown up in my mind the desire to present to the building, if it were given her name, a chime of bells. I wish that I were able without injury to other interest to do this and bear myself all the expense connected therewith. There is, however, the question of a tower in which to place the bells and the purchase of a clock which generally goes with them. I desire that my offering shall be confined to the chimes themselves in order that they may be of a superior quality .... 
+>I have been informed by your committee of the action of the Board in giving to the new women's building the name of Margaret Hall... Since the suggestion that the friends of the College desired it named in memory of Mrs. Stanton was mentioned to me there has grown up in my mind the desire to present to the building, if it were given her name, a chime of bells. I wish that I were able without injury to other interest to do this and bear myself all the expense connected therewith. There is, however, the question of a tower in which to place the bells and the purchase of a clock which generally goes with them. I desire that my offering shall be confined to the chimes themselves in order that they may be of a superior quality... 
 
 The Board accepted the gift with deep appreciation and on the conditions proposed.[^fn1]
 
@@ -90,7 +90,7 @@ During the course of the next year the bells were cast and tuned by the same fir
 
 >Dedication of the new Stanton Carillon at the Iowa State College will be held on Sunday afternoon, Oct. 6, at 4 o'clock, with a concert played by Anton Brees, internationally known carillonneur.
 >
->This will be the first time the new bells will be heard and all Iowa is invited to listen to the program, which will be broadcast by the college radio station, WOI. This feature of the program has been arranged so that the program may be heard at other places about the campus and state, as well as in the vicinity of the Campanile....
+>This will be the first time the new bells will be heard and all Iowa is invited to listen to the program, which will be broadcast by the college radio station, WOI. This feature of the program has been arranged so that the program may be heard at other places about the campus and state, as well as in the vicinity of the Campanile...
 
 The new bells extended both ends of the range, the largest with a diameter of sixty-four inches, weighing 5737 pounds, and the smallest one with a weight of only 27 pounds. 
 
@@ -98,7 +98,7 @@ The clock dials were illuminated at night following their relocation in cojuncti
 
 On November 23, 1929, the editor could write: "Last night the campanile stood out again in the beauty it has held for 30 years. The lights are gone, permanently according to Herman Knapp, business manager." 
 
-In the spring of 1931 the question of lighting the tower came up again, and on May 14 the *Iowa State Student* reported that "The present plan.... is to flood the upper fourth of the Campanile with cardinal and gold, the school colors...." That plan died and nothing was done. 
+In the spring of 1931 the question of lighting the tower came up again, and on May 14 the *Iowa State Student* reported that "The present plan... is to flood the upper fourth of the Campanile with cardinal and gold, the school colors..." That plan died and nothing was done. 
 
 The senior class of 1934 voted to make their class gift the lighting of two dials of the clock. That would be internal light with translucent dials, thus making the clock legible at night. 
 
