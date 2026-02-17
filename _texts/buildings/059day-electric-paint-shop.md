@@ -28,7 +28,7 @@ The *Iowa State Student* of September 22, 1924, reported that the building has "
 
 >The plant has been made large enough to take care of all the college laundry, including the linen from the halls, the gymnasium towels, hospital materials, and, in fact, everything that belongs to the college which has a possibility of getting dirty. 
 >
->With the completion of the building, in which has been built a room for the college fire department, the three college fire fighters are planning to move the truck in soon....
+>With the completion of the building, in which has been built a room for the college fire department, the three college fire fighters are planning to move the truck in soon...
 
 The building was still serving the same functions in 1930.[^fn1] In 1958 the building is recorded as the "Electric Shop".
 
