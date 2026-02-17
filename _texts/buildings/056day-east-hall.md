@@ -43,11 +43,11 @@ The ISC Student, on Feb. 1, 1905, was able to report:
 
 In September 1905 the paper recorded that the building was complete and ready for use. The building is more fully described the following month: 
 
->....The outer walls of the building are of pressed brick, while the interior floors and walls of white tile, with the exception of a green border which extends about the upper part of rooms and hallways. The building is built fireproof throughout and everything is as sanitary as modern ideas can possibly make it. 
+>...The outer walls of the building are of pressed brick, while the interior floors and walls of white tile, with the exception of a green border which extends about the upper part of rooms and hallways. The building is built fireproof throughout and everything is as sanitary as modern ideas can possibly make it. 
 >
->One of the most important and interesting of the many new features to be found in the building is the new refrigerator machine, by which different rooms may be brought to the freezing point or below, as in the case of one room the temperature of which can be lowered to 10  below. There are four of these rooms for storing cheese and four for packing butter, the idea being to make certain tests as to the best temperature at which to store the above products .... 
+>One of the most important and interesting of the many new features to be found in the building is the new refrigerator machine, by which different rooms may be brought to the freezing point or below, as in the case of one room the temperature of which can be lowered to 10  below. There are four of these rooms for storing cheese and four for packing butter, the idea being to make certain tests as to the best temperature at which to store the above products... 
 >
->On the first floor is a cream-testing room, wash room, toilets, lunch room and a laboratory for bottling cream. The second floor is given over to the testing laboratories and offices, while the third floor is taken up almost entirely by the Bacteriology department. The fourth floor is to be left for some time, on account of the lack of sufficient funds. There are also two rooms on the third floor which will remain in an unfinished condition for some time for the same reason .... [^fn6] 
+>On the first floor is a cream-testing room, wash room, toilets, lunch room and a laboratory for bottling cream. The second floor is given over to the testing laboratories and offices, while the third floor is taken up almost entirely by the Bacteriology department. The fourth floor is to be left for some time, on account of the lack of sufficient funds. There are also two rooms on the third floor which will remain in an unfinished condition for some time for the same reason... [^fn6] 
 
 The Biennial Report for 1906-08 reports the total cost of the project as $71,921.81. Dedication of the building was held on January 4, 1907. [^fn7] 
 
