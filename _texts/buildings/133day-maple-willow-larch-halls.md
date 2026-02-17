@@ -19,7 +19,7 @@ publication-date: 1980
 
 Prior to the 1960's student housing provided by the institution had always clearly separated the men's and women's areas with the men located on the west side of the campus and the women on the east. The first recorded change in this policy is seen in the *IOWA STATE DAILY* on October 25, 1961, when it was reported: 
 
->Co-educational living facilities are among expansion projects presently being planned in preparation for 13,000 students anticipated to be enrolled at Iowa State University by 1969, .J.C. Schilletter, director of residence, revealed. 
+>Co-educational living facilities are among expansion projects presently being planned in preparation for 13,000 students anticipated to be enrolled at Iowa State University by 1969, J.C. Schilletter, director of residence, revealed. 
 >
 >One thousand, two hundred men from one residence hall will share common dining, study and recreation facilities with 200 women from another hall by 1966, Schilletter said. These residence halls will be located on the intramural field at Lincolnway and Beech Avenue.
 
@@ -43,7 +43,7 @@ The third tower, Larch Hall, was redesigned to some extent to modify it for use 
 
 [^fn1]:  Minutes, August 5-7,  1964  
 
-[^fn2]:  Iowa State Daily, July 29 and  September 10,  1965  
+[^fn2]:  Iowa State Daily, July 29 and September 10,  1965  
 
 [^fn3]:  Ibid.  February 8,  1966  
 
