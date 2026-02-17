@@ -76,7 +76,7 @@ A cinder track was installed on the ground floor level in December 1915.[^fn10]
 
 In the fall of 1918 the gym became the dining hall for the army recruits on the campus. On October 1 the *Iowa State Student* recorded that 
 
->The Dining hall.... occupies the whole bottom floor of the big men's gymnasium and will accommodate 2,500 men in an hour. The dirt track, vaulting pits, and other obstacles have all been removed, and in their place rests a floor containing no less than forty-four mess tables. The former brick walls have been whitened, making the big room more sanitary and clean.
+>The Dining hall... occupies the whole bottom floor of the big men's gymnasium and will accommodate 2,500 men in an hour. The dirt track, vaulting pits, and other obstacles have all been removed, and in their place rests a floor containing no less than forty-four mess tables. The former brick walls have been whitened, making the big room more sanitary and clean.
 
 Two weeks later the paper reported that the gymnasium was one of a number of buildings fitted up as a hospital for use during that fall's influenza epidemic. 
 
