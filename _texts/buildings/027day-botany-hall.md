@@ -41,7 +41,7 @@ By 1897 there had been noticeable floor settlement and considerable amounts of p
 
 A new Farm Mechanics and Soil Physics Building was constructed as an addition on the north side of Agricultural Hall in 1903. The Biennial Report for 1902-03 reported: 
 
->The Farm Mechanics Building is strongly constructed and admirably well adapted to its purpose ....It is 60 x 100 feet in size and four stories high, will be occupied by the new department of farm mechanics. The building is of brick and steel, and fire proof throughout.
+>The Farm Mechanics Building is strongly constructed and admirably well adapted to its purpose... It is 60 x 100 feet in size and four stories high, will be occupied by the new department of farm mechanics. The building is of brick and steel, and fire proof throughout.
 >
 >On the first floor will be a private workshop for the repair of farm machinery for the College farm. There will be also a student's blacksmith shop, and a place for study and operation of farm motors such as gas engines, steam traction engines, etc. On the balcony of this floor will be carpenter shops for students of this department.
 >
