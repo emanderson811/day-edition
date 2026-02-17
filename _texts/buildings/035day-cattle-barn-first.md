@@ -22,7 +22,7 @@ By 1865 the developing operations on the farm made some changes necessary. The F
 
 >Your committee would recommend that some improvement be made on the barn to accomidate [sic] the stock we would suggest that lean be put to the barn on three sides, and that there should be a root cellar under the barn. A light board fence has been built around the back barnyard and it is contemplated to put a good substantial fence around the front door of the barn.[^fn2]
 
-Superintendent Robinson submitted to the Board that he "had the Barn raised two feet and built the cellar wall up to the sills ... fitted stalls for horses and cattle which is nearly completed ....at a cost already of $217.11. Estimated to finhh it $20.00."[^fn3] 
+Superintendent Robinson submitted to the Board that he "had the Barn raised two feet and built the cellar wall up to the sills... fitted stalls for horses and cattle which is nearly completed ...at a cost already of $217.11. Estimated to finhh it $20.00."[^fn3] 
 
 [^fn1]: Third Annual Report of the Secretary, February 6, 1862 
 
