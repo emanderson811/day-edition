@@ -316,17 +316,17 @@ Concrete benches were provided by the class of 1916. The exact num­ber original
 
 At commencement on June 6, 1917, groups of trees on the central camp­us were dedicated to six highly respected former faculty members: Dr. A.S. Welch, Dr. William M. Beardshear, Dr. Seaman A. Knapp, Dr. Charles E. Bessey, Dr. Millikan Stalker and Prof. J.L. Budd. A seventh man, Dr. LaVerne Noyes, was also honored by having Lake La­Verne and trees at its west end dedicated to his memory. Another group of trees was dedicated to Dr. Edgar W. Stanton on June 10, 1923. The boulders and bronze tablets marking the tree groups were placed in the spring of 1925. 
 
-Three more sites were marked with bronze tablets in 1927. One marks the site where a picnic was held on July 4, 1859, celebrating the acquisition of the land for the new college. It is on the north side of Pammel Drive and south of the southwest corner of the Communica­tions Building. The second marker is in honor of W.T. Hornaday and his work as a zoologist and conservationist. The third tablet was placed at the Farmhouse where it incorrectly identifies that as "the site of the old tavern and trail through Story County in pioneer days." See discussion of Farmhouse. 
+Three more sites were marked with bronze tablets in 1927. One marks the site where a picnic was held on July 4, 1859, celebrating the acquisition of the land for the new college. It is on the north side of Pammel Drive and south of the southwest corner of the Communica­tions Building. The second marker is in honor of W.T. Hornaday and his work as a zoologist and conservationist. The third tablet was placed at the Farmhouse where it incorrectly identifies that as "the site of the old tavern and trail through Story County in pioneer days." ([See discussion of Farmhouse](https://emanderson811.github.io/day-edition/texts/buildings/070day-farm-house/)) 
 
 The classes of 1920 through 1923 joined in funding the construction of the columns at the west entrance to the campus at Sheldon Avenue and Union Drive. The adjacent gates to Clyde Williams Field were the gift of W.G. Lane '09 in 1938. 
 
-The, largest memorial on the campus is the Memorial Union which is separately discussed in the section on buildings. Various class and other gifts have been made to the interior of the building. The Scotch pines to the south of the building are dedicated to the men whose lives were lost in World War I. 
+The largest memorial on the campus is the Memorial Union which is separately discussed in the section on buildings. Various class and other gifts have been made to the interior of the building. The Scotch pines to the south of the building are dedicated to the men whose lives were lost in World War I. 
 
 A bronze tablet "In memory of Benjamin F. Gue, founding farther of Iowa State College, March 22, 1858" was given by the class of 1923. It is in the northwest section of central campus. 
 
 Two granite benches flanking the east doorway of the Library were the gift of the class of 1906 on that class' 50th anniversary. Three granite benches in the north part of central campus mark the 50th an­niversary contribution of the class of 1910. 
 
-A bronze tablet and associated grove of trees was dedicated to the memory of Henry Cantwell Wallace 1 92, in 1929. 
+A bronze tablet and associated grove of trees was dedicated to the memory of Henry Cantwell Wallace '92, in 1929. 
 
 A marker on a boulder on the north side of Lake LaVerne reads: 
 
@@ -338,7 +338,7 @@ The contribution of Iowa State and Dr. H.F. Spedding to the develop­ment of ura
 
 The MacDonald Forest (or Woods), a seven-acre tract on the east side of the Skunk River about a half mile north of 13th Street, was do­nated to the college in 1954 by the alumni of the forestry depart­ment in memory of the former head of that department, Professor G.B. MacDonald. 
 
-In recognition of the on~ hundredth anniversary of the founding of the college the class of 1958 made a special presentation. This was called a 11 time capsule" --a copper box filled with current letters and publications about the centennial and ongoing activities. The box, encased in concrete below a granite bench inscribed "Class of 1958" is on the south side of the front steps to Beardshear Hall. A plaque on the concrete under the bench reads: 
+In recognition of the one hundredth anniversary of the founding of the college the class of 1958 made a special presentation. This was called a "time capsule" -- a copper box filled with current letters and publications about the centennial and ongoing activities. The box, encased in concrete below a granite bench inscribed "Class of 1958" is on the south side of the front steps to Beardshear Hall. A plaque on the concrete under the bench reads: 
 
 >On the 100th anniversary of Iowa State the class of 1958 has here below sealed historical documents to be opened by the class of 2058. 
 
@@ -354,11 +354,11 @@ The early history of post offices and mail service on campus is not well documen
 
 For the balance of the nineteenth century the only post office was in Ames. Mail was received at the Ames office and delivered to the college by horse-drawn vehicle. 
 
-In May 1889 the Board moved to request the Post Office Department to establish a post office on the campus, and that fall requested an appropriation of $800 for an addition to the (English) Office Build­ing "for accommodation of Post Office, to furnish committee r.ooms and college guest rooms". 
+In May 1889 the Board moved to request the Post Office Department to establish a post office on the campus, and that fall requested an appropriation of $800 for an addition to the (English) Office Build­ing "for accommodation of Post Office, to furnish committee rooms and college guest rooms". 
 
-Presumably prior to construction of that addition all mail had been delivered to Main. The Biennial Report for 1890-91 records that "Our present room for post-office, book room for students, etc., is in an out-of-the-way place, and entirely too small, so that it should be changed at the earliest convenience. 11 That space in the Office Building was referred to as the post office but it was not yet an official postal sub-station. 
+Presumably prior to construction of that addition all mail had been delivered to Main. The Biennial Report for 1890-91 records that "Our present room for post-office, book room for students, etc., is in an out-of-the-way place, and entirely too small, so that it should be changed at the earliest convenience." That space in the Office Building was referred to as the post office but it was not yet an official postal sub-station. 
 
-When the Ames and College railway started operation in the fall of 1891 that company was granted the franchise to carry mail and express destined to and from the college. The station (Rub) built for the rail line the following year included facilities for the post office and an express office as well as the waiting room for passengers. 
+When the Ames and College railway started operation in the fall of 1891 that company was granted the franchise to carry mail and express destined to and from the college. The station (Hub) built for the rail line the following year included facilities for the post office and an express office as well as the waiting room for passengers. 
 
 In 1903 the first official sub-station, known as College Station or Station A, was established by agreement between the Post Office De­partment and the College. It began operation on June 1, with Clayton Paxton, a former student, in charge. 
 
@@ -368,11 +368,11 @@ Later that same year the Board authorized the initiation of messenger services i
 
 Compensation for messenger service was increased in 1909, to author­ize payment to the mail boy of "30 cents per day for July and August and 40 cents per day during the remainder of the year". 
 
-In 1904 the ISC Student noted that the "Dinkey" no longer carries the college mail. "It is now hauled to and from college by a team." 
+In 1904 the *ISC Student* noted that the "Dinkey" no longer carries the college mail. "It is now hauled to and from college by a team." 
 
-When the statipn was moved in 1908 to its location west of Morrill Hall the paper reported "It is now thoroughly rearranged inside giving much more room to the bookstore and the post office. II 
+When the station was moved in 1908 to its location west of Morrill Hall the paper reported "It is now thoroughly rearranged inside giving much more room to the bookstore and the post office."
 
-By 1915 Station A was feeling growing pains as reported in an article dated January 23 in the Iowa State Student: 
+By 1915 Station A was feeling growing pains as reported in an article dated January 23 in the *Iowa State Student:*
 
 <p style="text-align: center;">WANTED--A NEW POST OFFICE</p> 
 
