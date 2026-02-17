@@ -20,7 +20,7 @@ Authorization for the purchase of library stacks for the building was given at t
 
 *The Daily Iowa State Student* reported on May 17, 1940: 
 
->Construction has begun on a $9,000 storehouse for least-used library books to be located north of the Insectary. The warehouse will accommodate two stack levels of 80,000 volumes each .... ....Work on the building is being done by WPA laborers under the supervision of B.H. Platt, superintendent of buildings and grounds. 
+>Construction has begun on a $9,000 storehouse for least-used library books to be located north of the Insectary. The warehouse will accommodate two stack levels of 80,000 volumes each... Work on the building is being done by WPA laborers under the supervision of B.H. Platt, superintendent of buildings and grounds. 
 
 [^fn1]: Minutes, April 5, 1940 
 
