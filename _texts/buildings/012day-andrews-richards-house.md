@@ -20,11 +20,11 @@ This third duplex house for Home Management had been considered even before the 
 
 Construction started in September 1955 and was completed a year later in time for the opening of the fall quarter. The September 22, 1956, *Iowa State Daily* reported: 
 
->This duplex includes several economy measures such as no fire places in the living rooms, but one fireplace in the single recreation room to be used by both groups, and a classroom, which is in a new idea, to be used by the group for studying and by the department as an extra classroom....
+>This duplex includes several economy measures such as no fire places in the living rooms, but one fireplace in the single recreation room to be used by both groups, and a classroom, which is in a new idea, to be used by the group for studying and by the department as an extra classroom...
 >
 >Among the many objectives of the home management program is to help the home economics student get an integrated view of home making responsibilities and to learn to make decisions on how to use time, money, and other resources to accomplish desired goals." 
 
-In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900' s editor of the AHEA journal. [^fn3] 
+In September 1957 the house name was changed from Duplex "C" to Ellen H. Richards house, named for the first president of the American Home Econmics Association. In December 1962 the east unit retained the name and the west unit became the Benjamin R. Andrews House, named for the early 1900's editor of the AHEA journal. [^fn3] 
 
 [^fn1]:  Minutes, October 14-15, 1954  
 
