@@ -22,7 +22,7 @@ The Board Minutes for December 10; 1929, record this recommendation by President
 
 There is no further reference to the structure in the Board Minutes but a thesis of 1954 gives some added information: 
 
->....  an experimental concrete culvert, discarded by the Engineering Experiment Station, was placed at the disposal of the Visual Instruction Service. The culvert was located in the space now occupied by the Naval Reserve Officers' Training Corps Building on the western part of the campus and motion picture films were safely stored in that structure.[^fn1] 
+>...an experimental concrete culvert, discarded by the Engineering Experiment Station, was placed at the disposal of the Visual Instruction Service. The culvert was located in the space now occupied by the Naval Reserve Officers' Training Corps Building on the western part of the campus and motion picture films were safely stored in that structure.[^fn1] 
 
 The Financial Report first included Film Storage, at a valuation of $500, in the list of buildings in the 1934 edition. It was finally written off in 1948, although the structure was undoubtedly removed or razed in 1942 when construction of the Naval Armory was started. 
 
