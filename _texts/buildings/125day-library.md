@@ -48,7 +48,7 @@ The building was first opened (in part) for use on January 6, 1925. Moving of bo
 
 As early as 1928 the Library had reached the point where additional stack space was needed.[^fn6] Although the request for an addition was repeated in subsequent biennia, it was 1959 before funds for it were appropriated. 
 
-The Grant Wood murals in the Library came into being during the Great Depression of the 1930's. At the December 12, 1933, Board meeting "President Hughes reported that he had recommended to the Civil Works Administration that a mural by Grant Wood be made for the library at Iowa State College at a cost of approximately $1400.00 for labor and $600.00 for materials and supplies...." The scope of the project, as approved by the CWA was provided in the January 3, 1934, issue of the *Iowa State Student*: 
+The Grant Wood murals in the Library came into being during the Great Depression of the 1930's. At the December 12, 1933, Board meeting "President Hughes reported that he had recommended to the Civil Works Administration that a mural by Grant Wood be made for the library at Iowa State College at a cost of approximately $1400.00 for labor and $600.00 for materials and supplies..." The scope of the project, as approved by the CWA was provided in the January 3, 1934, issue of the *Iowa State Student*: 
 
 [^fn2]:  Iowa State Student,  October  30, 1922  
 
