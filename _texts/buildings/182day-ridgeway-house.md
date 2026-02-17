@@ -18,7 +18,7 @@ This house, located at 128 Lynn Avenue, was apparently rented in 1938 when, on S
 
 The College purchased the building (and site) in July 1941.[^fn1] On September 23 of that year the student paper reported: 
 
->A nameless dormitory, which has been in turn, a fraternity, a hotel, a rooming house, and a temporary shelter for a burned-out fraternity, will house 29 Iowa State women this fall. The most common name for the edifice is Gladstone Hotel, but it will have a new name when the women move in, for theirs is the task of choosing a name.... the building was completely redecorated, inside and out.... 
+>A nameless dormitory, which has been in turn, a fraternity, a hotel, a rooming house, and a temporary shelter for a burned-out fraternity, will house 29 Iowa State women this fall. The most common name for the edifice is Gladstone Hotel, but it will have a new name when the women move in, for theirs is the task of choosing a name... the building was completely redecorated, inside and out... 
 
 Schilletter tells that the name Ridgeway was the choice of the new occupants.[^fn2] In 1942 it housed men, but in 1943 again became a women's residence. 
 
