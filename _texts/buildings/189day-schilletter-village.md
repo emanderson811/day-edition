@@ -16,7 +16,7 @@ publication-date: 1980
 
 More married student housing units to the north of University Village were originally contemplated as Phase III of that project. In 1969 a revised project description was presented to the Board: 
 
->....it was deemed desirable to introduce a different type of unit in order to avoid a monotonous appearance by too frequent repetition of the same type of structure. A new building type was, therefore, designed consisting of 12 units with 4 units on each of 3 floors; ... [^fn1] 
+>...it was deemed desirable to introduce a different type of unit in order to avoid a monotonous appearance by too frequent repetition of the same type of structure. A new building type was, therefore, designed consisting of 12 units with 4 units on each of 3 floors... [^fn1] 
 
 That plan was abandoned, and after erection of a trial prefabricated four-plex unit at the Swine Nutrition Farm had proved satisfactory it was decided to use that type of structure for the next married student housing project. 
 
