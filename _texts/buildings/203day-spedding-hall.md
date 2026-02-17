@@ -22,6 +22,6 @@ During the same meeting the Board authorized negotiations for a new 99 year leas
 
 Construction started in the spring of 1949. On September 25, 1951, the *Iowa State Daily* reported: 
 
->Occupancy of the new research building of the Ames Laboratory, Atomic Energy Commission, at Iowa State will begin this week .... Construction of the two million dollar building has been completed ....Administrative personnel who have already moved into the building are members of the A.E.C. Area Office, the Receiving Department, the Medical Sections, and the Personnel and Security Division. The Technical Information Services, with the document library, expect to occupy new quarters on the second floor, possibly by Sept. 20. 
+>Occupancy of the new research building of the Ames Laboratory, Atomic Energy Commission, at Iowa State will begin this week... Construction of the two million dollar building has been completed ...Administrative personnel who have already moved into the building are members of the A.E.C. Area Office, the Receiving Department, the Medical Sections, and the Personnel and Security Division. The Technical Information Services, with the document library, expect to occupy new quarters on the second floor, possibly by Sept. 20. 
 
 The name "Frank H. Spedding Hall" was assigned to the building at the Board meeting of June 28-30, 1973.
