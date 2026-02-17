@@ -35,7 +35,7 @@ The building was described in the *I.S.C. Student* on March 28, 1910:
 
 >The Domestic Technology Building for which ground was broken a few weeks ago is to be 56 feet by 181 feet, and 42 feet in height. It is to have three floors. The first or basement story is 11 feet high, and will contain reading rooms, locker room, laundry and recitation room. The second story is 13 feet high and will contain offices, sewing laboratory, and textile room. The third story is 12 feet high and will contain foods laboratory, dining rooms, reception room and the domestic art department. There will be a toilet room on each floor. 
 >
->The outside walls are to be of Acme red faced bricks, trimmed with dark pavers. All other trimmings not of dark pavers are to be of terracotta. The plans call for a forced system of Ventilation.... 
+>The outside walls are to be of Acme red faced bricks, trimmed with dark pavers. All other trimmings not of dark pavers are to be of terracotta. The plans call for a forced system of Ventilation... 
 >
 >One feature new at I.S.C. is in the concrete floors. They are 11 inches thick and supported by reinforced concrete beams. 
 
