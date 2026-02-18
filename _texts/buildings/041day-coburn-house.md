@@ -28,7 +28,7 @@ A water line to the house was authorized in 1896. In 1900 permission was granted
 
 In August of 1920 the house was remodeled for use as a Home Economics Division practice cottage. Five years later it was moved to an area north of the Physics Building, approximately at the west end of today's Metallurgy Building. Also, in 1925 the name Mary B. Welch Home Management House was adopted, but in 1928 the name was changed to Gertrude Coburn Home Management House. 
 
-The Coburn Rouse, along with the Bevier House, were moved again in 1947 when Metallurgy Building was about to be built. Moving and repairing of the two houses came to $24,085, paid from Atomic Energy Commission funds as part of the cost of the new building [(Metallurgy)](https://emanderson811.github.io/day-edition/texts/buildings/141day-metallurgy/).[^fn2]
+The Coburn House, along with the Bevier House, were moved again in 1947 when Metallurgy Building was about to be built. Moving and repairing of the two houses came to $24,085, paid from Atomic Energy Commission funds as part of the cost of the new building [(Metallurgy)](https://emanderson811.github.io/day-edition/texts/buildings/141day-metallurgy/).[^fn2]
 
 The house continued to serve the Home Management function until the fifties when new buildings for that use were built on Richardson Court. 
 
