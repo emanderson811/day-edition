@@ -19,7 +19,7 @@ A capital appropriation request of $5000 for this building was not allowed in 19
 
 The following spring the student paper reported on the work under way, referring to its being under construction on April 11 and expected to be completed in May.[^fn2] It was then described: 
 
->The new addition is to be a storage shed for machinery that is being stored in various places at present. It will be open on the east. The brick work is the same as that of the present building. The construction is of special interest to the depart ment because the bricks are backed up by a type of cement block that was developed in the department.
+>The new addition is to be a storage shed for machinery that is being stored in various places at present. It will be open on the east. The brick work is the same as that of the present building. The construction is of special interest to the department because the bricks are backed up by a type of cement block that was developed in the department.
 
 Since it was first built dividing partitions have been installed and doors added for better weather protection. 
 
