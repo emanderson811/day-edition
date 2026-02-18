@@ -16,9 +16,9 @@ publication-date: 1980
 
 Built south of Old Main, west of English Office Building. 
 
-When Old Main was largely destroyed by fire in December, 1900, it be came immediately necessary to provide new classroom space. On December 21 the State Executive Council appropriated $10,000 for a temporary building. A contract was awarded to H,W. Schleuter on January 3, 1901, for $8000.[^fn1] Work was completed in March and a contemporary account describes the activity: 
+When Old Main was largely destroyed by fire in December, 1900, it became immediately necessary to provide new classroom space. On December 21 the State Executive Council appropriated $10,000 for a temporary building. A contract was awarded to H.W. Schleuter on January 3, 1901, for $8000.[^fn1] Work was completed in March and a contemporary account describes the activity: 
 
->One bright morning, early in the new year, forty men gathered on the spot west of the president's office, and by night the foundation for a new building had sprung up. The next day, and still the next, was the work continued -- each day with a crowd of men that reminded the interested spectators of a raising bee in "ye olden times", when all of the neighbors came from miles around to lend a helping hand, Finally, at the end of thirty days, a long, low building was the latest addition to the campus. Almost immediately it was christened Emergency Hall; but it has since heen re-christened and nicknamed until almost any strange name is supposed to belong to it. To those who still retain a trace of the "blanket stage" it is known as "The wigwam", while others call it "Prexie's greenhouse". 
+>One bright morning, early in the new year, forty men gathered on the spot west of the president's office, and by night the foundation for a new building had sprung up. The next day, and still the next, was the work continued -- each day with a crowd of men that reminded the interested spectators of a raising bee in "ye olden times", when all of the neighbors came from miles around to lend a helping hand, Finally, at the end of thirty days, a long, low building was the latest addition to the campus. Almost immediately it was christened Emergency Hall; but it has since been re-christened and nicknamed until almost any strange name is supposed to belong to it. To those who still retain a trace of the "blanket stage" it is known as "The wigwam", while others call it "Prexie's greenhouse". 
 
 [^fn1]: Minutes, January 1901 
 
@@ -32,7 +32,7 @@ Mr. Schleuter's bill for $8200 was approved by the Board on March 13, 1901.
 
 When the second fire completely destroyed Old Main in August 1902 it became necessary to add more classrooms to Emergency Hall. Quick action followed with award of a contract to Schleuter for $4675 for eight classrooms and an additional $150 to include two offices.[^fn3] The *ISC Student* for Sept. 13, 1902 reported: 
 
->An addition consisting of six large recitation rooms has been added to Emergency Hall and will be ready for occupancy about the first of the week. The west end of the huilding has been extended and now reaches within thirty feet of the Physics Building. The building as it now stands is about 270 feet long. Fortunately, the heating plant at the west end of Old Main was not damaged by the fire and Morrill Hall and all of Emergency Hall will be heated from the old plant.
+>An addition consisting of six large recitation rooms has been added to Emergency Hall and will be ready for occupancy about the first of the week. The west end of the building has been extended and now reaches within thirty feet of the Physics Building. The building as it now stands is about 270 feet long. Fortunately, the heating plant at the west end of Old Main was not damaged by the fire and Morrill Hall and all of Emergency Hall will be heated from the old plant.
 
 [^fn2]: ISC Student, March 2, 1901 
 
