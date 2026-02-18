@@ -16,7 +16,7 @@ publication-date: 1980
 
 The structure referred to as Film Storage is very meagerly documented and the dates shown are rather uncertain. 
 
-The Board Minutes for December 10; 1929, record this recommendation by President Hughes, which was approved: 
+The Board Minutes for December 10, 1929, record this recommendation by President Hughes, which was approved: 
 
 >A large number of celluloid films, which are distributed to the schools and colleges of the State by the Department of Visual Instruction, are housed in the Engineering Building. During the last two years, there have been several very serious fires, destructive to both property and lives, which originated in the room in which films were stored. We feel that we must immediately erect a small building, either in the form of a cellar or of an isolated structure on the campus, at an estimated cost of $2000 or $3000 for the housing of films. 
 
@@ -28,4 +28,4 @@ The Financial Report first included Film Storage, at a valuation of $500, in the
 
 [^fn1]: Williams, 1954 
 
-Harold Kooser, long-time director of Visual Instruction, once told this writer about the "culvert" storage stucture and its location, but he made no mention of a relocation to another site.
+Harold Kooser, long-time director of Visual Instruction, once told this writer about the "culvert" storage structure and its location, but he made no mention of a relocation to another site.
