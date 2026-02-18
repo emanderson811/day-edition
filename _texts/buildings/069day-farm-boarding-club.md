@@ -25,7 +25,7 @@ The Horticulture Department expressed the need for a "garden-house" as early as 
 
 The building did not become a reality until the summer of 1878. The 17th General Assembly had appropriated $2500 for the building but those funds would not be available until January 1, 1879. Professor J.L. Budd loaned the College $2500 (at 8% interest) on July 1, 1878 and construction of the building was possible that summer. That amount was only 42% of the estimated $6000 requested. The result is summarized in the 8th Biennial Report (1878-79): 
 
->This reduction compelled the commnittee to plan a cheap wooden structure for class room, office, seed room, specimen room, store room, with attached propagating pits, grafting room, etc., of restricted size and cheap construction. In carrying out these modest plans, neither creditable to the College nor the State, the appropriation would still have been inadequate had not firms, in Clinton, Iowa, generously furnished the lumber, doors, sash, etc. at prices below dealers rates. Active completion also permitted letting contracts for labor at hard time prices.
+>This reduction compelled the committee to plan a cheap wooden structure for class room, office, seed room, specimen room, store room, with attached propagating pits, grafting room, etc., of restricted size and cheap construction. In carrying out these modest plans, neither creditable to the College nor the State, the appropriation would still have been inadequate had not firms, in Clinton, Iowa, generously furnished the lumber, doors, sash, etc. at prices below dealers rates. Active completion also permitted letting contracts for labor at hard time prices.
 
 The total expenditures came to $2500.
 
@@ -37,15 +37,24 @@ In 1894, after the Horticulture department had moved to the new Agriculture Hall
 
 Whether it was actually used for this purpose is uncertain. In 1908 the suggestion was made that it "be moved to some obscure location and used as a detention hospital." [^fn1]
 
-The old building remained in place until 1915 when it was moved to the south side of what is now called Wallace Road at the west end of the new addition to the Women's Gym. It was the westernmost of the five frame buidings in the group of five "employees' cottages" moved or built there between 1915 and 1924. 
+The old building remained in place until 1915 when it was moved to the south side of what is now called Wallace Road at the west end of the new addition to the Women's Gym. It was the westernmost of the five frame buildings in the group of five "employees' cottages" moved or built there between 1915 and 1924. 
 
 It was used as an employees' boarding house for some years thereafter. Later it was an employees residence. 
 
-| | |
-|--|--|
-|Edgar P. Swanson|1945-1953| 
-|Dwight Evans|1954-| 
-|Leon Halterman|1962-1970|
+<table>
+  <tr>
+    <td>Edgar P. Swanson</td>
+    <td>1945 - 1953</td>
+  </tr>
+  <tr>
+    <td>Dwight Evans</td>
+    <td>1954 - </td>
+  </tr>
+  <tr>
+    <td>Leon Halterman</td>
+    <td>1962 - 1970</td>
+  </tr>
+</table>
 
 It was razed in 1970 to make way for the Gymnasium addition.
 
