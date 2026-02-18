@@ -19,7 +19,7 @@ publication-date: 1980
 
 The Twenty-Ninth General Assembly (1901-03) had provided a one-fifth mill tax levy for capital improvements at the college. The Board of Trustees, in September of 1902, held lengthy discussions on priority of construction for a new central building and a new hall for agriculture. The final decision resulted in postponement of the new Agricultural Hall until after Central Building had been built.[^fn1] 
 
-The architect was retained in November 1904. The following year, in December, plans were approved. At the same time it was agreed to ask Olmstead Brothers, landscape architects; to recommend the site for the building. [^fn2] 
+The architect was retained in November 1904. The following year, in December, plans were approved. At the same time it was agreed to ask Olmstead Brothers, landscape architects to recommend the site for the building. [^fn2] 
 
 Bids were first received in February 1906, but they proved to be too high. Plans were then revised and new bids taken in August, and a contract for general construction was awarded to H.W. Schleuter in the amount of $212,000. This aid not include the "assembly hall" east wing of the building.[^fn3] 
 
