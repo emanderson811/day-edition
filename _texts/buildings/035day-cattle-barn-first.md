@@ -16,13 +16,13 @@ publication-date: 1980
 
 As important as the Farm House to initiating operations of the college farm was the need for shelter for animals and feed. Plans for the barn were provided at the same time as those for the house by Milens Burt. It can be assumed that work was carried on simultaneously in the construction of the house and the barn, but the barn was completed earlier. It was described in the Annual Report of 1862[^fn1] as follows: 
 
->There is an excellent frame barn completed 42 x 60 feet, upon a gentle slope of ground, with underground stables, built with heary stone walls on three sides, eight feet high, 16 foot posts, with floor lengthwise, so that any length can be added at the south end. 
+>There is an excellent frame barn completed 42 x 60 feet, upon a gentle slope of ground, with underground stables, built with heavy stone walls on three sides, eight feet high, 16 foot posts, with floor lengthwise, so that any length can be added at the south end. 
 
 By 1865 the developing operations on the farm made some changes necessary. The Farm Committee reported to the Trustees that 
 
 >Your committee would recommend that some improvement be made on the barn to accomidate [sic] the stock we would suggest that lean be put to the barn on three sides, and that there should be a root cellar under the barn. A light board fence has been built around the back barnyard and it is contemplated to put a good substantial fence around the front door of the barn.[^fn2]
 
-Superintendent Robinson submitted to the Board that he "had the Barn raised two feet and built the cellar wall up to the sills... fitted stalls for horses and cattle which is nearly completed ...at a cost already of $217.11. Estimated to finhh it $20.00."[^fn3] 
+Superintendent Robinson submitted to the Board that he "had the Barn raised two feet and built the cellar wall up to the sills... fitted stalls for horses and cattle which is nearly completed ...at a cost already of $217.11. Estimated to finish it $20.00."[^fn3] 
 
 [^fn1]: Third Annual Report of the Secretary, February 6, 1862 
 
