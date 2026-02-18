@@ -18,7 +18,7 @@ Located in the space between the wings of Old Main directly adjacent to the fron
 
 When a new steam heating plant was to be installed in Old Main, it became necessary to provide housing for the boilers. Haxton Steam Heating Co. of Kewanee, Illinois, had been awarded the contract for the heating plant including two 16 ft. long, 4 ft. diameter boilers and all other equipment for heating the Main Building. 
 
-The contract for construction of the Boiler House was awarded to Peter Raff & Son in May 1876 for $2600, including a 16 feet diameter cistern. The building, one story high, was 31 ft. 611 by 38 feet inside, 18 &frac12; feet high.[^fn1] The work was completed by November. 
+The contract for construction of the Boiler House was awarded to Peter Raff & Son in May 1876 for $2600, including a 16 feet diameter cistern. The building, one story high, was 31 ft. 6" by 38 feet inside, 18 &frac12; feet high.[^fn1] The work was completed by November. 
 
 By 1893 the Boiler House roof had to be replaced. [^fn2] This was again needed in 1900 when W.M. Rich was awarded the contract for $385.[^fn3] 
 
