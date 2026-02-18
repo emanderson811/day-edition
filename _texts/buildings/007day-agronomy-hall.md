@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-As early as 1914 a request was initiated for funds for a new building for the Agronomy Department. The estimate then was for $100,000 for the proposed building.[^fn1] The need was again stated two years later. In 1925 the Board asked the President "to present estimate and recommendation for the location of an agronomy building."[^fn2] By the year 1940 the Biennial Report listed a building for the department as one of those needed "in the near future", and the Minutes for Agust 28, 1940, put it first on the "most urgent" list. 
+As early as 1914 a request was initiated for funds for a new building for the Agronomy Department. The estimate then was for $100,000 for the proposed building.[^fn1] The need was again stated two years later. In 1925 the Board asked the President "to present estimate and recommendation for the location of an agronomy building."[^fn2] By the year 1940 the Biennial Report listed a building for the department as one of those needed "in the near future", and the Minutes for August 28, 1940, put it first on the "most urgent" list. 
 
 But it was 1945 before the 51st General Assembly allocated an appropriation of $360,000 for an Agronomy Building, and 1947 before the architect was selected.[^fn3] Preliminary plans were approved in December 1948 and final plans in June 1949. Bids were received and contracts awarded in January 1950.[^fn4] 
 
