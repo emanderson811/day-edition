@@ -19,7 +19,7 @@ publication-date: 1980
 ---
 --- 
 
-Dean Anson Marston made a request in 1906, for "A two-story draughting room and laboratory building with some offices and classrooms, say 200 feet by SO feet." [^fn1] Legislature allocated $30,000 for the building early in 1907, to be taken from the Special Building Tax.
+Dean Anson Marston made a request in 1906, for "A two-story draughting room and laboratory building with some offices and classrooms, say 200 feet by 50 feet." [^fn1] Legislature allocated $30,000 for the building early in 1907, to be taken from the Special Building Tax.
 
 The following year a request was initiated for $15,000 for a Ceramics Building proposed as a wing on the Engineering Annex. 
 
@@ -41,7 +41,7 @@ In 1914 a small addition, one story, was made on the west side of the center of 
 
 [^fn5]: Biennial Report, 1910-12 
 
-A $15,000 renovation project was undertaken in 1956 using plans pre pared by Leonard Wolf, Supervising Architect. This involved various partition changes, installation of fluorescent lighting in drafting rooms, renovation of rest rooms and miscellaneous other work.[^fn6] 
+A $15,000 renovation project was undertaken in 1956 using plans prepared by Leonard Wolf, Supervising Architect. This involved various partition changes, installation of fluorescent lighting in drafting rooms, renovation of rest rooms and miscellaneous other work.[^fn6] 
 
 The Engineering Annex was the home of Architectural Engineering (later the Department of Architecture) and Civil Engineering for many years, except for that portion occupied by Ceramic Engineering. 
 
