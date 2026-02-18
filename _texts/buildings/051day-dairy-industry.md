@@ -46,7 +46,7 @@ The interior court of the quadrangle was improved, as described in the *Iowa Sta
 
 In September 1930 it was reported that the Ceramic Engineering Department was constructing the "ornamental fountain". [^fn5] Development of the court continued over a period of several years. It was completed by 1937 as recorded in the *Iowa State Student* on May 13, that year:
 
->Prof. C,A. Iverson's 8 years' dream of a model dairy court is being realized. Eight years ago the space was used as a tennis court. Three years ago terracotta plaques depicting typical dairy scenes were made by Christian Petersen and placed below the middle plaque. Last year the debris was removed from the court and the court was filled in with dirt.
+>Prof. C.A. Iverson's 8 years' dream of a model dairy court is being realized. Eight years ago the space was used as a tennis court. Three years ago terracotta plaques depicting typical dairy scenes were made by Christian Petersen and placed below the middle plaque. Last year the debris was removed from the court and the court was filled in with dirt.
 >
 >This spring Professor Hanson of the Landscape Architecture Department made plans for the formal arrangement and landscaping of the court. The court has a large central gravel walk and several paths surrounded by clipped hedges and is shaded by four elm trees. 
 >
