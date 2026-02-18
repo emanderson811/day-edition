@@ -16,7 +16,7 @@ publication-date: 1980
 
 Located on the south side of Osborn Drive across street from Gilman Hall. 
 
-Central Station was built by the Fort Dodge, Des Moines and Southern Railroad in 1908, soon after the route of the railroad had been changed to run on Osborri Drive instead of across central campus. It was pro vided with electricity for lighting and ste~m for heating by the college. [^fn1]
+Central Station was built by the Fort Dodge, Des Moines and Southern Railroad in 1908, soon after the route of the railroad had been changed to run on Osborn Drive instead of across central campus. It was provided with electricity for lighting and steam for heating by the college. [^fn1]
 
 The building was described as "a beautiful and commodious station of vitrified brick with Bedford stone trimmings." [^fn2] 
 
