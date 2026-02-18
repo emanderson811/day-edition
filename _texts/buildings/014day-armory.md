@@ -52,7 +52,7 @@ Home basketball games were transferred from State Gymnasium to the Armory in the
 space.[^fn7] Fifteen hundred seats were added the following season to raise the capacity to 7500. A new hardwood floor was installed in 
 the fall of 1948.[^fn8] 
 
-In May, 1955, an appropriation of $150,000 was made for remodeling the Armory. The architect was appointed in June and construction contracts were awarded in October. Structural steel work was accepted in May and the other contracts in September of 1956. That work increased the seating capacity to 8500 and improved the main and subsidiary exits; the ventilating system was improved and roof repairs made. Final cost of this work came to $202,500. Further improvements were made in 1960 62, especially on the heating and ventilating systems and for roof repairs. 
+In May, 1955, an appropriation of $150,000 was made for remodeling the Armory. The architect was appointed in June and construction contracts were awarded in October. Structural steel work was accepted in May and the other contracts in September of 1956. That work increased the seating capacity to 8500 and improved the main and subsidiary exits; the ventilating system was improved and roof repairs made. Final cost of this work came to $202,500. Further improvements were made in 1960-62, especially on the heating and ventilating systems and for roof repairs. 
 
 [^fn4]:  Minutes,  October  8,  1919  
 
