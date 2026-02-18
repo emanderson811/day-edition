@@ -19,7 +19,7 @@ Location: directly north of the north wing of Old Botany.
 
 The first request for a building to house large equipment for the Agricultural Engineering Department appears in the Biennial Report for 1908-10 when the cost of a building 50 x 120 feet of steel frame, brick walls and slate roof was estimated at $6000. In the report two years later the cost estimate was $10,000. 
 
-It was September 1914, however, before any funds were allocated and then only $100 was provided--for "a shed which shall contain two stalls for freight trucks, one stall for Superintendent's automobile, and three stalls for the dept. of Ag. Engr.11 [^fn2] It was a frame building, 23 x 73 feet open to the east. 
+It was September 1914, however, before any funds were allocated and then only $100 was provided--for "a shed which shall contain two stalls for freight trucks, one stall for Superintendent's automobile, and three stalls for the dept. of Ag. Engr." [^fn2] It was a frame building, 23 x 73 feet open to the east. 
 
 [^fn1]: Minutes, August 9, 1916
 
