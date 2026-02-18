@@ -110,7 +110,7 @@ The first occupant of the Farm House was W.H. Fitzpatrick who rented the farm fo
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">1861 - 1863</td>
+    <td style="width:15%">1861 - 1863</td>
     <td>W.H. Fitzpatrick, tenant farmer and postmaster.</td>
   </tr>
   <tr>
