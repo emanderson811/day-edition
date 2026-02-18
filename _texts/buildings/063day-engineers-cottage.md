@@ -22,15 +22,35 @@ This two-story frame house was built for J.J. Edgerton with an appropriation of 
 
 In 1915 the building was moved to the area south of the Physical Plant where it was the easternmost of the five frame houses located there until the addition to the Women's Gymnasium was built. It was razed in 1970. 
 
+<table>
+  <tr>
+    <th>Occupants</th>
+  </tr>
+  <tr>
+    <td>1898 - </td>
+    <td>J.J. Egerton, Prof. P.G. Holden</td>
+  </tr>
+  <tr>
+    <td>1907 - 1914</td>
+    <td>George Mitchell</td>
+  </tr>
+  <tr>
+    <td>1935 - 1954</td>
+    <td>S.C. Edwards</td>
+  </tr>
+  <tr>
+    <td>1954 - 1963</td>
+    <td>Frank Pepin</td>
+  </tr>
+  <tr>
+    <td>1963 - 1967</td>
+    <td>Ronald Rasmussen</td>
+  </tr>
+  <tr>
+    <td>1967 - 1970</td>
+    <td>Donald Kluck</td>
+  </tr>
+</table>
 
-
-|Occupants:  | |
-|--|--|
-|1898 -|J.J. Egerton Prof. P.G. Holden|
-|1907 - 1914|George Mitchell|
-|1935 - 1954|S.C. Edwards| 
-|1954 - 1963|Frank Pepin|
-|1963 - 1967|Ronald Rasmussen|
-|1967 -1970|Donald Kluck|
 
 [^fn1]: Minutes, April 1898
