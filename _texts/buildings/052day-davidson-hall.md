@@ -16,7 +16,7 @@ publication-date: 1980
 ---
 ---
  
-The Biennial Report for 1912-1914 stated "The Ag. Engr. Dept. in this institution has entirely outgrown its present quarters and a new building is urgently needed. Such a building should constitute one of the permanent fireproof buildings of the campus, and if properly planned and constructed to meet the immediate and future needs, a suitable building will cost $200,000. 11 The "present quarters" refer to the north wing of Old Botany, built in 1903 as the Farm Mechanics Building. 
+The Biennial Report for 1912-1914 stated "The Ag. Engr. Dept. in this institution has entirely outgrown its present quarters and a new building is urgently needed. Such a building should constitute one of the permanent fireproof buildings of the campus, and if properly planned and constructed to meet the immediate and future needs, a suitable building will cost "$200,000". The "present quarters" refer to the north wing of Old Botany, built in 1903 as the Farm Mechanics Building. 
 
 In January, 1915, a request was made for $150,000 for the building and the following month Mr. Proudfoot presented tentative plans for an agricultural engineering building. No further action was taken, however, until April 1920 when the Architect was asked to prepare plans for the building.[^fn1]
 
@@ -28,7 +28,7 @@ Construction of the building started in the summer of 1921, with a budget of $72
 
 Construction was completed at the end of January 1922. 
 
-The building was gutted by a major fire in March 31, 1941. The account in the *Iowa State Daily Student* the following day reported the loss: 
+The building was gutted by a major fire on March 31, 1941. The account in the *Iowa State Daily Student* the following day reported the loss: 
 
 >The fire broke out in the farm statistics laboratory at the northeast corner of the building where the United States Department of Agriculture has been conducting corn storage research. Prof. J.B. Davidson, head of the Agricultural Engineering Department, said the flame apparently started from a short circuit in some equipment being used to dry corn cobs in the research experiments. 
 >
@@ -42,11 +42,23 @@ Replacement funds were made available from the state in April 1941 and the firm 
 
 New bids, based on the revised plans, were received on December 29, 1941, and construction contracts were awarded to the low bidders, as follows: [^fn4] 
 
-| | |
-|---|---|
-|General Contract| James Thompson & Sons|$82,800|
-|Plumbing & Heating|Palmer Plmbg. Co.| 16,452|
-|Electrical| Maier Elect. Co. | 7,025 |
+<table>
+ <tr>
+  <td>General Contract</td>
+  <td>James Thompson & Sons</td>
+  <td>$82,800</td>
+ </tr>
+ <tr>
+  <td>Plumbing & Heating</td>
+  <td>Palmer Plmbg. Co</td>
+  <td>16,452</td>
+ </tr>
+ <tr>
+  <td>Electrical</td>
+  <td>Maier Elect. Co.</td>
+  <td>7,025</td>
+ </tr>
+</table>
 
 The February l7, 1942, issue of the *Iowa State Daily Student* described the new plans: 
 
