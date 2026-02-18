@@ -28,7 +28,7 @@ The success of the first (west) Boarding Cottage resulted in the decision to con
 
 A porch was added in 1886. In 1890 "the third floor... was partitioned off into six fine rooms. The boys successful in securing these rooms were in luck and now put on more style than is in vogue on the second floor Main Building." [^fn1] 
 
-The two lower floors were remodeled in 1894, following plans by Capt. Whiting. The work was done under contract by A.H. Chaffee. In 1897 East Cottage became a living quarters for teachers. Four years later a change in use to training quarters for the football team resulted in a new name as "The Quarters". A bathroom was installed in the basement in 1902 and "the football men are not so short on accomodations as they were for a long time."[^fn2] 
+The two lower floors were remodeled in 1894, following plans by Capt. Whiting. The work was done under contract by A.H. Chaffee. In 1897 East Cottage became a living quarters for teachers. Four years later a change in use to training quarters for the football team resulted in a new name as "The Quarters". A bathroom was installed in the basement in 1902 and "the football men are not so short on accommodations as they were for a long time."[^fn2] 
 
 An interesting note appeared in the *IAC Student* on March 7, 1903: "The college carpenter has been busily engaged this week putting in new doors at the Quarters. The old doors were kicked out the night after the Cornell game last fall." 
 
