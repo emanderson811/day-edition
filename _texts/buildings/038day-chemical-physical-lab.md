@@ -28,7 +28,7 @@ An appropriation of $5,000 provided for the "small brick building". It was descr
 
 In November of 1871 the Trustees appointed a committee "to examine all of the expenditures and bills for the erection of the Chemical Laboratory." It can be assumed that the building was then completed. 
 
-In the same year the President requested funds for construction of a Physical Laboratory. It was 1872, however, before funds became available, and then an inadequate sum for the finished building. During that year the basement and foundation were excavated, a start was made on the stone foundation walls, and some site drainage work was accomplished. In May 1874 the Trustees authorized President Welch to contract for brick and stone or the building. 
+In the same year the President requested funds for construction of a Physical Laboratory. It was 1872, however, before funds became available, and then an inadequate sum for the finished building. During that year the basement and foundation were excavated, a start was made on the stone foundation walls, and some site drainage work was accomplished. In May 1874 the Trustees authorized President Welch to contract for brick and stone for the building. 
 
 [^fn1]: Minutes, January 1870 
 
