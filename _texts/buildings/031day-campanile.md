@@ -43,7 +43,7 @@ Mr. Page also reported the physical characteristics of the bells:
   </tr>
   <tr>
     <td>1</td>
-    <td>2 - 2&frac12;</td>
+    <td>2 - 2 &frac12;</td>
     <td>E</td>
     <td>4</td>
     <td>0.</td>
@@ -51,7 +51,7 @@ Mr. Page also reported the physical characteristics of the bells:
   </tr>
   <tr>
     <td>2</td>
-    <td>2 - 4&frac14;</td>
+    <td>2 - 4 &frac14;</td>
     <td>D</td>
     <td>4</td>
     <td>2.</td>
@@ -75,7 +75,7 @@ Mr. Page also reported the physical characteristics of the bells:
   </tr>
   <tr>
     <td>5</td>
-    <td>2 - 9&frac34;</td>
+    <td>2 - 9 &frac34;</td>
     <td>A</td>
     <td>7</td>
     <td>1.</td>
@@ -84,14 +84,14 @@ Mr. Page also reported the physical characteristics of the bells:
   <tr>
     <td>6</td>
     <td>3 - 2</td>
-    <td>G</td></td>
+    <td>G</td>
     <td>9</td>
     <td>2.</td>
     <td>19</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>3 - 6&frac34;</td>
+    <td>3 - 6 &frac34;</td>
     <td>F</td>
     <td>13</td>
     <td>3.</td>
@@ -99,7 +99,7 @@ Mr. Page also reported the physical characteristics of the bells:
   </tr>
   <tr>
     <td>8</td>
-    <td>3 - 9&frac12;</td>
+    <td>3 - 9 &frac12;</td>
     <td>E</td>
     <td>16</td>
     <td>1.</td>
@@ -107,7 +107,7 @@ Mr. Page also reported the physical characteristics of the bells:
   </tr>
   <tr>
     <td>9</td>
-    <td>4 - 2&frac12;</td>
+    <td>4 - 2 &frac12;</td>
     <td>D</td>
     <td>21</td>
     <td>2.</td>
