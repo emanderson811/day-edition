@@ -108,7 +108,7 @@ Alumni and the public were asked to donate furniture and other objects which had
 
 The first occupant of the Farm House was W.H. Fitzpatrick who rented the farm for two years. The following list of occupants was prepared by Mrs. Dorothy Kehlenbeck, long-time curator of the University history collections:  
 
-<table style="width:100%", padding:15px;>
+<table style="width:100%">
   <tr>
     <td style="width:20%">1861 - 1863</td>
     <td>W.H. Fitzpatrick, tenant farmer and postmaster.</td>
