@@ -20,7 +20,7 @@ The complex consisted of a central core unit oriented east and west with four wi
 
 The Cottages, as they were officially designated, were sometimes referred to as "Silver City" but that term was also applied to Pammel Court, especially the original portion on the north side of Pammel Drive. 
 
-The center core provided lounge and bathroom space for all residents and each of the eight wings housed sixteen men for a total capacity of 128 students. It was occupied for the first time in the fall of 1947. Unitl 1951 it was filled to capacity, but then it was used only as temporary housing. 
+The center core provided lounge and bathroom space for all residents and each of the eight wings housed sixteen men for a total capacity of 128 students. It was occupied for the first time in the fall of 1947. Until 1951 it was filled to capacity, but then it was used only as temporary housing. 
 
 Three wings were used by Driver Education from 1951 and the following year offices for television were provided. Three wings continued as emergency housing for the Residence department.[^fn1] 
 
