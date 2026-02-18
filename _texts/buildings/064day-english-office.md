@@ -24,11 +24,11 @@ This building was designed originally to provide offices for the President, Secr
 
 The contract for construction amounted to $2990.00. Other expenses, including $119.60 for the architect brought the total cost to $3,117.10. 
 
-Requests for funds for ah addition were made from year to year between 1887 and 1891 when an appropriation was made for this and other buildings. Five bids were received in June 1892. Cost of the addition was $3970.54. 
+Requests for funds for an addition were made from year to year between 1887 and 1891 when an appropriation was made for this and other buildings. Five bids were received in June 1892. Cost of the addition was $3970.54. 
 
 During the next few years rooms in the office building were rented to staff personnel. Various repairs were undertaken. A new furnace was installed in 1904. 
 
-In 1905 the Public Grounds Conunittee recommended "the removal of the old Office Building and Emergency Hall; Definite steps should be taken to clear away both of these buildings as it will not be possible to complete the grading [for Central Building] satisfactorily with them standing where they are."[^fn2] That recommendation was never carried out for the Office Building. 
+In 1905 the Public Grounds Committee recommended "the removal of the old Office Building and Emergency Hall; Definite steps should be taken to clear away both of these buildings as it will not be possible to complete the grading [for Central Building] satisfactorily with them standing where they are."[^fn2] That recommendation was never carried out for the Office Building. 
 
 In 1908 the college book store was given the use of the first floor and the custodian and Head of the Military Department were quartered on the second floor. 
 
