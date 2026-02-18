@@ -21,7 +21,7 @@ publication-date: 1980
   
 Late in 1903 the Board of Trustees requested $75,000 from the legislature for a new Creamery Building. The request included this justification and description: 
 
->The dairy interests of the State are second to those of no state in the Union, and our state annually manufactures nearly one fifth of all the creamery butter put upon the markets of our country; $75,000, is probably the least amount that would build a modern, well-equipped and substantial creamery building, suitable to the needs of the College for years to come, and a structure of an enduring and pleasing character and architectural design. A building of this kind should contain a modern ice manufacturing plant and it should be connected with the central heating plant of the College and the power obtained from the electric plant, thus avoiding the necessity of maintaining a separate ice-house and a boiler and engine in connection with the building. This building can be so constructed and located that it will be brought more prominently into the group of educational buildings on the campus and will present a pleasing view from every approach with no objectionable features.[^fn1]
+>The dairy interests of the State are second to those of no state in the Union, and our state annually manufactures nearly one fifth of all the creamery butter put upon the markets of our country; $75,000 is probably the least amount that would build a modern, well-equipped and substantial creamery building, suitable to the needs of the College for years to come, and a structure of an enduring and pleasing character and architectural design. A building of this kind should contain a modern ice manufacturing plant and it should be connected with the central heating plant of the College and the power obtained from the electric plant, thus avoiding the necessity of maintaining a separate ice-house and a boiler and engine in connection with the building. This building can be so constructed and located that it will be brought more prominently into the group of educational buildings on the campus and will present a pleasing view from every approach with no objectionable features.[^fn1]
 
 In April 1904 the legislature appropriated $45,000 for the Dairy Building[^fn2] and the architects were retained.[^fn3] Bids were opened at the June Board meeting and a contract awarded in the amount of $43,192.[^fn4] 
 
@@ -37,7 +37,7 @@ Contracts for plumbing ($3837) and heating ($2358) were awarded in November and 
 
 [^fn5]: Minutes, November 1904 
 
-The ISC Student, on Feb. 1, 1905, was able to report: 
+The *ISC Student*, on Feb. 1, 1905, was able to report: 
 
 >The exterior of the new creamery is now finished. The plumbing, heating and lighting is also practically completed and it is now ready to receive furniture and machinery. Our dairy students are looking forward with delight to the day when they can take up the work in one of the most complete and best arranged creamery buildings in the world.
 
