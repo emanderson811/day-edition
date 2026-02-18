@@ -22,7 +22,7 @@ An Electrical and Mechanical Engineering Building was on a list of building need
 
 Construction contracts were awarded in September 1948. Separate contracts were subsequently executed for the completion of the third floor (in 1950) and for completion of the auditorium and installation of the freight elevator (in 1952). All of those contracts were completed by the spring of 1953. 
 
-A location to house the new Cyclotron computer became a problem when that equipment was nearing completion in 1957. It was then decided to construct an addition on the west end of the south wing of the Electri cal Engineering Building for that purpose.[^fn1] Contracts were awarded for that project in June 1958 and work was accepted in March 1959. 
+A location to house the new Cyclotron computer became a problem when that equipment was nearing completion in 1957. It was then decided to construct an addition on the west end of the south wing of the Electrical Engineering Building for that purpose.[^fn1] Contracts were awarded for that project in June 1958 and work was accepted in March 1959. 
 
 The Electrical Engineering Building was renamed "Coover Hall", in honor of Mervin Sylvester Coover, at the November 13-14, 1969, meeting of the Board of Regents. 
 
