@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-The idea of a bell tower was first expressed in a letter from Pro fessor E.W. Stanton to the Board of Trustees: 
+The idea of a bell tower was first expressed in a letter from Professor E.W. Stanton to the Board of Trustees: 
 
 >I have been informed by your committee of the action of the Board in giving to the new women's building the name of Margaret Hall... Since the suggestion that the friends of the College desired it named in memory of Mrs. Stanton was mentioned to me there has grown up in my mind the desire to present to the building, if it were given her name, a chime of bells. I wish that I were able without injury to other interest to do this and bear myself all the expense connected therewith. There is, however, the question of a tower in which to place the bells and the purchase of a clock which generally goes with them. I desire that my offering shall be confined to the chimes themselves in order that they may be of a superior quality... 
 
@@ -32,35 +32,143 @@ The chimes reached the campus near the end of October 1899. They were cast at th
 
 Mr. Page also reported the physical characteristics of the bells: 
 
-|No. |Diameter in feet inches|Note|Weight: cwt.|Weight: gr.|Weight:  lbs. |
-|----|------------------|----|------|----------|--------|
-|1|2 - 2 &frac12;|E|4|0.|15|
-|2|2 - 4 &frac14;|D|4|2.|10|
-|3|2 - 6|C|5|1.| 7|
-|4|2 - 7|B|5|3.|15|
-|5|2 - 9 &frac34;|A|7|1.| 3|
-|6|3 - 2|G|9|2.|19|
-|7|3 - 6 &frac34;|F|13|3.|21|
-|8|3 - 9 &frac12;|E|16|1.|21|
-|9|4 - 2 &frac12;|D|21|2.|21|
-|10|4 - 9|C|32|0.|0|
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Diameter in feet inches</th>
+    <th>Note</th>
+    <th>Weight: cwt.</th>
+    <th>Weight: gr.</th>
+    <th>Weight: lbs.</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2 - 2&frac12;</td>
+    <td>E</td>
+    <td>4</td>
+    <td>0.</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2 - 4&frac14;</td>
+    <td>D</td>
+    <td>4</td>
+    <td>2.</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2 - 6</td>
+    <td>C</td>
+    <td>5</td>
+    <td>1.</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2 - 7</td>
+    <td>B</td>
+    <td>5</td>
+    <td>3.</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>2 - 9&frac34;</td>
+    <td>A</td>
+    <td>7</td>
+    <td>1.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>3 - 2</td>
+    <td>G</td></td>
+    <td>9</td>
+    <td>2.</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>3 - 6&frac34;</td>
+    <td>F</td>
+    <td>13</td>
+    <td>3.</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>3 - 9&frac12;</td>
+    <td>E</td>
+    <td>16</td>
+    <td>1.</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>4 - 2&frac12;</td>
+    <td>D</td>
+    <td>21</td>
+    <td>2.</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>4 - 9</td>
+    <td>C</td>
+    <td>32</td>
+    <td>0.</td>
+    <td>0</td>
+  </tr>
+</table>
 
 The amount for "cwt" in England is 112 pounds rather than 100 pounds as in U.S. usage, so bell No. 1 weighs 463 lbs. and No. 10 3584 lbs.
 
 Each bell carries an inscription. The quotations used are included here for easy reference, for few people have the opportunity to inspect the bells themselves: 
 
-| | |
-|---|---|
-| E | And soften down the rugged road of life. -Kirke White |
-| D | Ring merrily, ye chimes, evermore Charles -MacKay |
-| C | Harmonizing this earth with what we feel above. -Shelley |
-| B | My language is understood all over the world -Haydn |
-| A | Every deed of goodness done is like a cord set in the heart. -Thomas MacKellan |
-| G | Sweetly on the evening air Sounds the vesper chime of prayer |
-| F | And rings a thousand memories At vesper and at prime. -Coxe |
-| E | Music is the child of prayer, The companion of religion. -Chateaubriand |
-| D | A woman that feareth the Lord, she shall be praised -Proverbs XXXI:30 |
-| C | Then pealed the bells more loud and deep: "God is not dead; nor does He sleep! The Wrong shall fail The Right prevail - With peace on earth, good will to men." |
+<table>
+  <tr>
+    <td>E</td>
+    <td>And soften down the rugged road of life. -Kirke White</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>Ring merrily, ye chimes, evermore Charles -MacKay</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Harmonizing this earth with what we feel above. -Shelley</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td>My language is understood all over the world -Haydn</td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>Every deed of goodness done is like a cord set in the heart. -Thomas MacKellan</td>
+  </tr>
+  <tr>
+    <td>G</td>
+    <td>Sweetly on the evening air sounds the vesper chime of prayer</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>And rings a thousand memories at vesper and at prime. -Coxe</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>Music is the child of prayer, the companion of religion. -Chateaubriand</td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td>A woman that feareth the Lord, she shall be praised -Proverbs XXXI:30</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>Then pealed the bells more loud and deep: "God is not dead; nor does He sleep! The Wrong shall fail The Right prevail - With peace on earth, good will to men."</td>
+  </tr>
+</table>
 
 This last inscription is from Longfellow but his name does not appear on the bell. All spellings shown are as they appear on the bells. 
 
@@ -74,7 +182,7 @@ The first record of the playing of the chimes appears in the February 20, 1900, 
 >
 >On Friday night when we listened to the playing of the chimes, it seemed fitting that their tuneful praise should first greet our beloved Secretary Wilson.
 >
->The hour is heralded by the Westminster chime and the houring is a pleasant relief from the discordant jangle of the old bell. The quarter hour is sourtded by a corresponding number of notes.
+>The hour is heralded by the Westminster chime and the houring is a pleasant relief from the discordant jangle of the old bell. The quarter hour is sounded by a corresponding number of notes.
 >
 >Each evening the chimes are to be played for a time before chapel service. The musician is Mr. Eldon Usry, of Des Moines -- one of our students.
 >
@@ -94,7 +202,7 @@ During the course of the next year the bells were cast and tuned by the same fir
 
 The new bells extended both ends of the range, the largest with a diameter of sixty-four inches, weighing 5737 pounds, and the smallest one with a weight of only 27 pounds. 
 
-The clock dials were illuminated at night following their relocation in cojunction with the alterations to the bell space, and this prompted some adverse editorial comment in the student paper on October 8 where it was stated that "the lights, which in the idea itself are not in keeping with the spirit of one of our finest traditions, are the blatant flares characteristically associated with billboards and the selling of someone's better pancake flour." 
+The clock dials were illuminated at night following their relocation in conjunction with the alterations to the bell space, and this prompted some adverse editorial comment in the student paper on October 8 where it was stated that "the lights, which in the idea itself are not in keeping with the spirit of one of our finest traditions, are the blatant flares characteristically associated with billboards and the selling of someone's better pancake flour." 
 
 On November 23, 1929, the editor could write: "Last night the campanile stood out again in the beauty it has held for 30 years. The lights are gone, permanently according to Herman Knapp, business manager." 
 
