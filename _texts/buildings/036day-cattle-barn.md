@@ -37,7 +37,7 @@ The building was described in the *Iowa State Student* on March 25, 1925:
 
 The construction was completed in the late fall of 1926, including silos at the northeast and northwest corners of the building. 
 
-On the night of October 6, 1931, lightning struck the building, causing a fire that destroyed the entire barn. Steps were taken immediately to replace it. The contract to rebuild was awarded to Fred Fisher later that month, and the new structure was occupied the following February.[^fn2] The silo which received the lightning blow was not re built until 1935.[^fn3]  
+On the night of October 6, 1931, lightning struck the building, causing a fire that destroyed the entire barn. Steps were taken immediately to replace it. The contract to rebuild was awarded to Fred Fisher later that month, and the new structure was occupied the following February.[^fn2] The silo which received the lightning blow was not rebuilt until 1935.[^fn3]  
 
 Fire struck again on October 19, 1958, when the east wing roof was burned along with a large quantity of hay. Cost of replacement came to  $23,000.[^fn4]  
 
