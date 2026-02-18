@@ -24,7 +24,7 @@ In 1915 the building was moved to the area south of the Physical Plant where it 
 
 <table>
   <tr>
-    <th>Occupants</th>
+    <th>Occupants:</th>
   </tr>
   <tr>
     <td>1898 - </td>
