@@ -71,7 +71,7 @@ On September 17, 1906, the paper was able to report: "Definite contract was made
 
 A year later the building was finished: 
 
->After many trials and tribulations, several years of patient waiting, the endurance of the storms of winter and the rains of summer, without doors or windows, Alumni hall, better known to us as the Y,M,C.A. building, is completed. The interior wood work finishing is of oak throughout with hard wood floors. The swimming pool is of enameled brick on both walls and bottom. The assignment of rooms has not yet been definitely made, but the first floor will be used for general purposes, the second floor as assembly room, reading rooms, Bible study room, etc. The rooms of the third floor will be rented out for living rooms or for whatever purpose they may be needed. The furniture for the building is ordered and will be installed sometime during the month of September. [^fn7] 
+>After many trials and tribulations, several years of patient waiting, the endurance of the storms of winter and the rains of summer, without doors or windows, Alumni hall, better known to us as the Y.M.C.A. building, is completed. The interior wood work finishing is of oak throughout with hard wood floors. The swimming pool is of enameled brick on both walls and bottom. The assignment of rooms has not yet been definitely made, but the first floor will be used for general purposes, the second floor as assembly room, reading rooms, Bible study room, etc. The rooms of the third floor will be rented out for living rooms or for whatever purpose they may be needed. The furniture for the building is ordered and will be installed sometime during the month of September. [^fn7] 
 
 Late in the year a dining room was established as reported in the paper: 
 
@@ -79,7 +79,7 @@ Late in the year a dining room was established as reported in the paper:
 >
 >The associations are to be highly complimented in their attempt to open up a cafe upon the campus for the college has suffered a great deal of knocking on the part of visitors and business men who come here, thinking that naturally there would be a cafe of some kind on the campus and then find out about 12 o'clock after the last car has gone that they must go down town to dinner.[^fn8] 
 
-In 1914, after opening of the new State Gymnasium swimming pool, it was decided to eliminate the pool in Alumni Hall and turn the enti:e basement level into dining facilities. At the same time an addition to the south of the building was built to provide new space for the kitchen.[^fn9] This addition included the basement and first floor level of the south wing.
+In 1914, after opening of the new State Gymnasium swimming pool, it was decided to eliminate the pool in Alumni Hall and turn the entire basement level into dining facilities. At the same time an addition to the south of the building was built to provide new space for the kitchen.[^fn9] This addition included the basement and first floor level of the south wing.
 
 [^fn7]:  ISC  Student, September 2,  1907  
 
