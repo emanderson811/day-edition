@@ -22,7 +22,7 @@ Bids were received the following April but were rejected because all exceeded th
 
 The building stood just east of the (old) Meat Laboratory and was described in the Dec. 17, 1929, issue of the *Iowa State Student*: 
 
->A grain storage building made of hollow tile, which has the ap pearance of an elevator with a silo at each of the four corners, was erected during the past summer by the Agricultural Engineering Department for the Animal Husbandry Department at Iowa State. The building is causing considerable comment among those interested in farm buildings. 
+>A grain storage building made of hollow tile, which has the appearance of an elevator with a silo at each of the four corners, was erected during the past summer by the Agricultural Engineering Department for the Animal Husbandry Department at Iowa State. The building is causing considerable comment among those interested in farm buildings. 
 >
 >The structure of the granary is such that it will easily hold 10,000 bushels of ear corn and an equal amount of small grains. Air hoists, electrically controlled, elevate the grain into the various bins. One unusual feature of the corn bins is the fact that they have solid tile walls in contrast to the usual corn crib construction. These two bins are equipped with false bottoms to provide the necessary circulation of air through the corn. 
 
