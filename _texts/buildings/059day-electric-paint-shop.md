@@ -22,7 +22,7 @@ A building to be constructed as a college laundry was first discussed by the Boa
 
 >In developing plans (for a Laundry Building) it has seemed best to enlarge the building and after inspecting the plant at Vinton it was decided to make the laundry room 40 x 50 feet. For good reason, also, space for the chemical truck has been provided in the plans for this building. 
 
-A maximum allocation of $18,500 was then authorized. The construction contract was awarded at the May 22, 1924, Meeting of the Board. 
+A maximum allocation of $18,500 was then authorized. The construction contract was awarded at the May 22, 1924, meeting of the Board. 
 
 The *Iowa State Student* of September 22, 1924, reported that the building has "just been completed" and described it: 
 
