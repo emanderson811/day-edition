@@ -44,7 +44,7 @@ That the recommendations of the committee were generally carried out can be seen
 
 [^fn2]: Minutes, March 23-24, 1865 
 
->A wood-house and workshop has been erected, east and adjoining the back part, on the lean-to of the house. It has been built of wood and put up in a substantial manner, at a cost of $646. 75. It is well painted, with blinds to the windows, with a division in the center - one part for wood-house and the other for work shop, and room for the hands to spend their leisure hours. Length of building 18 x 30 ft.
+>A wood-house and workshop has been erected, east and adjoining the back part, on the lean-to of the house. It has been built of wood and put up in a substantial manner, at a cost of $646.75. It is well painted, with blinds to the windows, with a division in the center - one part for wood-house and the other for work shop, and room for the hands to spend their leisure hours. Length of building 18 x 30 ft.
 >
 >A good double privy has been built of brick, 10 x 10, in a good substantial manner, at a cost of $150.
 >
@@ -56,9 +56,9 @@ That the recommendations of the committee were generally carried out can be seen
 >
 >The cellar has been drained, taking about one hundred feet of four-inch tile (the small tile were used, but would not do). The cellar is now completed, drained, and in good condition, at a cost for 100 feet of tile at 25 cents per foot, of $25; cost of labor, $21.81. Total cost, $46.81.
 
-There is a sketch made by Herman Knapp (in the History Collection of the Library) showing a plan of the Farm House as it was about this period. It has been redrawn and is included here to clarify the dates wheri the several parts of the house were built. 
+There is a sketch made by Herman Knapp (in the History Collection of the Library) showing a plan of the Farm House as it was about this period. It has been redrawn and is included here to clarify the dates when the several parts of the house were built. 
 
-In 1871 some modifications were made "to enlarge the kitchen, fix up the east wing or the secretary's office and reporting room and to re arrange the old office for a parlor. 11 [^fn3] 
+In 1871 some modifications were made "to enlarge the kitchen, fix up the east wing or the secretary's office and reporting room and to rearrange the old office for a parlor. 11 [^fn3] 
 
 Maintenance of the Farm House was a continuing problem as evidence by the Superintendent's report[^fn4] in 1877: 
 
@@ -78,7 +78,7 @@ Maintenance of the Farm House was a continuing problem as evidence by the Superi
 
 Roof repairs were made again in 1880 and 1881, and the building was reported as being greatly improved by a coat of paint (in the 1890-91 Biennial Report). 
 
-Residences for faculty were always short of demand. In 1886 it was decided to alter the Farm House to permit two families to occupy it, one on the east:, the other on the west side of the central hall and stairway. The sum of $200 was appropriated in May 1887 for an addition to the building, presumably to provide for the second kitchen for a second family. 
+Residences for faculty were always short of demand. In 1886 it was decided to alter the Farm House to permit two families to occupy it, one on the east, the other on the west side of the central hall and stairway. The sum of $200 was appropriated in May 1887 for an addition to the building, presumably to provide for the second kitchen for a second family. 
 
 In 1896 the house was connected to the sanitary sewer line. Late that same year Professor James Wilson put in a new heating plant at a cost of $220 for which he was reimbursed the following February when he left to become U.S. Secretary of Agriculture. That furnace served until 1907 when the house was connected to the central system. 
 
@@ -90,11 +90,11 @@ The May 17, 1898 issue of the *I.A.C. Student* reported that "the porch along th
 
 The Board Minutes of October 1910 state: 
 
->... it was ordered: that it is not considered advisable to plaster or cement the outside of brick residence occupied by Professor Curtiss, and that when improvements to said building are completed, the outside of the building shall be painted two coats. 
+>...it was ordered: that it is not considered advisable to plaster or cement the outside of brick residence occupied by Professor Curtiss, and that when improvements to said building are completed, the outside of the building shall be painted two coats. 
 
 The following August $1,450 was authorized for remodeling and repair of the house by Superintendent Thomas Sloss. The porch on the west side of the house was almost certainly a part of this remodeling. It was built from plans prepared by Proudfoot and Bird in 1909. The repair work probably included the exterior stucco coating because in 1913 Professor Curtiss called attention to more needed repairs, including a new roof. He reported "while the roof was covered with snow, it leaked in places so as to damage the interior walls of the building. This leak, causing a saturation of the brick walls, followed by freezing, will lead to damage of the outside plaster finish." The following month, May 1913, the Board appropriated $495 for a new asbestos shingle roof. 
 
-A garage, 20 x 19 feet, was built from a drawing by the Architectural Engineering department, dated Dec, 6, 1926. Actual construction was probably in 1927. 
+A garage, 20 x 19 feet, was built from a drawing by the Architectural Engineering department, dated Dec. 6, 1926. Actual construction was probably in 1927. 
 
 The Farm House, or the Knapp-Wilson House, was designated in 1965 as a Registered National Historic Landmark by the National Park Service of the U.S. Department of the Interior. 
 
@@ -106,23 +106,67 @@ Extensive repair and restoration work was undertaken between 1972 and 1975. The 
 
 Alumni and the public were asked to donate furniture and other objects which had once been in the Farm House or which were typical of the period to which the house was being restored. Response was good and the building now is well furnished and open, on occasions, for public viewing. 
 
-The first occupant of the Farm House was W.H. Fitzpatrick who rented the farm for two years. The following list of occupants was prepared by Mrs.Dorothy Kehlenbeck, long-time curator of the University history collections:  
+The first occupant of the Farm House was W.H. Fitzpatrick who rented the farm for two years. The following list of occupants was prepared by Mrs. Dorothy Kehlenbeck, long-time curator of the University history collections:  
 
-| | |
-|--|--|
-|1861-1863 | W.H. Fitzpatrick, tenant farmer and postmaster. | 
-|1864-1866 | A.J. Graves, Farm manager and postmaster until 1865 when post office was moved to Ames. | 
-|1867-1868 | Hugh M. Thomson, Secretary of the Board of Trustees and Superintendent of the farm. | 
-|1869 | Norton S. Townsend (Townshend), Professor of Agriculture. |
-|1870-1873 | I.P. Roberts, Secretary and Superintendent. |  
-|1874-1878 | Millikan Stalker, Secretary and Superintendent, Professor of Agriculture (and later Veterinary Science). |
-|1879 | J.C. Hiatt, Farm Superintendent. |
-|1880-1885 | Seaman A. Knapp, Farm Superintendent, Professor of Agriculture, College President 1883-84. |
-|1886-1887 | Herman Knapp, Head of Agriculture. |
-|1887-1890 | Loran P. Smith, Farm Superintendent, Professor of Agriculture, lived in east half. C.F. Barrows, Professor of English, lived in west half. |
-|1891-1895 | James F. Wilson, Farm Superintendent and Professor of Agriculture. |
-|1897-1946 | Charles F. Curtiss, Dean of Agriculture and director of Agricultural Experiment Station.  |
-|1946-1948 | Three women professors: Hoyt, Carlin, McBride. |
-|1948-1949 | Home Management. | 
-|1950-1970 | Floyd Andre, Dean of Agriculture. |
-
+<table>
+  <tr>
+    <td>1861 - 1863</td>
+    <td>W.H. Fitzpatrick, tenant farmer and postmaster.</td>
+  </tr>
+  <tr>
+    <td>1864 - 1899</td>
+    <td>A.J. Graves, Farm manager and postmaster until 1865 when post office was moved to Ames.</td>
+  </tr>
+  <tr>
+    <td>1867 - 1868</td>
+    <td>Hugh M. Thomson, Secretary of the Board of Trustees and Superintendent of the farm.</td>
+  </tr>
+  <tr>
+    <td>1869</td>
+    <td>Norton S. Townsend (Townshend), Professor of Agriculture.</td>
+  </tr>
+  <tr>
+    <td>1870 - 1873</td>
+    <td>I.P. Roberts, Secretary and Superintendent.</td>
+  </tr>
+  <tr>
+    <td>1874 - 1878</td>
+    <td>Millikan Stalker, Secretary and Superintendent, Professor of Agriculture (and later Veterinary Science).</td>
+  </tr>
+  <tr>
+    <td>1879</td>
+    <td>J.C. Hiatt, Farm Superintendent.</td>
+  </tr>
+  <tr>
+    <td>1880 - 1885</td>
+    <td>Seaman A. Knapp, Farm Superintendent, Professor of Agriculture, College President 1883-84.</td>
+  </tr>
+  <tr>
+    <td>1886 - 1887</td>
+    <td>Herman Knapp, Head of Agriculture.</td>
+  </tr>
+  <tr>
+    <td>1887 - 1890</td>
+    <td>Loran P. Smith, Farm Superintendent, Professor of Agriculture, lived in east half. C.F. Barrows, Professor of English, lived in west half.</td>
+  </tr>
+  <tr>
+    <td>1891 - 1895</td>
+    <td>James F. Wilson, Farm Superintendent and Professor of Agriculture.</td>
+  </tr>
+  <tr>
+    <td>1897 - 1946</td>
+    <td>Charles F. Curtiss, Dean of Agriculture and director of Agricultural Experiment Station.</td>
+  </tr>
+  <tr>
+    <td>1946 - 1948</td>
+    <td>Three women professors: Hoyt, Carlin, McBride.</td>
+  </tr>
+  <tr>
+    <td>1948 - 1949</td>
+    <td>Home Management.</td>
+  </tr>
+  <tr>
+    <td>1950 - 1970</td>
+    <td>Floyd Andre, Dean of Agriculture</td>
+  </tr>
+</table>
