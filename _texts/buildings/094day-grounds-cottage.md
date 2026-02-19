@@ -31,7 +31,16 @@ By 1905 a decision was reached to provide a new house for the horticulture depar
 
 In that location the cottage became the residence of Ben Edwards, superintendent of buildings and grounds, until 1910. It was subsequently occupied by grounds department employees until it was again moved in 1924. Its new site was on Wallace Road south of the Physical Plant area where it was the second from the east in the group of five employees houses along that street. It remained there until it was razed in 1970. 
 
-| | | |
-|--|--|--|
-|Tenants:| 1934-1956| John Hamilton|
-| |1962-1968| Dwight Evans|
+<table>
+  <tr>
+    <td><b>Tenants:</b></td>
+    <td>1934 - 1956</td>
+    <td>John Hamilton</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>1962 - 1968</td>
+    <td>Dwight Evans</td>
+  </tr>
+</table>
+
