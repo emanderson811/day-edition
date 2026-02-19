@@ -16,7 +16,7 @@ publication-date: 1980
 ---
 ---
 
-The need for more adequate greenhouse space to serve the college was expressed in the Biennial Report for 1894-95, and the cost of a suit able structure was estimated at $12,000. Funds were appropriated and bids were received in July 1896. Costs at that time amounted to $5142.50. Estimate for heating plant was $1250. 
+The need for more adequate greenhouse space to serve the college was expressed in the Biennial Report for 1894-95, and the cost of a suitable structure was estimated at $12,000. Funds were appropriated and bids were received in July 1896. Costs at that time amounted to $5142.50. Estimate for heating plant was $1250. 
 
 The greenhouse proper was L-shaped, with the north-south leg 60' long by 34' wide and the east-west leg 42' long and 20' wide. At the east end of that leg was a frame potting house. The greenhouse structure was built on a brick base. 
 
