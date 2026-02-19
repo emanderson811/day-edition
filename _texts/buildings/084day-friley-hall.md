@@ -76,11 +76,11 @@ This part was built with the help of a grant from the Public Works Administratio
 
 Demand for more housing resulted in steps being taken, just a year later, to initiate work to "complete the remaining unit". In November 1940 President Friley expressed the need to the Board and in January 1941 the architect was instructed to prepare plans for what was to be the east and central section of Friley Hall, although that designation was not applied to the building until May 1942. 
 
-Construction started in the summer of 1941 and the building was occupied in July 1942. In June and July of that year Hughes Hall and Friley Hall were completely assigned to navy trainees, who were in control of the buildings for the next three years during World War 11.[^fn7] Women student occupied Hughes Hall in the fall of 1945 for a period of one year, and it was used for married students the following year. From 1947 until 1969 only men were housed in the hall. Beginning in the fall of 1969 some sections were allocated to women. 
+Construction started in the summer of 1941 and the building was occupied in July 1942. In June and July of that year Hughes Hall and Friley Hall were completely assigned to navy trainees, who were in control of the buildings for the next three years during World War II.[^fn7] Women student occupied Hughes Hall in the fall of 1945 for a period of one year, and it was used for married students the following year. From 1947 until 1969 only men were housed in the hall. Beginning in the fall of 1969 some sections were allocated to women. 
 
 During 1945 and 1946 additions were being planned for both Hughes Hall and Friley Hall. The proposed new wings appear on a campus map published in the student paper on November 2, 1945. This showed an eastward expansion of Hughes Hall and a southern extension on Friley Hall. 
 
-It was 1949 before a final decision was reached and funding arranged. This addition was then limited to a southward and southwest wing on Friley Hal1. Contracts for construction were awarded in December 1949. Work started immediately and the building was ready for students in September 1951. 
+It was 1949 before a final decision was reached and funding arranged. This addition was then limited to a southward and southwest wing on Friley Hall. Contracts for construction were awarded in December 1949. Work started immediately and the building was ready for students in September 1951. 
 
 The next unit built connected Friley and Hughes Halls to make a single structure. That section was constructed in 1953-54. Construction began in July 1953 and was completed in time for the fall term of 1954. The next fall Beyer Court and Parking Area was paved under a separate contract with W.A. Klinger Company. 
 
