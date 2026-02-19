@@ -59,7 +59,7 @@ In 1949 electric meters were installed on all units except the trailers.
 
 All of the trailers were "decommissioned" and removed between 1950 and 1952.[^fn5] By 1967 all units south of the tracks were eliminated from the program, and most had been removed from the campus. A few remained and were used for storage for another two or three years. 
 
-By 1968 there were 668 units in use in the east and west areas north of the tracks .. Sixty-six units were eliminated in 1973 when grading for the 13th Street extension was undertaken. Other units, those in the greatest need of repair, were decommissioned as new units in Schilletter Village became available in 1974-76. In 1979 there are still 522 units in use.[^fn6]
+By 1968 there were 668 units in use in the east and west areas north of the tracks. Sixty-six units were eliminated in 1973 when grading for the 13th Street extension was undertaken. Other units, those in the greatest need of repair, were decommissioned as new units in Schilletter Village became available in 1974-76. In 1979 there are still 522 units in use.[^fn6]
 
 [^fn5]:  Schilletter, 1970  
 
