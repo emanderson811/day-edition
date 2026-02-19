@@ -14,13 +14,13 @@ publication-date: 1980
 ---
 ---
 
-The need for a library and a museum was recognized from the very start of the College. The minutes of the Board in January 1870 state: "Next to the men that teach its students and to the men that control its affairs the library and museum are the most important means of building up a great insttitution." 
+The need for a library and a museum was recognized from the very start of the College. The minutes of the Board in January 1870 state: "Next to the men that teach its students and to the men that control its affairs the library and museum are the most important means of building up a great institution." 
 
 But it was twenty years later before action was taken to meet that need. The Legislature funded the building in 1890, and it was then determined to include a chapel as well as library and museum. 
 
 On May 15, 1890, the Board accepted the preliminary sketches by the architects and their proposal to prepare final plans and superintend construction. Bids were received in July. At the same meeting the name "Morrill Hall" was adopted in honor of the Senator who sponsored the Morrill bill establishing the land-grant college system. Seven bids for general construction and three for electrical work were received. Contracts were awarded to the low bidder in each case, in the amounts of $28,404 and $335 respectively. 
 
-The site for the building was identified as follows: "The center of the tower shall be due North on the east fine of the central projection of the Main Building." [^fn1]
+The site for the building was identified as follows: "The center of the tower shall be due North on the east line of the central projection of the Main Building." [^fn1]
 
 The building was dedicated on June 16, 1891, with an address by Professor Charles E. Bessey.
 
