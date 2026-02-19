@@ -26,7 +26,7 @@ An agreement with the architect was reached in August 1938, the grant was approv
 
 By the fall of 1939 the building was ready for occupancy, and the contracts were accepted as completed in November of that year.[^fn1]
 
-Long range planning during the years 1945-47 made references to an addition on the south of the Service Building, but it was 1959 before the project was activated, when the architect was retained in October. The building became ready for use in the surmner of 1961. A National Science Foundation Grant of $4300 had been received to defray a small part of the construction cost. 
+Long range planning during the years 1945-47 made references to an addition on the south of the Service Building, but it was 1959 before the project was activated, when the architect was retained in October. The building became ready for use in the summer of 1961. A National Science Foundation Grant of $4300 had been received to defray a small part of the construction cost. 
 
 [^fn1]: Minutes, November 10, 1939 
 
