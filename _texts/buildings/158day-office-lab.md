@@ -22,6 +22,6 @@ The architect was selected in February 1947 and the plans were approved and bids
 
 The intended use of the building was described in the *Iowa State Daily Student* on August 2, 1947: 
 
->The connecting link will be air-conditioned, for scientific reasons, and will contain in the basement, spectro-graphic laboratories and facilities for tracer chemistry. The first floor will contain the administrative offices of the Insititute, a large conference room for seminars and the research laboratories of Dr. Spedding and Dr. E.I. Fulmer, assistant to the director of the Institute for Atomic Research. The top floor will contain a library reading room for joint use of the Physics and Chemistry Departments, the Atomic Institute and offices for the theoretical physicists. 
+>The connecting link will be air-conditioned, for scientific reasons, and will contain in the basement, spectro-graphic laboratories and facilities for tracer chemistry. The first floor will contain the administrative offices of the Institute, a large conference room for seminars and the research laboratories of Dr. Spedding and Dr. E.I. Fulmer, assistant to the director of the Institute for Atomic Research. The top floor will contain a library reading room for joint use of the Physics and Chemistry Departments, the Atomic Institute and offices for the theoretical physicists. 
 
 [^fn1]: Minutes, December 9, 1947
