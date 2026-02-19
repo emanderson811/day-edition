@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-This building was located northeast of the cemetery, iust east of the edge of Pammel Woods. 
+This building was located northeast of the cemetery, just east of the edge of Pammel Woods. 
 
 The Board minutes for June 8-10, 1921, provide about the only information available on this structure: 
 
