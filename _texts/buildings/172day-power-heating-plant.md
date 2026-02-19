@@ -31,7 +31,7 @@ For the next ten years, with expansion of the Power Station on the west side of 
 
 At that time the site for the new plant was assumed to be north of Margaret Hall. The Simonds landscape plan of 1903 showed the site at a location where the Quadrangle was built later. The present location was finally determined in May 1906.[^fn1] 
 
-Construction bids had been received in January and again in March 1905, but both times they exceeded available funds and were rejected, New bids for construction at the east side of the campus, and subsequent to a new appropriation, were submitted at the June 5-6, 1906, Board meeting and the contract was then awarded to Bartlett & Kling. 
+Construction bids had been received in January and again in March 1905, but both times they exceeded available funds and were rejected. New bids for construction at the east side of the campus, and subsequent to a new appropriation, were submitted at the June 5-6, 1906, Board meeting and the contract was then awarded to Bartlett & Kling. 
 
 When the building construction was completed the following year the generating equipment was ready and power was then furnished to the entire campus. By 1908 one boiler had been installed and heat was being furnished, through the tunnel system to the major buildings on 
 the campus. 
@@ -44,7 +44,7 @@ A new 2200 volt 1250 KVA 3-phase steam generator was installed in 1919.[^fn2] Th
 
 In 1928 a new 1500 KW turbine was purchased and a cooling pond was built in association with it. Ten years later a new steam boiler was put in to replace two older ones, and other related equipment was also included. 
 
-A contract for engineering services in the design of alterations and additions to the Power and Heating Plant was executed with Brown Engineering Company in 1946. This initiated a project involving extensive remodeling and changes in the building and equipment, a process that has continued to the present in several stages. A turbo generator unit, surface condensor, steam generator, switchgear cooling tower, and coal handling and ash handling equipment were contracted for in 1947. The following year enlargement of the building was started to provide space for the new equipment. That contract was completed in 1950. 
+A contract for engineering services in the design of alterations and additions to the Power and Heating Plant was executed with Brown Engineering Company in 1946. This initiated a project involving extensive remodeling and changes in the building and equipment, a process that has continued to the present in several stages. A turbo generator unit, surface condenser, steam generator, switchgear cooling tower, and coal handling and ash handling equipment were contracted for in 1947. The following year enlargement of the building was started to provide space for the new equipment. That contract was completed in 1950. 
 
 The steam generator was converted to gas instead of coal in 1951, and a new generator unit was added in 1952. 
 
