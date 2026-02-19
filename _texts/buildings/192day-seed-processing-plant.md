@@ -20,7 +20,7 @@ publication-date: 1980
 
 The original building was built by the Agricultural Engineering department as an experimental undertaking. It was described in the May 5, 1927, issue of the *Iowa State Student*:
 
->Construction work on the new masonry roof barn at the Iowa State Animal Husbandry Experimental Farm, which was started last fall has been resumed and the structure should be completed within the next two months, according to Prof, J.B. Davidson, head of the Agricultural Engineering Department at Iowa State, 
+>Construction work on the new masonry roof barn at the Iowa State Animal Husbandry Experimental Farm, which was started last fall has been resumed and the structure should be completed within the next two months, according to Prof. J.B. Davidson, head of the Agricultural Engineering Department at Iowa State.
 >
 >The novel feature of the barn will be the fact that no wood is to be used except for door and window construction. The shape of the roof will be what is known in structural circles as an inverted catenary. By use of this style of construction the roof acts as its own support leaving the room in the hay mow entirely free of the usual framing timbers. Even the hay mow floor is made of concrete which will allow for the storage of grain as well as hay.
 >
