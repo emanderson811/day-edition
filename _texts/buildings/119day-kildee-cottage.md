@@ -30,7 +30,7 @@ Dr. O.H. Cessna requested a building lot on campus in July 1900, but it was Sept
 
 The *ISC Student*, Sept. 4, 1901 reported that Dr. Cessna had moved into his new home during the summer. 
 
-The Building and Business Committee, in March 1914, reconnnended that the college buy the Cessna house, or if funds were not immediately available that the property be leased for the school year 1914-15. 
+The Building and Business Committee, in March 1914, recommended that the college buy the Cessna house, or if funds were not immediately available that the property be leased for the school year 1914-15. 
 
 The following month Supt. Sloss reported on his inspection of the house: 
 
@@ -45,7 +45,7 @@ In the spring of 1915 final agreement was reached on the purchase of the house b
 
 From 1915 to 1918 the house was rented to Carl H. Scheman, then Secretary to President Pearson.[^fn4] From 1918 to 1964 it was the home of Herbert H. Kildee, Dean of Agriculture from 1933 to 1949. 
 
-Between 1965 and 1973, when it was razed, the house served as head quarters for the bvilding services section of the Physical Plant.
+Between 1965 and 1973, when it was razed, the house served as headquarters for the building services section of the Physical Plant.
 
 [^fn3]: Iowa State Student, October 23, 1915 
 
