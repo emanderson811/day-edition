@@ -18,13 +18,13 @@ The need for a hog-house was expressed in the First Annual Report for 1858-59. O
 
 Apparently the first housing for hogs was erected in 1865, as reported by the farm superintendent: "Mr. Graves, the farmer, reported that he tore down the shanty and built a hog pen."[^fn1] Where that hog pen was located is unknown. 
 
-At that. March 1865 Board meeting it was recommended that "a first class hog pen" be built. That was accomplished during 1866 and i867. In January 1867 Supt. Robinson was able to report: 
+At that March 1865 Board meeting it was recommended that "a first class hog pen" be built. That was accomplished during 1866 and 1867. In January 1867 Supt. Robinson was able to report: 
 
 >A hog pen was also partly built 24 x 24 feet square, with a passage or feed room through the center 4 feet in width, with six apartments capable of each containing 10 grown hogs, with shingle roof, and the upper part capable of housing 1,000 bushels of corn, nearly completed and would have been done if hands could have been procured. Cost $39.75. Estimated cost $60.00. Agreeable to directions the old Brickyard shanty lumber was used wherever it was suitable for the construction of the pens the estimate of which is not taken into this account. 
  
 [^fn1]:  Minutes, March 1865. The "shanty" was undoubtedly one of the structures at the original brickyard. 
 
-The following year the Superintendent reported that the building had been completed at a cost of $85.87 1/2, and that "I have had open yards made to four of the pens at odd times by hands on the farm using old timber." [^fn2] 
+The following year the Superintendent reported that the building had been completed at a cost of $85.87 &frac12;, and that "I have had open yards made to four of the pens at odd times by hands on the farm using old timber." [^fn2] 
 
 This was the "Piggery" pictured on page 39 of Earle Ross' "The Land Grant Idea at Iowa State College". It appears on the 1883 map, located at approximately the northwest corner of today's addition to the Women's Gym. 
 
