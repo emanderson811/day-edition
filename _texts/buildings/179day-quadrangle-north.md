@@ -20,7 +20,7 @@ The first reference to the Diagnostic Laboratory appeared in the *Iowa State Stu
 >
 >The new laboratory includes four rooms, the waiting and reception room, the animals room, the bacteriology room, and the post mortem room. The equipment has not all been installed but the laboratory will be ready for use by next fall.
 >
->From an average of fity towns there are at least 375 specimens sent weekly into this department for free diagnosis. These specimens include all kinds of livestock and poultry, especially baby chicks, cattle, swine, and sheep. A large number of dogs are sent in on the assumption that they have rabies.
+>From an average of fifty towns there are at least 375 specimens sent weekly into this department for free diagnosis. These specimens include all kinds of livestock and poultry, especially baby chicks, cattle, swine, and sheep. A large number of dogs are sent in on the assumption that they have rabies.
 
 Funds for a new facility were included in the appropriations made in 1945 and 1947, and in the latter year the architect was selected. Final plans were approved in July 1950.[^fn1] Bids were received in September but were rejected. New bids were taken in 1951, but again were rejected. The site at that time was on the north side of the Veterinary Clinic. In 1953 the decision was reached to change the site to the Quadrangle area.[^fn2] A new appropriation, totalling $600,000 had been made that year. 
 
