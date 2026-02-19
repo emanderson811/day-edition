@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-Bid for construction of this residence for a professor came to $2200. A porch was added in 1884. In November of 1884 Professor Bessey submitted a request for reimbursement of $104.50 for expenses he had incurred in making the house fit for occupancy, including sheeting the house with tarred paper, building a wood shed and well house and a privy. 
+Bid for construction of this residence for a professor came to $2200. A porch was added in 1884. In November of 1884 Professor Bessey submitted a request for reimbursement of $104.50 for expenses he had incurred in making the house fit for occupancy, including sheeting the house with tarred paper, building a woodshed and wellhouse and a privy. 
 
 Minor repairs were made in 1897 and 1904, and again in 1915. In 1925 extensive repairs were made, including an extension of the south porch, and removal of the porch across the west front. The garage was also added on the northwest corner at that time.[^fn1] A total of $6500 was allocated for the work. 
 
