@@ -30,7 +30,7 @@ The Old Hort Lab was well described by John Brooks in the "Report of Study. Hort
 
 >The building is a two story and basement wood framed structure with exterior bearing walls of red brick. Its dimensions are 45' x 35' with a 6' x 22' projection to the south. The location is on a prominent knoll at the northeastern edge of central campus and the levels of the two floors approximately match those of the upper floors of Horticulture Hall. 
 >
->The building is now used for basement storage for the Horticulture Department aod the first floor is a woodworking studio for the Applied Art Department. The second floor houses offices for some graduate students and professors emeriti of the Horticulture Department. Access to this floor is up a steep difficult stairway or an exterior wood fire escape which violates all codes. 
+>The building is now used for basement storage for the Horticulture Department and the first floor is a woodworking studio for the Applied Art Department. The second floor houses offices for some graduate students and professors emeriti of the Horticulture Department. Access to this floor is up a steep difficult stairway or an exterior wood fire escape which violates all codes. 
 >
 >"Old Hort" was never a good building, architecturally. It is difficult to imagine that it ever could have been considered well designed, or desirable from any standpoint because access to the upper floor involved negotiating a narrow, dangerous stairway. 
 >
