@@ -43,7 +43,7 @@ A story in the May 23, 1914 *Iowa State Student* describes the new building:
 
 ## Store Room for Each Floor
 
->The building has a store room system. All floors have store rooms in vertically the same parts of the building connecting with each other by an elevator and dumb waiter. The administrative office, the office of Prof. W.F. Coover, the new head of the chemistry department succeeding Prof. A.A. Bennett, who went to California soon after the old Chem hall fire, will be on the second floor. The offices of the associate and assisiant professors will be located throughout, and in different parts of the building, adjacent to their particular work and departments. The instructors will have offices, immediately in their sections of the various laboratories.
+>The building has a store room system. All floors have store rooms in vertically the same parts of the building connecting with each other by an elevator and dumb waiter. The administrative office, the office of Prof. W.F. Coover, the new head of the chemistry department succeeding Prof. A.A. Bennett, who went to California soon after the old Chem hall fire, will be on the second floor. The offices of the associate and assistant professors will be located throughout, and in different parts of the building, adjacent to their particular work and departments. The instructors will have offices, immediately in their sections of the various laboratories.
 
 ## Room for 2500 Students
 
@@ -55,13 +55,13 @@ A story in the May 23, 1914 *Iowa State Student* describes the new building:
 
 ## Asphalt Floors Provided
 
->One of the most important features of the new hall is that the building was planned with the idea of getting away from cement floors, which have a decided and detrimental tiring effect on the body. Asphalt floors will go down in all the working floors of the building. Asphalt flooring is elastic and is said to be much more satisfactory than hard, unelastic concrete where stu dents work entire half days at a time always standing. 
+>One of the most important features of the new hall is that the building was planned with the idea of getting away from cement floors, which have a decided and detrimental tiring effect on the body. Asphalt floors will go down in all the working floors of the building. Asphalt flooring is elastic and is said to be much more satisfactory than hard, unelastic concrete where students work entire half days at a time always standing. 
 >
 >The building is of brick. It has three main entrances. It is a few hundred feet directly north of Central hall. 
 
 Although the building was opened for classes in September 1914, the conditions were not the most ideal. Two items in the current student paper explain the situation: 
 
->Classes in Chemistry will begin their work promptly at 8:00 Mon day in the new building, is the latest announcement from the Chemistry department. The men have been working night and day for the past few weeks and the laboratories will be in shape to accommodate every one on schedule time. The gas and water pipes are in and will be ready. The ventilation system is complete and the temporary lockers are up. Due to the rush the equipment has not all been placed but there is plenty to keep the freshmen busy. 
+>Classes in Chemistry will begin their work promptly at 8:00 Monday in the new building, is the latest announcement from the Chemistry department. The men have been working night and day for the past few weeks and the laboratories will be in shape to accommodate every one on schedule time. The gas and water pipes are in and will be ready. The ventilation system is complete and the temporary lockers are up. Due to the rush the equipment has not all been placed but there is plenty to keep the freshmen busy. 
 >
 >The Chemistry department will not have a monopoly on the building by any means. Engineers, Ags and Science each have appropriated a part of the new space. Miss Maclean will have a class in 2 year English and Professor Bowman will have a class in collegiate English in the new building. Prof. Bartholemew has dragged his bug cages up on the second floor and the usual zoology smell will battle with the fumes of gases. 
 >
@@ -71,13 +71,13 @@ Although the building was opened for classes in September 1914, the conditions w
 >
 >The chairs in the assembly room and class rooms have been rented from a furniture company, and to be returned when permanent chairs are installed.
 >
->Fifty or more instructors are making their headquarters in offices, each of which is furnished with hardly more than a nail to hang their wraps upon. Over more than a hundred workmen are fitting doors, putting in concrete, finishing stairways and doing in numerable other things necessary to the completion of the greatest chemistry hall of the middle west. With the exception of the state capitol no other building in Iowa contains as many square feet of plastered walls as chem. hall.
+>Fifty or more instructors are making their headquarters in offices, each of which is furnished with hardly more than a nail to hang their wraps upon. Over more than a hundred workmen are fitting doors, putting in concrete, finishing stairways and doing innumerable other things necessary to the completion of the greatest chemistry hall of the middle west. With the exception of the state capitol no other building in Iowa contains as many square feet of plastered walls as chem. hall.
 >
 >But not only is the chemistry building a headquarters for the chemistry department. It contains almost everything from the offices of the agricultural and engineering experiment stations to Miss Maclean's English class of the two year ags, and from Colburn's photography offices to a lab in poultry 46. 
 >
 >Even under these adverse circumstances of an uncompleted building and a mixture of courses, every thing seems to be working as smoothly as if arranged months ago.[^fn3]
 
-The Biennial Report for 1914-16 shows total expenditures for the build ing at $361,905.49. 
+The Biennial Report for 1914-16 shows total expenditures for the building at $361,905.49. 
 
 Additional laboratory equipment was acquired and various interior changes made from time to time over the next thirty years. The most obvious exterior change occured in 1942 when a new entrance was made on the south front. This is described in the *Iowa State Daily Student* on August 11 of that year: 
 
@@ -96,7 +96,7 @@ Additional laboratory equipment was acquired and various interior changes made f
 >
 >Work on the project is being done by James Thompson and Sons, of Ames. 
 
-By 1947 the expansion of activities of the Institute for Atomic Research required new facilities for that work. Professor T.K. Fitz patrick, Architectural Engineering, was authorized to prepare preliminary plans for the third and fourth wings of the building. [^fn4] However, sixteen years elapsed before that addition was undertaken. A Tracer Laboratory was installed by remodeling in 1948, with A.E.C. funds and in 1950-51 the same source provided $30,000 for new laboratory equipment. 
+By 1947 the expansion of activities of the Institute for Atomic Research required new facilities for that work. Professor T.K. Fitzpatrick, Architectural Engineering, was authorized to prepare preliminary plans for the third and fourth wings of the building. [^fn4] However, sixteen years elapsed before that addition was undertaken. A Tracer Laboratory was installed by remodeling in 1948, with A.E.C. funds and in 1950-51 the same source provided $30,000 for new laboratory equipment. 
 
 Appropriations of $70,000 for "modernizing classrooms, offices and laboratories", $175,000 for repairing and rebuilding equipment and $9,000 for replacing heating coils were made in May 1953. Two years later an additional $250,000 was appropriated for "repairs, replacements, alterations and equipment". Another appropriation in the same amount was made in 1959. The work under that fund was used principally for remodeling of third floor laboratories for Bio-chemistry. 
 
