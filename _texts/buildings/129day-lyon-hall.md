@@ -18,7 +18,7 @@ The earliest reference to a new residence hall for women was in the Minutes of t
 
 No further action seems to have been taken until 1913 when 
 
->The executive Council being in joint session with the Board, the matter of using for a dormitory on another part of the campus the $55,000 authorized by the 34th General Assembly to be expended in building an addition to Margaret Hall was discussed in formally, and the Building Committee was directed to present the matter to the council in writing, with plue prints showing the plan recently adopted for the campus.[^fn2] 
+>The executive Council being in joint session with the Board, the matter of using for a dormitory on another part of the campus the $55,000 authorized by the 34th General Assembly to be expended in building an addition to Margaret Hall was discussed informally, and the Building Committee was directed to present the matter to the council in writing, with blue prints showing the plan recently adopted for the campus.[^fn2] 
 
 The question of the legality of a separate building rather than the addition was settled by an opinion from the attorney general that the change was permissable under the state law.[^fn3]
 
