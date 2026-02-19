@@ -20,7 +20,7 @@ publication-date: 1980
 
 The Biennial Report for 1906-08 expressed the problems of space for the Zoology department: 
 
->The zoology laboratories have crowded into the basement (of Morrill Hall) and even to the window sills. The students positively cannot be accommodated if there be any increase, as there certainly will be according to the natural rate of growth. The trustees are nonplussed. 
+>The zoology laboratories have crowded into the basement (of Morrill Hall) and even to the windowsills. The students positively cannot be accommodated if there be any increase, as there certainly will be according to the natural rate of growth. The trustees are nonplussed. 
 
 Two years later the first biennial report of the new Board of Education reported on the Science Division: "A new building for this department is a practical necessity." 
 
@@ -28,7 +28,7 @@ An allocation of $65,000 became available for a building for bacteriology and zo
 
 An interesting description of the building appeared in the *Iowa State Student* on February 26, 1916: 
 
->When fully equipped and ready for occupancy next fall, the new Iowa State science building will represent an investment of nearly $95,000, and will be without a peer in the country from the stand point of laboratory facilities and equipment. Four stories and a basement are to be included in the new structure which is 114 feet long by 50 wide. Absolute fireproof construction is used through out, the building being built entirely of concrete with red brick and Bedford stone facing. 
+>When fully equipped and ready for occupancy next fall, the new Iowa State science building will represent an investment of nearly $95,000, and will be without a peer in the country from the standpoint of laboratory facilities and equipment. Four stories and a basement are to be included in the new structure which is 114 feet long by 50 wide. Absolute fireproof construction is used throughout, the building being built entirely of concrete with red brick and Bedford stone facing. 
 
 [^fn1]: Minutes, January 22, 1915 
 
