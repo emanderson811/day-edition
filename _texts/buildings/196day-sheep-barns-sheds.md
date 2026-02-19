@@ -16,13 +16,13 @@ publication-date: 1980
 
 Various structures have been erected on the campus and designated as Sheep Barns, Sheep Houses or Sheep Sheds. The locations of these different buildings are not always identified with any degree of certainty. 
 
-The earliest reference found occurs in the Minutes for March 23-24, 1865, wherein "the committee recommends "a modle sheep house for the accomodation of six breeds of two each, also a fatning pen for mutton sheep." (Spellings as originally written.) 
+The earliest reference found occurs in the Minutes for March 23-24, 1865, wherein "the committee recommends "a model sheep house for the accomodation of six breeds of two each, also a fattening pen for mutton sheep." (Spellings as originally written.) 
 
 Apparently the first shelters were built in 1867 as described in the Farm Superintendent's report included in the Minutes on January 13-17, 1868: 
 
->From lumber that had been used about the brick yard I had 3 sheep houses or sheds erected 24 feet by 12 each with double board roofs of sound lumber, each having access to an open yard for air arid exercise yet so constructed that the different lots can be kept apart from each other. The work all done by farm hands. Cost for nails $10.00. 
+>From lumber that had been used about the brick yard I had 3 sheep houses or sheds erected 24 feet by 12 each with double board roofs of sound lumber, each having access to an open yard for air and exercise yet so constructed that the different lots can be kept apart from each other. The work all done by farm hands. Cost for nails $10.00. 
 
-In 1882 "Prof. Knapp submitted to the Board bills paid by him for the erection of the present sheep barn" The Board ordered that $71.94 be appropriated from the State Appropriation for Sheep barns to pay the bills. [^fn1] 
+In 1882 "Prof. Knapp submitted to the Board bills paid by him for the erection of the present sheep barn". The Board ordered that $71.94 be appropriated from the State Appropriation for Sheep barns to pay the bills. [^fn1] 
 
 A year later the Board "ordered that upon completion of the sheep barns" the remaining balance in the appropriation be transferred to another account. This may refer to the 1882 barns or to new ones.[^fn2] At the same meeting it was "ordered that the proposition of V. Tomlinson herewith submitted to erect sheep barns for the sum of $415.00 be accepted." 
 
