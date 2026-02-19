@@ -18,7 +18,7 @@ An appropriation for a Food Processing Building was requested in 1956, in the am
 
 In June 1959 the architect was selected and the proposed project description was given: 
 
->This building will be constructed as an addition on the east end of the north wing of the Dairy and Food Industry Building. It is planned to be of masonry construction, two stories in height. The building will be of utilitarian design, accommodating primarily research laboratories but with a minimum of office space for research persorthel.[^fn2] 
+>This building will be constructed as an addition on the east end of the north wing of the Dairy and Food Industry Building. It is planned to be of masonry construction, two stories in height. The building will be of utilitarian design, accommodating primarily research laboratories but with a minimum of office space for research personnel.[^fn2] 
 
 A grant of $119,500 was received from the U.S. Public Health Service in 1960. Plans were completed and construction contracts were awarded in November.[^fn3]
 
