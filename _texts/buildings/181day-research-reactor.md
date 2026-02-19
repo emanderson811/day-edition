@@ -20,7 +20,7 @@ By the end of 1959 the appropriation had been made and in January 1960 design of
 
 >The facility... will have a total gross area of 38,900 square feet. The reactor will be a 5,000 kilowatt, heavy-watt moderated research reactor with all embedded systems sized for future conversion to 10,000 kilowatts. 
 >
->...The reserach reactor facility will be used to help determine what happens to materials in a radiation field, to produce radioactive nuclides for inorganic and analytical chemistry studies, to search for a better understanding of the relationships between structure and properties of materials, to study the behavior of materials in the environment of an operating reactor and to investigate corrosion of metal containers by liquid metals in the prescence of high neutron flux. [^fn2] 
+>...The research reactor facility will be used to help determine what happens to materials in a radiation field, to produce radioactive nuclides for inorganic and analytical chemistry studies, to search for a better understanding of the relationships between structure and properties of materials, to study the behavior of materials in the environment of an operating reactor and to investigate corrosion of metal containers by liquid metals in the presence of high neutron flux. [^fn2] 
 
 In April of 1962 it was reported that the project was about 20% completed. A cornerstone unveiling ceremony was held during Veishea in May 1963. On September 11, 1965, the paper reported that this was one of the buildings that had been completed. 
 
