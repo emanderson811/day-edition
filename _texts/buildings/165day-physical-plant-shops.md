@@ -25,11 +25,11 @@ publication-date: 1980
 
 At the Board meeting of April 26, 1933, President Hughes made the following recommendation which was approved and referred to the Special Building Committee with power to act: 
 
->I recommend that $30,000 of the Book Store fund be spent in the erection of the first unit of the Central Stores Building, this building to be of the simplest possible construction of brick and concrete and having two stories and a basement, the floor of the first story to be on a level with a truck bed so that material can be loaded in and out most readily. The erection of this build ing will free the rear of Botany Building from use as a store room and would thus make available some very much needed space for the Botany Department. It would also make possible the consolidation of two store rooms and save some money in help. There are many other advantages in this arrangement, and I hope the Board will approve this recommendation.
+>I recommend that $30,000 of the Book Store fund be spent in the erection of the first unit of the Central Stores Building, this building to be of the simplest possible construction of brick and concrete and having two stories and a basement, the floor of the first story to be on a level with a truck bed so that material can be loaded in and out most readily. The erection of this building will free the rear of Botany Building from use as a store room and would thus make available some very much needed space for the Botany Department. It would also make possible the consolidation of two store rooms and save some money in help. There are many other advantages in this arrangement, and I hope the Board will approve this recommendation.
 
 It seems probable that the preliminary plans had been developed prior to that date since construction bids were received on June 27, including an alternate proposal to omit the three south bays. A contract was awarded on the basis of the smaller size building. The mechanical and electrical work was to be provided by the Buildings and Grounds Department.[^fn1] 
 
-When excavation was made for the foundations a layer of quick sand was encountered. This resulted in a change in footing design and a separate contract for the additional labor and material, in the amount of $3258.15, was negotiated with the contractor for the extra costs.[^fn2] 
+When excavation was made for the foundations a layer of quicksand was encountered. This resulted in a change in footing design and a separate contract for the additional labor and material, in the amount of $3258.15, was negotiated with the contractor for the extra costs.[^fn2] 
 
 Construction was completed and the project accepted in November 1933. In 1936 a grant of $13,500 from the Federal Emergency Administration of Public Works, together with a State appropriation of $16,500, made possible the construction of a south addition to the Central Stores Building. Contracts were awarded in September and the building was completed and accepted on January 30, 1937.[^fn3] 
 
@@ -55,7 +55,7 @@ An appropriation of $1,000,000 for Physical Plant Shops and Stores was requested
  
 The schematic drawings for the proposed building were approved by the Board as recorded in the Minutes of the January 14-15, 1971, meeting when the following project description was presented: 
 
->The proposed building will house all Physical Plant Shops and Central Stores Warehouse facilities and Central Receiving, as well as Physical Plant and Purchasing Department administrative offices. It will replace eleven miscellaneous outdated and in efficient buildings. 
+>The proposed building will house all Physical Plant Shops and Central Stores Warehouse facilities and Central Receiving, as well as Physical Plant and Purchasing Department administrative offices. It will replace eleven miscellaneous outdated and inefficient buildings. 
 >
 >New construction will consist of a "U" shaped one-story structure with full ground floor in the shops wing and partial ground floor in the warehouse wing. This building will abut the existing Central Stores and Physical Plant office building which will be renovated to accommodate all administrative office functions of the Physical Plant and Purchasing Departments. The new structure will be of steel framing with a composite steel and concrete floor system and exterior walls of precast concrete and metal siding.
  
