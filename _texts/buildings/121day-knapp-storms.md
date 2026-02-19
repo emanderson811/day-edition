@@ -16,7 +16,7 @@ publication-date: 1980
 
 Increasing enrollments led to the need for additional housing. The decision was reached to construct a hall for 1200 men with associated dining facilities. This was planned as the first unit in a complex ultimately to house 3600 men. However, only the first and second units were constructed as part of what is now called the Towers Residence area. 
 
-Various sites were considered for the location of this large complex. One was the location on the portion of the golf course then south of the railroad on the north side of Pannnel Drive; another was the old horticulture farm. It was decided to use the poultry farm area and to relocate facilities thereon to a new off-campus site to the south.[^fn1] 
+Various sites were considered for the location of this large complex. One was the location on the portion of the golf course then south of the railroad on the north side of Pammel Drive; another was the old horticulture farm. It was decided to use the poultry farm area and to relocate facilities thereon to a new off-campus site to the south.[^fn1] 
 
 [^fn1]: Minutes, October 4-6, 1962 
 
