@@ -37,15 +37,39 @@ The house continued in use by foreign students until it was purposely burned dow
 
 Occupants of the house are listed by Dorothy Kehlenbeck[^fn4] as follows: 
 
-| | |
-|--|--|
-|1880-1885|  President Welch  |
-|1886-1891|  President Chamberlain  |
-|1892-1898|  President Beardshear  |
-|1899-1906|  Milliken Stalker  |
-|1897-1921|  Sallie Stalker Smith  |
-|1922-1926|  Kappa Sigma  |
-|1927-1928|  Sigma Alpha, Epsilon  |
-|1928-1963|  International House  |
+<table padding: 15px>
+ <tr>
+  <td>1880 - 1885</td>
+  <td>President Welch</td>
+ </tr>
+ <tr>
+  <td>1886 - 1891</td>
+  <td>President Chamberlain</td>
+ </tr>
+ <tr>
+  <td>1892 - 1898</td>
+  <td>President Beardshear</td>
+ </tr>
+ <tr>
+  <td>1899 - 1906</td>
+  <td>Milliken Stalker</td>
+ </tr>
+ <tr>
+  <td>1897 - 1921</td>
+  <td>Sallie Stalker Smith</td>
+ </tr>
+ <tr>
+  <td>1922 - 1926</td>
+  <td>Kappa Sigma</td>
+ </tr>
+ <tr>
+  <td>1927 - 1928</td>
+  <td>Sigma Alpha Epsilon</td>
+ </tr>
+ <tr>
+  <td>1928 - 1963</td>
+  <td>International House</td>
+ </tr>
+</table>
 
 [^fn4]: Dorothy Kehlenbeck, Manuscript 1969
