@@ -32,7 +32,7 @@ A good description of the original building appeared in the January 3, 1940, iss
 >
 >A 30 x 75 foot swimming pool room, tiled in medium green and pastel green, will occupy one end of the building. The pool proper will be the pool on the second floor, along one side, is a balcony, which has four tiers of seats. [sic]
 >
->An archery court 34 x 84 feet, is located in the basement. The building will provide a dance studio measuring 32 x 45 feet, with several smaller locker, shower and storage rooms. 
+>An archery court 34 x 84 feet is located in the basement. The building will provide a dance studio measuring 32 x 45 feet, with several smaller locker, shower and storage rooms. 
 
 [^fn1]: Minutes, January 16, 1941 
 
