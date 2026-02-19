@@ -44,7 +44,7 @@ Bids were received in January, 1911, but they exceeded the appropriation and all
 >
 >The plans call for a building 90 x 290 feet. Locker accommodations for 900 men will be provided for those who are taking gymnasium work. Shower baths in abundance are provided for. A regulation swimming pool, handball courts, a room for visiting athletic teams, a running track with twelve laps to the mile and other features usually found in a first class gymnasium are all included in the plans. The main room will be something like 170 by 80 feet. The ceiling girders in this room will be 24 feet from the floor. All in all, I.S.C. will have the largest and best equipped gym in the state when it is completed.
 >
->The question now comes -- when we may expect the completion of the "gym"? This is rather a difficult question to answer, but in all probability the basket ball games of 1912 will be played in the new building. It is safe to say that at least a year will be needed for the completion of the work. A new gymnasium, an athletic field with concrete wall with concrete bleachers, a field surrounded by a substantial brick or concrete wall with entrance gates in keeping with it all, this is the dream of the students of I.S.C. The dream will come true, but only with the passing of the years.[^fn6]
+>The question now comes -- when we may expect the completion of the "gym"? This is rather a difficult question to answer, but in all probability the basketball games of 1912 will be played in the new building. It is safe to say that at least a year will be needed for the completion of the work. A new gymnasium, an athletic field with concrete wall with concrete bleachers, a field surrounded by a substantial brick or concrete wall with entrance gates in keeping with it all, this is the dream of the students of I.S.C. The dream will come true, but only with the passing of the years.[^fn6]
 
 In April 1911 the Board adopted the following resolution: 
 
@@ -86,7 +86,7 @@ Over the next fifty years various changes and repairs were made, the most signif
 
 A fire in November 1962 caused a loss of $8500 for building repairs and between $8000 and $9000 loss to equipment.[^fn13]
 
-In 1967 a renovation project was undertaken to improve various facilities in the building. The swimming pool was partially filled in to obtain an even water depth of about four feet for the entire pool, a new track was installed replacing the dusty cinder track, and improvements were made in locker and rest rooms. 
+In 1967 a renovation project was undertaken to improve various facilities in the building. The swimming pool was partially filled in to obtain an even water depth of about four feet for the entire pool, a new track was installed replacing the dusty cinder track, and improvements were made in locker and restrooms. 
 
 [^fn10]: Iowa  State Student, December 14,  1915  
 
