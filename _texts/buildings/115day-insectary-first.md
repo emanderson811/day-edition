@@ -22,7 +22,7 @@ The Biennial Report for 1902-03 stated that "these agricultural buildings will b
 
 The exact location of this building has not been determined. In the April 15, 1903, issue of the *ISC Student* it was reported that the trustees "decided to erect in connection with the new greenhouse, an insectarium for the use of the entomological department of the experiment station." 
 
-On November 14, 1910, the *ISC Student* reported: "The removal of the ramshackle building that stood just north of the greenhouse will add a pleasing touch to that part of the campus." Whether that building was the Insectary or the old greenhouse potting house is uncertain. It might instead have been the Fruit House(q.v.). 
+On November 14, 1910, the *ISC Student* reported: "The removal of the ramshackle building that stood just north of the greenhouse will add a pleasing touch to that part of the campus." Whether that building was the Insectary or the old greenhouse potting house is uncertain. It might instead have been the Fruit House (q.v.). 
 
 No other references to the Insectary have been found and it does not appear on any known maps of the campus. 
 
