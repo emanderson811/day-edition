@@ -14,7 +14,7 @@ publication-date: 1980
 ---
 ---
 
-The legislature appropriated $150,000 for a new engineering building early in 1900. In May the trustees determined to invite architects to submit drawings in a competition. This is the only buildjng on the campus for which selection of the architect was by competition based on design. Because of that unique procedure the rules of the competition are included here:[^fn1] 
+The legislature appropriated $150,000 for a new engineering building early in 1900. In May the trustees determined to invite architects to submit drawings in a competition. This is the only building on the campus for which selection of the architect was by competition based on design. Because of that unique procedure the rules of the competition are included here:[^fn1] 
 
 >1. Cost of Building. The cost, including heating, lighting, and plumbing shall not exceed $150,000. 
 >
