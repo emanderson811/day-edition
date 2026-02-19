@@ -27,7 +27,7 @@ Professor of Chemistry, Thomas E. Pope, built this house on the south side of wh
   </tr>
   <tr>
     <td style="padding-right: 10px;">1898 - 1936</td>
-    <td style="padding-left: 10px;">Alvin B.. Noble</td>
+    <td style="padding-left: 10px;">Alvin B. Noble</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">1937 - 1944</td>
