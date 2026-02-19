@@ -20,7 +20,7 @@ The Atomic Energy Commission proposed this building in 1951 and requested that l
 
 Bids for equipment items -- an extrusion press, rolling mill, laboratory equipment and elevator -- and for the storm sewer extension, were taken by the university under separate contracts, although all costs were reimbursed by the Atomic Energy Commission. 
 
-A machine shop addition on the north side of the building was constrcted in 1966-67. [^fn4]
+A machine shop addition on the north side of the building was constructed in 1966-67. [^fn4]
 
 [^fn1]:  Minutes, April 12-13,  1951  
 
