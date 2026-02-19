@@ -18,7 +18,7 @@ publication-date: 1980
 
 The first recorded reference to this building appeared in the 21st Biennial Report (July 1, 1903 to June 30, 1905): 
 
->Among our needs for additional buildings one of the most urgent is that of a building to be used as an Animal Husbandry laboratory. A building of this kind would serve a most useful prupose in connection with both the instruction and research work of the College and Experiment Station. 
+>Among our needs for additional buildings one of the most urgent is that of a building to be used as an Animal Husbandry laboratory. A building of this kind would serve a most useful purpose in connection with both the instruction and research work of the College and Experiment Station. 
 
 It was not until 1913 that the building was approved.[^fn1] Two years later "The Board Architect was instructed to prepare tentative plans."[^fn2] Final plans were approved in August 1916[^fn3] and the decision was made to have the building erected by Supt. Sloss. Work was started in September of that year and completed in December 1917. 
  
@@ -32,7 +32,7 @@ It was not until 1913 that the building was approved.[^fn1] Two years later "The
 >
 >Killing and working with meats will start immediately after the holidays under the direction of Prof. J.D. Helser. The work will be carried on from then on until the end of the semester. This semester there is only one class in meats and meat cutting but next semester more work will be given to give all classes the advantage of the new building and equipment.
 >
->The building will be used also to assist in the better instruc tion during the short course. All of the killing for the short course banquet will be done in this building. The stock will first be judged on foot and later killed... [^fn4]
+>The building will be used also to assist in the better instruction during the short course. All of the killing for the short course banquet will be done in this building. The stock will first be judged on foot and later killed... [^fn4]
  
 The original building is well described in a story in the March 28, 1918, edition of the *Iowa State Student*: 
 
