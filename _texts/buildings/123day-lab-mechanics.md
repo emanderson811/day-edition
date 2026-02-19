@@ -31,7 +31,7 @@ publication-date: 1980
 
 The contract for the original Engineering Hall was awarded in July 1882 to V. Tomlinson in the amount of $4890, just slightly below the $5000 appropriation. Even before the building was completed in the fall of 1883 it was recognized that it was too small for the growing engineering demands, and a request to the legislature was made for funds for an addition. 
 
-The addition, completep in 1885, is the present wing on the south extending to the west. 
+The addition, completed in 1885, is the present wing on the south extending to the west. 
 
 Remodeling of the basement in 1898-99 provided facilities for a hydraulics laboratory. 
 
