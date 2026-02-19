@@ -22,16 +22,54 @@ A temporary porch was built in 1914 and in 1920 major repairs and improvements w
  
 Occupants of the house have been: 
 
-|--|--|
-|1883 - 1898 | Herbert Osborn |
-|1899 - 1914 | Henry E. Summers |
-|1915 - 1916 | Warren H. Meeker | 
-|1917 - 1919 | Henry E. Summers |
-|1920 - 1922 | Hazel Harwood | 
-|1923 - 1928 | Julia W. Stanton | 
-|1929 - 1932 | Black | 
-|1933 - 1935 | Charles S. Gwynne | 
-|1936 - 1967 | Boyne H. Platt |  
-|1968 - 1974 | Foreign Student Services | 
-|1975 - 1976 | Student Alumni Assoc. & Landscape Arch. | 
-|1976 - | Honors Program |
+<table>
+ <tr>
+  <td>1883 - 1898</td>
+  <td>Herbert Osborn</td>
+ </tr>
+ <tr>
+  <td>1899 - 1914</td>
+  <td>Henry E. Summers</td>
+ </tr>
+ <tr>
+  <td>1915 - 1916</td>
+  <td>Warren H. Meeker</td>
+ </tr>
+ <tr>
+  <td>1917 - 1919</td>
+  <td>Henry E. Summers</td>
+ </tr>
+ <tr>
+  <td>1920 - 1922</td>
+  <td>Hazel Harwood</td>
+ </tr>
+ <tr>
+  <td>1923 - 1928</td>
+  <td>Julia W. Stanton</td>
+ </tr>
+ <tr>
+  <td>1929 - 1932</td>
+  <td>Black</td>
+ </tr>
+ <tr>
+  <td>1933 - 1935</td>
+  <td>Charles S. Gwynne</td>
+ </tr>
+ <tr>
+  <td>1936 - 1967</td>
+  <td>Boyne H. Platt</td>
+ </tr>
+ <tr>
+  <td>1968 - 1974</td>
+  <td>Foreign Student Services</td>
+ </tr>
+ <tr>
+  <td>1975 - 1976</td>
+  <td>Student Alumni Assoc. & Landscape Arch.</td>
+ </tr>
+ <tr>
+  <td>1976 - </td>
+  <td>Honors Program</td>
+ </tr>
+</table>
+
