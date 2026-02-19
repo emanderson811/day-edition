@@ -23,7 +23,7 @@ Prior to the 1960's student housing provided by the institution had always clear
 >
 >One thousand, two hundred men from one residence hall will share common dining, study and recreation facilities with 200 women from another hall by 1966, Schilletter said. These residence halls will be located on the intramural field at Lincolnway and Beech Avenue.
 
-By August 1964 the project had reached a more positive planning stage and the architect had been retained, The project description for the 
+By August 1964 the project had reached a more positive planning stage and the architect had been retained. The project description for the 
 first unit included the following statement: 
 
 >The proposed building is the first structure of a complex of residence halls to be located east of the present women's dormitory area and north of Lincoln Way. The complex is designed to permit continued growth, in increments of about 500 students, and when fully developed could provide housing and food service for approximately 3000 to 3500.[^fn1] 
