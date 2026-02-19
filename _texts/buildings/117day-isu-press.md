@@ -42,7 +42,7 @@ Plans for the east wing addition had been started by Fitzpatrick in 1951 but it 
 
 In 1964 plans were developed for an extension of the original building to the south, providing a completely new front entrance as well as new office space on the ground and main floors. That construction was finished early in 1966. 
 
-Title to the land on which the building is located was transferred from the State to the Corporationon April 11, 1955, in order to satisfy the legal requirements in negotiating a bank loan for the building construction.[^fn4] Title will revert to the State when the corporation is free of indebtedness on building costs.
+Title to the land on which the building is located was transferred from the State to the Corporation April 11, 1955, in order to satisfy the legal requirements in negotiating a bank loan for the building construction.[^fn4] Title will revert to the State when the corporation is free of indebtedness on building costs.
 
 [^fn3]: Minutes, December 13-14, 1956
 
