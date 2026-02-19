@@ -59,9 +59,9 @@ In March 1947 a lease was executed for the building site, which had been determi
 
 >Payment of the above projects to be out of funds furnished by the Atomic Energy Commission.[^fn2] 
 
-During 1948 contracts for the laboratory equipment and for an inter communicating system were entered into. 
+During 1948 contracts for the laboratory equipment and for an intercommunicating system were entered into. 
 
-The cornerstone was laid in a dedicatory service ori May 14, 1948.[^fn3] 
+The cornerstone was laid in a dedicatory service on May 14, 1948.[^fn3] 
 
 The building was completed in 1949. 
 
