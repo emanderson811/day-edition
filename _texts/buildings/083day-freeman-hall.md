@@ -22,7 +22,7 @@ publication-date: 1980
 ---
 ---
 
-Increasing enrollments of women made necessary additional housing "located in buildings that are entirely under college control." [^fn1] Tentative plans for "two additional units to the dormitory for women" were presented to the Board at the February 1915 meeting and at the June meeting of that year the architect was instructed to prepare final plans arid specifications. The construction award was made in September. Contracts for heating and plumbing equipment were approved in November. 
+Increasing enrollments of women made necessary additional housing "located in buildings that are entirely under college control." [^fn1] Tentative plans for "two additional units to the dormitory for women" were presented to the Board at the February 1915 meeting and at the June meeting of that year the architect was instructed to prepare final plans and specifications. The construction award was made in September. Contracts for heating and plumbing equipment were approved in November. 
 
 The contractor went into bankruptcy in March 1916 and work on the building was temporarily interrupted. Construction was then resumed under the direction of Superintendent Sloss who completed work by September.[^fn2] The building was then named East Hall. 
 
