@@ -25,7 +25,7 @@ publication-date: 1980
 ---
 ---
 
-The inadequacy of space in Margaret Hall and North Hall for "Domestic Economy" was first expressed in the Biennial Report for 1902-03. How ever, it was 1909 before funds became available. In July of that year the architect was directed to prepare detailed plans for the Domestic Technology Building.[^fn1] Plans were approved in December and the construction contract was awarded in January 1910, in the amount of $57,900, not including heating, plumbing or lighting.[^fn2] 
+The inadequacy of space in Margaret Hall and North Hall for "Domestic Economy" was first expressed in the Biennial Report for 1902-03. However, it was 1909 before funds became available. In July of that year the architect was directed to prepare detailed plans for the Domestic Technology Building.[^fn1] Plans were approved in December and the construction contract was awarded in January 1910, in the amount of $57,900, not including heating, plumbing or lighting.[^fn2] 
 
 The building was described in the *I.S.C. Student* on March 28, 1910: 
 
@@ -35,7 +35,7 @@ The building was described in the *I.S.C. Student* on March 28, 1910:
 
 >The Domestic Technology Building for which ground was broken a few weeks ago is to be 56 feet by 181 feet, and 42 feet in height. It is to have three floors. The first or basement story is 11 feet high, and will contain reading rooms, locker room, laundry and recitation room. The second story is 13 feet high and will contain offices, sewing laboratory, and textile room. The third story is 12 feet high and will contain foods laboratory, dining rooms, reception room and the domestic art department. There will be a toilet room on each floor. 
 >
->The outside walls are to be of Acme red faced bricks, trimmed with dark pavers. All other trimmings not of dark pavers are to be of terracotta. The plans call for a forced system of Ventilation... 
+>The outside walls are to be of Acme red faced bricks, trimmed with dark pavers. All other trimmings not of dark pavers are to be of terracotta. The plans call for a forced system of ventilation... 
 >
 >One feature new at I.S.C. is in the concrete floors. They are 11 inches thick and supported by reinforced concrete beams. 
 
@@ -57,7 +57,7 @@ Funds in the amount of $500,000 were made available in late 1923[^fn6] and the a
 
 [^fn6]:  Minutes,  October 23,  1923  
 
-The design of the new building incorporated the then existing building as its west wing with a new center section and an east wing of the same size as the west one. The new building was to be faced with limestone and the west wing would receive a matching facing over the original brick. The west wing was not parallel to the street on the north. In the new plans the central section was built parallel to the street while the east wing was set at a slight angle to make it symmetrical with the west wing. Construction began about the first of March 1925. A cornerstone laying ceremony was held on May 9. The building was completed 1ust a year later and dedication took place on June 11, 1926. The auditorium had been designated the Catherine J. MacKay Auditorium by the Board in March 1926.[^fn7] In 1957 the building as a whole was given the name MacKay Hall.[^fn8]. 
+The design of the new building incorporated the then existing building as its west wing with a new center section and an east wing of the same size as the west one. The new building was to be faced with limestone and the west wing would receive a matching facing over the original brick. The west wing was not parallel to the street on the north. In the new plans the central section was built parallel to the street while the east wing was set at a slight angle to make it symmetrical with the west wing. Construction began about the first of March 1925. A cornerstone laying ceremony was held on May 9. The building was completed just a year later and dedication took place on June 11, 1926. The auditorium had been designated the Catherine J. MacKay Auditorium by the Board in March 1926.[^fn7] In 1957 the building as a whole was given the name MacKay Hall.[^fn8]. 
 
 An addition to the building had been considered in 1945, but it was ten years later before funding became available with a $950,000 appropriation. [^fn9] 
 
