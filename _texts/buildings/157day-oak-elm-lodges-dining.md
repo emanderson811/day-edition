@@ -40,7 +40,7 @@ The new buildings were officially named at the September 15, 1920, Board meeting
 
 >The two west dormitories to be known as Elm Lodge, the two east dormitories to be known as Oak Lodge, the dining room on the north to be known as North Hall, and the entire group of temporary dormitories to be known as the Lodges.
 
-In September 1930, the Iowa State Student reported that $42000 had been spent on the repair and painting of the Lodges during the past summer. The following year adequate housing for women was provided elsewhere and a group of thirty men moved into the east wing of Oak Lodge on a cooperative aystem. A couple of years later 120 men were occupying the Lodges.[^fn2] 
+In September 1930, the Iowa State Student reported that $42000 had been spent on the repair and painting of the Lodges during the past summer. The following year adequate housing for women was provided elsewhere and a group of thirty men moved into the east wing of Oak Lodge on a cooperative system. A couple of years later 120 men were occupying the Lodges.[^fn2] 
 
 By 1935, principally as a result of the Depression, various government programs had been established on the campus. That fall these several offices were moved into Elm Lodge.[^fn3] 
 
