@@ -24,7 +24,7 @@ publication-date: 1980
 ---
 ---
   
-Prior to 1925 the Library and its collections had been housed in three different buildings: from 1868-1891 in Old Main; 1891-1914 in Morrill Hall, designed in part as the library; and 1914-1925 in Beardshear Hall because that building was deemed more fire proof than Morrill Hall. 
+Prior to 1925 the Library and its collections had been housed in three different buildings: from 1868-1891 in Old Main; 1891-1914 in Morrill Hall, designed in part as the library; and 1914-1925 in Beardshear Hall because that building was deemed more fireproof than Morrill Hall. 
 
 Requests for a new fireproof building were made as early as in the 1902-03 Biennial Report, and were repeated in subsequent reports. In 1909, March 22, the *ISC Student* reported that 
 
@@ -78,4 +78,4 @@ The first addition to the Library was designed in 1959 and construction contract
 
 Funds of $1,800,000 for a second addition were appropriated by the legislature in 1965. The following year a federal grant was made by the Higher Education Facilities Commission in the amount of $595,300. Contracts for construction were awarded in July 1967. This addition included construction of the multi-tier stacks and also an extension to the west and north of the first addition. It was opened for use in the fall of 1969. 
 
-Continued growth of the Library holdings and the need for additional study and reader space made further expansion of the building a necessity by the mid seventies. In 1978 the Iowa State Foundation made $400,000 available for planning and steps were taken to initiate that work. Architects were selected in January 1979. Contracts for construction of the third addition are expected to be awarded in 1980.
+Continued growth of the Library holdings and the need for additional study and reader space made further expansion of the building a necessity by the mid-seventies. In 1978 the Iowa State Foundation made $400,000 available for planning and steps were taken to initiate that work. Architects were selected in January 1979. Contracts for construction of the third addition are expected to be awarded in 1980.
