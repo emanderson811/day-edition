@@ -37,7 +37,7 @@ The house continued in use by foreign students until it was purposely burned dow
 
 Occupants of the house are listed by Dorothy Kehlenbeck[^fn4] as follows: 
 
-<table padding: 15px>
+<table style="padding: 15px">
  <tr>
   <td>1880 - 1885</td>
   <td>President Welch</td>
