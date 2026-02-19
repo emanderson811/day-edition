@@ -176,7 +176,7 @@ The largest bell also notes that the carillon is dedicated to Margaret McDonald 
 
 The first record of the playing of the chimes appears in the February 20, 1900, copy of the *ISC Student*: 
 
->*The Chimes*
+><u>The Chimes</u>
 >
 >Clear, complete, musical, came the message of the bells as each student, new and old, heard the greeting of the chimes. A new tie is formed and the campus that we all love is still more charming --still more dear to our affections.
 >
