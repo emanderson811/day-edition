@@ -35,7 +35,7 @@ publication-date: 1980
     
 (The Memorial Union Parking Ramp is discussed separately under the heading ["Parking Ramp - Memorial Union."](https://emanderson811.github.io/day-edition/texts/buildings/162day-parking-ramp-mu/)) 
 
-The concept of a memorial to the men who lost their lives In World War I developed almost at the same time the Armistice was signed on November 11, 1918. Various ideas were suggested: a grotto, a piece of sculpture, a park, a gateway, a fountain, a union building.[^fn1] Committees were formed and votes taken to establish preferences. It was not until June 1920 that a firm decision was reached by students, faculty and alumni. The Memorial Union then became the goal of an extended campaign to raise funds for the building. 
+The concept of a memorial to the men who lost their lives in World War I developed almost at the same time the Armistice was signed on November 11, 1918. Various ideas were suggested: a grotto, a piece of sculpture, a park, a gateway, a fountain, a union building.[^fn1] Committees were formed and votes taken to establish preferences. It was not until June 1920 that a firm decision was reached by students, faculty and alumni. The Memorial Union then became the goal of an extended campaign to raise funds for the building. 
 
 The site for the proposed building was chosen only after lengthy discussions extending from 1923 until April 1925, when the present location was dedicated on the 22nd of that month. Other sites seriously considered were the knoll where Friley Hall is now located and the Music Hall (Maples) site, now the new Music Building location. 
 
@@ -55,7 +55,7 @@ On September 23, 1928, the cafeteria line was first put into operation and the f
 
 The west elevator was installed in 1937, a necessity with the opening of the two upper floors.
 
-By 1938 just ten years after the building was opened, the demand for more space had become acute. Three factors entered into the decision to build an extension to the south rather than constructing the north west or northeast corners at that time. These were the need for a larger dance floor, for more space for the Commons dining area and the desire for bowling alleys. The only possible location for these facilities was to the south.[^fn4] Plans were developed to incorporate the South Ball Room, the expanded Commons with the Pine Room and '39 Room, and bowling alleys in the basement. Construction began in the summer of 1938 and was completed the following February. 
+By 1938 just ten years after the building was opened, the demand for more space had become acute. Three factors entered into the decision to build an extension to the south rather than constructing the northwest or northeast corners at that time. These were the need for a larger dance floor, for more space for the Commons dining area and the desire for bowling alleys. The only possible location for these facilities was to the south.[^fn4] Plans were developed to incorporate the South Ball Room, the expanded Commons with the Pine Room and '39 Room, and bowling alleys in the basement. Construction began in the summer of 1938 and was completed the following February. 
 
 When Gold Star Hall was finished in 1928 clear glass was installed in the windows because funds then did not allow for the planned stained glass. Harold W. "Pat" Cummings, '18, was a stained glass craftsman and a veteran of World War I. He was selected to design and execute the construction of the windows and they were completed and the hall was rededicated on June 5, 1943.[^fn5] 
 
