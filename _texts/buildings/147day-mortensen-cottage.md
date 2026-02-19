@@ -26,11 +26,27 @@ Tenants of the house are listed by Dorothy Kehlenbeck[^fn1] as follows:
 
 [^fn1]: Manuscript, 1969 
 
-|--|--|
-|1877 - 1890 | J.L. Budd | 
-|1891 - 1894 | D.A. Kent |
-|1895 - 1903 | J.B. Weems |
-|1904 - 1907 | G.L. McKay |
-|1908 - 1926 | Martin Mortensen |
+<table>
+  <tr>
+    <td>1877 - 1890</td>
+    <td>J.L. Budd</td>
+  </tr>
+  <tr>
+    <td>1891 - 1894</td>
+    <td>D.A. Kent</td>
+  </tr>
+  <tr>
+    <td>1895 - 1903</td>
+    <td>J.B. Weems</td>
+  </tr>
+  <tr>
+    <td>1904 - 1907</td>
+    <td>G.L. McKay</td>
+  </tr>
+  <tr>
+    <td>1908 - 1926</td>
+    <td>Martin Mortensen</td>
+  </tr>
+</table>
 
 The house was razed in 1927 to make room for the new Dairy Industries Building.
