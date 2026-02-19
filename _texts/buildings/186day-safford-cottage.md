@@ -20,7 +20,7 @@ Professor B.H. Hibbard built this two-story and basement house on Lincoln Way ju
 
 In 1912 he sold the house to Miss Ruth B. Safford, instructor in English, who lived in it until September 1923 when it was purchased from her by the College for $5700, including the garage. 
 
-Subsequents occupants were:[^fn1]  
+Subsequent occupants were:[^fn1]  
 
 [^fn1]: D. Kehlenbeck, typed notes 
 
