@@ -72,7 +72,7 @@ In January 1891 the Trustees entered into a formal agreement for construction of
 >
 >3°. To erect suitable platforms for the accommodation of passengers and such stations on the College grounds as will accommodate the traffic and such facilities as the board may require for loading stock or freight. 
 >
->4°. We also ask an agreement from the said Board not to allow or permit the Coliege authorities to run or operate any teams or trains or other conveyances for the carrying of freight, the same to be used as common carriers of passengers or freight between Ames and the College Grounds. 
+>4°. We also ask an agreement from the said Board not to allow or permit the College authorities to run or operate any teams or trains or other conveyances for the carrying of freight, the same to be used as common carriers of passengers or freight between Ames and the College Grounds. 
 >
 >5°. We ask the Board to relinquish the carrying of mail and express and to contract with the said Company for carrying the same. 
 >
@@ -132,7 +132,7 @@ Again, on April 12, 1909, the editor complained:
 
 >The Ames students and townspeople all winter have tried to swallow the poor accommodations offered by the college branch of the Ft. Dodge, Des Moines and Southern electric railway, without giving publicity to their sentiments. Some times the cars are on time, and sometimes not. If waiting at the West Gate or Farm Stations, we stood under the corrugated iron roof­ing, so the cold raw northwest wind could get a strong sweep through our clothing and over the goose flesh. If fortunate enough to have to wait at the Central Station, we danced and kicked about, trying to forget there was no heat in the building, and we said we didn't need lights anyhow. Last Saturday morning, however, was capped the climax, which legalizes the student body to land on the company with both feet, and ten finger nails. The west bound college car met an unloaded baggage car at the Farm Station. Mr. college-car conductor says "Your're imposing on our regular schedule, give us the right of way." Mr. Baggage conductor answers "There's a switch right behind you. Back on­to it and let us pass." Both conductors waited there for half-­an-hour, while passengers with important business suffered the consequences. How long will we submit to the pigheaded stub­born tyranny of the man in the baggage car? 
 
-A change in the interurban approach from Ames was made in the summer of 1914. This new route eliminated the two sharp curves north of the Farm House and brought the track north of the Power Plant ort a line to reach the Osborn Drive section with gradual curves, allowing large engines access to the Transportation Building (now Engineering Research Institute), by means of a spur from the west segment of the Osborn Drive run.[^fn11] Various switches and spurs were installed from time to time as needed for specific college building operations. 
+A change in the interurban approach from Ames was made in the summer of 1914. This new route eliminated the two sharp curves north of the Farm House and brought the track north of the Power Plant on a line to reach the Osborn Drive section with gradual curves, allowing large engines access to the Transportation Building (now Engineering Research Institute), by means of a spur from the west segment of the Osborn Drive run.[^fn11] Various switches and spurs were installed from time to time as needed for specific college building operations. 
 
 [^fn11]: Iowa State Student, Sept. 13,  1914
 
