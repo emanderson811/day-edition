@@ -20,7 +20,7 @@ Increasing enrollments had created a shortage of housing, especially for women, 
 >
 >(2) an experiment in building a non-conventional hall at a low cost per bed. The economy depended largely upon eliminating refinements and reducing room sizes including ceiling heights. 
 
-The decision to build such a structure was reached at the Board meet ing of July 8-9, 1954. The architect was selected the end of that month, bids were received in October and construction began in November of that year.[^fn2] 
+The decision to build such a structure was reached at the Board meeting of July 8-9, 1954. The architect was selected the end of that month, bids were received in October and construction began in November of that year.[^fn2] 
 
 [^fn1]:  Schilletter, 1970 
 
