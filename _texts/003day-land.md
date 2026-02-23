@@ -25,13 +25,13 @@ state.
 
 ## ARBORETUM
 
-During the 19th and early 20th century various references to an arbo­retum have been found. However, those items all referred to areas other than that known today as the Arboretum. The earlier citings are incorporated under the headings Landscaping, Campus Planning or Pammmel Woods.
+During the 19th and early 20th century various references to an arbo­retum have been found. However, those items all referred to areas other than that known today as the Arboretum. The earlier citings are incorporated under the headings Landscaping, Campus Planning or Pammel Woods.
 
 The land which became the Arboretum was acquired by the college in 1924, including the property between Hayward and Sheldon Avenues which is now used as parking space, but was originally included with the College Creek valley westward to State Avenue as part of the proposed Arboretum. The earliest extant plat of the area is dated March 1, 1924. It shows a curving driveway running west from Hayward Avenue, across Sheldon and continuing to State (then Wells) Avenue with a branch turning north to Arbor (then Leek) Street. It is interesting to note that golf links and a golf house are shown on that plan on the south side of College Creek between Sheldon and State.
 
 An article in the *Iowa State Student* on May 20, 1925, outlines the plans for the area at that time: 
 
->The horticulture department has recently acquired several new farms which include the college creek south west of the campus for about a mile and one-quarter. Since the land on the sides of the creek was rough and could not be used for farm lands the area has been given to the landscape department for an arboretum.
+>The horticulture department has recently acquired several new farms which include the college creek southwest of the campus for about a mile and one-quarter. Since the land on the sides of the creek was rough and could not be used for farm lands the area has been given to the landscape department for an arboretum.
 >
 >Part of the old arboretum north of Chemistry and Physics build­ings has already been moved. Several hundred dollars worth of plants including over 500 trees have already been purchased and planted near the creek this spring. Over 1000 more trees have been ordered. The object is to get a background of trees as soon as possible. The dump south of Wesley hall has been filled up with dirt furnished by the city and trees have been planted there.
 >
@@ -188,7 +188,7 @@ The first reference to a lake on campus appeared in the November 19, 1914, editi
 >
 >He gave most of his time to the south part of the campus, which he thinks could be maintained and developed as a park, as has been the policy up to this time. Mr. Simonds thinks it might be possible to make a dam in College Creek a short distance above the new culvert under the interurban line. If his suggestion is carried out there would be a lake about 500 feet long and 100 to 150 feet wide. This would extend nearly to the new concrete bridge at the Welch street entrance and cover most of the low ground which is now in grass.
 
-The "culvert under the interurban" was just a few feet east of Lynn street at Lincoln Way (using current street names).
+The "culvert under the interurban" was just a few feet east of Lynn Street at Lincoln Way (using current street names).
 
 Action was taken quickly, for just a month later the paper carried this report:
 
@@ -198,7 +198,7 @@ Action was taken quickly, for just a month later the paper carried this report:
 
 On January 9, 1915, the paper noted that over 200 people had enjoyed skating on the new pond the previous night. That "pond" was welcomed by the skaters, but it was considerably less elaborate than Mr. Simonds' idea of what the lake should be. 
 
-President Pearson presented the Board of Education, at its meeting on June 15, 1915, letters from Simonds to Noyes and from Noyes to the Board setting forth the concept of a lake. Simonds explained how the work might be accomplished and what needed to be done. Dr. Noyes' let­ter is of particular interest and significance: 
+President Pearson presented the Board of Education, at its meeting on June 15, 1915, letters from Simonds to Noyes and from Noyes to the Board setting forth the concept of a lake. Simonds explained how the work might be accomplished and what needed to be done. Dr. Noyes' letter is of particular interest and significance: 
 >
 >If agreeable to you, I shall be glad to bear the expense of con­structing a lake at the Iowa State College Grounds in the valley south of Dean Stanton's house, substantially in accordance with the accompanying design. If you accept my offer, I should like to have the work prosecuted under the direction of Mr. O. C. Simonds. The making of a lake is, in many respects, like paint­ing a picture, and the same freedom should be given to the one who designs the outlines and shapes the banks that would be given to the painter of a landscape. The work ought to be finished in time for planting the coming fall, and so should be commenced without delay and followed up as outlined in the accompanying discussion and letter signed by said O. C. Simonds. 
 >
@@ -294,7 +294,7 @@ A re-platting of the grounds was made in 1887 and specific areas were allocated 
   <td>130 acres</td>
  </tr>
  <tr>
-  <td>Land occupied by slouphs, creeks, forests, creed bed, bayous, roads, etc.</td>
+  <td>Land occupied by sloughs, creeks, forests, creek bed, bayous, roads, etc.</td>
   <td>300 acres</td>
  </tr>
  <tr>
@@ -364,7 +364,7 @@ In 1908 the line of sycamores was set out along the cinder path be­tween the ca
 
 A new policy in landscape development came in 1909, as recorded in the *ISC Student* on June 7: 
 
->For the coming year Pofessor A. T. Erwin will give his entire time to the ornamental and landscape work of the college and severs his connection with the experiment station work. As a part of this plan he has been made superintendent of public grounds and he is to use the campus as a practical laboratory in connection with the class room work in this subject. 
+>For the coming year Professor A. T. Erwin will give his entire time to the ornamental and landscape work of the college and severs his connection with the experiment station work. As a part of this plan he has been made superintendent of public grounds and he is to use the campus as a practical laboratory in connection with the class room work in this subject. 
 
 Christmas 1914 saw electric lights on the pine tree in front of Beard­shear Hall (then Central) for the first time, and a special program was held on December 20. Through the generosity of Dr. Laverne W. Noyes the services of O. C. Simonds were made available to the college during the years 1915 through 1917. His work in developing Lake La­Verne is covered under that heading. He also worked in an advisory capacity with college personnel in the planting of many trees and shrubs at other locations on the campus. (See ["Campus Planning"](https://emanderson811.github.io/day-edition/texts/009day-campus-planning/) and ["Lake Laverne."](https://emanderson811.github.io/day-edition/texts/003day-land/#lake-la-verne)) Early in 1917 Dr. Noyes proposed construction of a second lake on the campus, to be approximately in the area now used as the parking lot east of Knoll Road and south of Union Drive. That plan never materialized. 
 
@@ -472,7 +472,7 @@ The earliest suggestion for maintaining the area as a practical out­door natura
 >
 >To the Sophomore in botany the arboreal are not as useful as the herbaceous plants. The Sophomore must go beyond the old "two-­mile" limit to find prairie, or woodland plants that are good representatives of what the plant is, as described in the manual. 
 >
->A few distorted dwarfed speciments can be found in the woodland meadows on the farm. 
+>A few distorted dwarfed specimens can be found in the woodland meadows on the farm. 
 >
 >...it is just as essential to the work of the student, to have an arboretum as it is to have a campus, athletic grounds, or ex­perimental farm lands...
 >
@@ -538,11 +538,11 @@ Professor Bessey arrived in 1870. The route he remembered would have taken him n
 
 President Welch's stepdaughter recalled her arrival by the same route in September 1869: "the patient mule team plodded wearily through the mud." [^fn12] 
 
-[^fn12]: Bomb,  1897.
+[^fn12]: Bomb, 1897.
 
 I. P. Roberts, recalling the same year, noted that the kitchen door of the Farm House "faced on what was then the main drive."[^fn13]
 
-[^fn13]: Roberts,  1916.
+[^fn13]: Roberts, 1916.
 
 ### ON-CAMPUS ROADS 
 
@@ -565,7 +565,7 @@ During the 1890's several road changes were made, resulting principal­ly from t
 
 A new campus entrance road with a bridge across College Creek was de­veloped north from Welch Avenue in 1911. 
 
-Paving of some of the campus roads was started in 1910 on an experi­mental basis sponsored by the Iowa Highway Commission, the U.S. Dept. of Agriculture and "one of the large companies manufacturing artifi­cial asphalt road material." That company donated a carload of the artificial asphalt binder and the work was to be done under the direc­tion of an "expert furnished by the United State Agricultural Depart­ment." [^fn17]
+Paving of some of the campus roads was started in 1910 on an experi­mental basis sponsored by the Iowa Highway Commission, the U.S. Dept. of Agriculture and "one of the large companies manufacturing artifi­cial asphalt road material." That company donated a carload of the artificial asphalt binder and the work was to be done under the direc­tion of an "expert furnished by the United Statez Agricultural Department." [^fn17]
 
 [^fn17]: Biennial Report, 1908-10.
 
@@ -607,7 +607,7 @@ The *Aurora* for June 1892 reported that a "flood broke through the levee near t
 
 "An automobile was seen upon-our highways last Saturday," reported the *ISC Student* on June 12, 1900. And thus a new era opened. 
 
-Maps of the 1890's identify the present Lincoln Way as "Highway from Ames to Boone." A map printed in the *ISC Student* in October 1904 is the earliest item found referring to the road as Boone Street. Its extension eastwdrd in Ames was probably so designated in the original city plat. 
+Maps of the 1890's identify the present Lincoln Way as "Highway from Ames to Boone." A map printed in the *ISC Student* in October 1904 is the earliest item found referring to the road as Boone Street. Its extension eastward in Ames was probably so designated in the original city plat. 
 
 By city ordinance of April 23, 1914, Boone Street east of Sheldon Ave­nue (then Pike Street) was renamed Lincoln Way in recognition of it as a segment of the new transcontinental Lincoln Highway. The name Lin­coln Way was also applied to Pike Street north to what is now Oakland Street (which was then known as Ontario Street). That portion of the highway was more generally referred to as Lincoln Way-North. 
 
@@ -639,7 +639,7 @@ In June 1921 the Board rescinded the 1914 dedication and all further considerati
 
 When the city of Ames agreed to drop its request for an extension of Sixth Street to the campus, in 1921, a plan was developed to extend Ninth Street across the campus north of the railroad to North Road (Stange Road) and thence west to an underpass and connection with Lin­coln Way (now Ontario Street) at the west boundary of the campus. 
 
-The chief engineer of the Iowa Highway Coannission made a study and reported on the Ninth Street and two alternative Thirteenth Street roads to cross the campus. His report, dated July 6, 1923, was pre­sented to the Board that month. The Board and the city subsequently agreed on a route extending Thirteenth and intersecting North Road (Stange) south of Squaw Creek, although the Board had earlier preferred an intersection north of the creek, Final Board approval of the route came on June 17, 1925, and the road was ready for use in the spring of 1926. 
+The chief engineer of the Iowa Highway Commission made a study and reported on the Ninth Street and two alternative Thirteenth Street roads to cross the campus. His report, dated July 6, 1923, was pre­sented to the Board that month. The Board and the city subsequently agreed on a route extending Thirteenth and intersecting North Road (Stange) south of Squaw Creek, although the Board had earlier preferred an intersection north of the creek. Final Board approval of the route came on June 17, 1925, and the road was ready for use in the spring of 1926. 
 
 An ice jam in February 1946 resulted in loss of piling on the Squaw Creek bridge and its resultant closing to traffic. Thirteenth Street thus became unusable as a campus access from Ames until a new bridge and resurfacing of the road was completed in December 1947. The roadway was resurfaced in 1949 and again in 1961. 
 
@@ -731,7 +731,7 @@ A cinder walkway to connect the college and the city was put in on the south sid
 
 [^fn19]: Iowa State Student Sept. 22, 1936
 
-The pedestrian underpass from west Pannnel Court was constructed under the railroad in 1947. The first concrete walks in Pannnel Court were placed in 1955. 
+The pedestrian underpass from west Pammel Court was constructed under the railroad in 1947. The first concrete walks in Pannnel Court were placed in 1955. 
 
 The walk from Hawthorn Court through the underpass was installed in 1962. By 1979 practically all major walks had been built with con­crete, although a few less heavily used routes have only gravel sur­faces. 
 
@@ -748,7 +748,7 @@ The earliest record of student use of trailers for housing appeared in the Septe
 
 Two years later the paper carried an account of "Trailer Town" at West Gate with seven trailers. These were undoubtedly on the west side of Sheldon Avenue but the exact location has not been determined. 
 
-At the time Pammel Court was started on the north side of Panunel Drive in 1946-7, an area in the northwest corner, adjacent to what was then the recreational area, was allocated for privately owned trailers. This was inadequate space for all of the requests and West Court was established in the area now known as Franklin Park on Franklin Avenue south of Lincoln Way. That area had formerly been a C.C.C. camp and the college, in 1944, had purchased four acres and the buildings. The trailer area included some land to the north rented for the pur­pose. At its peak West Court had a total of about 130 units including both trailers and small prefabricated houses. 
+At the time Pammel Court was started on the north side of Pammel Drive in 1946-7, an area in the northwest corner, adjacent to what was then the recreational area, was allocated for privately owned trailers. This was inadequate space for all of the requests and West Court was established in the area now known as Franklin Park on Franklin Avenue south of Lincoln Way. That area had formerly been a C.C.C. camp and the college, in 1944, had purchased four acres and the buildings. The trailer area included some land to the north rented for the pur­pose. At its peak West Court had a total of about 130 units including both trailers and small prefabricated houses. 
 
 The facilities at West Court were described in the *Iowa State Daily Student* on February 12, 1947: 
 
