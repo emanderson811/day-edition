@@ -34,8 +34,8 @@ A number of lengthy reviews of the drawings by the U.S. Public Health Service of
 
 In 1971 the decision was reached to change from the three-level to a two-level building and all plans had to be redrawn. The documents were finally completed and were released to bidders in February 1972. 
 
-Construction contracts for phase 1 (the northwest half of the complex) were awarded in-June 1972. and for phase 2 just a year later. 
+Construction contracts for phase 1 (the northwest half of the complex) were awarded in June 1972 and for phase 2 just a year later. 
 
 Construction of the entire complex was substantially completed in December 1975 and the building was occupied and in full use early in 1976. 
 
-The building houses the several departments of the College of Veterinary Medicine, including the large and small animal clinics, an extensive professionsl library, the Biomedical Engineering facilities and the Veterinary Diagnostic Laboratory.
+The building houses the several departments of the College of Veterinary Medicine, including the large and small animal clinics, an extensive professional library, the Biomedical Engineering facilities and the Veterinary Diagnostic Laboratory.
