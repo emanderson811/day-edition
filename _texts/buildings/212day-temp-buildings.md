@@ -62,7 +62,7 @@ A quonset type building was the first of the temporary buildings erected outside
 
 ## Building "S": 
 
-Erected immediately south of Building "R" this one-story building was also used by the Statistical Laboratory It was razed in 1968. 
+Erected immediately south of Building "R" this one-story building was also used by the Statistical Laboratory. It was razed in 1968. 
 
 Student demonstrations were not uncommon in the late sixties, but one held in 1959 justifies mention as one of the most unusual. The *Iowa State Daily* for April 18 of that year included a story about it: 
 
