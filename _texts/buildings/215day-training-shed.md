@@ -16,7 +16,7 @@ publication-date: 1980
 
 The Athletic Council, in December 1904, submitted a request to the Board of Trustees: 
 
->1.   Permission to build a training shed about 35 x lOO feet, located just south of the water tower. The long way of the shed to run east and west. 
+>1.   Permission to build a training shed about 35 x 100 feet, located just south of the water tower. The long way of the shed to run east and west. 
 >
 >2.   Permission to use such doors and windows, which have accumulated from the wreckage of buildings and are now in charge of the Custodian, as may be found serviceable. 
 >
@@ -30,7 +30,7 @@ The trustees referred the request to the Building and Public Grounds Committees 
 
 [^fn1]: Minutes, December 23, 1904 
 
-That affirmative action was taken quickly is evidenced by the report in the January 25, 1905, issue of the *ISC Student*: "The training shed is practically completed. As soon as the cinders have been put in, training will innnediately commence." On February 1 the paper referred to it as "not a thing of particular beauty." 
+That affirmative action was taken quickly is evidenced by the report in the January 25, 1905, issue of the *ISC Student*: "The training shed is practically completed. As soon as the cinders have been put in, training will immediately commence." On February 1 the paper referred to it as "not a thing of particular beauty." 
 
 In April it was reported to the Board of Trustees that "The lumber of the old Public Grounds barn and the stone in the foundation of the same were turned over to the Athletic Assoc. to be used in the erection of an athletic training shed." The Public Grounds barn referred to is undoubtedly the building elsewhere recorded as the President's Barn. 
 
