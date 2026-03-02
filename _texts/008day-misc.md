@@ -322,7 +322,7 @@ The classes of 1920 through 1923 joined in funding the construction of the colum
 
 The largest memorial on the campus is the Memorial Union which is separately discussed in the section on buildings. Various class and other gifts have been made to the interior of the building. The Scotch pines to the south of the building are dedicated to the men whose lives were lost in World War I. 
 
-A bronze tablet "In memory of Benjamin F. Gue, founding farther of Iowa State College, March 22, 1858" was given by the class of 1923. It is in the northwest section of central campus. 
+A bronze tablet "In memory of Benjamin F. Gue, founding father of Iowa State College, March 22, 1858" was given by the class of 1923. It is in the northwest section of central campus. 
 
 Two granite benches flanking the east doorway of the Library were the gift of the class of 1906 on that class' 50th anniversary. Three granite benches in the north part of central campus mark the 50th an­niversary contribution of the class of 1910. 
 
@@ -378,7 +378,7 @@ By 1915 Station A was feeling growing pains as reported in an article dated Janu
 
 >"We are doing a city business here at Station A," says Benton Stull, "and I don't know of a single post office that tries to get along under conditions similar to ours. These old boxes were shipped here years ago from Carroll where they were dis­carded for more up to date ones. We are cramped terribly for room!" 
 >
->It's about time this flourishing United States government looked into matters around Station A. Does anyone know of a post office that is serving as many individuals, to say nothing of an insti­tution like the college, whith as little equipment as our medieval relic? It keeps three carriers busy constantly carrying the mail about the campus and the Fourth ward, the outgoing mail is enor­mous, the bulletin room sending out as high as twenty mail sacks full in one day, and then the parcel post,--did you ever notice the people strolling into Station A with stuffed laundry bags and suitcases to mail "to the folks?" There are hundreds of them. It often requires a dozen mail sacks a day to hold this class of mail matter alone. 
+>It's about time this flourishing United States government looked into matters around Station A. Does anyone know of a post office that is serving as many individuals, to say nothing of an insti­tution like the college, with as little equipment as our medieval relic? It keeps three carriers busy constantly carrying the mail about the campus and the Fourth ward, the outgoing mail is enor­mous, the bulletin room sending out as high as twenty mail sacks full in one day, and then the parcel post,--did you ever notice the people strolling into Station A with stuffed laundry bags and suitcases to mail "to the folks?" There are hundreds of them. It often requires a dozen mail sacks a day to hold this class of mail matter alone. 
 >
 >Mr. Stull says he known he is not giving the students and resi­dents here the proper service but it is the best that can be done until Uncle Sam can afford a larger building and better equip­ment.--H.C.P. 
 
@@ -388,9 +388,9 @@ Later that year a new agreement with the Post Office Department re­sulted in im
 
 >Improvements valued in the neighborhood of $2,000 have been made in the college postoffice, doubling the efficiency of the office and making it a comparatively easy matter to handle the greatly increased amount of mail that comes and goes from the college students. 
 >
->Four hundred fifty-three modern lock boxes have been installed, the best on the market, according to Postmaster Stull. New filing cases, desks and other office equipment have been put in. Still other t~me saving articles are a distributing case for railroad mail and an up-to-date cancelling machine. A stamping machine is expected to arrive soon. 
+>Four hundred fifty-three modern lock boxes have been installed, the best on the market, according to Postmaster Stull. New filing cases, desks and other office equipment have been put in. Still other time saving articles are a distributing case for railroad mail and an up-to-date cancelling machine. A stamping machine is expected to arrive soon. 
 >
->Three clerks and three carriers are now requii~ed to handle the business. Individual lockers have been provided for the carriers and they have also been equipped with new mail bags. 
+>Three clerks and three carriers are now required to handle the business. Individual lockers have been provided for the carriers and they have also been equipped with new mail bags. 
 >
 >This office with its new equipment has been rented to the United States postoffice department for $700 a year. 
 
@@ -463,7 +463,7 @@ Today both U.S. and campus mail is handled by the University Mail Service, a uni
 
 ## RADIO and TELEVISION<br>WOI - AM-FM - TV 
 
-A "Wireless telegraph station" was operating on the campus in 1913, with Prof. A.H. Hoffman in charge of it.[^fn18] On November 23, 1915, the Iowa State Student noted that "new wireless receiving apparatus is bei~g installed by the college on the new steam laboratory chim­ney" while "the ol~ apparatus will be used to send messages." The messages being sent at that time included weather reports. 
+A "Wireless telegraph station" was operating on the campus in 1913, with Prof. A.H. Hoffman in charge of it.[^fn18] On November 23, 1915, the Iowa State Student noted that "new wireless receiving apparatus is being installed by the college on the new steam laboratory chim­ney" while "the old apparatus will be used to send messages." The messages being sent at that time included weather reports. 
 
 [^fn18]: ISC Student, Oct, 4, 1913
 
@@ -549,7 +549,7 @@ The sign on the north side would have been visible to passengers on the Chicago 
 
 When the next sign was put up has not been determined, but in November 1910 the I.S.C. Student reported that the veterinary buildings were to be erected "west of the 'Iowa State College' sign". In 1911 a reference in the paper was.made to the "dilapidated sign" and ex­pressed concern that its condition would give train passengers a false impression of the college. On December 18, 1911, the paper stated: 
 
->We understand on reliable authority that the present dilapidated sign is soon to be taken down and replaced by a much more attrac­tive structure. The sign will be located nearer the railroad track. The posts will b~ set in cement and the whole structure will be electrified. The work will be done just as soon as weather conditions permit. 
+>We understand on reliable authority that the present dilapidated sign is soon to be taken down and replaced by a much more attrac­tive structure. The sign will be located nearer the railroad track. The posts will be set in cement and the whole structure will be electrified. The work will be done just as soon as weather conditions permit. 
 
 Two years elapsed before more is learned about the sign. On November 11, 1913, the ISC Student records that 
 
@@ -563,11 +563,11 @@ Apparently further delays developed. The next reference to the sign did not appe
 
 The next notice about that sign appeared in the November 7, 1923 issue of the Iowa State Student: 
 
->Along the side of the Chicago & Northwestern railroad tracks, across the road from the Vet buildings, stands a huge sign, "Iowa State College". It is well up in the air and passengers, travel­ing in the day tim~ can see the sign easily. 
+>Along the side of the Chicago & Northwestern railroad tracks, across the road from the Vet buildings, stands a huge sign, "Iowa State College". It is well up in the air and passengers, travel­ing in the day time can see the sign easily. 
 >
 >The expenditure of a few additional dollars would equip the sign with electric lights and the upkeep cost in keeping them lighted during the night would be small in comparison with the additional hundreds who would be able to see the sign. 
 
-When that sign was lighted and when not becomes difficult to determine on the basis of the p~eceding items from the papers. No subsequent reports have been found and it is not possible to say when the sign was ultimately removed. 
+When that sign was lighted and when not becomes difficult to determine on the basis of the preceding items from the papers. No subsequent reports have been found and it is not possible to say when the sign was ultimately removed. 
 
 A sign identifying the college was apparently erected on Lincoln Way sometime prior to 1941 because on October 10 of that year the Iowa State Daily Student carried this article: 
 
@@ -607,13 +607,13 @@ Iowans are accustomed to harsh weather and, except when it results in damage, ac
 
 >The weather has furnished a fruitful topic of conversation this spring; much of the time it has been dry, windy, and cold. There has been one storm, however, as those rooming in the tower can testify. The night of April 19th, the rain fell in torrents, accompanied by wind, hail, and lightning. It beat into the south tower so badly as to leak through the ceilings, down to the sec­ond floor. 
 
-The following year again brought its troubles. In May lightning struck the gas house and started a fire which was soon brought under control. In July a storm resulted in the loss of a chimney on the Chemical Laboratory. In August the Aurora records that "terrible storms and great extremes of heat and cold are making 1881 a year to be remembered0 , and "All around the farm are to be seen the marks of the recent floods. Bridges and fences are gone, and all along the banks of the creek are mounds of debris." 
+The following year again brought its troubles. In May lightning struck the gas house and started a fire which was soon brought under control. In July a storm resulted in the loss of a chimney on the Chemical Laboratory. In August the Aurora records that "terrible storms and great extremes of heat and cold are making 1881 a year to be remembered, and "All around the farm are to be seen the marks of the recent floods. Bridges and fences are gone, and all along the banks of the creek are mounds of debris." 
 
 On April 8, 1882, a cyclone struck across the campus as reported in the Aurora: 
 
 >After completely demolishing the house occupied by Mr. and Mrs. McCarthy, residing about three-fourths of a mile south from the college, and injuring them quite seriously, it then removed a few of the chimneys on the President's new house and entered the college campus from the south side making sad havoc of all that was before it. 
 >
->The first that fell victims to its angry fervor was the aprons and floor of the new bridge, which were lifted bodily from th'eir foundation, leaving the frame work of the bridge undisturbed, and were carried from 8 or 10 rods to the hill north of it, where it plowed a deep furrow into the hillside. The South Hall, now temporarily occupied py Prof. Bessey as a dwelling, and in which Mrs. Welch had her Domestic Economy Laboratory and recitation room was next visited and partially destroyed by having its walls blown down, windows smashed in and chimneys removed. It then seemingly divided, one portion promiscuously tearing up the trees about the lawn, blowing off the chimneys to Prof. Budd's house and partially destroying the Horticultural barn, while the other portion blew the top and body of the bus which was within 50 rods of the college over into the evergreens together with its pas­sengers numbering not less than 10 or 12, among whom were Mrs. Prof. Bessey receiving slight injuries in the face, and Mr. Connell having three of his ribs broken and sustaining other internal injuries which have left him in a very critical condi­tion. It next visited the college, borke up the chapel exercise, smashed a few of the window lights, destroyed the railing on the south tower, removed a few chimneys and then passed to the North Hall, where it joined hands with its fellow and completely ruined the upper part of this large and beautiful brick building. 
+>The first that fell victims to its angry fervor was the aprons and floor of the new bridge, which were lifted bodily from their foundation, leaving the frame work of the bridge undisturbed, and were carried from 8 or 10 rods to the hill north of it, where it plowed a deep furrow into the hillside. The South Hall, now temporarily occupied by Prof. Bessey as a dwelling, and in which Mrs. Welch had her Domestic Economy Laboratory and recitation room was next visited and partially destroyed by having its walls blown down, windows smashed in and chimneys removed. It then seemingly divided, one portion promiscuously tearing up the trees about the lawn, blowing off the chimneys to Prof. Budd's house and partially destroying the Horticultural barn, while the other portion blew the top and body of the bus which was within 50 rods of the college over into the evergreens together with its pas­sengers numbering not less than 10 or 12, among whom were Mrs. Prof. Bessey receiving slight injuries in the face, and Mr. Connell having three of his ribs broken and sustaining other internal injuries which have left him in a very critical condi­tion. It next visited the college, broke up the chapel exercise, smashed a few of the window lights, destroyed the railing on the south tower, removed a few chimneys and then passed to the North Hall, where it joined hands with its fellow and completely ruined the upper part of this large and beautiful brick building. 
 >
 >The damage is estimated to be from $2500 to $3000. Active steps are being taken to replace the buildings in their former condition. The debris is being removed and operation will commence at once. 
 
@@ -625,7 +625,7 @@ Flooding in May of 1892[^fn21] was severe:
 
 [^fn21]: Aurora, June 1892
 
->The heaviest floods of this rainy season came on May 18th. Squaw creek reached the highest point for several years covering the adjacent college fields and inflicting sertous damage to the motor track. The greatest damage there was done by the waves which were caused by a strong northwest wind. The flood broke through the levee near the wagon road between Ames and the col­lege in such a way as to be deflected upon the road in the form of a whirl-pool which washed out a hole eighty feet in diameter and thirty feet deep, occupying the place of the road. The mo­tor was unable to run during the day, and trains on the north and south line of the C. & N. W. were delayed for several hours south of Ames. Notwithstanding the inclement weather nearly all students visited the scene of the flood during the day. 
+>The heaviest floods of this rainy season came on May 18th. Squaw creek reached the highest point for several years covering the adjacent college fields and inflicting serious damage to the motor track. The greatest damage there was done by the waves which were caused by a strong northwest wind. The flood broke through the levee near the wagon road between Ames and the col­lege in such a way as to be deflected upon the road in the form of a whirl-pool which washed out a hole eighty feet in diameter and thirty feet deep, occupying the place of the road. The mo­tor was unable to run during the day, and trains on the north and south line of the C. & N. W. were delayed for several hours south of Ames. Notwithstanding the inclement weather nearly all students visited the scene of the flood during the day. 
 
 The Aurora £or May 1893 records problems that year: 
 
@@ -657,7 +657,7 @@ It was 1944 before another major storm was reported. That one was recorded in th
 >
 >Supplied with enough power for two linotype machines and one press but not enough for lighting, the Daily Student was put out by candlelight last night. 
 >
->Under water for several hours, the motor on a pump which sup­plies water to the generator condenser had to be sent to Des Moines for drying and rewinding. Its return wili make service normal again except for the farm line. Buildings and Grounds staff members have not yet located the cause of the rural power 
+>Under water for several hours, the motor on a pump which sup­plies water to the generator condenser had to be sent to Des Moines for drying and rewinding. Its return will make service normal again except for the farm line. Buildings and Grounds staff members have not yet located the cause of the rural power 
 failure. 
 >
 >Although power for the naval Diesel laboratories was cut off, the navy men set up their own engines and generators, keeping the laboratories well supplied. 
@@ -721,6 +721,6 @@ The first reference found to the term "Victory Bell" appeared in the I.S.C. Stud
 
 Suggestions to move the bell and its housing were recorded in 1923­-24, 1954 and 1955. 
 
-In 1931 a campaign to obtain funds --nickels --from students was successful as a means of financing a much-needed new paint job for the tower. The housing received replacement of some rotten timbers and a re~shingling of the roof in 1955. 
+In 1931 a campaign to obtain funds --nickels --from students was successful as a means of financing a much-needed new paint job for the tower. The housing received replacement of some rotten timbers and a reshingling of the roof in 1955. 
 
 The Victory Bell was moved to a new frame mounting at the new stadium in 1976 where it still is rung for Iowa State victories. The old housing was subsequently razed.
