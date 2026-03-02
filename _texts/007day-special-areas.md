@@ -32,7 +32,7 @@ The Ames Laboratory buildings have all been constructed on land owned by the col
 
 ## IOWA STATE CENTER 
 
-The need for an auditorium on the campus was first expressed by President Beardshear in the 8iennial Report for 1900-01: 
+The need for an auditorium on the campus was first expressed by President Beardshear in the Biennial Report for 1900-01: 
 
 >We have a chapel with a seating capacity of 625 and an enroll­ment of about 1,000 students a term. We are off in a community by ourselves, away from halls and opera houses, so that it is impossible to rent a room adequate for the needs of our public assemblies. A room with a sufficient capacity for the public work and gatherings of the college is an unavoidable demand, but in view of our other needs this matter must go over. 
 
@@ -174,11 +174,11 @@ In December the paper included "an $800 poultry house at the poultry farm in a l
 >
 >During the fall, when the incubators are not in use, candling and grading eggs will be taught. Poultry will be kept at the laboratory and carried thru a two week feeding period under student supervision, after which the proper method of killing farm fowls will be demonstrated. 
 >
->"Iowa State College has long felt the need of such equipment," said President R.A. Pearsort. "We feel that this building will greatly increase the efficiency of our poultry department." 
+>"Iowa State College has long felt the need of such equipment," said President R.A. Pearson. "We feel that this building will greatly increase the efficiency of our poultry department." 
 
 A year later (May 18, 1921) the paper reported additional work at the poultry farm: 
 
->A new poultry building costing $18,000, 10 semi-monitor poultry houses and 25 colony brooder houses will be built immediately at Iowa State to accommodate ex-service men who are being sent to Iowa State to study poultry raising. This plant, which will be part of the college poultry farm, will comprise the most complete poultry equipment at any college in·America, according to H.A. Bittenbender, head of the poultry department. 
+>A new poultry building costing $18,000, 10 semi-monitor poultry houses and 25 colony brooder houses will be built immediately at Iowa State to accommodate ex-service men who are being sent to Iowa State to study poultry raising. This plant, which will be part of the college poultry farm, will comprise the most complete poultry equipment at any college in America, according to H.A. Bittenbender, head of the poultry department. 
 >
 >The main building will be brick; three stories in height, covering a space of 40 by 60 feet and will care for incubators, storage and laboratories. The semi-monitor poultry houses will be 22 by 24 feet and each will accommodate 150 laying hens. The 25 brooding houses will be 10 by 12 feet and will accommodate 5000 young chicks. The college is furnishing the buildings and the poultry for the foundation stock and the United States government is in­stalling the necessary equipment such as incubators, brooders and stoves. 
 >
