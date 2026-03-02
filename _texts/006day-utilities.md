@@ -124,7 +124,7 @@ The Biennial Report for 1929-30 called attention to the need for ex­pansion of 
 
 Ten years later the Biennial Report (1938-40) shows no improvement in conditions:
 
->During the past year a great number of complaints have been re­ceived from residents of the City of Ames living near Squaw Creek below the outlet from the College Sewage Disposal Plant. On account of the overloaded conditions in the plant the treatment of sewage is not complete and it is discharged into the creek at certain times in a condition approaching untreated sewage. In checking the design of the present plant, it is apparent that it was designed for approximately 200,000 gallons per day, Weir readings taken on our main outlet sewer last year indicate that the present flow of sewage ranged from 400,000 to 500,000 gallons per day. In other words, the plant is attempting to treat about twice the flow for which it was designed. 
+>During the past year a great number of complaints have been re­ceived from residents of the City of Ames living near Squaw Creek below the outlet from the College Sewage Disposal Plant. On account of the overloaded conditions in the plant the treatment of sewage is not complete and it is discharged into the creek at certain times in a condition approaching untreated sewage. In checking the design of the present plant, it is apparent that it was designed for approximately 200,000 gallons per day. Weir readings taken on our main outlet sewer last year indicate that the present flow of sewage ranged from 400,000 to 500,000 gallons per day. In other words, the plant is attempting to treat about twice the flow for which it was designed. 
 
 The following year (1941) a joint college-city project was initiated to study and recommend solutions to the problems of sewage disposal for both the college and the city. In 1943 a temporary by-pass sewer was installed to transfer part of the college load to the city system, thus relieving the load on the college plant. An agreement with the city for construction of a new disposal plant was entered into in 1947. Construction contracts were awarded in 1949 and the plant was placed in operation in January 1951.[^fn5] 
 
@@ -200,7 +200,7 @@ Normal maintenance and extensions to new buildings have been made as needs have 
 
 ## STEAM DISTRIBUTION, TUNNELS and CHILLED WATER 
 
-A contract to build a tunnel fran the old Power Station to the new Engineering Hall (Marston Hall), to carry a steam line for heating, was awarded in October 1901.[^fn11] 
+A contract to build a tunnel from the old Power Station to the new Engineering Hall (Marston Hall), to carry a steam line for heating, was awarded in October 1901.[^fn11] 
 
 [^fn11]: ISC Student, Oct. 26, 1901
 
