@@ -14,7 +14,7 @@ publication-date: 1980
 
 ## ATHLETIC FIELDS
 
-The earliest reference found to what could be called an athletic field is seen in the *1897 Bomb* where events of 1884 included the statement. "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the *Aurora* noted that "The Athletic Association has been making improvements on its track." On March 10, 1892, the *IAC Student* reported that "The athletic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
+The earliest reference found to what could be called an athletic field is seen in the *1897 Bomb* where events of 1884 included the statement: "A base ball association was organized to give direction and control to our movements on the diamond." In May 1890 the *Aurora* noted that "The Athletic Association has been making improvements on its track." On March 10, 1892, the *IAC Student* reported that "The athletic grounds will need a great many repairs." Just where those sports were practiced at that time is uncertain. 
 
 In 1892 the Board set aside the large area west of Morrill Hall, consisting of about 12 or 13 acres, for the athletic grounds.[^fn1] Early in 1893 work began on installing an underground tile drainage system in the area and also the operation of leveling the field. 
 
@@ -172,7 +172,7 @@ In 1917 the Minutes for September 21 note that "Superintendent Sloss is authoriz
 
 ### Handball 
 
-The Board Minutes of August 6, 1919, authorized the expenditure of $500 for handball courts. These were built just south of State Gym­nasium. The sport grew in popularity and four additional courts were built in the adjoining area in 1922. Six more courts were added on the east side of the gym in 1931, "to replace the obsolete old ones on the south side of the gym.[^fn12] 
+The Board Minutes of August 6, 1919, authorized the expenditure of $500 for handball courts. These were built just south of State Gym­nasium. The sport grew in popularity and four additional courts were built in the adjoining area in 1922. Six more courts were added on the east side of the gym in 1931, "to replace the obsolete old ones on the south side of the gym."[^fn12] 
 
 [^fn12]: Iowa State Student, Sept. 18, 1931
 
