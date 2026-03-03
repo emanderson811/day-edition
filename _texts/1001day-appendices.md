@@ -50,28 +50,78 @@ publication-date: 1980
 
 ## PRESIDENTS 
 
-|||
-|:-----------|------------------------:|
-|Adonijah S. Welch | May 11, 1868 - Nov. 27, 1883 |
-|Seaman Asahel Knapp | Dec. 1, 1883 - Dec. 5, 1884 |
-|Leigh Smith John Hunt | Feb. 1, 1885 - July 20, 1886 |
-|William Isaac Chamberlain | July 20, 1886 - Nov. 13, 1890 |
-|William Miller Beardshear | July 20, 1891 - Aug. 5, 1902 |
-|Albert Boynton Storms | Sept. 1, 1903 - Aug. 31, 1910 |
-|Raymond Allen Pearson | Sept. 1, 1912 - Aug. 31, 1926 |
-|Raymond Mollyneaux Hughes | Sept. 1, 1927 - March 17, 1936 |
-|Charles Edwin Friley | March 17, 1936 - June 30, 1953 |
-|James H. Hilton | July 1, 1953 - June 30, 1965 |
-|William Robert Parks | July 1, 1965 ­- |
+<table>
+  <tr>
+    <td>Adonijah S. Welch</td>
+    <td>May 11, 1868 - Nov. 27, 1883</td>
+  </tr>
+  <tr>
+    <td>Seaman Asahel Knapp</td>
+    <td>Dec. 1, 1883 - Dec. 5, 1884</td>
+  </tr>
+  <tr>
+    <td>Leigh Smith John Hunt</td>
+    <td>Feb. 1, 1885 - July 20, 1886</td>
+  </tr>
+  <tr>
+    <td>William Isaac Chamberlain</td>
+    <td>July 20, 1886 - Nov. 13, 1890</td>
+  </tr>
+  <tr>
+    <td>William Miller Beardshear</td>
+    <td>July 20, 1891 - Aug. 5, 1902</td>
+  </tr>
+  <tr>
+    <td>Albert Boynton Storms</td>
+    <td>Sept. 1, 1903 - Aug. 31, 1910</td>
+  </tr>
+  <tr>
+    <td>Raymond Allen Pearson</td>
+    <td>Sept. 1, 1912 - Aug. 31, 1926</td>
+  </tr>
+  <tr>
+    <td>Raymond Mollyneaux Hughes</td>
+    <td>Sept. 1, 1927 - March 17, 1936</td>
+  </tr>
+  <tr>
+    <td>Charles Edwin Friley</td>
+    <td>March 17, 1936 - June 30, 1953</td>
+  </tr>
+  <tr>
+    <td>James H. Hilton</td>
+    <td>July 1, 1953 - June 30, 1965</td>
+  </tr>
+  <tr>
+    <td>William Robert Parks</td>
+    <td>July 1, 1965 - </td>
+  </tr>
+</table>
+
 
 ## ARCHITECTS (STAFF) 
 
-| Supervising Architects ||
-|:-----------|------------------------:|
-|1915 - 1946 | Allan Holmes Kimball  |
-|1946 - 1953 | Thomas K.  Fitzpatrick | 
-|1953 - 1962 | Leonard Wolf | 
-|1962 - 1966 | Walter Hotchkiss | 
+<table>
+  <tr>
+    <th>Supervising Architects</th>
+  </tr>
+  <tr>
+    <td>1915 - 1946</td>
+    <td>Allan Holmes Kimball</td>
+  </tr>
+  <tr>
+    <td>1946 - 1953</td>
+    <td>Thomas K. Fitzpatrick</td>
+  </tr>
+  <tr>
+    <td>1953 - 1962</td>
+    <td>Leonard Wolf</td>
+  </tr>
+  <tr>
+    <td>1962 - 1966</td>
+    <td>Walter Hotchkiss</td>
+  </tr>
+</table>
+
 
 |University Architects ||
 |:-----------|------------------------:|
