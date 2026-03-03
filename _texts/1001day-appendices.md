@@ -29,6 +29,25 @@ publication-date: 1980
   </tr>
 </table>
 
+________
+
+<table style="width: 100%;">
+  <tr>
+    <td>State Agricultural College and Model Farm (Informally Iowa Agricultural College IAC)</td>
+    <td style="white-space: nowrap; text-align: right;">1858 – 1898</td>
+  </tr>
+
+  <tr>
+    <td>Iowa State College of Agricultural and Mechanic Arts (ISC)</td>
+    <td style="white-space: nowrap; text-align: right;">1898 – 1959</td>
+  </tr>
+
+  <tr>
+    <td>Iowa State University of Science and Technology (ISU)</td>
+    <td style="white-space: nowrap; text-align: right;">1959 – </td>
+  </tr>
+</table>
+
 
 ## GOVERNING BOARDS 
 
