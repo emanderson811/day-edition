@@ -14,6 +14,14 @@ publication-date: 1980
 
 ## INSTITUTION NAMES
 
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
+
 <table>
   <tr>
     <td>State Agricultural College and Model Farm (Informally Iowa Agricultural College IAC)</td>
@@ -33,6 +41,14 @@ publication-date: 1980
 
 ## GOVERNING BOARDS 
 
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
+
 <table>
   <tr>
     <td>The Board of Trustees</td>
@@ -50,6 +66,14 @@ publication-date: 1980
 
 
 ## PRESIDENTS 
+
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
 
 <table>
   <tr>
@@ -101,6 +125,14 @@ publication-date: 1980
 
 ## ARCHITECTS (STAFF) 
 
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
+
 <table>
   <tr>
     <th>Supervising Architects</th>
@@ -124,6 +156,14 @@ publication-date: 1980
 </table>
 
 
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
+
 <table>
   <tr>
     <th>University Architects</th>
@@ -140,6 +180,14 @@ publication-date: 1980
 
 
 ## LANDSCAPE ARCHITECTS (STAFF)
+
+<head>
+  <style>
+    td:first-child {
+      white-space: nowrap;
+      padding-right: 200px;}
+  </style>
+</head>
 
 <table>
   <tr>
