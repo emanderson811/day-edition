@@ -179,10 +179,10 @@ publication-date: 1980
   <style>
     td:first-child {
       white-space: nowrap;
-      padding-right: 20px;
-    }
+      padding-right: 20px;}
   </style>
 </head>
+
 <table>
   <tr>
     <td nowrap>1909 - 1910</td>
