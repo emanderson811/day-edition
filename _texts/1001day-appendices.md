@@ -14,19 +14,39 @@ publication-date: 1980
 
 ## INSTITUTION NAMES
 
-|||
-|:-------------------------------------------|------------------------:|
-|State Agricultural College and Model Farm (Informally Iowa Agricultural College IAC) | 1858 - 1898 | 
-|Iowa State College of Agricultural and Mechanic Arts (ISC) | 1898 - 1959 |
-|Iowa State University of Science and Technology | 1959 - ­|
+<table>
+  <tr>
+    <td>State Agricultural College and Model Farm (Informally Iowa Agricultural College IAC)</td>
+    <td>1858 - 1898</td>
+  </tr>
+  <tr>
+    <td>Iowa State College of Agricultural and Mechanic Arts (ISC)</td>
+    <td>1898 - 1959</td>
+  </tr>
+  <tr>
+    <td>Iowa State University of Science and Technology (ISU)</td>
+    <td>1959 - </td>
+  </tr>
+</table>
+
 
 ## GOVERNING BOARDS 
 
-|||
-|:------------------------------|-------------------------------------:|
-|The Board of Trustees | March 22, 1858 - March 31, 1909 | 
-|State Board of Education | March 31, 1909 - June 23, 1955 |
-|State Board of Regents | June 23, 1955 ­- |
+<table>
+  <tr>
+    <td>The Board of Trustees</td>
+    <td>March 22, 1858 - March 31, 1909</td>
+  </tr>
+  <tr>
+    <td>State Board of Education</td>
+    <td>March 31, 1909 - June 23, 1955</td>
+  </tr>
+  <tr>
+    <td>State Board of Regents</td>
+    <td>June 23, 1955 - </td>
+  </tr>
+</table>
+
 
 ## PRESIDENTS 
 
