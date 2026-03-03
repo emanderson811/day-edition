@@ -141,50 +141,296 @@ publication-date: 1980
 
 ## LANDSCAPE ARCHITECTS (STAFF)
 
-|       |                          |
-|:-----------|------------------------:|
-|1909 - | A.T. Erwin |
-|1920 - 1923 | F .H. Culley |
-|1923 - 1951 | P.H. Elwood |
-|1951 - 1960 | Ralph R. Rothacker |
-|1960 - 1962 | John R. Fitzsimmons |
-|1960 - 1967 | George W. Cumming |
-|1971 - | John P. Harrod, Jr. |
+<table>
+  <tr>
+    <td>1909 -     </td>
+    <td>A.T. Erwin</td>
+  </tr>
+  <tr>
+    <td>1920 - 1923</td>
+    <td>F.H. Culley</td>
+  </tr>
+  <tr>
+    <td>1923 - 1951</td>
+    <td>P.H. Elwood</td>
+  </tr>
+  <tr>
+    <td>1951 - 1960</td>
+    <td>Ralph R. Rothacker</td>
+  </tr>
+  <tr>
+    <td>1960 - 1962</td>
+    <td>John R. Fitzsimmons</td>
+  </tr>
+  <tr>
+    <td>1960 - 1967</td>
+    <td>George W. Cumming</td>
+  </tr>
+  <tr>
+    <td>1971 -     </td>
+    <td>John P. Harrod, Jr.</td>
+  </tr>
+</table>
+
 
 ## PHYSICAL PLANT PERSONNEL 
 
-|||
-|:-----------|------------------------:|
-|1909 - 1910 | Ben Edwards, Custodian of Public Buildings and Supt. of Repairs and Improvements | 
-|1910 - 1936 | Thomas Sloss, Supt. of Buildings and Grounds |
-|1936 - 1945 | Boyne H. Platt, Supt. of Buildings and Grounds |
-|1945 - 1968 | Ben W. Schaefer, Supt. of Buildings and Grounds Director, Physical Plant |
-|1968 -  | William W. Whitman, Director, Physical Plant |
+<table>
+  <tr>
+    <td>1909 - 1910</td>
+    <td>Ben Edwards, Custodian of Public Buildings and Supt. of Repairs and Improvements</td>
+  </tr>
+  <tr>
+    <td>1910 - 1936</td>
+    <td>Thomas Sloss, Supt. of Buildings and Grounds</td>
+  </tr>
+  <tr>
+    <td>1936 - 1945</td>
+    <td>Boyne H. Platt, Supt. of Buildings and Grounds</td>
+  </tr>
+  <tr>
+    <td>1945 - 1968</td>
+    <td>Ben W. Schaefer, Supt. of Buildings and Grounds Director, Physical Plant</td>
+  </tr>
+  <tr>
+    <td>1968 -     </td>
+    <td>William W. Whitman, Director, Physical Plant</td>
+  </tr>
+</table>
+
 
 ## ENROLLMENTS  
 
-
-
-|Year|Total Enrollment|Women No.|Women %|Graduate No.|Graduate %|Graduate Women No.|Graduate Women %|Married No.| Married %|
-|:---|:----:|:--:|:--:|:--:|:--:|:-----:|:----:|:--:|:--:|-----:|   
-|1870|216|NA|NA|NA|NA|NA|NA|NA|NA|
-|1880|252|NA|NA|3|1.2|NA|NA|NA|NA|
-|1890|336|NA|NA|NA|NA|NA|NA|NA|NA|
-|1900|1062|NA|NA|7|0.7|NA|NA|NA|NA|
-|1910|1562|NA|NA|20|1.3|NA|NA|NA|NA|
-|1920|3584|894|24.9|103|2.9|NA|NA|NA|NA|
-|1925|3780|NA|NA|204|5.4|NA|NA|NA|NA|
-|1930|4318|NA|NA|278|3.7|NA|NA|NA|NA|
-|1935|4412|1161|26.3|352|8.0|NA|NA|NA|NA|
-|1940|6567|2019|30.7|560|8.5|NA|NA|NA|NA|
-|1945|3407|1928|56.6|258|7.6|NA|NA|NA|NA|
-|1950|8135|2066|25.3|1220|15.0|NA|NA|1425|18.4|
-|1955|9176|1900|20.7|972|10.6|NA|NA|1897|21.0|
-|1960|9726|2105|22.6|1300|13.4|127|13.4|1921|19.8|
-|1965|14014|3525|25.2|2124|15.2|291|13.7|2519|18.0|
-|1970|19620|6169|31.4|3021|15.4|603|20.0|3897|19.9|
-|1975|21205|8055|37.9|2990|14.1|787|26.32|3680|17.4|
-|1979|23486|9181|39.1|3342|14.2|1057|31.63|3626|15.7|
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Total Enrollment</th>
+    <th>Women No.</th>
+    <th>Women %</th>
+    <th>Graduate No.</th>
+    <th>Graduate %</th>
+    <th>Graduate Women No.</th>
+    <th>Graduate Women %</th>
+    <th>Married No.</th>
+    <th>Married %</th>
+  </tr>
+  <tr>
+    <td>1870</td>
+    <td>216</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1880</td>
+    <td>252</td>
+    <td></td>
+    <td></td>
+    <td>3</td>
+    <td>1.2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1890</td>
+    <td>336</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1900</td>
+    <td>1062</td>
+    <td></td>
+    <td></td>
+    <td>7</td>
+    <td>0.7</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1910</td>
+    <td>1562</td>
+    <td></td>
+    <td></td>
+    <td>20</td>
+    <td>1.3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1920</td>
+    <td>3584</td>
+    <td>894</td>
+    <td>24.9</td>
+    <td>103</td>
+    <td>2.9</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>3780</td>
+    <td></td>
+    <td></td>
+    <td>204</td>
+    <td>5.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>4318</td>
+    <td></td>
+    <td></td>
+    <td>278</td>
+    <td>3.7</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1935</td>
+    <td>4412</td>
+    <td>1161</td>
+    <td>26.3</td>
+    <td>352</td>
+    <td>8.0</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1940</td>
+    <td>6567</td>
+    <td>2019</td>
+    <td>30.7</td>
+    <td>560</td>
+    <td>8.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1945</td>
+    <td>3407</td>
+    <td>1928</td>
+    <td>56.6</td>
+    <td>258</td>
+    <td>7.6</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1950</td>
+    <td>8135</td>
+    <td>2066</td>
+    <td>25.3</td>
+    <td>1220</td>
+    <td>15.0</td>
+    <td></td>
+    <td></td>
+    <td>1425</td>
+    <td>18.4</td>
+  </tr>
+  <tr>
+    <td>1955</td>
+    <td>9176</td>
+    <td>1900</td>
+    <td>20.7</td>
+    <td>972</td>
+    <td>10.6</td>
+    <td></td>
+    <td></td>
+    <td>1897</td>
+    <td>21.0</td>
+  </tr>
+  <tr>
+    <td>1960</td>
+    <td>9726</td>
+    <td>2105</td>
+    <td>22.6</td>
+    <td>1300</td>
+    <td>13.4</td>
+    <td>127</td>
+    <td>13.4</td>
+    <td>1921</td>
+    <td>19.8</td>
+  </tr>
+  <tr>
+    <td>1965</td>
+    <td>14014</td>
+    <td>3525</td>
+    <td>25.2</td>
+    <td>2124</td>
+    <td>15.2</td>
+    <td>291</td>
+    <td>13.7</td>
+    <td>2519</td>
+    <td>18.0</td>
+  </tr>
+  <tr>
+    <td>1970</td>
+    <td>19620</td>
+    <td>6169</td>
+    <td>31.4</td>
+    <td>3021</td>
+    <td>15.4</td>
+    <td>603</td>
+    <td>20.0</td>
+    <td>3897</td>
+    <td>19.9</td>
+  </tr>
+  <tr>
+    <td>1975</td>
+    <td>21205</td>
+    <td>8055</td>
+    <td>37.9</td>
+    <td>2990</td>
+    <td>14.1</td>
+    <td>787</td>
+    <td>26.32</td>
+    <td>3680</td>
+    <td>17.4</td>
+  </tr>
+  <tr>
+    <td>1979</td>
+    <td>23486</td>
+    <td>9181</td>
+    <td>39.1</td>
+    <td>3342</td>
+    <td>14.2</td>
+    <td>1057</td>
+    <td>31.63</td>
+    <td>3626</td>
+    <td>15.7</td>
+  </tr>
+</table>
 
 Enrollments  are  all for  fall quarter  
 
