@@ -14,14 +14,6 @@ publication-date: 1980
 
 ## INSTITUTION NAMES
 
-<head>
-  <style>
-    td:first-child {
-      white-space: nowrap;
-      padding-right: 200px;}
-  </style>
-</head>
-
 <table>
   <tr>
     <td>State Agricultural College and Model Farm (Informally Iowa Agricultural College IAC)</td>
