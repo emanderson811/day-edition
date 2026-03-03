@@ -179,7 +179,7 @@ publication-date: 1980
   <style>
     td:first-child {
       white-space: nowrap;
-      padding-right: 40px;}
+      padding-right: 80px;}
   </style>
 </head>
 
