@@ -174,14 +174,6 @@ publication-date: 1980
 
 ## PHYSICAL PLANT PERSONNEL 
 
-<head>
-  <style>
-    td:first-child {
-      white-space: nowrap;
-      padding-right: 200px;}
-  </style>
-</head>
-
 <table>
   <tr>
     <td>1909 - 1910</td>
