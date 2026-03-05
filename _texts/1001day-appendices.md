@@ -200,10 +200,10 @@ publication-date: 1980
 
 ## ENROLLMENTS  
 
-<table>
+<table <table align="center">>
   <tr>
     <th>Year</th>
-    <th align="center">Total Enrollment</th>
+    <th>Total Enrollment</th>
     <th>Women No.</th>
     <th>Women %</th>
     <th>Graduate No.</th>
@@ -215,7 +215,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1870</td>
-    <td align="center">216</td>
+    <td>216</td>
     <td></td>
     <td></td>
     <td></td>
@@ -227,7 +227,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1880</td>
-    <td align="center">252</td>
+    <td>252</td>
     <td></td>
     <td></td>
     <td>3</td>
@@ -239,7 +239,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1890</td>
-    <td align="center">336</td>
+    <td>336</td>
     <td></td>
     <td></td>
     <td></td>
@@ -251,7 +251,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1900</td>
-    <td align="center">1062</td>
+    <td>1062</td>
     <td></td>
     <td></td>
     <td>7</td>
@@ -263,7 +263,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1910</td>
-    <td align="center">1562</td>
+    <td>1562</td>
     <td></td>
     <td></td>
     <td>20</td>
@@ -275,7 +275,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1920</td>
-    <td align="center">3584</td>
+    <td>3584</td>
     <td>894</td>
     <td>24.9</td>
     <td>103</td>
@@ -287,7 +287,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1925</td>
-    <td align="center">3780</td>
+    <td>3780</td>
     <td></td>
     <td></td>
     <td>204</td>
@@ -299,7 +299,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1930</td>
-    <td align="center">4318</td>
+    <td>4318</td>
     <td></td>
     <td></td>
     <td>278</td>
@@ -311,7 +311,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1935</td>
-    <td align="center">4412</td>
+    <td>4412</td>
     <td>1161</td>
     <td>26.3</td>
     <td>352</td>
@@ -323,7 +323,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1940</td>
-    <td align="center">6567</td>
+    <td>6567</td>
     <td>2019</td>
     <td>30.7</td>
     <td>560</td>
@@ -335,7 +335,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1945</td>
-    <td align="center">3407</td>
+    <td>3407</td>
     <td>1928</td>
     <td>56.6</td>
     <td>258</td>
@@ -347,7 +347,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1950</td>
-    <td align="center">8135</td>
+    <td>8135</td>
     <td>2066</td>
     <td>25.3</td>
     <td>1220</td>
@@ -359,7 +359,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1955</td>
-    <td align="center">9176</td>
+    <td>9176</td>
     <td>1900</td>
     <td>20.7</td>
     <td>972</td>
@@ -371,7 +371,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1960</td>
-    <td align="center">9726</td>
+    <td>9726</td>
     <td>2105</td>
     <td>22.6</td>
     <td>1300</td>
@@ -383,7 +383,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1965</td>
-    <td align="center">14014</td>
+    <td>14014</td>
     <td>3525</td>
     <td>25.2</td>
     <td>2124</td>
@@ -395,7 +395,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1970</td>
-    <td align="center">19620</td>
+    <td>19620</td>
     <td>6169</td>
     <td>31.4</td>
     <td>3021</td>
@@ -407,7 +407,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1975</td>
-    <td align="center">21205</td>
+    <td>21205</td>
     <td>8055</td>
     <td>37.9</td>
     <td>2990</td>
@@ -419,7 +419,7 @@ publication-date: 1980
   </tr>
   <tr>
     <td>1979</td>
-    <td align="center">23486</td>
+    <td>23486</td>
     <td>9181</td>
     <td>39.1</td>
     <td>3342</td>
