@@ -210,6 +210,11 @@ td {
 .enrollment-table {
   margin-left: auto;
   margin-right: auto;
+}
+
+.enrollment-table th,
+.enrollment-table td {
+  padding: 6px 25px;
   text-align: center;
 }
 </style>
