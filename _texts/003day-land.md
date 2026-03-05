@@ -14,7 +14,7 @@ publication-date: 1980
 
 ## LAND
 
-The original college and farm grounds consisted of a tract of 648 acres purchased from five different owners. That property included the area bounded on the south by Lincoln Way, on the north by a line from Thirteenth Street to Ontario Street, on the east by Riverside Drive (extended north to Thirteenth) and on the west by Sheldon Ave­nue north to the north boundary, plus a ten acre tract between the Sheldon extension and Hyland Avenue from a line about at the north side of the cemetery to Ontario Street. (All names here used are cur­rent street names.)
+The original college and farm grounds consisted of a tract of 648 acres purchased from five different owners. That property included the area bounded on the south by Lincoln Way, on the north by a line from Thirteenth Street to Ontario Street, on the east by Riverside Drive (extended north to Thirteenth) and on the west by Sheldon Avenue north to the north boundary, plus a ten acre tract between the Sheldon extension and Hyland Avenue from a line about at the north side of the cemetery to Ontario Street. (All names here used are current street names.)
 
 That area, plus an additional eight acres (between Sheldon and Hyland south from the cemetery to the diagonal street joining those two streets) acquired in 1936, form what is today thought of as "central campus."
 
@@ -25,7 +25,7 @@ state.
 
 ## ARBORETUM
 
-During the 19th and early 20th century various references to an arbo­retum have been found. However, those items all referred to areas other than that known today as the Arboretum. The earlier citings are incorporated under the headings Landscaping, Campus Planning or Pammel Woods.
+During the 19th and early 20th century various references to an arboretum have been found. However, those items all referred to areas other than that known today as the Arboretum. The earlier citings are incorporated under the headings Landscaping, Campus Planning or Pammel Woods.
 
 The land which became the Arboretum was acquired by the college in 1924, including the property between Hayward and Sheldon Avenues which is now used as parking space, but was originally included with the College Creek valley westward to State Avenue as part of the proposed Arboretum. The earliest extant plat of the area is dated March 1, 1924. It shows a curving driveway running west from Hayward Avenue, across Sheldon and continuing to State (then Wells) Avenue with a branch turning north to Arbor (then Leek) Street. It is interesting to note that golf links and a golf house are shown on that plan on the south side of College Creek between Sheldon and State.
 
@@ -33,25 +33,25 @@ An article in the *Iowa State Student* on May 20, 1925, outlines the plans for t
 
 >The horticulture department has recently acquired several new farms which include the college creek southwest of the campus for about a mile and one-quarter. Since the land on the sides of the creek was rough and could not be used for farm lands the area has been given to the landscape department for an arboretum.
 >
->Part of the old arboretum north of Chemistry and Physics build­ings has already been moved. Several hundred dollars worth of plants including over 500 trees have already been purchased and planted near the creek this spring. Over 1000 more trees have been ordered. The object is to get a background of trees as soon as possible. The dump south of Wesley hall has been filled up with dirt furnished by the city and trees have been planted there.
+>Part of the old arboretum north of Chemistry and Physics buildings has already been moved. Several hundred dollars worth of plants including over 500 trees have already been purchased and planted near the creek this spring. Over 1000 more trees have been ordered. The object is to get a background of trees as soon as possible. The dump south of Wesley hall has been filled up with dirt furnished by the city and trees have been planted there.
 >
 >At the present time the grounds include over 100 acres and the plans for development have a specimen garden near the entrance of Hayward, south of Lincoln way. It is planned that every type of plant that will grow in this region will be planted and used for class study in this garden. 
 >
->A road will follow the creek to the back of the arboretum. The land will be developed with park-like treatment including borders of trees, shrubs, lakes and flowers. The far end will include only native plants. These will be planted in a natural develop­ment. All of it will be very informal except the specimen gar­den at the entrance.
+>A road will follow the creek to the back of the arboretum. The land will be developed with park-like treatment including borders of trees, shrubs, lakes and flowers. The far end will include only native plants. These will be planted in a natural development. All of it will be very informal except the specimen garden at the entrance.
 
 Elaborate plans for the Arboretum were prepared at various dates over the next decade, particularly by Rothacker, who used the term "Curator" as his title on the plans. Most of those studies included an area along the creek valley extending a half mile west of State Avenue, as well as that acreage previously referred to between Hayward and State. A December 14, 1929, story in the college paper records some of Rothacker's ideas: 
 
->"'The Ames Arboretum' is suggested as the name of the botanical garden and arboretum now under development at Iowa State College," states Prof. R.R. Rothacker, of the Landscape Architecture De­partment.
+>"'The Ames Arboretum' is suggested as the name of the botanical garden and arboretum now under development at Iowa State College," states Prof. R.R. Rothacker, of the Landscape Architecture Department.
 > 
 >"Four years ago," says Professor Rothacker, "the plan for the garden was outlined which, when completed, will cover an area of 50 acres. The site chosen is in the College Creek valley, one mile west of the corner of Lincoln Way and Hayward Avenue." 
 >
->The arboretum will serve as an outdoor laboratory for several college departments, containing testing grounds and model arrange­ments of plant materials in planting composition and design. A series of soil tests for acidity have been made thruout the area, and the planting is being arranged as it is best suited to the condition of the soil, as well as to the topography of the land.
+>The arboretum will serve as an outdoor laboratory for several college departments, containing testing grounds and model arrangements of plant materials in planting composition and design. A series of soil tests for acidity have been made thruout the area, and the planting is being arranged as it is best suited to the condition of the soil, as well as to the topography of the land.
 >
 >Altho the prime function of the arboretum will be for research and survey, the park should be one of the most beautiful areas around the campus, Rothacker says. The grading and design for a formal garden have been completed, and the garden will be one of the important features of the arboretum. 
 >
 >Hundreds of woody plants have been collected from all over the world and will be placed in the garden. Many of the plants have been secured from the Arnold Arboretum, in Boston, one of the largest arboretums in the world. 
 >
->There are very few arboretums in the United States, because of the great length of time, the large amount of money, and the technical knowledge necessary to create such a project. Other arboretums are being developed at Pennsylvania State College, Cornell University and the University of Michigan. The govern­ment is planning to finance the development of such a garden near Washington, D.C., on a site adjacent to the Anacostia river. 
+>There are very few arboretums in the United States, because of the great length of time, the large amount of money, and the technical knowledge necessary to create such a project. Other arboretums are being developed at Pennsylvania State College, Cornell University and the University of Michigan. The government is planning to finance the development of such a garden near Washington, D.C., on a site adjacent to the Anacostia river. 
 
 The development of those early plans was slow. Some help came in 1934 with federal participation in a Civil Works Administration project, described in the *Iowa State Student* on February 10 of that year: 
 >
@@ -61,13 +61,13 @@ The development of those early plans was slow. Some help came in 1934 with feder
 >
 >An herbaceous garden, used in growing various kinds of grasses, grains, herbs and other small plants, will be located east of the cemetery at the spot now used as a forestry nursery. About 45 acres of heavily wooded land just north of the campus will be used as a game preserve. 
 >
->The arboretum is not a new project. Plans for an introductory garden were developed in the Landscape Architecture Department in 1924. So many departments were interested in such a project and would be served by it that it has become an all-college pro­ject supervised by a general committee of several departments. 
+>The arboretum is not a new project. Plans for an introductory garden were developed in the Landscape Architecture Department in 1924. So many departments were interested in such a project and would be served by it that it has become an all-college project supervised by a general committee of several departments. 
 >
->Work has been started under the direction of George Godfrey, agricultural assistant to Pres. R. M. Hughes, and will be taken up more extensively in the spring. CWA financial help is ex­pected and CCC workers probably will be employed on the job. Cooperating with the college is the Federal Bureau of Plant Industry. 
+>Work has been started under the direction of George Godfrey, agricultural assistant to Pres. R. M. Hughes, and will be taken up more extensively in the spring. CWA financial help is expected and CCC workers probably will be employed on the job. Cooperating with the college is the Federal Bureau of Plant Industry. 
 >
->Working in conjunction with Mr. Godfrey and the general commit­tee are R.R. Rothacker of the Landscape Architecture Depart­ment, chairman and curator; J.M. Aikman of the Botany Depart­ment; T. J. Maney of the Horticulture Department and J. A. Larsen of the Forestry Department. On the committee for the herbaceous garden are J. N. Martin, Botany Department, chairman and curator; E. C. Volz, Horticulture Department; and J.C. Eldredge of the Farm Crops Department. J. E. Guthrie, professor of zoology, has charge of the Wild Life Preserve. 
+>Working in conjunction with Mr. Godfrey and the general committee are R.R. Rothacker of the Landscape Architecture Department, chairman and curator; J.M. Aikman of the Botany Department; T. J. Maney of the Horticulture Department and J. A. Larsen of the Forestry Department. On the committee for the herbaceous garden are J. N. Martin, Botany Department, chairman and curator; E. C. Volz, Horticulture Department; and J.C. Eldredge of the Farm Crops Department. J. E. Guthrie, professor of zoology, has charge of the Wild Life Preserve. 
 
-By 1938 the paper could report on some accomplishment and on contin­uing dreams for the future:[^fn1] 
+By 1938 the paper could report on some accomplishment and on continuing dreams for the future:[^fn1] 
 
 [^fn1]: Iowa State Daily Student, December 13, 1938.
 
@@ -77,26 +77,25 @@ By 1938 the paper could report on some accomplishment and on contin­uing dreams
 >
 >Aided by the local CCC camp and NYA help from the college the work is carried on as funds are appropriated, according to R.R. Rothacker, professor of landscape architecture and chairman of the committee in direct charge of the project. 
 >
->Ten foot-bridges, a concrete culvert and a cinder path stretching the entire length have been constructed to date. The creek has been widened in three places by dams built for erosion control. Work is also being carried on to have the ground ready for plant­ing as funds are appropriated. Thus far, only a few of the final forestry plots have been actually established. 
+>Ten foot-bridges, a concrete culvert and a cinder path stretching the entire length have been constructed to date. The creek has been widened in three places by dams built for erosion control. Work is also being carried on to have the ground ready for planting as funds are appropriated. Thus far, only a few of the final forestry plots have been actually established. 
 
 A modification in the use of a portion of the area is reported in the *Iowa State Daily Student* on September 27, 1940: 
 
 >Iowa State herbaceous gardens, covering 5 acres near State and Leek streets, is one of the show places at the college rapidly becoming better known, according to its curator, Dr. J. N. Martin. 
 >
->This plot of ground, formerly used by the college Horticulture and Forestry Departments as a nursery, has for the last 3 years been under the supervision of a joint committee on institutional gardens and parks, of which George Godfrey, director of Agricul­tural Relations, is chairman. 
+>This plot of ground, formerly used by the college Horticulture and Forestry Departments as a nursery, has for the last 3 years been under the supervision of a joint committee on institutional gardens and parks, of which George Godfrey, director of Agricultural Relations, is chairman. 
 >
 >Varieties of herbs and grasses and oats, wheat, rye and corn from all corners of the world, are planted and tested for climatic and soil reactions. Decorative grasses as well as those used for pasture and hay are sown in the plots. Bent grass for golfing greens, blue grass for fairways and soil binders grow under usual Iowa weather conditions. 
 >
 >It has taken much of the 3 years of development to regrade and resoil this acreage, which replaces the arboretum now located on 70 acres across State street. 
 >
->Yet in this time grasses have been produced which vary in height from 1 inch to 20 feet. Classes studying farm crops, botany and horticulture use the gardens in laboratory fashion to search out the results of such precise cultivation of wild species as Dr. 
-Martin works with daily.
+>Yet in this time grasses have been produced which vary in height from 1 inch to 20 feet. Classes studying farm crops, botany and horticulture use the gardens in laboratory fashion to search out the results of such precise cultivation of wild species as Dr. Martin works with daily.
 >
->Weeds are given a special growing area, so that farmers can see what they are and how they multiply. Among the blocks are straw­berry plants, hops, blackberries, and raspberries, with a plot devoted to wild asters, boneset, medicinal plants, such as Gimson weed and helinum. The north section is colorful with flowers in full bloom. 
+>Weeds are given a special growing area, so that farmers can see what they are and how they multiply. Among the blocks are strawberry plants, hops, blackberries, and raspberries, with a plot devoted to wild asters, boneset, medicinal plants, such as Gimson weed and helinum. The north section is colorful with flowers in full bloom. 
 
 Over the succeeding years little mention is made of any activity in the arboretum. 
 
-On July 8, 1965 the *Iowa State Daily* tells of the then current condi­tions: 
+On July 8, 1965 the *Iowa State Daily* tells of the then current conditions: 
 
 >Hopes for the building of an arboretum, originally scheduled for completion in 1942, are still alive in the various natural science departments on campus. 
 >
@@ -104,19 +103,19 @@ On July 8, 1965 the *Iowa State Daily* tells of the then current condi­tions:
 >
 >The piece of land is one of the few natural undisturbed areas owned by the University which still exists within walking dis­tance of central campus. 
 >
->Development of this area would help solve the problem of lack of outdoor teaching laboratories for the botany, horticulture, land­scape architecture, forestry, and zoology departments. 
+>Development of this area would help solve the problem of lack of outdoor teaching laboratories for the botany, horticulture, landscape architecture, forestry, and zoology departments. 
 >
 >The original arboretum was to cover 70 acres and was to be planted with 2,450 species and varieties of trees and shrubs native to the Midwest and others adapted to this region. 
 >
->The first work was done by the local Civilian Conservation Corps and National Youth Association with help from the college. Ten footbridges, a concrete culvert, and a cinder path were con­structed. A creek, which flows through the land, was widened in three places by dams built for erosion control. Only a few of the planned 54 forestry plots were established. 
+>The first work was done by the local Civilian Conservation Corps and National Youth Association with help from the college. Ten footbridges, a concrete culvert, and a cinder path were constructed. A creek, which flows through the land, was widened in three places by dams built for erosion control. Only a few of the planned 54 forestry plots were established. 
 >
 >Included in the completed plantings were groups of pines, juni­pers and other evergreens now a part of the Maney Memorial Park. This memorial was established to honor the late Thomas Maney, professor of horticulture at Iowa State. Maney took active par­ticipation in the development of the original arboretum plans. 
 >
->Work was discontinued some years ago apparently due to lack of funds, but plans are again stirring in hopes of finally complet­ing the project.
+>Work was discontinued some years ago apparently due to lack of funds, but plans are again stirring in hopes of finally completing the project.
 
 Two years later the paper reported on the deplorable conditions of the Arboretum:[^fn2]
 
->"It's the shame of Iowa State." That's how Prof. John M. Aikman, botany, describes the University arboretum. Aikman, who was one of the arboretum's major enthusiasts, pointed out the arboretum's five bridges and memorials are "going to Pot." He condemned the University as lacking the "missionary spirit" necessary to gain better coordination within the departments con­cerned. "If you look at Wisconsin's arboretum and then come back here it makes you sick." Aikman wondered why more hasn't been done considering the number of people interested in its develop­ment. 
+>"It's the shame of Iowa State." That's how Prof. John M. Aikman, botany, describes the University arboretum. Aikman, who was one of the arboretum's major enthusiasts, pointed out the arboretum's five bridges and memorials are "going to Pot." He condemned the University as lacking the "missionary spirit" necessary to gain better coordination within the departments concerned. "If you look at Wisconsin's arboretum and then come back here it makes you sick." Aikman wondered why more hasn't been done considering the number of people interested in its development. 
 >
 >The arboretum is located southwest of the main campus along the valley of College Creek. The bulk of it is sandwiched between Sheldon Avenue on the east and State Avenue on the west. 
 >
@@ -126,7 +125,7 @@ Two years later the paper reported on the deplorable conditions of the Arboretum
 >
 >In two years the horticulture department will transfer all mowers and maintenance equipment to its new farm north of Ames. 
 >
->Denisen regards the name arboretum as unfortunate because "the plants have gone wild or deteriorated and the arboretum is of no real use as such. Only Girl Scouts and Brownies use it for pic­nics." Denisen said, "the arboretum is like someone's back yard needing a good deal of upkeep, what can you do about it but com­plain?" 
+>Denisen regards the name arboretum as unfortunate because "the plants have gone wild or deteriorated and the arboretum is of no real use as such. Only Girl Scouts and Brownies use it for picnics." Denisen said, "the arboretum is like someone's back yard needing a good deal of upkeep, what can you do about it but complain?" 
 >
 >Prof. Robert W. Dyas, landscape architecture, pointed out that cars drive on the mowed sections, that the largest tract of land is unkept, that the creek smells badly, and that most of the signs used for labeling have disappeared. 
 >
@@ -134,7 +133,7 @@ Two years later the paper reported on the deplorable conditions of the Arboretum
 >
 [^fn2]: Iowa State Daily, June 29, 1967.
 >
->As originally planned in 1953 there was to have been some 2,450 individual species and varieties of plants, all labeled. The arboretum was to have been used as teaching laboratories by indi­viduals of at least seven university departments: botany, agron­omy, horticulture, forestry, landscape architecture, zoology, and entomology. 
+>As originally planned in 1953 there was to have been some 2,450 individual species and varieties of plants, all labeled. The arboretum was to have been used as teaching laboratories by individuals of at least seven university departments: botany, agronomy, horticulture, forestry, landscape architecture, zoology, and entomology. 
 >
 >A committee representing the seven departments in the spring of 1961 and again in April of 1962 stated that there are only a few natural areas still existing within walking distance of central campus on University owned property. The problem is to preserve these few areas without interfering with the future development of the University and city. 
 >
@@ -142,7 +141,7 @@ Two years later the paper reported on the deplorable conditions of the Arboretum
 >
 >Aikman suggests planting the arboretum as an actual prairie, using prairie grasses and natural plant materials. According to Aikman this would require a minimum of maintenance. Both Aikman and Denisen cited the need for stronger central control over the arboretum. "We should either decide to have an arboretum or not to have one," Aikman concluded. 
 
-By 1979 maintenance had improved but the early dreams of the nineteen­thirties never materialized as originally planned.
+By 1979 maintenance had improved but the early dreams of the nineteenthirties never materialized as originally planned.
 
 ---
 
