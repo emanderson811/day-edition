@@ -201,14 +201,14 @@ publication-date: 1980
 ## ENROLLMENTS  
 
 <style>
-table {
+.enrollment-table {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 </style>
 
-<table>
+<table class="enrollment-table">
   <tr>
     <th>Year</th>
     <th>Total Enrollment</th>
