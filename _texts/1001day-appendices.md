@@ -200,7 +200,15 @@ publication-date: 1980
 
 ## ENROLLMENTS  
 
-<table align="center">
+<style>
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+</style>
+
+<table>
   <tr>
     <th>Year</th>
     <th>Total Enrollment</th>
