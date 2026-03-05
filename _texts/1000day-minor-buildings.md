@@ -14,7 +14,7 @@ publication-date: 1980
 
 ## ANIMAL HUSBANDRY RESEARCH (or EXPERIMENTAL) LABORATORY 
 
-This building is known only from its inclusion in the list of build­ings in the annual financial reports where it appears between 1918 and 1924 with a valuation of $1625. In the 1928 report the building appears with a value of $1600 on the Animal Husbandry Farm, and con­tinues at that figure through 1966. It was razed when the site was developed for the Iowa State Center. Where it was originally located on the campus has not been determined. 
+This building is known only from its inclusion in the list of buildings in the annual financial reports where it appears between 1918 and 1924 with a valuation of $1625. In the 1928 report the building appears with a value of $1600 on the Animal Husbandry Farm, and continues at that figure through 1966. It was razed when the site was developed for the Iowa State Center. Where it was originally located on the campus has not been determined. 
 
 ## ARCHERY HUT 
 
@@ -28,7 +28,7 @@ The 1883 map shows a small building about 80 feet west and slightly south of the
 
 ## BARN - Geddes 
 
-At its meeting in November 1877 the Board appropriated the sum of $64.00 "to reimburse Gen. J.L. Geddes for investment of that amount in build­ing a barn." 
+At its meeting in November 1877 the Board appropriated the sum of $64.00 "to reimburse Gen. J.L. Geddes for investment of that amount in building a barn." 
 
 Where that structure was located has not been determined, but it was probably somewhere in the area that had been allocated for the Steward's use. 
 
@@ -46,7 +46,7 @@ The following year the barn was moved to the poultry farm.
 
 ## BARN - Grounds Department
 
-This barn was located south west of Marston Cottage as shown on a 1909 map, but not on one dated 1905. When it was built is not re­corded. Repairs were made to it in 1909. 
+This barn was located south west of Marston Cottage as shown on a 1909 map, but not on one dated 1905. When it was built is not recorded. Repairs were made to it in 1909. 
 
 No specific date of its removal can be found. It is identified on a 1921 map but is not shown on a map of 1925. 
 
@@ -78,7 +78,7 @@ Two buildings, each 20 by 74 feet, were located north of what was then the Chemi
 
 ## CLUB HOUSE 
 
-This building served the players at the Veenker Golf Course from 1938 until the course was revised in the early seventies when the two fair­ways on the south side of the Northwestern tracks were eliminated. It was located about midway between the Communications Building and the Cemetery, a short distance north of Pammel Road. It carried a valua­tion of $1800. It was razed in 1973. 
+This building served the players at the Veenker Golf Course from 1938 until the course was revised in the early seventies when the two fair­ways on the south side of the Northwestern tracks were eliminated. It was located about midway between the Communications Building and the Cemetery, a short distance north of Pammel Road. It carried a valuation of $1800. It was razed in 1973. 
 
 ## EXPERIMENT STATION MACHINE SHED Implement Shed (Dept. of Farm Mechanics) 
 
@@ -90,11 +90,11 @@ This building, built in 1904,[^fn1] was located just northeast of the Experiment
 
 ## FIELD SHED (Horticulture Barn; Machine Shed) 
 
-This small building stood a short distance east of the Horticulture Barn (later Child Nursery). It was first included in the building list in 1908, and on a map dated 1909. On some later maps it is identi­fied by the term Horticultural Barns, used for the two buildings. On the 1921 map it is called Machine Shed. It was last included on a building list in 1924 with a valuation of $250. It was probably removed shortly before the Bevier House was moved to about the same lo­cation in 1925.
+This small building stood a short distance east of the Horticulture Barn (later Child Nursery). It was first included in the building list in 1908, and on a map dated 1909. On some later maps it is identified by the term Horticultural Barns, used for the two buildings. On the 1921 map it is called Machine Shed. It was last included on a building list in 1924 with a valuation of $250. It was probably removed shortly before the Bevier House was moved to about the same lo­cation in 1925.
 
 ## FOUNDRY STORE HOUSE 
 
-All that is known apout this building is its inclusion on building lists between 1899 and 1906. The 1899 entry shows it with a value of $100. In 1906 the value is only $75. No map has been found dating from that period and the location of the building cannot be deter­mined, but it was probably close to what was then the Foundry (later known as Building A). 
+All that is known about this building is its inclusion on building lists between 1899 and 1906. The 1899 entry shows it with a value of $100. In 1906 the value is only $75. No map has been found dating from that period and the location of the building cannot be determined, but it was probably close to what was then the Foundry (later known as Building A). 
 
 ## FRUIT HOUSE 
 
@@ -163,7 +163,7 @@ Contractor: Building and Grounds Dept.
 
 This small building was erected in the latter weeks of 1933. The *Iowa State Student* of Nov. 25, 1933, said it " ...will be just north of the Genetics Building which was erected last fall. It will be of tile construction, 24 feet by 42 feet in size." 
 
-## GENETICS STORAGE BUIIDING (Genetics Shavings Storage) 
+## GENETICS STORAGE BUILDING (Genetics Shavings Storage) 
 
 Built: 1961 
 
@@ -273,7 +273,7 @@ By 1892 the building was ordered removed. The minutes for September 27-29 record
 
 Two months later the committee reported that the promise has been re­ceived that the building would be removed. 
 
-The location of the building has not been determined. The fact that it had steam power would indicate that it was probably in the area of the shops or possibly a lean-to on that building. It is not identified on either an 1883 or 1887 map, the only two extant con­temporary maps of the campus. 
+The location of the building has not been determined. The fact that it had steam power would indicate that it was probably in the area of the shops or possibly a lean-to on that building. It is not identified on either an 1883 or 1887 map, the only two extant contemporary maps of the campus. 
 
 ## STORAGE BUILDING 7 - 10 
 
@@ -281,7 +281,7 @@ This warehouse type building was constructed in the fall of 1947. From then unti
 
 ## TILE STORAGE SHED (Incinerator) 
 
-The need for a college incinerator was first recorded in the Board Minutes of July 1, 1930 when it was referred to Dr. Knapp "for in­vestigation, consideration and report." The following year, in Octo­ber, the Board approved an expenditure of $1,500 for the Incinerator.[^fn14] 
+The need for a college incinerator was first recorded in the Board Minutes of July 1, 1930 when it was referred to Dr. Knapp "for investigation, consideration and report." The following year, in Octo­ber, the Board approved an expenditure of $1,500 for the Incinerator.[^fn14] 
 
 [^fn14]: Minutes, October 7, 1931
 
