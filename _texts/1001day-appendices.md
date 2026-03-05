@@ -174,6 +174,12 @@ publication-date: 1980
 
 ## PHYSICAL PLANT PERSONNEL 
 
+<style>
+td {
+  padding-right: 25px;
+}
+</style>
+
 <table>
   <tr>
     <td nowrap>1909 - 1910</td>
