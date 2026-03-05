@@ -176,23 +176,23 @@ publication-date: 1980
 
 <table>
   <tr>
-    <td>1909 - 1910</td>
+    <td nowrap>1909 - 1910</td>
     <td>Ben Edwards, Custodian of Public Buildings and Supt. of Repairs and Improvements</td>
   </tr>
   <tr>
-    <td>1910 - 1936</td>
+    <td nowrap>1910 - 1936</td>
     <td>Thomas Sloss, Supt. of Buildings and Grounds</td>
   </tr>
   <tr>
-    <td>1936 - 1945</td>
+    <td nowrap>1936 - 1945</td>
     <td>Boyne H. Platt, Supt. of Buildings and Grounds</td>
   </tr>
   <tr>
-    <td>1945 - 1968</td>
+    <td nowrap>1945 - 1968</td>
     <td>Ben W. Schaefer, Supt. of Buildings and Grounds Director, Physical Plant</td>
   </tr>
   <tr>
-    <td>1968 -     </td>
+    <td nowrap>1968 -     </td>
     <td>William W. Whitman, Director, Physical Plant</td>
   </tr>
 </table>
