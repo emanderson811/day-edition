@@ -199,7 +199,7 @@ Later that year the Board approved a bill of "$12.72 for taking down and moving 
 
 ## ICE HOUSE - CREAMERY 
 
-An ice house was built in 1883 in conjunction with the First Creamery. By 1889 it was reported that the ice house (as well as other buildings) was badly in need of repairs. A new ice house was provided as an ad­junct to the new Creamery when it was erected in 1892. 
+An ice house was built in 1883 in conjunction with the First Creamery. By 1889 it was reported that the ice house (as well as other buildings) was badly in need of repairs. A new ice house was provided as an adjunct to the new Creamery when it was erected in 1892. 
 
 ## ICE HOUSE - EXPERIMENT STATION 
 
@@ -271,7 +271,7 @@ Very little can be found about this building. In the 10th Biennial Report (1882-
 
 By 1892 the building was ordered removed. The minutes for September 27-29 record that the Board "Moved that the Committee on Public Grounds and Railroad be directed to investigate the building erected by the Sugar Refining Co., and prevail upon the company if possible to settle up its affairs and remove its property from the college grounds." Carried. 
 
-Two months later the committee reported that the promise has been re­ceived that the building would be removed. 
+Two months later the committee reported that the promise has been received that the building would be removed. 
 
 The location of the building has not been determined. The fact that it had steam power would indicate that it was probably in the area of the shops or possibly a lean-to on that building. It is not identified on either an 1883 or 1887 map, the only two extant contemporary maps of the campus. 
 
@@ -281,7 +281,7 @@ This warehouse type building was constructed in the fall of 1947. From then unti
 
 ## TILE STORAGE SHED (Incinerator) 
 
-The need for a college incinerator was first recorded in the Board Minutes of July 1, 1930 when it was referred to Dr. Knapp "for investigation, consideration and report." The following year, in Octo­ber, the Board approved an expenditure of $1,500 for the Incinerator.[^fn14] 
+The need for a college incinerator was first recorded in the Board Minutes of July 1, 1930 when it was referred to Dr. Knapp "for investigation, consideration and report." The following year, in October, the Board approved an expenditure of $1,500 for the Incinerator.[^fn14] 
 
 [^fn14]: Minutes, October 7, 1931
 
