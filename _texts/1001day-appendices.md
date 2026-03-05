@@ -176,7 +176,7 @@ publication-date: 1980
 
 <style>
 td {
-  padding-right: 25px;
+  padding-right: 50px;
 }
 </style>
 
