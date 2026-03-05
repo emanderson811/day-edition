@@ -303,7 +303,7 @@ The 1st Annual Report (1858-59) includes a tool-house as one of the necessities 
 
 Between that year and 1878 a tool house was built since the November 1878 minutes record funding of $60 "for the purpose of moving the old tool house and fitting it up as a tool and coal house in connection with the Horticulture Laboratory." 
 
-The only other record came in 1894 when the Board adopted a recommenda­tion "that Prof. Budd be requested to remove the old tool house to some place designated by Public Grounds Committee of the Faculty, or to tear down the same and remove the old material."[^fn17] 
+The only other record came in 1894 when the Board adopted a recommendation "that Prof. Budd be requested to remove the old tool house to some place designated by Public Grounds Committee of the Faculty, or to tear down the same and remove the old material."[^fn17] 
 
 [^fn17]: Minutes,  December 1894
 
