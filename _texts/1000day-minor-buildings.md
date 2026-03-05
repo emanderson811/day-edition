@@ -78,7 +78,7 @@ Two buildings, each 20 by 74 feet, were located north of what was then the Chemi
 
 ## CLUB HOUSE 
 
-This building served the players at the Veenker Golf Course from 1938 until the course was revised in the early seventies when the two fair­ways on the south side of the Northwestern tracks were eliminated. It was located about midway between the Communications Building and the Cemetery, a short distance north of Pammel Road. It carried a valuation of $1800. It was razed in 1973. 
+This building served the players at the Veenker Golf Course from 1938 until the course was revised in the early seventies when the two fairways on the south side of the Northwestern tracks were eliminated. It was located about midway between the Communications Building and the Cemetery, a short distance north of Pammel Road. It carried a valuation of $1800. It was razed in 1973. 
 
 ## EXPERIMENT STATION MACHINE SHED Implement Shed (Dept. of Farm Mechanics) 
 
@@ -90,7 +90,7 @@ This building, built in 1904,[^fn1] was located just northeast of the Experiment
 
 ## FIELD SHED (Horticulture Barn; Machine Shed) 
 
-This small building stood a short distance east of the Horticulture Barn (later Child Nursery). It was first included in the building list in 1908, and on a map dated 1909. On some later maps it is identified by the term Horticultural Barns, used for the two buildings. On the 1921 map it is called Machine Shed. It was last included on a building list in 1924 with a valuation of $250. It was probably removed shortly before the Bevier House was moved to about the same lo­cation in 1925.
+This small building stood a short distance east of the Horticulture Barn (later Child Nursery). It was first included in the building list in 1908, and on a map dated 1909. On some later maps it is identified by the term Horticultural Barns, used for the two buildings. On the 1921 map it is called Machine Shed. It was last included on a building list in 1924 with a valuation of $250. It was probably removed shortly before the Bevier House was moved to about the same location in 1925.
 
 ## FOUNDRY STORE HOUSE 
 
@@ -118,7 +118,7 @@ As automobiles came into use the need for garages also became important. Records
 
 ### Kildee Cottage: 
 
-Cessna was granted permission to build a 10' x 16' garage there in 1913. Five years later permission was given to Scheman to build a garage. Whether the first one was never built, in disre­pair, or gone is not recorded. 
+Cessna was granted permission to build a 10' x 16' garage there in 1913. Five years later permission was given to Scheman to build a garage. Whether the first one was never built, in disrepair, or gone is not recorded. 
 
 ### Coburn House: 
 
@@ -145,7 +145,7 @@ This large structure was built in 1933, to the north of the Central Stores Build
 Built: 1948-49<br> 
 Contractor: Ringland-Johnson, Inc.
 
-This relatively small building, about 70 x 30 feet, was built for "studies...on the effect of inheritance of the chicken on its resis­tance to diseases to which it has been subjected."[^fn5]
+This relatively small building, about 70 x 30 feet, was built for "studies...on the effect of inheritance of the chicken on its resistance to diseases to which it has been subjected."[^fn5]
 
 [^fn5]: Iowa State Daily, November 10, 1948
 
@@ -171,9 +171,9 @@ This small metal faced building is first recorded in the Financial Report for 19
 
 ## HOSE HOUSE 
 
-The earliest mention of a building to house fire fighting equipment was in April 1899. The *ISC Student* of April 25 reported: "The hose, hook and ladder building for the college fire department is now com­plete." 
+The earliest mention of a building to house fire fighting equipment was in April 1899. The *ISC Student* of April 25 reported: "The hose, hook and ladder building for the college fire department is now complete." 
 
-That construction was recorded in the Minutes of June 1899: "Com­petitive bids were received on building for truck and hose-cart, and a building covered with corrigated (sic) iron has been erected at a cost of $166.33." 
+That construction was recorded in the Minutes of June 1899: "Competitive bids were received on building for truck and hose-cart, and a building covered with corrigated (sic) iron has been erected at a cost of $166.33." 
 
 The *Iowa State Student*, on February 7, 1923, records that "in the little shed behind the book store are two fire trucks which have not been used for some time. One is a small hook and ladder truck, the other a hose cart." 
 
@@ -183,9 +183,9 @@ It is first included on a building list in 1899 with a value of $175. In 1903 it
 
 ## ICE HOUSE - COLLEGE 
 
-The Farm Superintendent's report for 1869, recorded in the Board Min­utes of January 1870 stated: "A temporary ice house was erected for the College and 2500 cubic feet of ice securely stored in it." Re­pairs were made in 1873. 
+The Farm Superintendent's report for 1869, recorded in the Board Minutes of January 1870 stated: "A temporary ice house was erected for the College and 2500 cubic feet of ice securely stored in it." Repairs were made in 1873. 
 
-In 1875 discussion of more repairs was held but instead an appropria­tion of $100 was made for building a new College Ice House.[^fn7] The following March $235 was appropriated "for the purpose of completing and painting the College Ice House." This was still an insufficient amount, as in August 1876 an additional $29.05 was appropriated. 
+In 1875 discussion of more repairs was held but instead an appropriation of $100 was made for building a new College Ice House.[^fn7] The following March $235 was appropriated "for the purpose of completing and painting the College Ice House." This was still an insufficient amount, as in August 1876 an additional $29.05 was appropriated. 
 
 [^fn7]: Minutes, November 1875
 
@@ -203,7 +203,7 @@ An ice house was built in 1883 in conjunction with the First Creamery. By 1889 i
 
 ## ICE HOUSE - EXPERIMENT STATION 
 
-The only references to this Ice House occur in 1896 when a motion carried at the June 30 - July 2 meeting "that Mr. Sexton be granted the use of the old ice house back of the present budding house." In November an $8.00 payment "for moving old ice house to its new loca­tion near house occupied by Jerry Sexton" was not allowed. 
+The only references to this Ice House occur in 1896 when a motion carried at the June 30 - July 2 meeting "that Mr. Sexton be granted the use of the old ice house back of the present budding house." In November an $8.00 payment "for moving old ice house to its new location near house occupied by Jerry Sexton" was not allowed. 
 
 ## INTRAMURAL HUT
 
@@ -211,9 +211,9 @@ A 12 x 21 feet building was erected near the Archery Hut on the west side of the
 
 ## ISOLATION BARN  
 
-The Minutes for April 13, 1920, record that "President Pearson dis­cussed the need of an animal quarantine shed, and he requested that such a building be constructed near the new cattle barn and north of the meat laboratory, at an estimated cost of $1000.00." 
+The Minutes for April 13, 1920, record that "President Pearson discussed the need of an animal quarantine shed, and he requested that such a building be constructed near the new cattle barn and north of the meat laboratory, at an estimated cost of $1000.00." 
 
-The 1921 map shows the Isolation Barn at a site about at the north­east corner of what is now the Seed Science Building. This is the approximate location of the Hog Barn and Pavilion which was started in September 1921. Therefore, the Isolation Barn was either razed or relocated before that date. It may have been taken to the Animal Husbandry Farm because in 1934 the recommendation was made for im­provements to the Animal Husbandry Isolation Barn for $2000.[^fn9]
+The 1921 map shows the Isolation Barn at a site about at the northeast corner of what is now the Seed Science Building. This is the approximate location of the Hog Barn and Pavilion which was started in September 1921. Therefore, the Isolation Barn was either razed or relocated before that date. It may have been taken to the Animal Husbandry Farm because in 1934 the recommendation was made for improvements to the Animal Husbandry Isolation Barn for $2000.[^fn9]
 
 [^fn9]: Minutes, January 23, 1934
 
@@ -223,7 +223,7 @@ This 20 x 50 feet building was erected in 1944 at the northeast corner of the El
 
 ## LOCOMOTIVE SHEDS
 
-In July 1900 the Chicago and North Western Rail Road presented a loco­motive to the College. In September Professor Bissell was authorized to build a protective house for it, not to exceed $500 in cost.[^fn10] 
+In July 1900 the Chicago and North Western Rail Road presented a locomotive to the College. In September Professor Bissell was authorized to build a protective house for it, not to exceed $500 in cost.[^fn10] 
 
 [^fn10]: Minutes, September 1900
 
@@ -237,13 +237,13 @@ A 1906 campus map shows a locomotive shed in the location described above. Presu
 
 ## MACHINE SHED (Granary) 
 
-This structure is known only from its occurrence on maps as no refer­ences have been found elsewhere. It was located a short distance to the west of the first Cattle Barn (Farm Barn) on a north-south axis. It appears to have been about 70 feet long and 20 feet wide. It first is seen on an 1887 map, but without identification; an 1894 map calls it a Granary; on the 1921 map and building list it is Machine Shed. It is included on a map dated 1925 but is unidentified by name. A 1928 map does not show it, so it was removed between those last two dates. 
+This structure is known only from its occurrence on maps as no references have been found elsewhere. It was located a short distance to the west of the first Cattle Barn (Farm Barn) on a north-south axis. It appears to have been about 70 feet long and 20 feet wide. It first is seen on an 1887 map, but without identification; an 1894 map calls it a Granary; on the 1921 map and building list it is Machine Shed. It is included on a map dated 1925 but is unidentified by name. A 1928 map does not show it, so it was removed between those last two dates. 
 
 ## QUARANTINE HOSPITAL (Hospital Annex; Isolation House) 
 
 The first appearance of this structure is on a map dated 1909, where it is found a short distance west of what is now the Laboratory of Mechanics, but it is not given any identification on that map. In the October 21, 1913, copy of the *ISC Student* there is this report: 
 
->The old carpenter shop is being completely renovated and will soon be known as the pest house. Four rooms with all modern conveniences will take care of the overcrowded hospital. Con­tagious diseases will be banished there, and this will be a great relief to present conditions. This house will be used temporarily until the new hospital is built. 
+>The old carpenter shop is being completely renovated and will soon be known as the pest house. Four rooms with all modern conveniences will take care of the overcrowded hospital. Contagious diseases will be banished there, and this will be a great relief to present conditions. This house will be used temporarily until the new hospital is built. 
 
 In January 1914 the paper records that this "emergency hospital" was connected with the steam heating plant. 
 
@@ -259,7 +259,7 @@ No record can be found to determine when the Slaughter House was built, although
 
 [^fn12]: Minutes, May 1879
 
-*The Aurora*, August 1880 refers to a slaughter house as one of the im­provements to be noted. In November of that year the Board appropriated $73.65 for repair of slaughter house. 
+*The Aurora*, August 1880 refers to a slaughter house as one of the improvements to be noted. In November of that year the Board appropriated $73.65 for repair of slaughter house. 
 
 In 1891 Prof. Wilson was authorized to tear down the building "and use the lumber in repair of fences and farm buildings."[^fn13] 
 
@@ -277,7 +277,7 @@ The location of the building has not been determined. The fact that it had steam
 
 ## STORAGE BUILDING 7 - 10 
 
-This warehouse type building was constructed in the fall of 1947. From then until about 1969 it was used for storage by the Atomic Re­search Institute. Subsequently it was turned back to the university and has been used for miscellaneous storage since that time. The two easternmost units were sold and removed in 1977. The other sections were razed in 1979. The structure stood just a short distance east of the Printing Services and Distribution Building. 
+This warehouse type building was constructed in the fall of 1947. From then until about 1969 it was used for storage by the Atomic Research Institute. Subsequently it was turned back to the university and has been used for miscellaneous storage since that time. The two easternmost units were sold and removed in 1977. The other sections were razed in 1979. The structure stood just a short distance east of the Printing Services and Distribution Building. 
 
 ## TILE STORAGE SHED (Incinerator) 
 
@@ -311,6 +311,6 @@ The only other record came in 1894 when the Board adopted a recommenda­tion "th
 
 Funds for a "wood-house" on the east side of the President's house were appropriated at the November 1873 meeting of the Board. The following May painting of the shed was authorized indicating that it had been erected between those two dates. 
 
-This shed was close to the east end of South Hall. What became of it is not recorded. However, in July 1890 an allocation of $350 was made to build a "wood-house and store-room for the Domestic Economy depart­ment."[^fn18] This would indicate that the original shed was no longer existing at that time.  
+This shed was close to the east end of South Hall. What became of it is not recorded. However, in July 1890 an allocation of $350 was made to build a "wood-house and store-room for the Domestic Economy department."[^fn18] This would indicate that the original shed was no longer existing at that time.  
 
 [^fn18]: Minutes, July 1890
