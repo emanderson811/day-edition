@@ -207,16 +207,17 @@ td {
 ## ENROLLMENTS  
 
 <style>
-.enrollment-table {
-  margin-left: auto;
-  margin-right: auto;
+.enrollment-table{
+  margin: 0 auto;           
+  border-collapse: collapse; 
 }
 
 .enrollment-table th,
-.enrollment-table td {
-  padding: 6px 25px;
+.enrollment-table td{
   text-align: center;
+  padding: 6px 10px;    
 }
+
 </style>
 
 <table class="enrollment-table">
