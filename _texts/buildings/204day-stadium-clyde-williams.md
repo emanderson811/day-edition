@@ -1,7 +1,7 @@
 ---
 layout: building
 title: "Stadium"
-alternative_name: "(at Clyde Williams Field"
+alternative_name: "(at Clyde Williams Field)"
 built: "1914-15"
 addition: "1925, 1930, 1932, 1961, 1966"
 architect: 
