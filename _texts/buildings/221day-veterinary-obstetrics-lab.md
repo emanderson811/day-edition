@@ -1,7 +1,7 @@
 ---
 layout: building
 title: "Veterinary Obstetrics Laboratory"
-alternative_name: 
+alternative_name: "Military Stables - North"
 built: 
 addition:
 architect: 
@@ -14,5 +14,4 @@ publication-date: 1980
 ---
 ---
 
-VETERINARY OBSTETRICS LABORATORY 
-Military Stables -North 
+

@@ -1,8 +1,8 @@
 ---
 layout: building
 title: "Safford House"
-alternative_name: 
-built: 
+alternative_name: "Hibbard House" 
+built: "1903"
 addition:
 architect: 
 contractor: 
@@ -14,26 +14,37 @@ publication-date: 1980
 ---
 ---
 
-Hibbard House 
-Built: 1903 Moved to Ag 450 Farm in: 1958 
-Professor B.H. Hibbard built this two-story and basement house on 
-Lincoln Way just east of Mrs. Beardshear's house in 1903. This was 
-a location about 200 feet west of what is now Linden Hall. 
-In 1912 he sold the house to Miss Ruth B. Safford, instructor in English, who lived in it until September 1923 when it was purchased 
-from her by the College for $5700, including the garage. 
-Subsequents occupants were:(3) 
-(1) Kooser, 1939 
-(2) 
-Minutes, February 7-8 and November 14-15, 1947 
+Moved to Ag 450 Farm in: 1958 
 
-(3) 
-D. Kehlenbeck, typed notes 
+Professor B.H. Hibbard built this two-story and basement house on Lincoln Way just east of Mrs. Beardshear's house in 1903. This was a location about 200 feet west of what is now Linden Hall. 
 
+In 1912 he sold the house to Miss Ruth B. Safford, instructor in English, who lived in it until September 1923 when it was purchased from her by the College for $5700, including the garage. 
 
-1923  -24  Dean John Foster  
-1925  -39  Swan Eckberg (Gardener)  
-1939  -43  Grad dormitory  for girls  
-1943  -47  Dormitory employees  
-1947  -57  Dean J.F.D.  Smith  
+Subsequent occupants were:[^fn1]  
+
+[^fn1]: D. Kehlenbeck, typed notes 
+
+<table>
+  <tr>
+    <td>1923-24</td>
+    <td>Dean John Foster</td>
+  </tr>
+  <tr>
+    <td>1925-39</td>
+    <td>Swan Eckberg (Gardener)</td>
+  </tr>
+  <tr>
+    <td>1939-43</td>
+    <td>Grad dormitory for girls</td>
+  </tr>
+  <tr>
+    <td>1943-47</td>
+    <td>Dormitory employees</td>
+  </tr>
+  <tr>
+    <td>1947-57</td>
+    <td>Dean J.F.D. Smith</td>
+  </tr>
+</table>
 
 In 1958 the house was moved to the Ag 450 farm where it is still standing.
