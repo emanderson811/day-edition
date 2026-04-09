@@ -19,7 +19,7 @@ publication-date: 1980
 
 Original location where Gilman Hall addition stands now. Later moved twice. 
 
-For planning and construction see first paragraph under Farm Laborer's Cottage. 
+For planning and construction see first paragraph under [Farm Laborer's Cottage](https://emanderson811.github.io/day-edition/texts/buildings/071day-farm-laborers-cottage/). 
 
 In 1886 the Building Committee recommended the addition of a cheap porch. A water line was extended to the house in 1892. 
 
