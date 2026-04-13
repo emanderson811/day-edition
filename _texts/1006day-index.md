@@ -143,11 +143,11 @@ publication-date: 1980
   <li>Chronological List of Campus Buildings</li>
   <li>Class Gifts</li>
   <li>Classroom - Office Building</li>
-    <ul class="book-sublist">
-      <li>#1 - (See Pearson Hall)</li>
-      <li>#2 - (See Carver Hall)</li>
-      <li>#3 - (See Ross Hall)</li>
-    </ul>
+      <ol>
+        <li>(See Pearson Hall)</li>
+        <li>(See Carver Hall)</li>
+        <li>(See Ross Hall)</li>
+      </ol>
   <li>Club House</li>
   <li>Clyde Williams Field</li>
   <li>Coal House</li>
