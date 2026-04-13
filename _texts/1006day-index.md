@@ -280,8 +280,8 @@ Hall)
 Lynn Fuhrer Lodge  104  
 Lyon Hall  317  
 
--M  
--
+ 
+-M-
 Machinery & Storage Shed 319 Machine Shed 470 Machine Shed (See Field Shed) 465 Machine Shop (See Workshop; 347 Mechanical Engineering 460 
 Lab) MacKay Hall 319 Mail Service 122 Main Building 322 Maintenance Shop 163 Maple Hall (See Maple-335 
 Willow-Larch) Maples (The) 360 (See Music Hall) Maple, Willow & Larch Halls 335 
