@@ -14,47 +14,47 @@ publication-date: 1980
 
 ## -A-
 
-  <ul class="list-unstyled">
-    <li>Abattoir (See Meat Laboratory)</li>
-    <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
-    <li>Aeronautical Laboratory (See Exhibit Hall)</li>
-    <li>Aerospace Laboratory</li>
-    <li>Agricultural Annex (See East Hall)</li>
-    <li>Agricultural By-Products Lab (See Nuclear Engineering Bldg.)</li>
-    <li>Agricultural Engineering Addition (See Industrial Education)</li>
-    <li>Agricultural Engineering Garage</li>
-    <li>Agricultural Engineering Hall (See Botany Hall)</li>
-    <li>Agricultural Engineering Laboratory (See Davidson Hall)</li>
-    <li>Agricultural Engineering Machine Shed</li>
-    <li>Agricultural Engineering Shop & Shed</li>
-    <li>Agricultural Hall (See Botany Hall); (See Curtis Hall)</li>
-    <li>Agronomy Farm Crops Laboratory</li>
-    <li>Agronomy Greenhouse</li>
-    <li>Agronomy Hall</li>
-    <li>Agronomy Laboratory</li>
-    <li>Allis House (See Norton House)</li>
-    <li>Alumni Hall</li>
-    <li>Ames & College Railway</li>
-    <li>Ames Laboratory</li>
-    <li>Andrew-Richards House</li>
-    <li>Animal Husbandry Lab (See Meat Laboratory)</li>
-    <li>Animal Husbandry Research Lab</li>
-    <li>Animal Isolation Building & Addition</li>
-    <li>Animal Science Building (See Kildee Hall)</li>
-    <li>Anthony House (See Marston Cottage)</li>
-    <li>Antigenic Laboratory (See Agronomy Laboratory)</li>
-    <li>Apiary</li>
-    <li>Applied Arts Studio (See North Studio)</li>
-    <li>Arboretum</li>
-    <li>Archery Hut</li>
-    <li>Architects (Staff)</li>
-    <li>Armory</li>
-    <li>Association Building (See Alumni Hall)</li>
-    <li>Athletic Fields</li>
-    <li>Atomic Energy Commission</li>
-    <li>Auditorium (See Stephens Auditorium)</li>
-    <li>Automobile Laboratory (See Exhibit Hall)</li>
-  </ul>
+<ul class="list-unstyled">
+  <li>Abattoir (See Meat Laboratory)</li>
+  <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
+  <li>Aeronautical Laboratory (See Exhibit Hall)</li>
+  <li>Aerospace Laboratory</li>
+  <li>Agricultural Annex (See East Hall)</li>
+  <li>Agricultural By-Products Lab (See Nuclear Engineering Bldg.)</li>
+  <li>Agricultural Engineering Addition (See Industrial Education)</li>
+  <li>Agricultural Engineering Garage</li>
+  <li>Agricultural Engineering Hall (See Botany Hall)</li>
+  <li>Agricultural Engineering Laboratory (See Davidson Hall)</li>
+  <li>Agricultural Engineering Machine Shed</li>
+  <li>Agricultural Engineering Shop & Shed</li>
+  <li>Agricultural Hall (See Botany Hall); (See Curtis Hall)</li>
+  <li>Agronomy Farm Crops Laboratory</li>
+  <li>Agronomy Greenhouse</li>
+  <li>Agronomy Hall</li>
+  <li>Agronomy Laboratory</li>
+  <li>Allis House (See Norton House)</li>
+  <li>Alumni Hall</li>
+  <li>Ames & College Railway</li>
+  <li>Ames Laboratory</li>
+  <li>Andrew-Richards House</li>
+  <li>Animal Husbandry Lab (See Meat Laboratory)</li>
+  <li>Animal Husbandry Research Lab</li>
+  <li>Animal Isolation Building & Addition</li>
+  <li>Animal Science Building (See Kildee Hall)</li>
+  <li>Anthony House (See Marston Cottage)</li>
+  <li>Antigenic Laboratory (See Agronomy Laboratory)</li>
+  <li>Apiary</li>
+  <li>Applied Arts Studio (See North Studio)</li>
+  <li>Arboretum</li>
+  <li>Archery Hut</li>
+  <li>Architects (Staff)</li>
+  <li>Armory</li>
+  <li>Association Building (See Alumni Hall)</li>
+  <li>Athletic Fields</li>
+  <li>Atomic Energy Commission</li>
+  <li>Auditorium (See Stephens Auditorium)</li>
+  <li>Automobile Laboratory (See Exhibit Hall)</li>
+</ul>
 
 
 ## -B- 
