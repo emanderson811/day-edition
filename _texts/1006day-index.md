@@ -209,30 +209,42 @@ publication-date: 1980
 
 ## -E- 
 
-East Boarding Cottage  180  
+<ul class="list-unstyled">
+  <li>East Boarding Cottage (See Boarding Cottage-East)</li>
+  <li>East Chemical Engineering (See Sweeney Hall)</li>
+  <li>East Hall</li>
+  <li>East Hall (See Freeman Hall)</li>
+  <li>East Hall Addition</li>
+  <li>East Hall Annex (See Lincoln Way Cottage)</li>
+  <li>Eastwood Cottage</li>
+  <li>Edgerton House (See Engineer's Cottage)</li>
+  <li>Electric & Paint Shop</li>
+  <li>Electric Power & Lighting</li>
+  <li>Electrical Engineering Building (See Coover Hall)</li>
+  <li>Elm Hall (See Oak-Elm Hall)</li>
+  <li>Elm Lodge (See Oak-Elm Lodges)</li>
+  <li>Emergency Chemistry (See South Studio)</li>
+  <li>Emergency Hall</li>
+  <li>Energy & Mineral Resources Research Institute</li>
+  <li>Engineering Annex</li>
+  <li>Engineering Building #1 (See Sweeney Hall)</li>
+  <li>Engineering Building #2 (See Town Engineering Bldg.)</li>
+  <li>Engineering Hall (See Laboratory of Mechanics; Marston Hall)</li>
+  <li>Engineering Research Institute</li>
+  <li>Engineer's Cottage</li>
+  <li>Engine House (See Pump House; Workshop)</li>
+  <li>English Office Building</li>
+  <li>Enrollments</li>
+  <li>Entomology Building (See Insectary & Greenhouse)</li>
+  <li>Equipment Storage (See Driver Training Storage)</li>
+  <li>Equipment Storage Building (at VMRI)</li>
+  <li>Exhibit Hall</li>
+  <li>Experiment Station Barn</li>
+  <li>Experiment Station Building (See Bevier House)</li>
+  <li>Experiment Station Foreman's Cottage (See Teamster's Cottage #2)</li>
+  <li>Experiment Station Machine Shed</li>
+  <li>Experimental Barn</li>
 
-(See Boarding Cottage-East) East Chemical Engineering 438 
-(See Sweeney Hall) East Hall 224 East Hall (See Freeman Hall) 261 East Hall Addition 226 East Hall Annex (See Lincoln 315 
-Way Cottage) Eastwood Cottage 227 Edgerton House (See Engineer's 234 
-Cottage) Electric & Paint Shop 227 Electric Power & Lighting 84 Electrical Engineering Build 
-ing (See Coover Hall) 210 Elm Hall (See Oak-Elm Hall) 367 Elm Lodge (See Oak-Elm Lodges)369 Emergency Chemistry 421 
-(See South Studio) Emergency Hall 228 Energy & Mineral Resources 
-Research Institute 93 Engineering Annex 231 Engineering Building #1 438 
-(See Sweeney Hall) Engineering Building #2 446 (See Town Engineering Bldg.) 
-Engineering Hall 309 (See Laboratory of Meehan-339 ics; Marston Hall) 
-Engineering Research Institute 232 
-Engineer's Cottage  234  
-Engine House  (See Pump  392  
-House; Workshop)  460  
-English Office Building  235  
-Enrollments  477  
-Entomology Building  298  
-
-(See Insectary & Greenhouse) Equipment Storage (See 222 Driver Training Storage) Equipment Storage Building 103 
-(at VMRI) Exhibit Hall 236 Experiment Station Barn 239 Experiment Station Building 176 
-(See Bevier House) 
-Experiment Station Foreman's Cottage (See Teamster's 440 Cottage 4F2) 
-Experiment Station Machine Shed 465 Experimental Barn 238 
 -F  
 Facilities Building 372 (See Olsen Building) Faculty Club Rouse (See 242 
 Farm Boarding Club) Fair Oaks Mansion 240 Farm Barn (See Cattle Barn-196 
