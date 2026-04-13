@@ -14,7 +14,6 @@ publication-date: 1980
 
 ## -A-
 
-<body>
   <ul class="list-unstyled">
     <li>Abattoir (See Meat Laboratory)</li>
     <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
@@ -56,7 +55,6 @@ publication-date: 1980
     <li>Auditorium (See Stephens Auditorium)</li>
     <li>Automobile Laboratory (See Exhibit Hall)</li>
   </ul>
-</body>
 
 
 ## -B- 
