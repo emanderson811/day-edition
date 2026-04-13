@@ -15,7 +15,7 @@ publication-date: 1980
 ## -A-
 
 <body>
-  <ul>
+  <ul class="list-unstyled">
     <li>Abattoir (See Meat Laboratory)</li>
     <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
     <li>Aeronautical Laboratory (See Exhibit Hall)</li>
