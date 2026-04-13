@@ -58,27 +58,51 @@ publication-date: 1980
 
 
 ## -B- 
-Barn -Geddes  463  
-Barn -Grounds Department  464  
-Barn -Jones  463  
-Barn -At the Knoll  463  
-Barton Hall  169  
-Baseball Diamonds  67  
-Beach House  170  
-Beardshear Hall  171  
 
-Beardshear House (See Lincoln 315 
-Way Cottage) Bessey Hall 175 Bessey House(See Sloss House) 417 Bevier House 176 Beyer Hall 177 Beyer House 178 Bibliography 484 Bicycles 59 Biological Laboratory 411 
-(See Serum Plant) Biomedical Engineering Labora 
-tory (See Quadrangle) 394 Birch Hall 179 Bissell House 417 
-(See Sloss House) Boarding Club (See Farm 242 Boarding Club) 
-Boarding Cottage -East 180 Boarding Cottage -West 181 Boiler House (at old Main) 183 Boiler House (See Power 389 
-Station) Bookstore (See The Hub) 295 Bookstore Storage (See 393 
-Purchasing-Warehouse) Botany Greenhouse 184 Botany Greenhouse (See 275 
-Greenhouse) Botany Hall 184 Bowling (Lawn) 72 Brickyards 106 Bridges 34 Buchanan Hall 187 Budd House (See Mortensen 358 
-Cottage) Building "A" 188 Building "B" 189 Bunk House 464 Buses 57 Bus House (See Fair Oaks 240 
-Mansion) 
--C  
+<ul class="list-unstyled">
+  <li>Barn - Geddes</li>
+  <li>Barn - Grounds Department</li>
+  <li>Barn - Jones</li>
+  <li>Barn - At the Knoll</li>
+  <li>Barton Hall</li>
+  <li>Baseball Diamonds</li>
+  <li>Beach House</li>
+  <li>Beardshear Hall</li>
+  <li>Beardshear House (See Lincoln Way Cottage)</li>
+  <li>Bessey Hall</li>
+  <li>Bessey House (See Sloss House)</li>
+  <li>Bevier House</li>
+  <li>Beyer Hall</li>
+  <li>Beyer House</li>
+  <li>Bibliography</li>
+  <li>Bicycles</li>
+  <li>Biological Laboratory (See Serum Plant)</li>
+  <li>Biomedical Engineering Laboratory (See Quadrangle)</li>
+  <li>Birch Hall</li>
+  <li>Bissell House (See Sloss House)</li>
+  <li>Boarding Club (See Farm Boarding Club)</li>
+  <li>Boarding Cottage - East</li>
+  <li>Boarding Cottage - West</li>
+  <li>Boiler House (at Old Main)</li>
+  <li>Boiler House (See Power Station)</li>
+  <li>Bookstore (See The Hub)</li>
+  <li>Bookstore Storage (See Purchasing-Warehouse)</li>
+  <li>Botany Greenhouse</li>
+  <li>Botany Greenhouse (See Greenhouse)</li>
+  <li>Botany Hall</li>
+  <li>Bowling (Lawn)</li>
+  <li>Brickyards</li>
+  <li>Bridges</li>
+  <li>Buchanan Hall</li>
+  <li>Budd House (See Mortensen Cottage)</li>
+  <li>Building "A"</li>
+  <li>Building "B"</li>
+  <li>Bunk House</li>
+  <li>Buses</li>
+  <li>Bus House (See Fair Oaks Mansion)</li>
+</ul>
+
+## -C-
 Caddy House 464 Campanile 190 Campus Planning 144 Cap Timm Field 67 Carpenter Shop 194 Carpenter Shop 154 (See Aerospace Lab;Work-452 shop; Veterinary Hospital)460 Car Pool Office Building 195 Carver Hall 195 Cattle Barn (First) 196 Cattle Barn 199 Cattle Shed 464 Cattle Shed (See Feeding 251 
 Sheds) 
 C.C.C. Camp Site 45 Cemetery 13 Central Building (See Beard-171 
