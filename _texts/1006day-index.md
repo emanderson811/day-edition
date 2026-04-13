@@ -103,35 +103,81 @@ publication-date: 1980
 </ul>
 
 ## -C-
-Caddy House 464 Campanile 190 Campus Planning 144 Cap Timm Field 67 Carpenter Shop 194 Carpenter Shop 154 (See Aerospace Lab;Work-452 shop; Veterinary Hospital)460 Car Pool Office Building 195 Carver Hall 195 Cattle Barn (First) 196 Cattle Barn 199 Cattle Shed 464 Cattle Shed (See Feeding 251 
-Sheds) 
-C.C.C. Camp Site 45 Cemetery 13 Central Building (See Beard-171 
-shear Hall) 
-Central Heating Plant 387 (See Power &Heating Plant) Central Station 201 
-Central Stores (See Physical 378 
-Plant Shops & Central Stores) Central Stores Storage 464 Ceramics Building (See Engin-231 
-eering Annex) Ceramic Studio (See Green-275 house) Cessna Cottage (See Kildee 301 Cottage) Chemical Engineering Labora tory (See Sweeney Hall) 438 
-Chemical Engineering-West 366 (See Nuclear Engineering Lab) 
-Chemical & Physical Laboratory202 Chemical Storage Buildings(2) 465 Chemical Truck Bldg. (See 227 
-Electric &Paint Shop) Chemistry Annex #1 (See Field 254 House -P.E.W.) Chemistry Annex #2 (See 384 Plumbing Shop) Chemistry Hall (See Gilman 270 Hall) Chicago & North Western Rail 
-way 48 Child Development Building 204 Child Nursery Annex 178 
-(See Beyer House) Child Nursery Building 289 
-(See Horticulture Barn) Chilled Water 88 Chronological List of Campus 
-Buildings 478 Class Gifts 119 Classroom -Office Building 
-#1 -(See Pearson Hall) 376 #2 -(See Carver Hall) 195 #3 -(See Ross Hall) 401 Club House 465 Clyde Williams Field 65 Coal House 205 Coburn House 206 Coliseum (See Hilton Coliseum)283 College Building (See Main 322 
-Building) College of Design 207 Collegiate Press Building 299 
-(See I.S.U. Press Building) 
-Communications Building 208 Computer Garage 164 Computer Science 209 Construction Storage Shed 164 Continuing Education Build 
-ing (See Scheman Contin-404 
-uing Educ. Bldg.) Cooking Shed(Se  Cattle Shed)464 Coover Hall 210 Coover House (See Norton 365 
-House) Corn Cribs 211 Corn & Stock Judging Pavilion 156 
-(See Agronomy Farm Crops 
-Lab) Cottages ("Silver City") 212 Cranford Hall (See Sanitary 403 
-Building) Creamery (First) 213 Creamery (Second) 214 Crop Science Laboratory  156 
-(See Agronomy Farm Crops 
-Lab) Curtiss Hall 215 Curtiss Residence 243 
-(See Farm House) Custodian's Cottage 278 (See Grounds Cottage) Cyclones 136 
--D  
+
+<ul class="list-unstyled">
+  <li>Caddy House</li>
+  <li>Campanile</li>
+  <li>Campus Planning</li>
+  <li>Cap Timm Field</li>
+  <li>Carpenter Shop</li>
+  <li>Carpenter Shop (See Aerospace Lab; Workshop; Veterinary Hospital)</li>
+  <li>Car Pool Office Building</li>
+  <li>Carver Hall</li>
+  <li>Cattle Barn (First)</li>
+  <li>Cattle Barn</li>
+  <li>Cattle Shed</li>
+  <li>Cattle Shed (See Feeding Sheds)</li>
+  <li>C.C.C. Camp Site</li>
+  <li>Cemetery</li>
+  <li>Central Building (See Beardshear Hall)</li>
+  <li>Central Heating Plant (See Power & Heating Plant)</li>
+  <li>Central Station</li>
+  <li>Central Stores (See Physical Plant Shops & Central Stores)</li>
+  <li>Central Stores Storage</li>
+  <li>Ceramics Building (See Engineering Annex)</li>
+  <li>Ceramic Studio (See Greenhouse)</li>
+  <li>Cessna Cottage (See Kildee Cottage)</li>
+  <li>Chemical Engineering Laboratory (See Sweeney Hall)</li>
+  <li>Chemical Engineering - West (See Nuclear Engineering Lab)</li>
+  <li>Chemical & Physical Laboratory</li>
+  <li>Chemical Storage Buildings (2)</li>
+  <li>Chemical Truck Bldg. (See Electric & Paint Shop)</li>
+  <li>Chemistry Annex #1 (See Field House - P.E.W.)</li>
+  <li>Chemistry Annex #2 (See Plumbing Shop)</li>
+  <li>Chemistry Hall (See Gilman Hall)</li>
+  <li>Chicago & North Western Railway</li>
+  <li>Child Development Building</li>
+  <li>Child Nursery Annex (See Beyer House)</li>
+  <li>Child Nursery Building (See Horticulture Barn)</li>
+  <li>Chilled Water</li>
+  <li>Chronological List of Campus Buildings</li>
+  <li>Class Gifts</li>
+  <li>Classroom - Office Building</li>
+    <ul class="list-unstyled">
+      <li>#1 - (See Pearson Hall)</li>
+      <li>#2 - (See Carver Hall)</li>
+      <li>#3 - (See Ross Hall)</li>
+    </ul>
+  <li>Club House</li>
+  <li>Clyde Williams Field</li>
+  <li>Coal House</li>
+  <li>Coburn House</li>
+  <li>Coliseum (See Hilton Coliseum)</li>
+  <li>College Building (See Main Building)</li>
+  <li>College of Design</li>
+  <li>Collegiate Press Building (See I.S.U. Press Building)</li>
+  <li>Communications Building</li>
+  <li>Computer Garage</li>
+  <li>Computer Science</li>
+  <li>Construction Storage Shed</li>
+  <li>Continuing Education Building (See Scheman Continuing Educ. Bldg.)</li>
+  <li>Cooking Shed (See Cattle Shed)</li>
+  <li>Coover Hall</li>
+  <li>Coover House (See Norton House)</li>
+  <li>Corn Cribs</li>
+  <li>Corn & Stock Judging Pavilion (See Agronomgy Farm Crops Lab)</li>
+  <li>Cottages ("Silver City")</li>
+  <li>Cranford Hall (See Sanitary Building)</li>
+  <li>Creamery (First)</li>
+  <li>Creamery (Second)</li>
+  <li>Crop Science Laboratory (See Agronomy Farm Crops Lab)</li>
+  <li>Curtiss Hall</li>
+  <li>Curtiss Residence (See Farm House)</li>
+  <li>Custodian's Cottage (See Grounds Cottage)</li>
+  <li>Cyclones</li>
+</ul>
+
+## -D-  
 Dairy Building (See East 224 
 Hall) Dairy Industry 217 Davidson Hall 219 Depot (See The Hub) 295 Design Center (See College 207 
 of Design) Detention Ward (See Board-181 
