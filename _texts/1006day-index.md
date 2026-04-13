@@ -35,35 +35,28 @@ publication-date: 1980
     <li>Agronomy Laboratory</li>
     <li>Allis House (See Norton House)</li>
     <li>Alumni Hall</li>
+    <li>Ames & College Railway</li>
+    <li>Ames Laboratory</li>
+    <li>Andrew-Richards House</li>
+    <li>Animal Husbandry Lab (See Meat Laboratory)</li>
+    <li>Animal Husbandry Research Lab</li>
+    <li>Animal Isolation Building & Addition</li>
+    <li>Animal Science Building (See Kildee Hall)</li>
+    <li>Anthony House (See Marston Cottage)</li>
+    <li>Antigenic Laboratory (See Agronomy Laboratory)</li>
+    <li>Apiary</li>
+    <li>Applied Arts Studio (See North Studio)</li>
+    <li>Arboretum</li>
+    <li>Archery Hut</li>
+    <li>Architects (Staff)</li>
+    <li>Armory</li>
+    <li>Association Building (See Alumni Hall)</li>
+    <li>Athletic Fields</li>
+    <li>Atomic Energy Commission</li>
+    <li>Auditorium (See Stephens Auditorium)</li>
+    <li>Automobile Laboratory (See Exhibit Hall)</li>
+  </ul>
 </body>
-
-
-
-
-
-Ames & College Railway 48 Ames Laboratory 93,163 Andrews-Richards House 165 Animal Husbandry Lab 342 
-(See Meat Laboratory) Animal Husbandry Research Lab 463 Animal Isolation Building & Addition 103 
-Animal Science Building  302  
-(See Kildee Hall)  
-Anthony House  339  
-(See Marston Cottage)  
-Antigenic Laboratory (See  158  
-Agronomy Laboratory)  
-Apiary  166  
-Applied Arts Studio  364  
-(See North Studio)  
-Arboretum  6  
-Archery Hut  463  
-Architects (Staff)  476  
-Armory  166  
-Association Building  159  
-(See Alumni Hall)  
-Athletic f'ields  64  
-Atomic Energy Commission  93  
-Auditorium (See Stephens  434  
-Auditorium)  
-Automobile Laboratory  236  
-(See Exhibit Hall)  
 
 
 -B - 
