@@ -37,6 +37,10 @@ publication-date: 1980
     <li>Alumni Hall</li>
 </body>
 
+
+
+
+
 Ames & College Railway 48 Ames Laboratory 93,163 Andrews-Richards House 165 Animal Husbandry Lab 342 
 (See Meat Laboratory) Animal Husbandry Research Lab 463 Animal Isolation Building & Addition 103 
 Animal Science Building  302  
