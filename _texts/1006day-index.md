@@ -244,8 +244,14 @@ publication-date: 1980
   <li>Experiment Station Foreman's Cottage (See Teamster's Cottage #2)</li>
   <li>Experiment Station Machine Shed</li>
   <li>Experimental Barn</li>
+</ul>
 
--F  
+## -F- 
+
+<ul class="list-unstyled">
+  <li>Facilities Building (See Olsen Building)</li>
+  <li>Faculty Club Rouse (See Farm Boarding Club)</li>
+  
 Facilities Building 372 (See Olsen Building) Faculty Club Rouse (See 242 
 Farm Boarding Club) Fair Oaks Mansion 240 Farm Barn (See Cattle Barn-196 
 First) 
