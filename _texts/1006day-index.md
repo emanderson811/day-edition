@@ -12,27 +12,30 @@ publication-date: 1980
 * ToC
 {:toc}
 
-|A||
-|:------|---:|  
-|Abattoir (See Meat Laboratory)| 342|
-|Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)| 154; 236|
-|Aeronautical Laboratory (See Exhibit Hall)| 236|
-|Aerospace Laboratory| 154| 
-|Agricultural Annex (See East Hall)| 224|
-|Agricultural By-Products Lab (See Nuclear Engineering Bldg.)| 366|
-|Agricultural Engineering Addition (See Industrial Education)| 296|
-|Agricultural Engineering Garage| 154| 
-|Agricultural Engineering Hall (See Botany Hall)| 184| 
-|Agricultural Engineering Laboratory(See Davidson Hall)| 219|
-|Agricultural Engineering Machine Shed| 155|
-|Agricultural Engineering Shop & Shed| 156| 
-|Agricultural Hall (See Botany Hall); (See Curtiss Hall)| 184; 215|
-|Agronomy Farm Crops Laboratory| 156|
-|Agronomy Greenhouse| 157|
-|Agronomy Hall| 158|
-|Agronomy Laboratory| 158|
-|Allis House (See Norton House)| 365|
-|Alumni Hall| 159|
+##-A-
+
+<body>
+  <ul class="list-unstyled">
+    <li>Abattoir (See Meat Laboratory)</li>
+    <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
+    <li>Aeronautical Laboratory (See Exhibit Hall)</li>
+    <li>Aerospace Laboratory</li>
+    <li>Agricultural Annex (See East Hall)</li>
+    <li>Agricultural By-Products Lab (See Nuclear Engineering Bldg.)</li>
+    <li>Agricultural Engineering Addition (See Industrial Education)</li>
+    <li>Agricultural Engineering Garage</li>
+    <li>Agricultural Engineering Hall (See Botany Hall)</li>
+    <li>Agricultural Engineering Laboratory (See Davidson Hall)</li>
+    <li>Agricultural Engineering Machine Shed</li>
+    <li>Agricultural Engineering Shop & Shed</li>
+    <li>Agricultural Hall (See Botany Hall); (See Curtis Hall)</li>
+    <li>Agronomy Farm Crops Laboratory</li>
+    <li>Agronomy Greenhouse</li>
+    <li>Agronomy Hall</li>
+    <li>Agronomy Laboratory</li>
+    <li>Allis House (See Norton House)</li>
+    <li>Alumni Hall</li>
+</body>
 
 Ames & College Railway 48 Ames Laboratory 93,163 Andrews-Richards House 165 Animal Husbandry Lab 342 
 (See Meat Laboratory) Animal Husbandry Research Lab 463 Animal Isolation Building & Addition 103 
