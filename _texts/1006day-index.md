@@ -15,45 +15,45 @@ publication-date: 1980
 ## -A-
 
 <ul class="list-unstyled">
-  <li>Abattoir (See Meat Laboratory)</li>
-  <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
-  <li>Aeronautical Laboratory (See Exhibit Hall)</li>
-  <li>Aerospace Laboratory</li>
-  <li>Agricultural Annex (See East Hall)</li>
+  <li>Abattoir (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
+  <li>Aeronautical Engineering Laboratory (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Laboratory</a>; <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
+  <li>Aeronautical Laboratory (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Laboratory</a></li>
+  <li>Agricultural Annex (See <a href="{{ '/texts/buildings/056day-east-hall/' | relative_url }}">East Hall</a>)</li>
   <li>Agricultural By-Products Lab (See Nuclear Engineering Bldg.)</li>
-  <li>Agricultural Engineering Addition (See Industrial Education)</li>
-  <li>Agricultural Engineering Garage</li>
-  <li>Agricultural Engineering Hall (See Botany Hall)</li>
-  <li>Agricultural Engineering Laboratory (See Davidson Hall)</li>
-  <li>Agricultural Engineering Machine Shed</li>
-  <li>Agricultural Engineering Shop & Shed</li>
-  <li>Agricultural Hall (See Botany Hall); (See Curtis Hall)</li>
-  <li>Agronomy Farm Crops Laboratory</li>
-  <li>Agronomy Greenhouse</li>
-  <li>Agronomy Hall</li>
-  <li>Agronomy Laboratory</li>
-  <li>Allis House (See Norton House)</li>
-  <li>Alumni Hall</li>
+  <li>Agricultural Engineering Addition (See <a href="{{ '/texts/buildings/114day-industrial-education/' | relative_url }}">Industrial Education</a>)</li>
+  <li><a href="{{ '/texts/buildings/002day-agricultural-eng-garage/' | relative_url }}">Agricultural Engineering Garage</a></li>
+  <li>Agricultural Engineering Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>)</li>
+  <li>Agricultural Engineering Laboratory (See <a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/003day-agricultural-eng-shed/' | relative_url }}">Agricultural Engineering Machine Shed</a></li>
+  <li><a href="{{ '/texts/buildings/004day-agricultural-eng-shop/' | relative_url }}">Agricultural Engineering Shop &amp; Shed</a></li>
+  <li>Agricultural Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>); (See <a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtis Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Laboratory</a></li>
+  <li><a href="{{ '/texts/buildings/006day-agronomy-greenhouse/' | relative_url }}">Agronomy Greenhouse</a></li>
+  <li><a href="{{ '/texts/buildings/007day-agronomy-hall/' | relative_url }}">Agronomy Hall</a></li>
+  <li><a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a></li>
+  <li>Allis House (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
+  <li><a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a></li>
   <li>Ames & College Railway</li>
   <li>Ames Laboratory</li>
-  <li>Andrew-Richards House</li>
-  <li>Animal Husbandry Lab (See Meat Laboratory)</li>
+  <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrew-Richards House</a></li>
+  <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
   <li>Animal Husbandry Research Lab</li>
   <li>Animal Isolation Building & Addition</li>
   <li>Animal Science Building (See Kildee Hall)</li>
   <li>Anthony House (See Marston Cottage)</li>
-  <li>Antigenic Laboratory (See Agronomy Laboratory)</li>
-  <li>Apiary</li>
-  <li>Applied Arts Studio (See North Studio)</li>
+  <li>Antigenic Laboratory (See <a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a>)</li>
+  <li><a href="{{ '/texts/buildings/013day-apiary/' | relative_url }}">Apiary</a></li>
+  <li>Applied Arts Studio (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
   <li>Arboretum</li>
   <li>Archery Hut</li>
   <li>Architects (Staff)</li>
-  <li>Armory</li>
-  <li>Association Building (See Alumni Hall)</li>
+  <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
+  <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a>)</li>
   <li>Athletic Fields</li>
   <li>Atomic Energy Commission</li>
   <li>Auditorium (See Stephens Auditorium)</li>
-  <li>Automobile Laboratory (See Exhibit Hall)</li>
+  <li>Automobile Laboratory (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
 </ul>
 
 
@@ -64,116 +64,116 @@ publication-date: 1980
   <li>Barn - Grounds Department</li>
   <li>Barn - Jones</li>
   <li>Barn - At the Knoll</li>
-  <li>Barton Hall</li>
+  <li><a href="{{ '/texts/buildings/015day-barton-hall/' | relative_url }}">Barton Hall</a></li>
   <li>Baseball Diamonds</li>
-  <li>Beach House</li>
-  <li>Beardshear Hall</li>
-  <li>Beardshear House (See Lincoln Way Cottage)</li>
-  <li>Bessey Hall</li>
-  <li>Bessey House (See Sloss House)</li>
-  <li>Bevier House</li>
-  <li>Beyer Hall</li>
-  <li>Beyer House</li>
+  <li><a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a></li>
+  <li><a href="{{ '/texts/buildings/017day-beardshear-hall/' | relative_url }}">Beardshear Hall</a></li>
+  <li>Beardshear House (See <a href="{{ '/texts/buildings/127day-lincoln-way-cottage/' | relative_url }}">Lincoln Way Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/018day-bessey-hall/' | relative_url }}">Bessey Hall</a></li>
+  <li>Bessey House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>)</li>
+  <li><a href="{{ '/texts/buildings/019day-bevier-house/' | relative_url }}">Bevier House</a></li>
+  <li><a href="{{ '/texts/buildings/020day-beyer-hall/' | relative_url }}">Beyer Hall</a></li>
+  <li><a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a></li>
   <li>Bibliography</li>
   <li>Bicycles</li>
-  <li>Biological Laboratory (See Serum Plant)</li>
-  <li>Biomedical Engineering Laboratory (See Quadrangle)</li>
-  <li>Birch Hall</li>
-  <li>Bissell House (See Sloss House)</li>
-  <li>Boarding Club (See Farm Boarding Club)</li>
-  <li>Boarding Cottage - East</li>
-  <li>Boarding Cottage - West</li>
-  <li>Boiler House (at Old Main)</li>
-  <li>Boiler House (See Power Station)</li>
-  <li>Bookstore (See The Hub)</li>
+  <li>Biological Laboratory (See <a href="{{ '/texts/buildings/194day-serum-plant/' | relative_url }}">Serum Plant</a>)</li>
+  <li>Biomedical Engineering Laboratory (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
+  <li><a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall</a></li>
+  <li>Bissell House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>)</li>
+  <li>Boarding Club (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
+  <li><a href="{{ '/texts/buildings/023day-boarding-east/' | relative_url }}">Boarding Cottage - East</a></li>
+  <li><a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a></li>
+  <li><a href="{{ '/texts/buildings/025day-boiler-house/' | relative_url }}">Boiler House (at Old Main)</a></li>
+  <li>Boiler House (See <a href="{{ '/texts/buildings/173day-power-station/' | relative_url }}">Power Station</a>)</li>
+  <li>Bookstore (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
   <li>Bookstore Storage (See Purchasing-Warehouse)</li>
-  <li>Botany Greenhouse</li>
+  <li><a href="{{ '/texts/buildings/026day-botany-forestry-greenhouse/' | relative_url }}">Botany Greenhouse</a></li>
   <li>Botany Greenhouse (See Greenhouse)</li>
-  <li>Botany Hall</li>
+  <li><a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a></li>
   <li>Bowling (Lawn)</li>
   <li>Brickyards</li>
   <li>Bridges</li>
-  <li>Buchanan Hall</li>
-  <li>Budd House (See Mortensen Cottage)</li>
-  <li>Building "A"</li>
-  <li>Building "B"</li>
+  <li><a href="{{ '/texts/buildings/028day-buchanan-hall/' | relative_url }}">Buchanan Hall</a></li>
+  <li>Budd House (See <a href="{{ '/texts/buildings/147day-mortensen-cottage/' | relative_url }}">Mortensen Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/029day-building-a/' | relative_url }}">Building "A"</a></li>
+  <li><a href="{{ '/texts/buildings/030day-building-b/' | relative_url }}">Building "B"</a></li>
   <li>Bunk House</li>
   <li>Buses</li>
-  <li>Bus House (See Fair Oaks Mansion)</li>
+  <li>Bus House (See <a href="{{ '/texts/buildings/068day-fair-oaks-mansion/' | relative_url }}">Fair Oaks Mansion</a>)</li>
 </ul>
 
 ## -C-
 
 <ul class="list-unstyled">
   <li>Caddy House</li>
-  <li>Campanile</li>
+  <li><a href="{{ '/texts/buildings/031day-campanile/' | relative_url }}">Campanile</a></li>
   <li>Campus Planning</li>
   <li>Cap Timm Field</li>
-  <li>Carpenter Shop</li>
-  <li>Carpenter Shop (See Aerospace Lab; Workshop; Veterinary Hospital)</li>
-  <li>Car Pool Office Building</li>
-  <li>Carver Hall</li>
-  <li>Cattle Barn (First)</li>
-  <li>Cattle Barn</li>
+  <li><a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a></li>
+  <li>Carpenter Shop (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Lab</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>; <a href="{{ '/texts/buildings/219day-veterinary-hospital/' | relative_url }}">Veterinary Hospital</a>)</li>
+  <li><a href="{{ '/texts/buildings/033day-carpool-office/' | relative_url }}">Car Pool Office Building</a></li>
+  <li><a href="{{ '/texts/buildings/034day-carver-hall/' | relative_url }}">Carver Hall</a></li>
+  <li><a href="{{ '/texts/buildings/035day-cattle-barn-first/' | relative_url }}">Cattle Barn (First)</a></li>
+  <li><a href="{{ '/texts/buildings/036day-cattle-barn/' | relative_url }}">Cattle Barn</a></li>
   <li>Cattle Shed</li>
   <li>Cattle Shed (See Feeding Sheds)</li>
   <li>C.C.C. Camp Site</li>
   <li>Cemetery</li>
-  <li>Central Building (See Beardshear Hall)</li>
+  <li>Central Building (See <a href="{{ '/texts/buildings/017day-beardshear-hall/' | relative_url }}">Beardshear Hall</a>)</li>
   <li>Central Heating Plant (See Power & Heating Plant)</li>
-  <li>Central Station</li>
+  <li><a href="{{ '/texts/buildings/037day-central-station/' | relative_url }}">Central Station</a></li>
   <li>Central Stores (See Physical Plant Shops & Central Stores)</li>
   <li>Central Stores Storage</li>
-  <li>Ceramics Building (See Engineering Annex)</li>
+  <li>Ceramics Building (See <a href="{{ '/texts/buildings/061day-engineering-annex/' | relative_url }}">Engineering Annex</a>)</li>
   <li>Ceramic Studio (See Greenhouse)</li>
-  <li>Cessna Cottage (See Kildee Cottage)</li>
-  <li>Chemical Engineering Laboratory (See Sweeney Hall)</li>
-  <li>Chemical Engineering - West (See Nuclear Engineering Lab)</li>
-  <li>Chemical & Physical Laboratory</li>
+  <li>Cessna Cottage (See <a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a>)</li>
+  <li>Chemical Engineering Laboratory (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
+  <li>Chemical Engineering - West (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/038day-chemical-physical-lab/' | relative_url }}">Chemical &amp; Physical Laboratory</a></li>
   <li>Chemical Storage Buildings (2)</li>
-  <li>Chemical Truck Bldg. (See Electric & Paint Shop)</li>
-  <li>Chemistry Annex #1 (See Field House - P.E.W.)</li>
-  <li>Chemistry Annex #2 (See Plumbing Shop)</li>
-  <li>Chemistry Hall (See Gilman Hall)</li>
+  <li>Chemical Truck Bldg. (See <a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric &amp; Paint Shop</a>)</li>
+  <li>Chemistry Annex #1 (See <a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a>)</li>
+  <li>Chemistry Annex #2 (See <a href="{{ '/texts/buildings/169day-plumbing-shop/' | relative_url }}">Plumbing Shop</a>)</li>
+  <li>Chemistry Hall (See <a href="{{ '/texts/buildings/089day-gilman-hall/' | relative_url }}">Gilman Hall</a>)</li>
   <li>Chicago & North Western Railway</li>
-  <li>Child Development Building</li>
-  <li>Child Nursery Annex (See Beyer House)</li>
+  <li><a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Building</a></li>
+  <li>Child Nursery Annex (See <a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a>)</li>
   <li>Child Nursery Building (See Horticulture Barn)</li>
   <li>Chilled Water</li>
   <li>Chronological List of Campus Buildings</li>
   <li>Class Gifts</li>
   <li>Classroom - Office Building</li>
-      <ul>
-        <li>#1 - (See Pearson Hall)</li>
-        <li>#2 - (See Carver Hall)</li>
-        <li>#3 - (See Ross Hall)</li>
-      </ul>
+    <ul>
+      <li>#1 - (See <a href="{{ '/texts/buildings/163day-pearson-hall/' | relative_url }}">Pearson Hall</a>)</li>
+      <li>#2 - (See <a href="{{ '/texts/buildings/034day-carver-hall/' | relative_url }}">Carver Hall</a>)</li>
+      <li>#3 - (See <a href="{{ '/texts/buildings/184day-ross-hall/' | relative_url }}">Ross Hall</a>)</li>
+    </ul>
   <li>Club House</li>
   <li>Clyde Williams Field</li>
-  <li>Coal House</li>
-  <li>Coburn House</li>
-  <li>Coliseum (See Hilton Coliseum)</li>
-  <li>College Building (See Main Building)</li>
-  <li>College of Design</li>
-  <li>Collegiate Press Building (See I.S.U. Press Building)</li>
-  <li>Communications Building</li>
+  <li><a href="{{ '/texts/buildings/040day-coal-houses/' | relative_url }}">Coal House</a></li>
+  <li><a href="{{ '/texts/buildings/041day-coburn-house/' | relative_url }}">Coburn House</a></li>
+  <li>Coliseum (See <a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a>)</li>
+  <li>College Building (See <a href="{{ '/texts/buildings/132day-main/' | relative_url }}">Main Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/042day-college-design/' | relative_url }}">College of Design</a></li>
+  <li>Collegiate Press Building (See <a href="{{ '/texts/buildings/117day-isu-press/' | relative_url }}">I.S.U. Press Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/043day-communications/' | relative_url }}">Communications Building</a></li>
   <li>Computer Garage</li>
-  <li>Computer Science</li>
+  <li><a href="{{ '/texts/buildings/044day-computer-science/' | relative_url }}">Computer Science</a></li>
   <li>Construction Storage Shed</li>
-  <li>Continuing Education Building (See Scheman Continuing Educ. Bldg.)</li>
+  <li>Continuing Education Building (See <a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Educ. Bldg.</a>)</li>
   <li>Cooking Shed (See Cattle Shed)</li>
-  <li>Coover Hall</li>
-  <li>Coover House (See Norton House)</li>
-  <li>Corn Cribs</li>
-  <li>Corn & Stock Judging Pavilion (See Agronomgy Farm Crops Lab)</li>
-  <li>Cottages ("Silver City")</li>
-  <li>Cranford Hall (See Sanitary Building)</li>
-  <li>Creamery (First)</li>
-  <li>Creamery (Second)</li>
-  <li>Crop Science Laboratory (See Agronomy Farm Crops Lab)</li>
-  <li>Curtiss Hall</li>
+  <li><a href="{{ '/texts/buildings/045day-coover-hall/' | relative_url }}">Coover Hall</a></li>
+  <li>Coover House (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
+  <li><a href="{{ '/texts/buildings/046day-corn-cribs/' | relative_url }}">Corn Cribs</a></li>
+  <li>Corn &amp; Stock Judging Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomgy Farm Crops Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/047day-cottages/' | relative_url }}">Cottages ("Silver City")</a></li>
+  <li>Cranford Hall (See <a href="{{ '/texts/buildings/187dy-sanitary/' | relative_url }}">Sanitary Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/048day-creamery-first/' | relative_url }}">Creamery (First)</a></li>
+  <li><a href="{{ '/texts/buildings/049day-creamery-second/' | relative_url }}">Creamery (Second)</a></li>
+  <li>Crop Science Laboratory (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtiss Hall</a></li>
   <li>Curtiss Residence (See Farm House)</li>
-  <li>Custodian's Cottage (See Grounds Cottage)</li>
+  <li>Custodian's Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
   <li>Cyclones</li>
 </ul>
 
