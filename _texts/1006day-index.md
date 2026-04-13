@@ -143,7 +143,7 @@ publication-date: 1980
   <li>Chronological List of Campus Buildings</li>
   <li>Class Gifts</li>
   <li>Classroom - Office Building</li>
-    <ul class="list-unstyled">
+    <ul class="book-sublist">
       <li>#1 - (See Pearson Hall)</li>
       <li>#2 - (See Carver Hall)</li>
       <li>#3 - (See Ross Hall)</li>
