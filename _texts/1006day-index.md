@@ -15,7 +15,7 @@ publication-date: 1980
 ## -A-
 
 <body>
-  <ul class="list-unstyled">
+  <ul>
     <li>Abattoir (See Meat Laboratory)</li>
     <li>Aeronautical Engineering Laboratory (See Aerospace Laboratory; Exhibit Hall)</li>
     <li>Aeronautical Laboratory (See Exhibit Hall)</li>
@@ -59,7 +59,7 @@ publication-date: 1980
 </body>
 
 
--B - 
+## -B- 
 Barn -Geddes  463  
 Barn -Grounds Department  464  
 Barn -Jones  463  
