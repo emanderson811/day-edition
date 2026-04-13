@@ -178,28 +178,37 @@ publication-date: 1980
 </ul>
 
 ## -D-  
-Dairy Building (See East 224 
-Hall) Dairy Industry 217 Davidson Hall 219 Depot (See The Hub) 295 Design Center (See College 207 
-of Design) Detention Ward (See Board-181 
-ing Cottage -West) "Dinkey" 48 Disposal Plant 82 Domestic Economy Hall 420 
-(See South Hall) Domestic Technology Building 319 (See MacKay Hall) 
-Dormitory for Women #1 -(See Lyon Hall) 317 #2 -(See Freeman Hall) 261 
-#3  -(See  Barton Hall)  169  
-#4  -(See Elm Lodges)  369  
-#5  -(See  Birch Hall)  179  
-#6  -(See  Birch Hall &  179  
-Welch East)  
-Drill Fields  73  
-Driver Training Laboratory  222  
-Driver Training Storage  222  
-Duplex  223  
-Duplex "A"  (See Child De  204  
-velopment Building)  
-Duplex "B"  (See Nickell  362  
-Fisher House)  
-Duplex "C"  (See Andrews  165  
-Richards House)  
--E  - 
+
+<ul class="list-unstyled">
+  <li>Dairy Building (See East Hall)</li>
+  <li>Dairy Industry</li>
+  <li>Davidson Hall</li>
+  <li>Depot (See The Hub)</li>
+  <li>Design Center (See College of Design)</li>
+  <li>Detention Ward (See Boarding Cottage - West)</li>
+  <li>"Dinkey"</li>
+  <li>Disposal Plant</li>
+  <li>Domestic Economy Hall (See South Hall)</li>
+  <li>Domestic Technology Building (See MacKay Hall)</li>
+  <li>Dormitory for Women</li>
+    <ul>
+      <li>#1 - (See Lyon Hall)</li>
+      <li>#2 - (See Freeman Hall)</li>
+      <li>#3 - (See Barton Hall)</li>
+      <li>#4 - (See Elm Lodges)</li>
+      <li>#5 - (See Birch Hall)</li>
+      <li>#6 - (See Birch Hall & Welch East)</li>
+    </ul>
+  <li>Drill Fields</li>
+  <li>Driver Training Laboratory</li>
+  <li>Driver Training Storage</li>
+  <li>Duplex</li>
+  <li>Duplex "A" (See Child Development Building)</li>
+  <li>Duplex "B" (See Nickell Fisher House)</li>
+  <li>Duplex "C" (See Andrews Richards House)</li>
+
+## -E- 
+
 East Boarding Cottage  180  
 
 (See Boarding Cottage-East) East Chemical Engineering 438 
