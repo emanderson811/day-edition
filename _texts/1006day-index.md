@@ -12,7 +12,7 @@ publication-date: 1980
 * ToC
 {:toc}
 
-##-A-
+## -A-
 
 <body>
   <ul class="list-unstyled">
