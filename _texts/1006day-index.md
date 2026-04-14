@@ -415,23 +415,29 @@ publication-date: 1980
 
 ## -J- 
 
-Jones House  (See Music Hall)  360  
-Judging Pavilion  300  
-Judging Pavilion  
-(See Agronomy Farm Crops  
-Lab)  156  
-(See Carpenter Shop)  194  
-(See Theater Workshop)  444  
--K  - 
-Kent House  (See Mortensen  358  
-Cottage)  
-Kildee Cottage  301  
+<ul class="list-unstyled">
+  <li>Jones House (See Music Hall)</li>
+  <li>Judging Pavilion</li>
+  <li>Judging Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Theater Workshop)</li>
+   
+## -K- 
 
-Kildee Hall & Lush Auditorium 302 Kirkwood Cottage (See 180 
-Boarding Cottage-East) Klatter Klub(See Bevier House)l76 Knapp Hall (See Knapp-Storms 303 
-at Commons) Knapp House (See Coburn House)206 Knapp-Storms & Commons 303 Knapp-Wilson House 243 
-(See Farm House) Knoll, The 305 
--L  
+<ul class="list-unstyled">
+  <li>Kent House (See Mortensen Cottage)</li>
+  <li>Kildee Cottage</li>
+  <li>Kildee Hall & Lush Auditorium</li>
+  <li>Kirkwood Cottage (See Boarding Cottage-East)</li>
+  <li>Klatter Klub (See Bevier House)</li>
+  <li>Knapp Hall (See Knapp-Storms at Commons)</li>
+  <li>Knapp House (See Coburn House)</li>
+  <li>Knapp-Storms & Commons</li>
+  <li>Knapp-Wilson House (See Farm House)</li>
+  <li>Knoll, The</li>
+
+## -L- 
+
+<ul class="list-unstyled">
+  
 Laboratory of Mechanics 309 Laborer's Boarding Club 242 
 (See Farm Boarding Club) Ladies Hall (See Margaret Hall) 337 Lake LaVerne 15 Land 5 Landscape Architects (Staff) 476 Landscape Architecture 310 Landscaping 18 Lanphear House 459 
 (See White House) Larch Hall (See Maple-Willow-335 Larch) 
