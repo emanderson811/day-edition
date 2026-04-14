@@ -340,29 +340,53 @@ publication-date: 1980
 
 ## -H- 
 
-Handball Courts 72 Hanmer House (See Sloss 417 House) Hawthorn Court 281 
-Helser Hall 282 Herdsman's Cottage 283 Hibbard House (See Safford 402 
-Cottage) Hilton Coliseum 283 Hockey Fields 71 Hog Barn (See Feeding Sheds) 251 Hog Barn & Pavilion 284 Hog Houses 285 Hog Serum Plant (See Serum 411 
-Plant) 
-Holden House (See Engineer's Cottage) 271 (See White House) 459 
-Home Economics Annex (See 254 Field House -P.E.W.) Home Economics Hall 319 (See MacKay Hall) 
-Home Management Duplex "A" 204 (See Child Development Build ing) 
-Home Management Duplex "B" 362 (See Nickell-Fisher House) Home Management Duplex "C" 165 (See Andrews-Richards House) Home Management Storage 170 
-(See Beach House) Horse Barn -First 287 Horse Barn (See Landscape 310 
-Architecture) Horse Barn #2 288 Horse Barn #3 (See Ruminant 402 
-Nutrition Lab) Horse Barn & Machine Shed 288 Horse Barn at Service Area 288 Horticulture Barn -First 289 Horticulture Barn 289 Horticulture Barn 465 
-(See Field Shed) Horticulture 6, Botany Green 
-house (See Greenhouse) 275 Horticulture Cottage 291 Horticulture Cottage (See 170 
-Beach House) Horticulture Cottage -Old 278 (See Grounds Cottage) Horticulture Fruit Shed 266 (See Fruit Storage Shed) Horticulture Gardens Building 292 
-5ll 
-Horticulture Hall 242 (See Farm Boarding Club) Horticulture Hall & Green 
-house 292 Horticulture Lab -Old 293 Horticulture Lab (See Farm 242 
-Boarding Club) Hose House 468 Hospital 
-(See Boarding Cottage-
-West) 181 (See Sanitary Building) 403 (See Student Services 
-Bldg.) 435 Hospital Annex (See Quaran-470 
-tine Hospital) Hub, The 295 Hughes Hall (See Friley Hall)262 Hydraulics Laboratory (See 309 
-Laboratory of Mechanics) 
+<ul class="list-unstyled">
+  <li>Handball Courts</li>
+  <li>Hanmer House (See Sloss House)</li>
+  <li>Hawthorn Court</li>
+  <li>Helser Hall</li>
+  <li>Herdsman's Cottage</li>
+  <li>Hibbard House (See Safford Cottage)</li>
+  <li>Hilton Coliseum</li>
+  <li>Hockey Fields</li>
+  <li>Hog Barn (See Feeding Sheds)</li>
+  <li>Hog Barn & Pavilion</li>
+  <li>Hog Houses</li>
+  <li>Hog Serum Plant (See Serum Plant)</li>
+  <li>Holden House (See Engineer's Cottage) (See White House)</li>
+  <li>Home Economics Annex (See Field House - P.E.W.)</li>
+  <li>Home Economics Hall (See MacKay Hall)</li>
+  <li>Home Management Duplex "A" (See Child Development Building)</li>
+  <li>Home Management Duplex "B" (See Nickell-Fisher House)</li>
+  <li>Home Management Duplex "C" (See Andrews-Richards House)</li>
+  <li>Home Management Storage (See Beach House)</li>
+  <li>Horse Barn - First</li>
+  <li>Horse Barn (See Landscape Architecture</li>
+  <li>Horse Barn #2</li>
+  <li>Horse Barn #3 (See Ruminant Nutrition Lab)</li>
+  <li>Horse Barn & Machine Shed</li>
+  <li>Horse Barn at Service Area</li>
+  <li>Horticulture Barn - First</li>
+  <li>Horticulture Barn</li>
+  <li>Horticulture Barn (See Field Shed)</li>
+  <li>Horticulture & Botany Greenhouse (See Greenhouse)</li>
+  <li>Horticulture Cottage</li>
+  <li>Horticulture Cottage (See Beach House)</li>
+  <li>Horticulture Cottage - Old (See Grounds Cottage)</li>
+  <li>Horticulture Fruit Shed (See Fruit Storage Shed)</li>
+  <li>Horticulture Gardens Building</li>
+  <li>Horticulture Hall (See Farm Boarding Club)</li>
+  <li>Horticulture Hall & Greenhouse</li>
+  <li>Horticulture Lab - Old</li>
+  <li>Horticulture Lab (See Farm Boarding Club)</li>
+  <li>Hose House</li>
+  <li>Hospital (See Boarding Cottage-West) (See Sanitary Building) (See Student Services Bldg.)</li>
+  <li>Hospital Annex (See Quarantine Hospital)</li>
+  <li>Hub></li>
+  <li>The Hughes Hall (See Friley Hall)</li>
+  <li>Hydraulics Laboratory (See Laboratory of Mechanics)</li>
+</ul>
+
 -I  
 Ice Houses 468 Ice Skating 73 Implement Shed (See Experi-465 
 ment Station Machine Shed; 473 Tool House) Incinerator (See Tile 472 Storage Shed) Industrial Arts (See Engin-232 
