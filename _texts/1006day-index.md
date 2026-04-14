@@ -387,19 +387,34 @@ publication-date: 1980
   <li>Hydraulics Laboratory (See Laboratory of Mechanics)</li>
 </ul>
 
--I  
-Ice Houses 468 Ice Skating 73 Implement Shed (See Experi-465 
-ment Station Machine Shed; 473 Tool House) Incinerator (See Tile 472 Storage Shed) Industrial Arts (See Engin-232 
-eering Research Institute) Industrial Education 296 Industrial Education II 451 
-(See Veterinary Clinic) Insectary -First 297 Insectary & Greenhouse 298 Institute for Atomic Re 
-search 93 Institution Names 475 Instrumentation Research 394 
-Lab. (See Quadrangle) International House (See 267 
-The Gables) Interurban 53 Intramural Fields 71 Intramural Hut 469 Iowa State Center 94 ISU Foundation 98 
-r.s.u. Press Building 299 
-Isolation Barn  469  
-Isolation House  (See  470  
-Quarantine Hospital)  
--J  - 
+## -I-
+
+<ul class="list-unstyled">
+  <li>Ice Houses</li>
+  <li>Ice Skating</li>
+  <li>Implement Shed (See Experiment Station Machine Shed; Tool House)</li>
+  <li>Incinerator (See Tile Storage Shed)</li>
+  <li>Industrial Arts (See Engineering Research Institute)</li>
+  <li>Industrial Education</li>
+  <li>Industrial Education II (See Veterinary Clinic)</li>
+  <li>Insectary - First</li>
+  <li>Insectary & Greenhouse</li>
+  <li>Institute for Atomic Research</li>
+  <li>Institution Names</li>
+  <li>Instrumentation Research Lab. (See Quadrangle)</li>
+  <li>International House (See The Gables)</li>
+  <li>Interurban</li>
+  <li>Intramural Fields</li>
+  <li>Intramural Hut</li>
+  <li>Iowa State Center</li>
+  <li>ISU Foundation</li>
+  <li>I.S.U. Press Building</li>
+  <li>Isolation Barn</li>
+  <li>Isolation House (See Quarantine Hospital)</li>
+</ul>
+
+## -J- 
+
 Jones House  (See Music Hall)  360  
 Judging Pavilion  300  
 Judging Pavilion  
