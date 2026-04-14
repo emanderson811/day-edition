@@ -469,25 +469,56 @@ publication-date: 1980
  
 ## -M-
 
-Machinery & Storage Shed 319 Machine Shed 470 Machine Shed (See Field Shed) 465 Machine Shop (See Workshop; 347 Mechanical Engineering 460 
-Lab) MacKay Hall 319 Mail Service 122 Main Building 322 Maintenance Shop 163 Maple Hall (See Maple-335 
-Willow-Larch) Maples (The) 360 (See Music Hall) Maple, Willow & Larch Halls 335 
-& Commons Margaret Hall 337 Margaret Hall Annex (See 363 
-North Hall; White House) 459 
-Married Student Housing (See Hawthorn Court) 281 (See Pammel Court) 373 (See Schilletter Village) 405 (See University Village) 449 
-Marston Cottage 339 Marston Hall 339 Mather Observatory 253 
-(See Fick Observatory) McKay House (See Farm 250 
-Laborer's Cottage) Meat Laboratory 342 Meats Laboratory 346 Mechanical Engineering 
-Laboratory 347 Mechanical Engineering Lab Addition (See Naval Armory) 361 Mechanical Maintenance Build ing 163 Mechanics Laboratory 309 (See Laboratory of Mechanics) Meeker House (See Sloss 417 
-House; Osborn Cottage) 372 Memorials 119 Memorial Union 349 Memorial Union Parking Ramp 375 
-(See Parking Ramp-Memorial Union) Men's Gymnasium (See State 430 Gymnasium) Men's Physical Education Bldg.177 
-(See Beyer Hall) Metallurgy Building 353 Metals Development Building 354 Military Barracks (See Vet~r-455 
-inary Physiology Research 
-Laboratory) Military Garage 354 Military Powder Magazines 355 Military Stables (Frame) 356 Military Stables-North 455 
-(See Veterinary Obstetrics Lab.) Military Stables-South 455 (See Veterinary Surgery) Military Stables-Utility 455 (See Veterinary Physiology 
-Research Lab) Morrill Hall 357 Mortensen Cottage 358 Motor Depot (See Hub) 295 Music Building 359 Music Hall 360 Music Hall (See South Hall; 403 
-Sanitary Bldg.) 420 
--N - 
+<ul class="list-unstyled">
+  <li>Marchinery & Storage Shed</li>
+  <li>Machine Shed</li>
+  <li>Machine Shed (See Field Shed)</li>
+  <li>Machine SHop (See Workshop; Mechanical Engineering Lab)</li>
+  <li>MacKay Hall</li>
+  <li>Mail Service</li>
+  <li>Main Building</li>
+  <li>Maintenance Shop</li>
+  <li>Maple Hall (See Maple-Willow-Larch)</li>
+  <li>Maples, The (See Music Hall)</li>
+  <li>Maple, Willow & Larch Halls & Commons</li>
+  <li>Margaret Hall</li>
+  <li>Margaret Hall Annex (See North Hall; White House)</li>
+  <li>Married Student Housing (See Hawthorn Court) (See Pammel Court) (See Schilletter Village) (See University Village)</li>
+  <li>Marston Cottage</li>
+  <li>Marston Hall</li>
+  <li>Mather Observatory (See Fick Observatory)</li>
+  <li>McKay House (See Farm Laborer's Cottage)</li>
+  <li>Meat Laboratory</li>
+  <li>Meats Laboratory</li>
+  <li>Mechanical Engineering Laboratory</li>
+  <li>Mechanical Engineering Lab Addition (See Naval Armory)</li>
+  <li>Mechanical Maintenance Building</li>
+  <li>Mechanics Laboratory (See Laboratory of Mechanics)</li>
+  <li>Meeker House (See Sloss House; Osborn Cottage)</li>
+  <li>Memorials</li>
+  <li>Memorial Union</li>
+  <li>Memorial Union Parking Ramp (See Parking Ramp-Memorial Union)</li>
+  <li>Men's Gymnasium (See State Gymnasium)</li>
+  <li>Men's Physical Education Bldg. (See Beyer Hall)</li>
+  <li>Metallurgy Building</li>
+  <li>Metals Development Building</li>
+  <li>Military Barracks (See Veterinary Physiology Research Laboratory)</li>
+  <li>Military Garage</li>
+  <li>Military Powder Magazines</li>
+  <li>Military Stables (Frame)</li>
+  <li>Military Stables-North (See Veterinary Obstetrics Lab.)</li>
+  <li>Military Stables-South (See Veterinary Surgery)</li>
+  <li>Military Stables-Utility (See Veterinary Physiology Research Lab)</li>
+  <li>Morrill Hall</li>
+  <li>Mortensen Cottage</li>
+  <li>Motor Depot (See Hub)</li>
+  <li>Music Building</li>
+  <li>Music Hall</li>
+  <li>Music Hall (See South Hall; Sanitary Bldg.</li>
+</ul>
+
+## -N- 
+
 Names o.  Institution  475  
 Naval Armory  361  
 Naval Diesel School Lab  361  
