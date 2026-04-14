@@ -300,28 +300,46 @@ publication-date: 1980
   <li>Fruit Storage Shed</li>
 </ul>
   
--G  
-Gables (The) 267 Garage (See Exhibit Hall) 236 Garage-Extension Service 222 
-(See Driver Training Storage) 
-Garages  466  
-Gardener's Cottage  278  
-(See Grounds Cottage)  
-Garden House  (See Boarding 242  
-Club)  
-Gardens  18  
-Gas Supply  86  
+## -G-  
 
-Geddes House (S~e Music Hall)360 General Shops (See Grounds 279 Shop) General Stores Building 184 
-(See Botany Hall-North wing) Genetics Chick Isolation 467 Genetics Laboratory 268 Genetics Poultry Laboratory 467 Genetics & Plant Pathology 
-Greenhouse 269 Genetics Storage Building 467 Gilman Hall 270 Gladstone Hotel (See Ridge-399 
-way House) Golf Club House 275 Golf Course 68 Governing Boards 475 Graduate Student Dormitory 187 
-(See Buchanan Hall) Granary (See Machine Shed) 470 Gray Cottage (See Norton 365 
-House) Greenhouse 275 Greenhouse (at Exp. Sta. 276 
-Bldg.) Greenhouse (at Hort. Lab) 277 Greenhouse & Controlled En 
-vironment Center (See 184 Botany & Forestry Green houses) 
-Grounds Cottage 278 Grounds Shop 279 Gun Shed 279 Gymnasium 280 Gymnasium (See State Gym-430 
-nasium) 
--H  
+<ul class="list-unstyled">
+  <li>Gables (The)</li>
+  <li>Garage (See Exhibit Hall)</li>
+  <li>Garage-Extension Service (See Driver Training Storage)</li>
+  <li>Garages</li>
+  <li>Gardeners Cottage (See Grounds Cottage)</li>
+  <li>Garden House (See Boarding Club)</li>
+  <li>Gardens</li>
+  <li>Gas Supply</li>
+  <li>Geddes House (See Music Hall)</li>
+  <li>General Shops (See Grounds Shop)</li>
+  <li>General Stores Building (See Botany Hall-North Wing)</li>
+  <li>Genetics Chick Isolation</li>
+  <li>Genetics Laboratory</li>
+  <li>Genetics Poultry Laboratory</li>
+  <li>Genetics Genetics & Plant Pathology Greenhouse</li>
+  <li>Genetics Storage Building</li>
+  <li>Gilman Hall</li>
+  <li>Gladstone Hotel (See Ridgeway House)</li>
+  <li>Gold Club House</li>
+  <li>Golf Course</li>
+  <li>Governing Boards</li>
+  <li>Graduate Student Dormitory (See Buchanan Hall)</li>
+  <li>Granary (See Machine Shed)</li>
+  <li>Gray Cottage (See Norton House)</li>
+  <li>Greenhouse</li>
+  <li>Greenhouse (at Exp. Sta. Bldg.)</li>
+  <li>Greenhouse (at Hort. Lab)</li>
+  <li>Greenhouse & Controlled Environment Center (See Botany & Forestry Greenhouses)</li>
+  <li>Grounds Cottage</li>
+  <li>Grounds Shop</li>
+  <li>Gun Shed</li>
+  <li>Gymnasium</li>
+  <li>Gymnasium (See State Gymnasium)</li>
+</ul>
+
+## -H- 
+
 Handball Courts 72 Hanmer House (See Sloss 417 House) Hawthorn Court 281 
 Helser Hall 282 Herdsman's Cottage 283 Hibbard House (See Safford 402 
 Cottage) Hilton Coliseum 283 Hockey Fields 71 Hog Barn (See Feeding Sheds) 251 Hog Barn & Pavilion 284 Hog Houses 285 Hog Serum Plant (See Serum 411 
