@@ -382,7 +382,7 @@ publication-date: 1980
   <li>Hose House</li>
   <li>Hospital (See Boarding Cottage-West) (See Sanitary Building) (See Student Services Bldg.)</li>
   <li>Hospital Annex (See Quarantine Hospital)</li>
-  <li>Hub></li>
+  <li>Hub</li>
   <li>The Hughes Hall (See Friley Hall)</li>
   <li>Hydraulics Laboratory (See Laboratory of Mechanics)</li>
 </ul>
