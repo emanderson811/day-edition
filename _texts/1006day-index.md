@@ -519,24 +519,21 @@ publication-date: 1980
 
 ## -N- 
 
-Names o.  Institution  475  
-Naval Armory  361  
-Naval Diesel School Lab  361  
-(See Naval Armory)  
-Nickell-Fisher House  362  
-Nickell House  (See Child  204  
-Development Bldg.)  
-Noble  House  (See Pope Cot  385  
-tage)  
-North Hall  363  
-North Studio  364  
-Norton House  365  
-Nuclear Engineering Labora  
-tory  366  
-Nursery  School  (See Child  204  
-Development Bldg.)  
+<ul class="list-unstyled">
+  <li>Names of Institution</li>
+  <li>Naval Armory</li>
+  <li>Naval Diesel School Lab (See Naval Armory)</li>
+  <li>Nickell-Fisher House</li>
+  <li>Nickell House (See Child Development Bldg.)</li>
+  <li>Noble House (See Pope Cottage)</li>
+  <li>North Hall</li>
+  <li>North Studio</li>
+  <li>Norton House</li>
+  <li>Nuclear Engineering Laboratory</li>
+  <li>Nursery School (See Child Development Bldg.)</li>
+  <li>Nurses' Home (See While House; Beyer House)</li>
+</ul>
 
-Nurses' Home (See White House 178 Beyer House) 
 -0  
 Oak-Elm Halls 367 Oak Hall (See Oak-Elm Hall) 367 Oak-Elm Lodges & Dining Room 369 Observatory (See Fick Ob-253 
 servatory) Office Building (See English 235 
