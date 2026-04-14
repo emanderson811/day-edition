@@ -206,6 +206,7 @@ publication-date: 1980
   <li>Duplex "A" (See Child Development Building)</li>
   <li>Duplex "B" (See Nickell Fisher House)</li>
   <li>Duplex "C" (See Andrews Richards House)</li>
+</ul>
 
 ## -E- 
 
