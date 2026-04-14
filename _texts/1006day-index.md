@@ -419,6 +419,7 @@ publication-date: 1980
   <li>Jones House (See Music Hall)</li>
   <li>Judging Pavilion</li>
   <li>Judging Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Theater Workshop)</li>
+</ul>
    
 ## -K- 
 
@@ -433,42 +434,41 @@ publication-date: 1980
   <li>Knapp-Storms & Commons</li>
   <li>Knapp-Wilson House (See Farm House)</li>
   <li>Knoll, The</li>
+</ul>
 
 ## -L- 
 
 <ul class="list-unstyled">
-  
-Laboratory of Mechanics 309 Laborer's Boarding Club 242 
-(See Farm Boarding Club) Ladies Hall (See Margaret Hall) 337 Lake LaVerne 15 Land 5 Landscape Architects (Staff) 476 Landscape Architecture 310 Landscaping 18 Lanphear House 459 
-(See White House) Larch Hall (See Maple-Willow-335 Larch) 
-Laundry & Chemical Truck Build ing (See Electric & Paint 227 Shop) 
-Laundry Storage 469 
-LeBaron Hall (See MacKay  319  
-Hall)  
-Leighton-MacKay House  250  
-(See Farm Laborer's Cot  
-tage)  
-Library  311  
-Library Storage  314  
-Lighting  84  
-Lincoln Way Cottage  315  
-Linden Hall  316  
-Link (See Office &Labora  371  
-tory Bldg.)  
-Little Ankeny  254  
-(See Field House-P,E,W.)  
-Little Theater (See Fisher  257  
-Theater)  
-Locomotive Sheds  470  
-Lodges, The (See Oak-Elm  369  
-Lodges)  
-Lush Auditorium (See Kildee  302  
-Hall)  
-Lynn Fuhrer Lodge  104  
-Lyon Hall  317  
-
+  <li>Laboratory of Mechanics</li>
+  <li>Laborer's Boarding Club (See Farm Boarding Club)</li>
+  <li>Ladies Hall (See Margaret Hall)</li>
+  <li>Lake LaVerne</li>
+  <li>Land</li>
+  <li>Landscape Architects (Staff)</li>
+  <li>Landscape Architecture</li>
+  <li>Landscaping</li>
+  <li>Lanphear House (See White House)</li>
+  <li>Larch Hall (See Maple-Willow-Larch)</li>
+  <li>Laundry & Chemical Truck Building (See Electric & Paint Shop)</li>
+  <li>Laudry Storage</li>
+  <li>LeBaron Hall (See MacKay Hall)</li>
+  <li>Leighton-MacKay House (See Farm Laborer's Cottage)</li>
+  <li>Library</li>
+  <li>Library Storage</li>
+  <li>Lighting</li>
+  <li>Lincoln Way Cottage</li>
+  <li>Linden Hall</li>
+  <li>Link (See Office & Laboratory Bldg.)</li>
+  <li>Little Ankeny (See Field House - P.E.W.)</li>
+  <li>Little Theater (See Fisher Theater)</li>
+  <li>Locomotive Sheds</li>
+  <li>Lodges, The (See Oak-Elm Lodges)</li>
+  <li>Lush Auditorium (See Kildee Hall)</li>
+  <li>Lynn Fuhrer Lodge</li>
+  <li>Lyon Hall</li>
  
--M-
+## -M-
+
 Machinery & Storage Shed 319 Machine Shed 470 Machine Shed (See Field Shed) 465 Machine Shop (See Workshop; 347 Mechanical Engineering 460 
 Lab) MacKay Hall 319 Mail Service 122 Main Building 322 Maintenance Shop 163 Maple Hall (See Maple-335 
 Willow-Larch) Maples (The) 360 (See Music Hall) Maple, Willow & Larch Halls 335 
