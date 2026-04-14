@@ -466,6 +466,7 @@ publication-date: 1980
   <li>Lush Auditorium (See Kildee Hall)</li>
   <li>Lynn Fuhrer Lodge</li>
   <li>Lyon Hall</li>
+</ul>
  
 ## -M-
 
