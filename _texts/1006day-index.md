@@ -252,26 +252,54 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li>Facilities Building (See Olsen Building)</li>
   <li>Faculty Club Rouse (See Farm Boarding Club)</li>
+  <li>Fair Oaks Mansion</li>
+  <li>Farm Barn (See Cattle Barn-First)</li>
+  <li>Farm Barn & Machine Shed (See Horse Barn & Machine Shed)</li>
+  <li>Farm Boarding Club</li>
+  <li>Farm Crops Laboratory (See Agronomy Farm Crops Lab)</li>
+  <li>Farm Foreman's Cottage (See Creamery-First)</li>
+  <li>Farm House</li>
+  <li>Farm Laborer's Cottage</li>
+  <li>Farm Mechanics Building (See Botany Hall)</li>
+  <li>Farm Workman's Cottage (See Eastwood Cottage)</li>
+  <li>Farrier's Shop (See Agric. Engr. Shop & Shed)</li>
+  <li>Feed Barn (See Feed Storage Elevator)</li>
+  <li>Feeding Barn</li>
+  <li>Feeding Sheds</li>
+  <li>Feed Storage Elevator</li>
+  <li>Fick Observatory</li>
+  <li>Field House-Auditorium (See Hilton Coliseum)</li>
+  <li>Field House-P.E.W.</li>
+  <li>Field Shed</li>
+  <li>Film Production (See Norton House)</li>
+  <li>Film Storage</li>
+  <li>Filter Plant</li>
+  <li>Fire Department Building (See Fire Protection) (See Hose House)</li>
+  <li>Firemanship Training</li>
+  <li>Fire Protection</li>
+  <li>Fires</li>
+  <li>Fisher House (See Nickell-Fisher House)</li>
+  <li>Fisher Theater</li>
+  <li>Flagpoles</li>
+  <li>Floods</li>
+  <li>Food Processing Laboratory (See Food Technology)</li>
+  <li>Food Processing-Temporary (See Temporary Building "P")</li>
+  <li>Food Technology</li>
+  <li>Forage Crops Laboratory (See North Studio)</li>
+  <li>Forage Shed</li>
+  <li>Forestry Greenhouse</li>
+  <li>Forage Shop (See Building "B")</li>
+  <li>Fort Dodge, Des Moines & Southern Railway</li>
+  <li>Foundry (See Building "A")</li>
+  <li>Foundry Store House</li>
+  <li>Four Apartment House</li>
+  <li>Franklin Park</li>
+  <li>Freeman Hall</li>
+  <li>Friley Hall</li>
+  <li>Fruit House</li>
+  <li>Fruit Storage Shed</li>
+</ul>
   
-Facilities Building 372 (See Olsen Building) Faculty Club Rouse (See 242 
-Farm Boarding Club) Fair Oaks Mansion 240 Farm Barn (See Cattle Barn-196 
-First) 
-Farm Barn & Machine Shed 288 (See Horse Barn & Machine Shed) 
-Farm Boarding Club 242 
-Farm Crops Laboratory 156 (See Agronomy Farm Crops Lab) 
-Farm Foreman's Cottage 213 
-(See Creamery-First) Farm House 243 Farm Laborer's Cottage 250 Farm Mechanics Building 184 
-(See Botany Hall) Farm Workman's Cottage 227 (See Eastwood Cottage) Farrier's Shop (See Agric. 156 Engr. Shop & Shed) Feed Barn (See Feed Storage 252 Elevator) 
-Feeding Barn 251 Feeding Sheds 251 Feed Storage Elevator 252 Fick Observatory 253 Field House-Auditorium 283 
-(See Hilton Coliseum) Field House-P.E.W. 254 Field Shed 465 Film Production (See Norton 365 
-House) Film Storage 255 Filter Plant 80 Fire Department Building 113 
-(See Fire Protection) 468 
-(See Hose House) Firemanship Training 256 Fire Protection 110 Fires 115 Fisher House (See Nickell-362 
-Fisher House) Fisher Theater 257 Flagpoles 117 Floods 136 Food Processing Laboratory 258 
-(See Food Technology) Food Processing-Temporary 442 
-(See Temporary Building "P") Food Technology 258 Forage Crops Laboratory 364 
-(See North Studio) Forage Shed 259 Forestry ~reenhouse 184 Forage Shop (See Building "B") 189 Fort Dodge, Des Moines & 
-Southern Railway 53 Foundry (See Building "A") 188 Foundry Store House 466 Four Apartment House 259 Franklin Park 45 Freeman Hall 261 Friley Hall 262 Fruit House 466 Fruit Storage Shed 266 
 -G  
 Gables (The) 267 Garage (See Exhibit Hall) 236 Garage-Extension Service 222 
 (See Driver Training Storage) 
