@@ -211,7 +211,7 @@ publication-date: 1980
 ## -E- 
 
 <ul class="list-unstyled">
-  <li>East Boarding Cottage (See Boarding Cottage-East)</li>
+  <li>East Boarding Cottage (See Boarding Cottage - East)</li>
   <li>East Chemical Engineering (See Sweeney Hall)</li>
   <li>East Hall</li>
   <li>East Hall (See Freeman Hall)</li>
@@ -253,11 +253,11 @@ publication-date: 1980
   <li>Facilities Building (See Olsen Building)</li>
   <li>Faculty Club Rouse (See Farm Boarding Club)</li>
   <li>Fair Oaks Mansion</li>
-  <li>Farm Barn (See Cattle Barn-First)</li>
+  <li>Farm Barn (See Cattle Barn - First)</li>
   <li>Farm Barn & Machine Shed (See Horse Barn & Machine Shed)</li>
   <li>Farm Boarding Club</li>
   <li>Farm Crops Laboratory (See Agronomy Farm Crops Lab)</li>
-  <li>Farm Foreman's Cottage (See Creamery-First)</li>
+  <li>Farm Foreman's Cottage (See Creamery - First)</li>
   <li>Farm House</li>
   <li>Farm Laborer's Cottage</li>
   <li>Farm Mechanics Building (See Botany Hall)</li>
@@ -269,7 +269,7 @@ publication-date: 1980
   <li>Feed Storage Elevator</li>
   <li>Fick Observatory</li>
   <li>Field House-Auditorium (See Hilton Coliseum)</li>
-  <li>Field House-P.E.W.</li>
+  <li>Field House - P.E.W.</li>
   <li>Field Shed</li>
   <li>Film Production (See Norton House)</li>
   <li>Film Storage</li>
@@ -283,7 +283,7 @@ publication-date: 1980
   <li>Flagpoles</li>
   <li>Floods</li>
   <li>Food Processing Laboratory (See Food Technology)</li>
-  <li>Food Processing-Temporary (See Temporary Building "P")</li>
+  <li>Food Processing - Temporary (See Temporary Building "P")</li>
   <li>Food Technology</li>
   <li>Forage Crops Laboratory (See North Studio)</li>
   <li>Forage Shed</li>
@@ -305,7 +305,7 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li>Gables (The)</li>
   <li>Garage (See Exhibit Hall)</li>
-  <li>Garage-Extension Service (See Driver Training Storage)</li>
+  <li>Garage - Extension Service (See Driver Training Storage)</li>
   <li>Garages</li>
   <li>Gardeners Cottage (See Grounds Cottage)</li>
   <li>Garden House (See Boarding Club)</li>
@@ -313,7 +313,7 @@ publication-date: 1980
   <li>Gas Supply</li>
   <li>Geddes House (See Music Hall)</li>
   <li>General Shops (See Grounds Shop)</li>
-  <li>General Stores Building (See Botany Hall-North Wing)</li>
+  <li>General Stores Building (See Botany Hall - North Wing)</li>
   <li>Genetics Chick Isolation</li>
   <li>Genetics Laboratory</li>
   <li>Genetics Poultry Laboratory</li>
@@ -380,7 +380,7 @@ publication-date: 1980
   <li>Horticulture Lab - Old</li>
   <li>Horticulture Lab (See Farm Boarding Club)</li>
   <li>Hose House</li>
-  <li>Hospital (See Boarding Cottage-West) (See Sanitary Building) (See Student Services Bldg.)</li>
+  <li>Hospital (See Boarding Cottage - West) (See Sanitary Building) (See Student Services Bldg.)</li>
   <li>Hospital Annex (See Quarantine Hospital)</li>
   <li>Hub</li>
   <li>The Hughes Hall (See Friley Hall)</li>
@@ -427,7 +427,7 @@ publication-date: 1980
   <li>Kent House (See Mortensen Cottage)</li>
   <li>Kildee Cottage</li>
   <li>Kildee Hall & Lush Auditorium</li>
-  <li>Kirkwood Cottage (See Boarding Cottage-East)</li>
+  <li>Kirkwood Cottage (See Boarding Cottage - East)</li>
   <li>Klatter Klub (See Bevier House)</li>
   <li>Knapp Hall (See Knapp-Storms at Commons)</li>
   <li>Knapp House (See Coburn House)</li>
@@ -498,7 +498,7 @@ publication-date: 1980
   <li>Meeker House (See Sloss House; Osborn Cottage)</li>
   <li>Memorials</li>
   <li>Memorial Union</li>
-  <li>Memorial Union Parking Ramp (See Parking Ramp-Memorial Union)</li>
+  <li>Memorial Union Parking Ramp (See Parking Ramp - Memorial Union)</li>
   <li>Men's Gymnasium (See State Gymnasium)</li>
   <li>Men's Physical Education Bldg. (See Beyer Hall)</li>
   <li>Metallurgy Building</li>
@@ -507,9 +507,9 @@ publication-date: 1980
   <li>Military Garage</li>
   <li>Military Powder Magazines</li>
   <li>Military Stables (Frame)</li>
-  <li>Military Stables-North (See Veterinary Obstetrics Lab.)</li>
-  <li>Military Stables-South (See Veterinary Surgery)</li>
-  <li>Military Stables-Utility (See Veterinary Physiology Research Lab)</li>
+  <li>Military Stables - North (See Veterinary Obstetrics Lab.)</li>
+  <li>Military Stables - South (See Veterinary Surgery)</li>
+  <li>Military Stables - Utility (See Veterinary Physiology Research Lab)</li>
   <li>Morrill Hall</li>
   <li>Mortensen Cottage</li>
   <li>Motor Depot (See Hub)</li>
@@ -557,7 +557,7 @@ publication-date: 1980
   <li>Paint & Graphite Shop</li>
   <li>Pammel Court</li>
   <li>Pammel Woods</li>
-  <li>Parking Ramp-Memorial Union</li>
+  <li>Parking Ramp - Memorial Union</li>
   <li>Pattern Shop (See Aerospace Laboratory)</li>
   <li>Parking</li>
   <li>Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Hog Barn & Pavilion) (See Judging Pavilion) (See Theater Workshop)</li>
