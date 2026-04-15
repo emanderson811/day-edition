@@ -535,42 +535,84 @@ publication-date: 1980
   <li>Nurses' Home (See While House; Beyer House)</li>
 </ul>
 
--0  
-Oak-Elm Halls 367 Oak Hall (See Oak-Elm Hall) 367 Oak-Elm Lodges & Dining Room 369 Observatory (See Fick Ob-253 
-servatory) Office Building (See English 235 
-Office Building) Office & Laboratory Building 371 Old Horticulture Cottage 278 
-(See Grounds Cottage) Old Main(See Main Building) 322 Olsen Building 372 Orchards 18 Osborn Cottage 372 
--p  
-Paint & Graphite Shop 164 Pammel Court 373 Pammel Woods 30 Parking Ramp-Memorial Union 375 Pattern Shop (See Aerospace 154 
-Laboratory) Parking 60 Pavilion 
-(See Agronomy Farm Crops Lab) 156 
-Pavilion(cont.) (See Carpenter Shop) 194 (See Hog Barn & Pavilion) 284 (See Judging Pavilion) 300 (See Theater Workshop) 444 
-Pearson Hall 376 Petersen, Christian 130 Physical (and Chemical) Labor 
-atory (See Chemical and 202 
-Physical Laboratory) Physical Education Building 377 Physical Plant Personnel 476 Physical Plant Shops &Central 
-Stores 378 Physical Plant Storage Shed 380 Physics Hall 381 Physics Hall Addition 381 Physiological Instrumentation 394 
-Research Lab (See Quadrangle) Piggery (See Hog Houses) 285 Pines, The (See Sloss House) 417 Plant Introduction Greenhouse 383 Plant Propagation Building 292 
-(See Horticulture Hall & Greenhouse) Plant Science Building 175 
-(See Bessey Hall) Plumbing Shop 384 Polo Field 72 Pope Cottage 385 Post Mortem & Rendering Plant 397 
-(See Rendering Plant) Post Office (See The Hub) 295 Post Offices 122 Poultry Farm 100,386 Poultry Houses 386 Poultry Isolation Building 103 Poultry Laboratory 419 
-(See Soils Testing Lab) Power & Heating Plant 387 Power Station 389 Practice House (See Coburn 206 
-House; Norton House) 365 Presidents(of the Institution) 475 President's Barn 390 President's House (See South 305 
-Hall; The Knoll) 420 Press Building (See I.S.U. 299 Press Building) Printing Building 391 
-Professors'  Houses  420  
-(See  South Hall;  Music  339  
-Hall;  Marston Cottage)  360  
-Propagating House  (See  276  
-Greenhouse  at Expt.  Sta.  277  
-Bldg.)(See Greenhouse  at  
-Hort.  Lab)  
-Public Grounds  Barn  (See  288  
+## -O-
 
-Horse Barn at Service Area) Pump House 392. Pumping Station (See Power 389 
-Station) Purchasing Warehouse 393 
-.::JL:. 
-Quadrangle 394 Quadrangle -North 396 Quarantine Hospital 470 Quarters, The (See Boarding 180 
-Cottage -East) 
+<ul class="list-unstyled">
+  <li>Oak-Elm Halls</li>
+  <li>Oak Hall (See Oak-Elm Hall)</li>
+  <li>Oak-Elm Lodges & Dining Room</li>
+  <li>Observatory (See Fick Observatory)</li>
+  <li>Office Building (See English Office Building)</li>
+  <li>Office & Laboratory Building</li>
+  <li>Old Horticulture Cottage (See Grounds Cottage)</li>
+  <li>Old Main (See Main Building)</li>
+  <li>Olsen Building</li>
+  <li>Orchards</li>
+  <li>Osborn Cottage</li>
+</ul>
+
+## -P-
+
+<ul class="list-unstyled">
+  <li>Paint & Graphite Shop</li>
+  <li>Pammel Court</li>
+  <li>Pammel Woods</li>
+  <li>Parking Ramp-Memorial Union</li>
+  <li>Pattern Shop (See Aerospace Laboratory)</li>
+  <li>Parking</li>
+  <li>Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Hog Barn & Pavilion) (See Judging Pavilion) (See Theater Workshop)</li>
+  <li>Pearson Hall</li>
+  <li>Petersen, Christian</li>
+  <li>Physical (and Chemical) Laboratory (See Chemical and Physical Laboratory)</li>
+  <li>Physical Education Building</li>
+  <li>Physical Plant Personnel</li>
+  <li>Physical Plant Shops & Central Stores</li>
+  <li>Physical Plant Storage Shed</li>
+  <li>Physics Hall</li>
+  <li>Physics Hall Addition</li>
+  <li>Physiological Instrumentation Research Lab (See Quadrangle)</li>
+  <li>Piggery (See Hog Houses)</li>
+  <li>Pines, The (See Sloss House)</li>
+  <li>Plant Introduction Greenhouse</li>
+  <li>Plant Propagation Building (See Horticulture Hall & Greenhouse)</li>
+  <li>Plant Science Building (See Bessey Hall)</li>
+  <li>Plumbing Shop</li>
+  <li>Polo Field</li>
+  <li>Pope Cottage</li>
+  <li>Post Mortem & Rendering Plant (See Rendering Plant)</li>
+  <li>Post Office (See The Hub)</li>
+  <li>Post Offices</li>
+  <li>Poultry Farm</li>
+  <li>Poultry Houses</li>
+  <li>Poultry Isolation Building</li>
+  <li>Poultry Laboratory (See Soils Testing Lab)</li>
+  <li>Power & Heating Plant</li>
+  <li>Power Station</li>
+  <li>Practice House (See Coburn House; Norton House)</li>
+  <li>Presidents (of the Institution)</li>
+  <li>President's Barn</li>
+  <li>President's House (See South Hall; The Knoll)</li>
+  <li>Press Building (See I.S.U. Press Building)</li>
+  <li>Printing Building</li>
+  <li>Professors' House (See South Hall; Music Hall; Marston Cottage)</li>
+  <li>Propagating House (See Greenhouse at Expt. Sta. Bldg.) (See Greenhouse at Hort. Lab)</li>
+  <li>Public Grounds Barn (See Horse Barn at Service Area)</li>
+  <li>Pump House</li>
+  <li>Pumping Station (See Power Station)</li>
+  <li>Purchasing Warehouse</li>
+</ul>
+
+## -Q-
+
+<ul class="list-unstyled">
+  <li>Quadrangle</li>
+  <li>Quadrangle - North</li>
+  <li>Quarantine Hospital</li>
+  <li>Quarters, The (See Boarding Cottage - East)</li>
+</ul>
+
 -R  
+
 Rabbit Hutch 471 Radio & 'IV 128 Railroads 48 Recreation Building (See 222 
 Driver Training Lab) Recreational Areas 71 Refuse Disposal Plant 397 
 (See Rendering Plant) Rendering Plant 397 Research Building 422 
