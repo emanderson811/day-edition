@@ -611,89 +611,181 @@ publication-date: 1980
   <li>Quarters, The (See Boarding Cottage - East)</li>
 </ul>
 
--R  
+## -R- 
 
-Rabbit Hutch 471 Radio & 'IV 128 Railroads 48 Recreation Building (See 222 
-Driver Training Lab) Recreational Areas 71 Refuse Disposal Plant 397 
-(See Rendering Plant) Rendering Plant 397 Research Building 422 
-(See Spedding Hall) Research Reactor 398 Richards-Andrews House 165 
-(See Andrews-Richards House) Richards House (See Beach 170 
-House) Ridgeway House 399 Roads 34 Roberts Hall 400 Ross Hall 401 Ruminant Nutrition Labora 
-tory 402 
--s -
-Safford Cottage 402 
-Sanitary Building 403 Scheman Continuing Education 404 Bldg. Schemann Residence (See 301 
-Kildee Cottage) Schilletter Village 405 Science Hall 406 Science Hall Addition #2 408 Sculpture 130 Seed Laboratory (See Seed 410 
-Science Building) Seed Processing Plant 409 Seed Science Building 410 Serum Plant 411 Servant's Hall (See North 363 
-Hall) Service Building (See Snede-418 
-cor Hall) Sewers & Drainage 81 Sexton Cottage 278 
-(See Grounds Cottage) Shattuck Theater 444 
-(See Theater Workshop) Sheep Barn 412 Sheep Barns & Sheds 413 Signs 132 Silos 414 Silver City (See Cottages) 212 Slaughter House 471 Slaughter &Refrigeration 
-Plant (See Rendering Plant)397 Sloss House 417 Sloss House -First (See 176 
-Bevier House) Snedecor Hall 418 Soil Testing Laboratory 419 Soil Testing Lab (See North 364 
-Studio) Sorghum Works 472 South Hall 420 South Hall (See Barton Hall) 169 South Studio 421 Spedding Hall 422 Speech Office Building 235 
-(See English Office Building) Stadium (Clyde Williams Field)423 Stadium (South Campus) 428 Stange Memorial Clinic 451 
-(See Veterinary Clinic) Stanton Hall (See Boarding 181 Cottage-West) 
-Stanton House (See Music Hal1)360 State Field 65 State Gymnasium 430 Statistics (See Temporary 442 
-Building "R") Steam Distribution 88 Steam & Gas Laboratory 347 
-(See Mechanical Engineering Lab) 
-Steam & Gas Laboratory Addi tion (See Mechanical En-347 gineering Laboratory) 
-Stephens Auditorium 434 Stock Pavilion (See Agronomy Farm Crops 
-Lab) 156 (See Carpenter Shop) 194 (See Judging Pavilion) 300 (See Theater Workshop) 444 Storage Building 7-10 472 Storage Shed (See Gun Shed) 279 Storage Shed-Service Area -319 
-(See Machinery & Storage 
-Shed) Storms 136 Storms Hall (See Knapp-303 
-Storms & Commons) Structural Engineering Lab 309 
-(See Laboratory of Mechanics) Student Services Building 435 Summers House 372 
-(See Osborn Cottage) Superintendent's Office 235 
-(See English Office Building) Sweeney Hall 438 Synchrotron Building 439 
--T  
-Teamster's Cottage #1 213 
-(See Creamery -First) Teamster's Cottage #2 440 Telecommunications Building 208 
-(See Communications Bldg.) Telephones 90 Temporary Buildings "C" to 
-"S" 441 Tennis Courts 74 Theater-Auditorium 434 
-(See Stephens Auditorium) 
-Theater-Workshop 444 
-Theoretical & Applied Mechanics Bldg. (See Laboratory of 309 Mechanics) 
-Tile Storage Shed 472 Tool House 473 Towers, The (See Knapp-303 Storms & Commons; Wallace 
-Wilson f., Commons) Town Engineering Building 446 Tractor Garage (See Agric. 154 
-Engr. Garage) Traffic 60 Trailers 45 Training Shed 447 Transmitter Building-Radio 128 Transportation Building 232 
-(See Engineering Research Institute) Truck Building (See Exhibit 236 Hall) Tunnels 88 
--u  
-University Village 449 Utility Barn 409 (See Seed Processing Plant) 
--V -
-Veenker Golf Course 70 Veterinary Diagnostic Clinic 396 
-(See Quadrangle -North) Veterinary Barn 450 Veterinary Clinic 451 Veterinary Hospital 450 
-(See Veterinary Barn) Veterinary Hospital 452 Veterinary M~dicine Facilities454 Veterinary Medicine Research 
-Insititute 103 Veterinary Obstetrics Lab. 455 Veterinary Physiology Research 
-Laboratory 455 Veterinary Quadrangle 394 
-(See Quadrangle) Veterinary Sugery 455 Victory Be11 142 
-.:.-1'L::. -y  
-Walks 42 Wallace Hall, Wilson Hall & Commons 456 
-Wallace Road Residence Halls  335  
-(See Maple-Willow-Larch)  
-Warehouse  164  
-Warehouse & Shop  163  
-Wash House  (See Workshop)  460  
-Waste Disposal Facility  164  
-Water Filtration Plant  80  
-Water Supply  77  
-Water  Tower  79  
-Weather  Station  164  
-Welch East  (See  Birch Hall)  179  
-Welch Hall  457  
-Welch Home Management House  206  
-(See Coburn House)  
-Wells  77  
-West Boarding Cottage  181  
+<ul class="list-unstyled">
+  <li>Rabbit Hutch</li>
+  <li>Radio & TV</li>
+  <li>Railroads</li>
+  <li>Recreation Building (See Driver Training Lab)</li>
+  <li>Recreational Areas</li>
+  <li>Refuse Disposal Plant (See Rendeering Plant)</li>
+  <li>Rendering Plant</li>
+  <li>Research Building (See Spedding Hall)</li>
+  <li>Research Reactor</li>
+  <li>Richards-Andrews House (See Andrews-Richards House)</li>
+  <li>Richards House (See Beach House)</li>
+  <li>Ridgeway House</li>
+  <li>Roads</li>
+  <li>Roberts Hall</li>
+  <li>ross Hall</li>
+  <li>Ruminant Nutrition Laboratory</li>
+</ul>
 
-(See Boarding Cottage-West) West Chemical Engineering 366 
-(See Nuclear Engineering Lab) West Court 45 Westgate Cottage (See White 459 
-House) Westgate Hall 458 West Hall (See Lyon Hall) 317 White House 459 Williams Field, Clyde 65 Willow Hall (See Maple-335 
-Willow-Larch) Wilson Hall (See Wallace-456 Wilson & Commons) WOI Radio-Television Build 
-ing (See Communications 208 
-Bldg.) W0I Transmitting Station 128 W0I-AM Transmitting Tower 128 Women's Gymnasium (See 377 
-Physical Education Building) Wood Shed-at South Hall 473 Workshop 460 
-YMCA  104  
-(See also Alumni Hall;  159  
-North  Studio)  364  
-YMCA Hut  364
+## -S-
+
+<ul class="list-unstyled">
+  <li>Safford Cottage</li>
+  <li>Sanitary Building</li>
+  <li>Scheman Continuing Education Bldg.</li>
+  <li>Schemann Residence (See Kildee Cottage)</li>
+  <li>Schilletter Village</li>
+  <li>Science Hall</li>
+  <li>Science Hall Addition #2</li>
+  <li>Sculpture</li>
+  <li>Seed Laboratory (See Seed Science Building)</li>
+  <li>Seed Processing Plant</li>
+  <li>Seed Science Building</li>
+  <li>Serum Plant</li>
+  <li>Servant's Hall (See North Hall)</li>
+  <li>Service Building (See Snedecor Hall)</li>
+  <li>Sewers & Drainage</li>
+  <li>Sexton Cottage (See Grounds Cottage)</li>
+  <li>Shattuck Theater (See Theater Workshop)</li>
+  <li>Sheep Barn</li>
+  <li>Sheep Barns & Sheds</li>
+  <li>Signs</li>
+  <li>Silos</li>
+  <li>Silver City (See Cottages)</li>
+  <li>Slaughter House</li>
+  <li>Slaughter & Refrigeration Plant (See Rendering Plant)</li>
+  <li>Sloss House</li>
+  <li>Sloss House - First (See Bevier House)</li>
+  <li>Snedecor Hall</li>
+  <li>Soil Testing Laboratory</li>
+  <li>Soil Testing Lab (See North Studio)</li>
+  <li>Sorghum Works</li>
+  <li>South Hall</li>
+  <li>South Hall (See Barton Hall)</li>
+  <li>South Studio</li>
+  <li>Spedding Hall</li>
+  <li>Speech Office Building (See English Office Building)</li>
+  <li>Stadium (Clyde Williams Field)</li>
+  <li>Stadium (South Campus)</li>
+  <li>Stange Memorial Clinic (See Veterinary Clinic)</li>
+  <li>Stanton Hall (See Boarding Cottage - West)</li>
+  <li>Stanton House (See Music Hall)</li>
+  <li>State Field</li>
+  <li>State Gymnasium</li>
+  <li>Statistics (See Temporary Building "R")</li>
+  <li>Steam Distribution</li>
+  <li>Steam & Gas Laboratory (See Mechanical Engineering Lab)</li>
+  <li>Steam & Gas Laboratory Addition (See Mechanical Engineering Laboratory)</li>
+  <li>Stephens Auditorium</li>
+  <li>Stock Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Judging Pavilion) (See Theater Workshop)</li>
+  <li>Storage Building</li>
+  <li>Storage Shed (See Gun Shed)</li>
+  <li>Storage Shed - Service Area (See Machinery & Storage Shed)</li>
+  <li>Storms</li>
+  <li>Storms Hall (See Knapp-Storms & Commons)</li>
+  <li>Structural Engineering Lab (See Laboratory of Mechanics)</li>
+  <li>Student Services Building</li>
+  <li>Summers House (See Osborn Cottage)</li>
+  <li>Superintendent's Office (See English Office Building)</li>
+  <li>Sweeney Hall</li>
+  <li>Synchrotron Building</li>
+</ul>
+  
+## -T-
+
+<ul class="list-unstyled">
+  <li>Teamster's Cottage #1 (See Creamery - First)</li>
+  <li>Teamster's Cottage #2</li>
+  <li>Telecommunications Building (See Communications Bldg.)</li>
+  <li>Telephones</li>
+  <li>Temporary Buildings "C" to "S"</li>
+  <li>Tennis Courts</li>
+  <li>Theater - Auditorium (See Stephens Auditorium)</li>
+  <li>Theater - Workshop</li>
+  <li>Theoretical & Applied mechanics Bldg. (See Laboratory of Mechanics)</li>
+  <li>Tile Storage Shed</li>
+  <li>Tool House</li>
+  <li>Towers, The (See Knapp-Storms & Commons; Wallace-Wilson & Commons</li>
+  <li>Town Engineering Building</li>
+  <li>Tractor Garage (See Agric. Engr. Garage)</li>
+  <li>Traffic</li>
+  <li>Trailers</li>
+  <li>Training Shed</li>
+  <li>Transmitter Building - Radio</li>
+  <li>Transportation Building (See Engineering Research Institute)</li>
+  <li>Truck Building (See Exhibit Hall)</li>
+  <li>Tunnels</li>
+</ul>
+  
+## -U- 
+
+<ul class="list-unstyled">
+  <li>University Village</li>
+  <li>Utility Barn (See Shed Processing Plant)</li>
+</ul>
+
+## -V-
+
+<ul class="list-unstyled">
+  <li>Veenker Golf Course</li>
+  <li>Veterinary Diagnostic Clinic (See Quadrangle - North)</li>
+  <li>Veterinary Barn</li>
+  <li>Veterinary Clinic</li>
+  <li>Veterinary Hospital (See Veterinary Barn)</li>
+  <li>Veterinary Hospital</li>
+  <li>Veterinary Medicine Facilities</li>
+  <li>Veterinary Medicine Research Institute</li>
+  <li>Veterinary Obstetrics Lab.</li>
+  <li>Veterinary Physiology Research Laboratory</li>
+  <li>Veterinary Quadrangle (See Quadrangle)</li>
+  <li>Veterinary Sugery</li>
+  <li>Victory Bell</li>
+</ul>
+  
+## -W-
+
+<ul class="list-unstyled">
+  <li>Walks</li>
+  <li>Wallace Hall, Wilson Hall & Commons</li>
+  <li>Wallace Road Residence Halls (See Maple-Willow-Larch)</li>
+  <li>Warehouse</li>
+  <li>Warehouse & Shop</li>
+  <li>Wash House (See Workshop)</li>
+  <li>Waste Disposal Facility</li>
+  <li>Water Filtration Plant</li>
+  <li>Water Supply</li>
+  <li>Water Tower</li>
+  <li>Weather Station</li>
+  <li>Welch East (See Birch Hall)</li>
+  <li>Welch Hall</li>
+  <li>Welch Home Management House (See Coburn House)</li>
+  <li>Wells</li>
+  <li>West Boarding Cottage (See Boarding Cottage - West)</li>
+  <li>West Chemical Engineering (See Nuclear Engineering Lab)</li>
+  <li>West Court</li>
+  <li>Westgate Cottage (See White House)</li>
+  <li>Westgate Hall</li>
+  <li>West Hall (See Lyon Hall)</li>
+  <li>White House</li>
+  <li>Williams Field, Clyde</li>
+  <li>Willow Hall (See Maple-Willow-Larch)</li>
+  <li>Wilson Hall (See Wallace-Wilson & Commons)</li>
+  <li>WOI Radio - Television Building (See Communications Bldg.)</li>
+  <li>WOI Transmitting Station</li>
+  <li>WOI - AM Transmitting Tower</li>
+  <li>Women's Gymnasium (See Physical Education Building)</li>
+  <li>Wood Shed - at South Hall</li>
+  <li>Workshop</li>
+</ul>
+
+## -Y-
+
+<ul class="list-unstyled">
+  <li>YMCA (See also Alumni Hall; North Studio)</li>
+  <li>YMCA Hut</li>
+</ul>
