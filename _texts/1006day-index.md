@@ -27,7 +27,7 @@ publication-date: 1980
   <li>Agricultural Engineering Laboratory (See <a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/003day-agricultural-eng-shed/' | relative_url }}">Agricultural Engineering Machine Shed</a></li>
   <li><a href="{{ '/texts/buildings/004day-agricultural-eng-shop/' | relative_url }}">Agricultural Engineering Shop &amp; Shed</a></li>
-  <li>Agricultural Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>) (See <a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtis Hall</a>)</li>
+  <li>Agricultural Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>) (See <a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtiss Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/006day-agronomy-greenhouse/' | relative_url }}">Agronomy Greenhouse</a></li>
   <li><a href="{{ '/texts/buildings/007day-agronomy-hall/' | relative_url }}">Agronomy Hall</a></li>
