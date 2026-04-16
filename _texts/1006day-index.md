@@ -27,7 +27,7 @@ publication-date: 1980
   <li>Agricultural Engineering Laboratory (See <a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/003day-agricultural-eng-shed/' | relative_url }}">Agricultural Engineering Machine Shed</a></li>
   <li><a href="{{ '/texts/buildings/004day-agricultural-eng-shop/' | relative_url }}">Agricultural Engineering Shop &amp; Shed</a></li>
-  <li>Agricultural Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>); (See <a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtis Hall</a>)</li>
+  <li>Agricultural Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>) (See <a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtis Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/006day-agronomy-greenhouse/' | relative_url }}">Agronomy Greenhouse</a></li>
   <li><a href="{{ '/texts/buildings/007day-agronomy-hall/' | relative_url }}">Agronomy Hall</a></li>
@@ -36,7 +36,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a></li>
   <li>Ames & College Railway</li>
   <li>Ames Laboratory</li>
-  <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrew-Richards House</a></li>
+  <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a></li>
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
   <li>Animal Husbandry Research Lab</li>
   <li>Animal Isolation Building & Addition</li>
