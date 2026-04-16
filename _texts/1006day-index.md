@@ -165,7 +165,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/045day-coover-hall/' | relative_url }}">Coover Hall</a></li>
   <li>Coover House (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
   <li><a href="{{ '/texts/buildings/046day-corn-cribs/' | relative_url }}">Corn Cribs</a></li>
-  <li>Corn &amp; Stock Judging Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomgy Farm Crops Lab</a>)</li>
+  <li>Corn &amp; Stock Judging Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
   <li><a href="{{ '/texts/buildings/047day-cottages/' | relative_url }}">Cottages ("Silver City")</a></li>
   <li>Cranford Hall (See <a href="{{ '/texts/buildings/187dy-sanitary/' | relative_url }}">Sanitary Building</a>)</li>
   <li><a href="{{ '/texts/buildings/048day-creamery-first/' | relative_url }}">Creamery (First)</a></li>
@@ -205,7 +205,7 @@ publication-date: 1980
   <li>Duplex</li>
   <li>Duplex "A" (See Child Development Building)</li>
   <li>Duplex "B" (See Nickell Fisher House)</li>
-  <li>Duplex "C" (See Andrews Richards House)</li>
+  <li>Duplex "C" (See Andrews-Richards House)</li>
 </ul>
 
 ## -E- 
@@ -251,7 +251,7 @@ publication-date: 1980
 
 <ul class="list-unstyled">
   <li>Facilities Building (See Olsen Building)</li>
-  <li>Faculty Club Rouse (See Farm Boarding Club)</li>
+  <li>Faculty Club House (See Farm Boarding Club)</li>
   <li>Fair Oaks Mansion</li>
   <li>Farm Barn (See Cattle Barn - First)</li>
   <li>Farm Barn & Machine Shed (See Horse Barn & Machine Shed)</li>
@@ -307,7 +307,7 @@ publication-date: 1980
   <li>Garage (See Exhibit Hall)</li>
   <li>Garage - Extension Service (See Driver Training Storage)</li>
   <li>Garages</li>
-  <li>Gardeners Cottage (See Grounds Cottage)</li>
+  <li>Gardener's Cottage (See Grounds Cottage)</li>
   <li>Garden House (See Boarding Club)</li>
   <li>Gardens</li>
   <li>Gas Supply</li>
@@ -317,11 +317,11 @@ publication-date: 1980
   <li>Genetics Chick Isolation</li>
   <li>Genetics Laboratory</li>
   <li>Genetics Poultry Laboratory</li>
-  <li>Genetics Genetics & Plant Pathology Greenhouse</li>
+  <li>Genetics & Plant Pathology Greenhouse</li>
   <li>Genetics Storage Building</li>
   <li>Gilman Hall</li>
   <li>Gladstone Hotel (See Ridgeway House)</li>
-  <li>Gold Club House</li>
+  <li>Golf Club House</li>
   <li>Golf Course</li>
   <li>Governing Boards</li>
   <li>Graduate Student Dormitory (See Buchanan Hall)</li>
@@ -361,7 +361,7 @@ publication-date: 1980
   <li>Home Management Duplex "C" (See Andrews-Richards House)</li>
   <li>Home Management Storage (See Beach House)</li>
   <li>Horse Barn - First</li>
-  <li>Horse Barn (See Landscape Architecture</li>
+  <li>Horse Barn (See Landscape Architecture)</li>
   <li>Horse Barn #2</li>
   <li>Horse Barn #3 (See Ruminant Nutrition Lab)</li>
   <li>Horse Barn & Machine Shed</li>
@@ -382,8 +382,8 @@ publication-date: 1980
   <li>Hose House</li>
   <li>Hospital (See Boarding Cottage - West) (See Sanitary Building) (See Student Services Bldg.)</li>
   <li>Hospital Annex (See Quarantine Hospital)</li>
-  <li>Hub</li>
-  <li>The Hughes Hall (See Friley Hall)</li>
+  <li>Hub, The</li>
+  <li>Hughes Hall (See Friley Hall)</li>
   <li>Hydraulics Laboratory (See Laboratory of Mechanics)</li>
 </ul>
 
@@ -450,7 +450,7 @@ publication-date: 1980
   <li>Lanphear House (See White House)</li>
   <li>Larch Hall (See Maple-Willow-Larch)</li>
   <li>Laundry & Chemical Truck Building (See Electric & Paint Shop)</li>
-  <li>Laudry Storage</li>
+  <li>Laundry Storage</li>
   <li>LeBaron Hall (See MacKay Hall)</li>
   <li>Leighton-MacKay House (See Farm Laborer's Cottage)</li>
   <li>Library</li>
@@ -471,10 +471,10 @@ publication-date: 1980
 ## -M-
 
 <ul class="list-unstyled">
-  <li>Marchinery & Storage Shed</li>
+  <li>Machinery & Storage Shed</li>
   <li>Machine Shed</li>
   <li>Machine Shed (See Field Shed)</li>
-  <li>Machine SHop (See Workshop; Mechanical Engineering Lab)</li>
+  <li>Machine Shop (See Workshop; Mechanical Engineering Lab)</li>
   <li>MacKay Hall</li>
   <li>Mail Service</li>
   <li>Main Building</li>
@@ -532,7 +532,7 @@ publication-date: 1980
   <li>Norton House</li>
   <li>Nuclear Engineering Laboratory</li>
   <li>Nursery School (See Child Development Bldg.)</li>
-  <li>Nurses' Home (See While House; Beyer House)</li>
+  <li>Nurses' Home (See White House; Beyer House)</li>
 </ul>
 
 ## -O-
@@ -594,7 +594,7 @@ publication-date: 1980
   <li>President's House (See South Hall; The Knoll)</li>
   <li>Press Building (See I.S.U. Press Building)</li>
   <li>Printing Building</li>
-  <li>Professors' House (See South Hall; Music Hall; Marston Cottage)</li>
+  <li>Professors' Houses (See South Hall; Music Hall; Marston Cottage)</li>
   <li>Propagating House (See Greenhouse at Expt. Sta. Bldg.) (See Greenhouse at Hort. Lab)</li>
   <li>Public Grounds Barn (See Horse Barn at Service Area)</li>
   <li>Pump House</li>
@@ -619,7 +619,7 @@ publication-date: 1980
   <li>Railroads</li>
   <li>Recreation Building (See Driver Training Lab)</li>
   <li>Recreational Areas</li>
-  <li>Refuse Disposal Plant (See Rendeering Plant)</li>
+  <li>Refuse Disposal Plant (See Rendering Plant)</li>
   <li>Rendering Plant</li>
   <li>Research Building (See Spedding Hall)</li>
   <li>Research Reactor</li>
@@ -628,7 +628,7 @@ publication-date: 1980
   <li>Ridgeway House</li>
   <li>Roads</li>
   <li>Roberts Hall</li>
-  <li>ross Hall</li>
+  <li>Ross Hall</li>
   <li>Ruminant Nutrition Laboratory</li>
 </ul>
 
@@ -705,12 +705,12 @@ publication-date: 1980
   <li>Telephones</li>
   <li>Temporary Buildings "C" to "S"</li>
   <li>Tennis Courts</li>
-  <li>Theater - Auditorium (See Stephens Auditorium)</li>
-  <li>Theater - Workshop</li>
-  <li>Theoretical & Applied mechanics Bldg. (See Laboratory of Mechanics)</li>
+  <li>Theater-Auditorium (See Stephens Auditorium)</li>
+  <li>Theater-Workshop</li>
+  <li>Theoretical & Applied Mechanics Bldg. (See Laboratory of Mechanics)</li>
   <li>Tile Storage Shed</li>
   <li>Tool House</li>
-  <li>Towers, The (See Knapp-Storms & Commons; Wallace-Wilson & Commons</li>
+  <li>Towers, The (See Knapp-Storms & Commons; Wallace-Wilson & Commons)</li>
   <li>Town Engineering Building</li>
   <li>Tractor Garage (See Agric. Engr. Garage)</li>
   <li>Traffic</li>
@@ -726,7 +726,7 @@ publication-date: 1980
 
 <ul class="list-unstyled">
   <li>University Village</li>
-  <li>Utility Barn (See Shed Processing Plant)</li>
+  <li>Utility Barn (See Seed Processing Plant)</li>
 </ul>
 
 ## -V-
@@ -775,7 +775,7 @@ publication-date: 1980
   <li>Williams Field, Clyde</li>
   <li>Willow Hall (See Maple-Willow-Larch)</li>
   <li>Wilson Hall (See Wallace-Wilson & Commons)</li>
-  <li>WOI Radio - Television Building (See Communications Bldg.)</li>
+  <li>WOI Radio-Television Building (See Communications Bldg.)</li>
   <li>WOI Transmitting Station</li>
   <li>WOI - AM Transmitting Tower</li>
   <li>Women's Gymnasium (See Physical Education Building)</li>
