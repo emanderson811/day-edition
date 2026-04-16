@@ -53,7 +53,7 @@ Iowa State Daily, September 20, 1947 ­
 ## OTHER SOURCES 
 Allen, William G., A History of Story County, Iowa Iowa Printing Company, Des Moines, 1887. 
 
-An Illustrated Compendium of the Jowa State College of Agriculture and the Mechanic Arts. 1900 
+An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900 
 
 Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970. 
 
