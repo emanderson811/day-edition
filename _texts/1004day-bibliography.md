@@ -49,8 +49,8 @@ publication-date: 1980
 ## OTHER SOURCES 
 
 <ul class="list-unstyled">
- <li>Allen, William G., A History of Story County, Iowa <br>
- Iowa Printing Company, Des Moines, 1887.</li>
+ <li>Allen, William G., A History of Story County, Iowa</li>
+   <li>Iowa Printing Company, Des Moines, 1887.</li>
  <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
 </ul>
 
