@@ -16,7 +16,7 @@ publication-date: 1980
 
 ### Governing Boards
 
-<ul class=”list-unstyled”> 
+<ul class="list-unstyled"> 
  <li>Minutes, Board of Trustees, January 1865 - March 1909</li>
  <li>Minutes, Board of Education, April 1909 - June 1955</li>
  <li>Minutes, Board of Regents, September 1995 - </li>
@@ -26,14 +26,14 @@ publication-date: 1980
 
 ### Institutional Financial Reports 
 
-<ul class=”list-unstyled”>
+<ul class="list-unstyled">
  <li>Iowa State College, 1934 - 1959</li>
  <li>Iowa State University, 1960 - </li>
 </ul>
 
 ### Student Newspapers 
 
-<ul class=”list-unstyled”>
+<ul class="list-unstyled">
  <li>The Aurora, June 1873 - October 1893</li>
  <li>IAC Student, August 7, 1890 - October 6, 1896</li>
  <li>The Student, March 15, 1897 - June 15, 1897</li>
@@ -48,7 +48,7 @@ publication-date: 1980
 
 ## OTHER SOURCES 
 
-<ul class=”list-unstyled”>
+<ul class="list-unstyled">
  <li>Allen, William G., A History of Story County, Iowa <br>
  Iowa Printing Company, Des Moines, 1887.</li>
  <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
