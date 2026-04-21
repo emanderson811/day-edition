@@ -49,34 +49,20 @@ publication-date: 1980
 ## OTHER SOURCES 
 
 <ul class="list-unstyled">
- <li>Allen, William G., A History of Story County, Iowa
-   <span class="indent">Iowa Printing Company, Des Moines, 1887.</li>
-    
+ <li>Allen, William G., A History of Story County, Iowa, Iowa Printing Company, Des Moines. 1887</li>
  <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
-</ul>
+ <li>Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970.</li>
+ <li>Boyd, W.R., Thomas Sloss. A Tribute, July 8, 1937.</li>
+ <li>Ceramic Engineering Department. 60 years of Progress 1906-1966. Ames, 1966.</li>
+ <li>Csanyi, Ladis H. Feasibility of Implementing a Walking Campus at Iowa State University. University Traffic Committee. August 1971.</li>
+ <li>Csanyi, Ladis H. Traffic and Parking Survey of the Iowa State Univeristy Campus. Engineering Research Institute. ISU, September 1966.</li>
+ <li>Dailey, Laura C. "Green Hills" An Album of Iowa State Memories. ISU Alumni Assoc. 1975.</li>
+ <li>Eppright, Ercel Sherman and Ferguson, Elizabeth Storm. A Century of Home Exonomics at Iowa State University, ISU Home Economics Alumni Assoc. 1971.</li>
+ <li>Erwin, A.T. Days of Yore. The Alumnus, Iowa State College May 1955. A slightly expanded and modified typed copy called "The Days of Yore at Iowa State" exists in typed copy dated February 1966.</li>
+ <li>Fuller; Almon H., A History of Civil Engineering at Iowa State College. Alumni Achievement Fund of ISC. 1959.</li>
+ <li>Hainer, J.C., A Sketch of the Iowa Agricultural College. In Biographical and Historical Memoirs. Story County, Iowa. Part of an Iowa History compiled by Weston A. Goodspeed; Chicago, 1890.</li>
+ <li>Hungerford, John Boyd (Class of 1878). Sketches of Iowa State College. Written 1935 - 40. Manuscript copied in 1941. (In Archives)</li>
 
-
-Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970. 
-
-Boyd, W.R., Thomas Sloss. A Tribute, July 8, 1937. 
-
-Ceramic Engineering Department. 60 years of Progress 1906-1966. Ames, 1966. 
-
-Csanyi, Ladis H. Feasibility of Implementing a Walking Campus at Iowa State University. University Traffic Committee. August 1971. 
-
-Csanyi, Ladis H. Traffic and Parking Survey of the Iowa State Uni­versity Campus. Engineering Research Institute. ISU, September 1966. 
-
-Dailey, Laura C. "Green Hills" An Album of Iowa State Memories. ISU Alumni Assoc. 1975. 
-
-Eppright, Ercel Sherman and Ferguson, Elizabeth Storm. A Century of Home Economics at Iowa State University, ISU Home   Economics Alumni Assoc. 1971. 
-
-Erwin, A.T. Days of Yore. The Alumnus, Iowa State College May 1955. A slightly expanded and modified typed copy called "The Days of Yore at Iowa State" exists in typed copy dated February 1966. 
-
-Fuller; Almon H., A History of Civil Engineering at Iowa State College. Alumni Achievement Fund of ISC. 1959. 
-
-Hainer, J.C., A Sketch of the Iowa Agricultural College. In Bio­graphical and Historical Memoirs. Story County, Iowa. Part of an Iowa History compiled by Weston A. Goodspeed; Chicago, 1890. 
-
-Hungerford, John Boyd (Class of 1878). Sketches of Iowa State College. Written 1935-40. Manuscript copied in 1941. (In Archives) 
 
 Iowa State College. Twenty-Year Development Plan. R.M. Hughes, President. September 1935. 
 
