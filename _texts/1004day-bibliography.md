@@ -15,45 +15,45 @@ publication-date: 1980
 ## PRIMARY SOURCES 
 
 ### Governing Boards
-Minutes, Board of Trustees, January 1865 - March 1909 
 
-Minutes, Board of Education, April 1909 -June 1955
-
-Minutes, Board of Regents, September 1955 -
-
-­Reports, Board of Trustees, 1859 -1865 (Annual) 
-1867 -1908 (Biennial) 
-
-Reports, Board of Education, 1910 -1942 (Biennial) 
+<ul class=”list-unstyled”> 
+ <li>Minutes, Board of Trustees, January 1865 - March 1909</li>
+ <li>Minutes, Board of Education, April 1909 - June 1955</li>
+ <li>Minutes, Board of Regents, September 1995 - </li>
+ <li>Reports, Board of Trustees, 1859 - 1865 (Annual); 1867 - 1908 (Biennial)</li>
+ <li>Reports, Board of Education, 1910 - 1942 (Biennial)</li>
+</ul>
 
 ### Institutional Financial Reports 
-Iowa State College, 1934 -1959 
 
-Iowa State University, 1960 ­
+<ul class=”list-unstyled”>
+ <li>Iowa State College, 1934 - 1959</li>
+ <li>Iowa State University, 1960 - </li>
+</ul>
 
 ### Student Newspapers 
-The Aurora, June 1873 -October 1893 
 
-IAC Student, August 7, 1890 -October 6, 1896 
-
-The Student, March 15, 1897 -June 15, 1897 
-
-ISC Student, July 28, 1897 -April 30, 1914 
-
-Iowa State Student, May 2, 1914 -March 12, 1938 
-
-Daily Iowa State Student, March 25, 1938 -.June 4, 1938 
-
-Iowa State Daily Student, September 17, 1938 -August 27, 1947 
-
-Iowa State Daily, September 20, 1947 ­
+<ul class=”list-unstyled”>
+ <li>The Aurora, June 1873 - October 1893</li>
+ <li>IAC Student, August 7, 1890 - October 6, 1896</li>
+ <li>The Student, March 15, 1897 - June 15, 1897</li>
+ <li>ISC Student, July 28, 1897 - April 30, 1914</li>
+ <li>Iowa State Student, May 2, 1914 - March 12, 1938</li>
+ <li>Daily Iowa State Student, March 25, 1938 - June 4, 1938</li>
+ <li>Iowa State Daily Student, September 17, 1938 - August 27, 1947</li>
+ <li>Iowa State Daily, September 20, 1947 - </li>
+</ul>­
 
 ### Bomb, 1893 ­
 
 ## OTHER SOURCES 
-Allen, William G., A History of Story County, Iowa Iowa Printing Company, Des Moines, 1887. 
 
-An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900 
+<ul class=”list-unstyled”>
+ <li>Allen, William G., A History of Story County, Iowa <br>
+ Iowa Printing Company, Des Moines, 1887.</li>
+ <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
+</ul>
+
 
 Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970. 
 
