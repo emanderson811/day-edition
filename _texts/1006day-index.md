@@ -35,7 +35,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a></li>
   <li>Allis House (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
   <li><a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a></li>
-  <li><a href="{{ '/texts/004day-transportation#ames-and-college-railway-the-dinkey/' | relative_url }}">Ames & College Railway</a></li>
+  <li><a href="{{ '/texts/004day-transportation/#ames-and-college-railway-the-dinkey/' | relative_url }}">Ames & College Railway</a></li>
   <li>Ames Laboratory</li>
   <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a></li>
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
