@@ -21,7 +21,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Laboratory</a></li>
   <li>Agricultural Annex (See <a href="{{ '/texts/buildings/056day-east-hall/' | relative_url }}">East Hall</a>)</li>
   <li>Agricultural By-Products Lab 
-    (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Bldg.</a>)
+    (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Bldg.</a>) </li>
   <li>Agricultural Engineering Addition (See <a href="{{ '/texts/buildings/114day-industrial-education/' | relative_url }}">Industrial Education</a>)</li>
   <li><a href="{{ '/texts/buildings/002day-agricultural-eng-garage/' | relative_url }}">Agricultural Engineering Garage</a></li>
   <li>Agricultural Engineering Hall (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>)</li>
