@@ -50,7 +50,9 @@ publication-date: 1980
 
 <ul class="list-unstyled">
  <li>Allen, William G., A History of Story County, Iowa, Iowa Printing Company, Des Moines. 1887</li>
+ <br>
  <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
+ <br>
  <li>Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970.</li>
  <li>Boyd, W.R., Thomas Sloss. A Tribute, July 8, 1937.</li>
  <li>Ceramic Engineering Department. 60 years of Progress 1906 - 1966. Ames, 1966.</li>
