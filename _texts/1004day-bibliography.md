@@ -54,40 +54,76 @@ publication-date: 1980
  <li>An Illustrated Compendium of the Iowa State College of Agriculture and the Mechanic Arts. 1900</li>
  <br>
  <li>Arnold, Lionel K., History of the Department of Chemical Engineering at Iowa State University. Ames, 1970.</li>
+  <br>
  <li>Boyd, W.R., Thomas Sloss. A Tribute, July 8, 1937.</li>
+  <br>
  <li>Ceramic Engineering Department. 60 years of Progress 1906 - 1966. Ames, 1966.</li>
+  <br>
  <li>Csanyi, Ladis H. Feasibility of Implementing a Walking Campus at Iowa State University. University Traffic Committee. August 1971.</li>
+  <br>
  <li>Csanyi, Ladis H. Traffic and Parking Survey of the Iowa State Univeristy Campus. Engineering Research Institute. ISU, September 1966.</li>
+  <br>
  <li>Dailey, Laura C. "Green Hills" An Album of Iowa State Memories. ISU Alumni Assoc. 1975.</li>
+  <br>
  <li>Eppright, Ercel Sherman and Ferguson, Elizabeth Storm. A Century of Home Exonomics at Iowa State University, ISU Home Economics Alumni Assoc. 1971.</li>
+  <br>
  <li>Erwin, A.T. Days of Yore. The Alumnus, Iowa State College May 1955. A slightly expanded and modified typed copy called "The Days of Yore at Iowa State" exists in typed copy dated February 1966.</li>
+  <br>
  <li>Fuller; Almon H., A History of Civil Engineering at Iowa State College. Alumni Achievement Fund of ISC. 1959.</li>
+  <br>
  <li>Hainer, J.C., A Sketch of the Iowa Agricultural College. In Biographical and Historical Memoirs. Story County, Iowa. Part of an Iowa History compiled by Weston A. Goodspeed; Chicago, 1890.</li>
+  <br>
  <li>Hungerford, John Boyd (Class of 1878). Sketches of Iowa State College. Written 1935 - 40. Manuscript copied in 1941. (In Archives)</li>
+  <br>
  <li>Iowa State College. Twenty-Year Development Plan. R.M. Hughes, President. September 1935.</li>
+  <br>
  <li>Johnson, Johnson and Roy, Inc. Iowa State University of Science and Technology. A Guide for Continuing Physical Development. Ann Arbor, Michigan. December 1968.</li>
+  <br>
  <li>Kehlenbeck, Dorothy. The Iowa State College. Chronology of Important Events of the First 100 Years. ISC Library 1958.</li>
+  <br>
  <li>Kehlenbeck, Dorothy. Chronology of Important Events, 1958 - 1962. ISU Library 1963.</li>
+  <br>
  <li>Kehlenbeck, Dorothy. Chronology of Important Events, 1958 - 1967. ISU Library 1968.</li>
+  <br>
  <li>Kooser, Margaret L(ola). History of Buildings - Iowa State College. Compiled in 1939 under a WPA project. Typescript in Archives.</li>
+  <br>
  <li>Lee Jr., James Leftwich. A Century of Military Training at Iowa State University. 1870 - 1970. Thesis (Ph.D.) ISU. 1972.</li>
+  <br>
  <li>McNabb Jr., Harold S., An Historical Outline of the First Century of Botanical Instruction at the Iowa State University of Science and Technology. Typescript. May 1969.</li>
+  <br>
   <li>Pammel, L(ouis) H., Our Campus, Its Planning and Growth. Horizons. Vol. VI. No. 2. Spring 1930.</li>
+  <br>
  <li>Pammel, L(ouis) H., Prominent Men I have Met. Ames, 1926.</li>
+  <br>
  <li>Payne, W.O., History of Story County, Iowa. S.J. Clarke Pub. Co., Chicago, 1911.</li>
+  <br>
  <li>Pride, Harold E., The First Fifty Years. Iowa State Memorial Union. (1972).</li>
+  <br>
  <li>Richards, Mary S. and Landers, Roger Q., A Report on Pammel Woods Natural History Teaching Laboratory and Preserve. ISU  June 1970.</li>
+  <br>
  <li>Roberts, I(saac) P(hillips). Autobiography of a Farm Boy. J.B. Lyon Co., Publishers, Albany 1916.</li>
+  <br>
  <li>Rosebrook, Randall J., Iowa State College Gardens. Horizons, Dec. 1924.</li>
+  <br>
  <li>Ross, Earle Dudley. A History of the Iowa State College of Agriculture and Mechanic Arts. Iowa State College Press. Ames 1942.</li>
+  <br>
  <li>Ross, Earle Dudley. The Land-Grant Idea at Iowa State College. Iowa State College Press, Ames, 1958.</li>
+  <br>
  <li>Schilletter, J.C., Brief Biographical Sketches of Persons for whom Residence Halls and Houses are Named at Iowa State University. ISU Dept. of Residence 1971.</li>
+  <br>
  <li>Schilletter, J.C., The First 100 Years of Residential Housing at Iowa State University. 1868 - 1968. Ames, 1970.</li>
+  <br>
  <li>Shank, Wesley. Iowa State University: College Building (Old Main); Farm House; Morrill Hall. Studies of Historic Iowa Architecture. Engineering Research Institute. ISU 1972.</li>
+  <br>
  <li>Stange, C.H., History of Veterinary Medicine at Iowa State College. 1879-Semi-Centenial-1929. Ames, Iowa.</li>
+  <br>
  <li>(Turner, Cyrus E.). A History of the Town of Ames, Story County, Iowa. Ames, 1871.</li>
+  <br>
  <li>U.S. Government. Report of the Commissioners of Agriculture for the Year 1865. Government Printing Office, Washington. 1866.</li>
+  <br>
  <li>Werle, Robert William, A Historical Review and Analysis of the Iowa State University Landscape From 1858 to 1966. Thesis. ISU. 1966.</li>
+  <br>
  <li>Williams, Joe Brooks. Excerpts from History of the Visual Instruction Service at Iowa State College. Thesis. 1954.</li>
+  <br>
  <li>Wilson, Geraldine L., Christian Petersen Sculptor. ISU Press. Ames, 1962.</li>
 </ul>
