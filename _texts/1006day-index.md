@@ -41,7 +41,7 @@ publication-date: 1980
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#animal-husbandry-research-or-experimental-laboratory' | relative_url}}">Animal Husbandry Research Lab</a></li>
   <li>Animal Isolation Building & Addition</li>
-  <li>Animal Science Building (See Kildee Hall)</li>
+  <li>Animal Science Building (See <a href="{{ '/texts/buildings/120day-kildee-hall-lush-auditorium/' | relative_url }}">Kildee Hall</a>)</li>
   <li>Anthony House (See Marston Cottage)</li>
   <li>Antigenic Laboratory (See <a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a>)</li>
   <li><a href="{{ '/texts/buildings/013day-apiary/' | relative_url }}">Apiary</a></li>
