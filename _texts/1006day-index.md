@@ -50,8 +50,8 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#archery-hut' | relative_url}}">Archery Hut</a></li>
   <li><a href="{{ '/texts/1001day-appendices/#architects-staff' | relative_url}}">Architects (Staff)</a></li>
   <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
-  <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a>)</li>
-  <li>Athletic Fields</li>
+  <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url}}">Alumni Hall</a>)</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url}}">Athletic Fields</a></li>
   <li>Atomic Energy Commission</li>
   <li>Auditorium (See Stephens Auditorium)</li>
   <li>Automobile Laboratory (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
