@@ -39,7 +39,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url }}">Ames Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a></li>
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
-  <li>Animal Husbandry Research Lab</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#animal-husbandry-research-or-experimental-laboratory' | relative_url}}">Animal Husbandry Research Lab</a></li>
   <li>Animal Isolation Building & Addition</li>
   <li>Animal Science Building (See Kildee Hall)</li>
   <li>Anthony House (See Marston Cottage)</li>
