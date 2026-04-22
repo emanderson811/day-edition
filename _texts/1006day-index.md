@@ -48,7 +48,7 @@ publication-date: 1980
   <li>Applied Arts Studio (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
   <li><a href="{{ '/texts/003day-land/#arboretum' | relative_url }}">Arboretum</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#archery-hut' | relative_url}}">Archery Hut</a></li>
-  <li>Architects (Staff)</li>
+  <li><a href="{{ '/texts/1001day-appendices/#architects-staff' | relative_url}}>Architects (Staff)</</li>
   <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
   <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a>)</li>
   <li>Athletic Fields</li>
