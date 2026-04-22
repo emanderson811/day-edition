@@ -46,7 +46,7 @@ publication-date: 1980
   <li>Antigenic Laboratory (See <a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a>)</li>
   <li><a href="{{ '/texts/buildings/013day-apiary/' | relative_url }}">Apiary</a></li>
   <li>Applied Arts Studio (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
-  <li>Arboretum</li>
+  <li><a href="{{ '/texts/003day-land/#arboretum' | relative_url }}">Arboretum</a></li>
   <li>Archery Hut</li>
   <li>Architects (Staff)</li>
   <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
