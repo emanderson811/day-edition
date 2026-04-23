@@ -40,7 +40,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a></li>
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#animal-husbandry-research-or-experimental-laboratory' | relative_url}}">Animal Husbandry Research Lab</a></li>
-  <li>Animal Isolation Building & Addition</li>
+  <li><a href="{{ '/texts/007day-special-areas/#veterinary-medicine-research-insitute' | relative_url}}">Animal Isolation Building & Addition</a></li>
   <li>Animal Science Building (See <a href="{{ '/texts/buildings/120day-kildee-hall-lush-auditorium/' | relative_url }}">Kildee Hall</a>)</li>
   <li>Anthony House (See <a href="{{ '/texts/buildings/135day-marston-cottage/' | relative_url}}">Marston Cottage</a>)</li>
   <li>Antigenic Laboratory (See <a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a>)</li>
