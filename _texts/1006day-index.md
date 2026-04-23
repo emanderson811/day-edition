@@ -61,7 +61,7 @@ publication-date: 1980
 ## -B- 
 
 <ul class="list-unstyled">
-  <li>Barn - Geddes</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#barn---geddes' | relative_url }}">Barn - Geddes</a></li>
   <li>Barn - Grounds Department</li>
   <li>Barn - Jones</li>
   <li>Barn - At the Knoll</li>
