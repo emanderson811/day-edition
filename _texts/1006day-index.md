@@ -52,7 +52,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
   <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url}}">Alumni Hall</a>)</li>
   <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url}}">Athletic Fields</a></li>
-  <li>Atomic Energy Commission</li>
+  <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url}}">Atomic Energy Commission</a></li>
   <li>Auditorium (See Stephens Auditorium)</li>
   <li>Automobile Laboratory (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
 </ul>
