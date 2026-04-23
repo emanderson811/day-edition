@@ -39,20 +39,20 @@ publication-date: 1980
   <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url }}">Ames Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a></li>
   <li>Animal Husbandry Lab (See <a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a>)</li>
-  <li><a href="{{ '/texts/1000day-minor-buildings/#animal-husbandry-research-or-experimental-laboratory' | relative_url}}">Animal Husbandry Research Lab</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#animal-husbandry-research-or-experimental-laboratory' | relative_url }}">Animal Husbandry Research Lab</a></li>
   <li><a href="{{ '/texts/007day-special-areas/#veterinary-medicine-research-insitute' | relative_url }}">Animal Isolation Building & Addition</a></li>
   <li>Animal Science Building (See <a href="{{ '/texts/buildings/120day-kildee-hall-lush-auditorium/' | relative_url }}">Kildee Hall</a>)</li>
-  <li>Anthony House (See <a href="{{ '/texts/buildings/135day-marston-cottage/' | relative_url}}">Marston Cottage</a>)</li>
+  <li>Anthony House (See <a href="{{ '/texts/buildings/135day-marston-cottage/' | relative_url }}">Marston Cottage</a>)</li>
   <li>Antigenic Laboratory (See <a href="{{ '/texts/buildings/008day-agronomy-lab/' | relative_url }}">Agronomy Laboratory</a>)</li>
   <li><a href="{{ '/texts/buildings/013day-apiary/' | relative_url }}">Apiary</a></li>
   <li>Applied Arts Studio (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
   <li><a href="{{ '/texts/003day-land/#arboretum' | relative_url }}">Arboretum</a></li>
-  <li><a href="{{ '/texts/1000day-minor-buildings/#archery-hut' | relative_url}}">Archery Hut</a></li>
-  <li><a href="{{ '/texts/1001day-appendices/#architects-staff' | relative_url}}">Architects (Staff)</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#archery-hut' | relative_url }}">Archery Hut</a></li>
+  <li><a href="{{ '/texts/1001day-appendices/#architects-staff' | relative_url }}">Architects (Staff)</a></li>
   <li><a href="{{ '/texts/buildings/014day-armory/' | relative_url }}">Armory</a></li>
-  <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url}}">Alumni Hall</a>)</li>
+  <li>Association Building (See <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a>)</li>
   <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url}}">Athletic Fields</a></li>
-  <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url}}">Atomic Energy Commission</a></li>
+  <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url }}">Atomic Energy Commission</a></li>
   <li>Auditorium (See Stephens Auditorium)</li>
   <li>Automobile Laboratory (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
 </ul>
