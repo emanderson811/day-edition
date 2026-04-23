@@ -62,7 +62,7 @@ publication-date: 1980
 
 <ul class="list-unstyled">
   <li><a href="{{ '/texts/1000day-minor-buildings/#barn---geddes' | relative_url }}">Barn - Geddes</a></li>
-  <li>Barn - Grounds Department</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#barn---grounds-department' | relative_url }}">Barn - Grounds Department</a></li>
   <li>Barn - Jones</li>
   <li>Barn - At the Knoll</li>
   <li><a href="{{ '/texts/buildings/015day-barton-hall/' | relative_url }}">Barton Hall</a></li>
