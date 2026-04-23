@@ -64,7 +64,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#barn---geddes' | relative_url }}">Barn - Geddes</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#barn---grounds-department' | relative_url }}">Barn - Grounds Department</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#barn---jones' | relative_url }}">Barn - Jones</a></li>
-  <li>Barn - At the Knoll</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#barn---at-the-knoll' | relative_url }}">Barn - At the Knoll</a></li>
   <li><a href="{{ '/texts/buildings/015day-barton-hall/' | relative_url }}">Barton Hall</a></li>
   <li>Baseball Diamonds</li>
   <li><a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a></li>
