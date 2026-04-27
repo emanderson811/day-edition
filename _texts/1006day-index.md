@@ -98,7 +98,7 @@ publication-date: 1980
   <li>Budd House (See <a href="{{ '/texts/buildings/147day-mortensen-cottage/' | relative_url }}">Mortensen Cottage</a>)</li>
   <li><a href="{{ '/texts/buildings/029day-building-a/' | relative_url }}">Building "A"</a></li>
   <li><a href="{{ '/texts/buildings/030day-building-b/' | relative_url }}">Building "B"</a></li>
-  <li>Bunk House</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#bunk-house' | relative_url }}">Bunk House</a></li>
   <li>Buses</li>
   <li>Bus House (See <a href="{{ '/texts/buildings/068day-fair-oaks-mansion/' | relative_url }}">Fair Oaks Mansion</a>)</li>
 </ul>
