@@ -131,7 +131,7 @@ publication-date: 1980
   <li>Chemical Engineering Laboratory (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
   <li>Chemical Engineering - West (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Lab</a>)</li>
   <li><a href="{{ '/texts/buildings/038day-chemical-physical-lab/' | relative_url }}">Chemical &amp; Physical Laboratory</a></li>
-  <li>Chemical Storage Buildings (2)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#chemical-storage-buildings-2' | relative_url }}">Chemical Storage Buildings (2)</a></li>
   <li>Chemical Truck Bldg. (See <a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric &amp; Paint Shop</a>)</li>
   <li>Chemistry Annex #1 (See <a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a>)</li>
   <li>Chemistry Annex #2 (See <a href="{{ '/texts/buildings/169day-plumbing-shop/' | relative_url }}">Plumbing Shop</a>)</li>
