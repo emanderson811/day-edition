@@ -123,7 +123,7 @@ publication-date: 1980
   <li>Central Building (See <a href="{{ '/texts/buildings/017day-beardshear-hall/' | relative_url }}">Beardshear Hall</a>)</li>
   <li>Central Heating Plant (See <a href="{{ '/texts/buildings/172day-power-heating-plant' | relative_url }}">Power & Heating Plant</a>)</li>
   <li><a href="{{ '/texts/buildings/037day-central-station/' | relative_url }}">Central Station</a></li>
-  <li>Central Stores (See Physical Plant Shops & Central Stores)</li>
+  <li>Central Stores (See <a href="{{ '/texts/buildings/165day-physical-plant-shops/' | relative_url }}">Physical Plant Shops & Central Stores</a>)</li>
   <li>Central Stores Storage</li>
   <li>Ceramics Building (See <a href="{{ '/texts/buildings/061day-engineering-annex/' | relative_url }}">Engineering Annex</a>)</li>
   <li>Ceramic Studio (See Greenhouse)</li>
