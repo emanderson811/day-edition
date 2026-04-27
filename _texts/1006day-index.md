@@ -124,7 +124,7 @@ publication-date: 1980
   <li>Central Heating Plant (See <a href="{{ '/texts/buildings/172day-power-heating-plant' | relative_url }}">Power & Heating Plant</a>)</li>
   <li><a href="{{ '/texts/buildings/037day-central-station/' | relative_url }}">Central Station</a></li>
   <li>Central Stores (See <a href="{{ '/texts/buildings/165day-physical-plant-shops/' | relative_url }}">Physical Plant Shops & Central Stores</a>)</li>
-  <li>Central Stores Storage</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#central-stores-storage' | relative_url }}">Central Stores Storage</a></li>
   <li>Ceramics Building (See <a href="{{ '/texts/buildings/061day-engineering-annex/' | relative_url }}">Engineering Annex</a>)</li>
   <li>Ceramic Studio (See Greenhouse)</li>
   <li>Cessna Cottage (See <a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a>)</li>
