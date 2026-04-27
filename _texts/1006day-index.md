@@ -87,7 +87,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/025day-boiler-house/' | relative_url }}">Boiler House (at Old Main)</a></li>
   <li>Boiler House (See <a href="{{ '/texts/buildings/173day-power-station/' | relative_url }}">Power Station</a>)</li>
   <li>Bookstore (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
-  <li>Bookstore Storage (See Purchasing-Warehouse)</li>
+  <li>Bookstore Storage (See <a href="{{ '/texts/buildings/177day-purchasing-warehouse/' | relative_url }}">Purchasing-Warehouse</a>)</li>
   <li><a href="{{ '/texts/buildings/026day-botany-forestry-greenhouse/' | relative_url }}">Botany Greenhouse</a></li>
   <li>Botany Greenhouse (See Greenhouse)</li>
   <li><a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a></li>
