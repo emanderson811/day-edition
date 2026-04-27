@@ -109,7 +109,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#caddy-house' | relative_url }}">Caddy House</a></li>
   <li><a href="{{ '/texts/buildings/031day-campanile/' | relative_url }}">Campanile</a></li>
   <li><a href="{{ '/texts/009day-campus-planning' | relative_url }}">Campus Planning</a></li>
-  <li>Cap Timm Field</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#baseball-diamonds' | relative_url }}">Cap Timm Field</a></li>
   <li><a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a></li>
   <li>Carpenter Shop (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Lab</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>; <a href="{{ '/texts/buildings/219day-veterinary-hospital/' | relative_url }}">Veterinary Hospital</a>)</li>
   <li><a href="{{ '/texts/buildings/033day-carpool-office/' | relative_url }}">Car Pool Office Building</a></li>
