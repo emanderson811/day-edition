@@ -119,7 +119,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#cattle-shed-cooking-shed' | relative_url }}">Cattle Shed</a></li>
   <li>Cattle Shed (See <a href="{{ '/texts/buildings/073day-feeding-sheds/' | relative_url }}">Feeding Sheds</a>)</li>
   <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}">C.C.C. Camp Site</a></li>
-  <li>Cemetery</li>
+  <li><a href="{{ '/texts/003day-land/#cemetery' | relative_url }}">Cemetery</a></li>
   <li>Central Building (See <a href="{{ '/texts/buildings/017day-beardshear-hall/' | relative_url }}">Beardshear Hall</a>)</li>
   <li>Central Heating Plant (See Power & Heating Plant)</li>
   <li><a href="{{ '/texts/buildings/037day-central-station/' | relative_url }}">Central Station</a></li>
