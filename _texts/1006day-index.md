@@ -108,7 +108,7 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li><a href="{{ '/texts/1000day-minor-buildings/#caddy-house' | relative_url }}">Caddy House</a></li>
   <li><a href="{{ '/texts/buildings/031day-campanile/' | relative_url }}">Campanile</a></li>
-  <li>Campus Planning</li>
+  <li><a href="{{ '/texts/009day-campus-planning' | relative_url }}">Campus Planning</a></li>
   <li>Cap Timm Field</li>
   <li><a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a></li>
   <li>Carpenter Shop (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Lab</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>; <a href="{{ '/texts/buildings/219day-veterinary-hospital/' | relative_url }}">Veterinary Hospital</a>)</li>
