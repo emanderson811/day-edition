@@ -126,7 +126,7 @@ publication-date: 1980
   <li>Central Stores (See <a href="{{ '/texts/buildings/165day-physical-plant-shops/' | relative_url }}">Physical Plant Shops & Central Stores</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#central-stores-storage' | relative_url }}">Central Stores Storage</a></li>
   <li>Ceramics Building (See <a href="{{ '/texts/buildings/061day-engineering-annex/' | relative_url }}">Engineering Annex</a>)</li>
-  <li>Ceramic Studio (See Greenhouse)</li>
+  <li>Ceramic Studio (See <a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a>)</li>
   <li>Cessna Cottage (See <a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a>)</li>
   <li>Chemical Engineering Laboratory (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
   <li>Chemical Engineering - West (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Lab</a>)</li>
