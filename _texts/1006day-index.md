@@ -116,7 +116,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/034day-carver-hall/' | relative_url }}">Carver Hall</a></li>
   <li><a href="{{ '/texts/buildings/035day-cattle-barn-first/' | relative_url }}">Cattle Barn (First)</a></li>
   <li><a href="{{ '/texts/buildings/036day-cattle-barn/' | relative_url }}">Cattle Barn</a></li>
-  <li>Cattle Shed</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#cattle-shed-cooking-shed' | relative_url }}">Cattle Shed</a></li>
   <li>Cattle Shed (See Feeding Sheds)</li>
   <li>C.C.C. Camp Site</li>
   <li>Cemetery</li>
