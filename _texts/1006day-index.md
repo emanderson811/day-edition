@@ -76,7 +76,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/020day-beyer-hall/' | relative_url }}">Beyer Hall</a></li>
   <li><a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a></li>
   <li><a href="{{ '/texts/1004day-bibliography/' | relative_url }}">Bibliography</a></li>
-  <li><a href="{{ '/texts/004day-transportation/bicycles' | relative_url }}">Bicycles</a></li>
+  <li><a href="{{ '/texts/004day-transportation/#bicycles' | relative_url }}">Bicycles</a></li>
   <li>Biological Laboratory (See <a href="{{ '/texts/buildings/194day-serum-plant/' | relative_url }}">Serum Plant</a>)</li>
   <li>Biomedical Engineering Laboratory (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
   <li><a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall</a></li>
