@@ -92,8 +92,8 @@ publication-date: 1980
   <li>Botany Greenhouse (See <a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a>)</li>
   <li><a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#bowling' | relative_url }}">Bowling (Lawn)</a></li>
-  <li>Brickyards</li>
-  <li>Bridges</li>
+  <li><a href="{{ '/texts/008day-misc/#brickyards' | relative_url }}">Brickyards</a></li>
+  <li><a href="{{ '/texts/003day-land/#roads-and-bridges' | relative_url }}">Bridges</a></li>
   <li><a href="{{ '/texts/buildings/028day-buchanan-hall/' | relative_url }}">Buchanan Hall</a></li>
   <li>Budd House (See <a href="{{ '/texts/buildings/147day-mortensen-cottage/' | relative_url }}">Mortensen Cottage</a>)</li>
   <li><a href="{{ '/texts/buildings/029day-building-a/' | relative_url }}">Building "A"</a></li>
