@@ -106,7 +106,7 @@ publication-date: 1980
 ## -C-
 
 <ul class="list-unstyled">
-  <li>Caddy House</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#caddy-house' | relative_url }}">Caddy House</a></li>
   <li><a href="{{ '/texts/buildings/031day-campanile/' | relative_url }}">Campanile</a></li>
   <li>Campus Planning</li>
   <li>Cap Timm Field</li>
