@@ -136,7 +136,7 @@ publication-date: 1980
   <li>Chemistry Annex #1 (See <a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a>)</li>
   <li>Chemistry Annex #2 (See <a href="{{ '/texts/buildings/169day-plumbing-shop/' | relative_url }}">Plumbing Shop</a>)</li>
   <li>Chemistry Hall (See <a href="{{ '/texts/buildings/089day-gilman-hall/' | relative_url }}">Gilman Hall</a>)</li>
-  <li>Chicago & North Western Railway</li>
+  <li><a href="{{ '/texts/004day-transportation/#the-chicago--north-western-railway' | relative_url }}">Chicago & North Western Railway</a></li>
   <li><a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Building</a></li>
   <li>Child Nursery Annex (See <a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a>)</li>
   <li>Child Nursery Building (See Horticulture Barn)</li>
