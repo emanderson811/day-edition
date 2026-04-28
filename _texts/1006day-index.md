@@ -200,13 +200,13 @@ publication-date: 1980
       <li>#5 - (See <a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall</a>)</li>
       <li>#6 - (See <a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall & Welch East</a>)</li>
     </ul>
-  <li>Drill Fields</li>
-  <li>Driver Training Laboratory</li>
-  <li>Driver Training Storage</li>
-  <li>Duplex</li>
-  <li>Duplex "A" (See Child Development Building)</li>
-  <li>Duplex "B" (See Nickell Fisher House)</li>
-  <li>Duplex "C" (See Andrews-Richards House)</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#drill-field' | relative_url }}">Drill Fields</a></li>
+  <li><a href="{{ '/texts/buildings/053day-driver-training-lab/' | relative_url }}">Driver Training Laboratory</a></li>
+  <li><a href="{{ '/texts/buildings/054day-driving-training-storage/' | relative_url }}">Driver Training Storage</a></li>
+  <li><a href="{{ '/texts/buildings/055day-duplex/' | relative_url }}">Duplex</a></li>
+  <li>Duplex "A" (See <a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Building</a>)</li>
+  <li>Duplex "B" (See <a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell Fisher House</a>)</li>
+  <li>Duplex "C" (See <a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a>)</li>
 </ul>
 
 ## -E- 
