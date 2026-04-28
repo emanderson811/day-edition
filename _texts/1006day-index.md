@@ -142,7 +142,7 @@ publication-date: 1980
   <li>Child Nursery Building (See <a href="{{ '/texts/buildings/108day-horticulture-barn/' | relative_url }}">Horticulture Barn</a>)</li>
   <li><a href="{{ '/texts/006day-utilities/#stream-distribution-tunnels-and-chilled-water' | relative_url }}">Chilled Water</a></li>
   <li><a href="{{ '/texts/1003day-chronology/' | relative_url }}">Chronological List of Campus Buildings</a></li>
-  <li>Class Gifts</li>
+  <li><a href="{{ '/texts/008day-misc/#memorials-and-class-gifts' | relative_url }}">Class Gifts</a></li>
   <li>Classroom - Office Building</li>
     <ul>
       <li>#1 - (See <a href="{{ '/texts/buildings/163day-pearson-hall/' | relative_url }}">Pearson Hall</a>)</li>
