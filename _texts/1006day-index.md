@@ -162,7 +162,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/044day-computer-science/' | relative_url }}">Computer Science</a></li>
   <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#construction-storage-shed' | relative_url }}">Construction Storage Shed</a></li>
   <li>Continuing Education Building (See <a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Educ. Bldg.</a>)</li>
-  <li>Cooking Shed (See Cattle Shed)</li>
+  <li>Cooking Shed (See <a href="{{ '/texts/1000day-minor-buildings/#cattle-shed-cooking-shed' | relative_url }}">Cattle Shed</a>)</li>
   <li><a href="{{ '/texts/buildings/045day-coover-hall/' | relative_url }}">Coover Hall</a></li>
   <li>Coover House (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
   <li><a href="{{ '/texts/buildings/046day-corn-cribs/' | relative_url }}">Corn Cribs</a></li>
