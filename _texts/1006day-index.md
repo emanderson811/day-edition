@@ -212,12 +212,12 @@ publication-date: 1980
 ## -E- 
 
 <ul class="list-unstyled">
-  <li>East Boarding Cottage (See Boarding Cottage - East)</li>
-  <li>East Chemical Engineering (See Sweeney Hall)</li>
-  <li>East Hall</li>
-  <li>East Hall (See Freeman Hall)</li>
-  <li>East Hall Addition</li>
-  <li>East Hall Annex (See Lincoln Way Cottage)</li>
+  <li>East Boarding Cottage (See <a href="{{ '/texts/buildings/023day-boarding-east/' | relative_url }}">Boarding Cottage - East</a>)</li>
+  <li>East Chemical Engineering (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/056day-east-hall/' | relative_url }}">East Hall</a></li>
+  <li>East Hall (See <a href="{{ '/texts/buildings/083day-freeman-hall/' | relative_url }}">Freeman Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/057day-east-hall-addition/' | relative_url }}">East Hall Addition</a></li>
+  <li>East Hall Annex (See <a href="{{ '/texts/buildings/127day-lincoln-way-cottage/' | relative_url }}">Lincoln Way Cottage</a>)</li>
   <li>Eastwood Cottage</li>
   <li>Edgerton House (See Engineer's Cottage)</li>
   <li>Electric & Paint Shop</li>
