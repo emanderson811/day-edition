@@ -193,12 +193,12 @@ publication-date: 1980
   <li>Domestic Technology Building (See <a href="{{ '/texts/buildings/131day-mackay-lebaron-hall/' | relative_url }}">MacKay Hall</a>)</li>
   <li>Dormitory for Women</li>
     <ul>
-      <li>#1 - (See Lyon Hall)</li>
-      <li>#2 - (See Freeman Hall)</li>
-      <li>#3 - (See Barton Hall)</li>
-      <li>#4 - (See Elm Lodges)</li>
-      <li>#5 - (See Birch Hall)</li>
-      <li>#6 - (See Birch Hall & Welch East)</li>
+      <li>#1 - (See <a href="{{ '/texts/buildings/129day-lyon-hall/' | relative_url }}">Lyon Hall</a>)</li>
+      <li>#2 - (See <a href="{{ '/texts/buildings/083day-freeman-hall/' | relative_url }}">Freeman Hall</a>)</li>
+      <li>#3 - (See <a href="{{ '/texts/buildings/015day-barton-hall/' | relative_url }}">Barton Hall</a>)</li>
+      <li>#4 - (See <a href="{{ '/texts/buildings/157day-oak-elm-lodges-dining/' | relative_url }}">Elm Lodges</a>)</li>
+      <li>#5 - (See <a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall</a>)</li>
+      <li>#6 - (See <a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall & Welch East</a>)</li>
     </ul>
   <li>Drill Fields</li>
   <li>Driver Training Laboratory</li>
