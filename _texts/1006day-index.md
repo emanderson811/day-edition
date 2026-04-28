@@ -175,7 +175,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtiss Hall</a></li>
   <li>Curtiss Residence (See <a href="{{ '/texts/buildings/070day-farm-house/' | relative_url }}">Farm House</a>)</li>
   <li>Custodian's Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
-  <li>Cyclones</li>
+  <li><a href="{{ '/texts/008day-misc/#storms-floods-and-cyclones' | relative_url }}">Cyclones</a></li>
 </ul>
 
 ## -D-  
