@@ -150,7 +150,7 @@ publication-date: 1980
       <li>#3 - (See <a href="{{ '/texts/buildings/184day-ross-hall/' | relative_url }}">Ross Hall</a>)</li>
     </ul>
   <li><a href="{{ '/texts/1000day-minor-buildings/#club-house' | relative_url }}">Club House</a></li>
-  <li>Clyde Williams Field</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url }}">Clyde Williams Field</a></li>
   <li><a href="{{ '/texts/buildings/040day-coal-houses/' | relative_url }}">Coal House</a></li>
   <li><a href="{{ '/texts/buildings/041day-coburn-house/' | relative_url }}">Coburn House</a></li>
   <li>Coliseum (See <a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a>)</li>
