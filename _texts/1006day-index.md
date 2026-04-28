@@ -185,7 +185,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/051day-dairy-industry/' | relative_url }}">Dairy Industry</a></li>
   <li><a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a></li>
   <li>Depot (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
-  <li>Design Center (See College of Design)</li>
+  <li>Design Center (See <a href="{{ '/texts/buildings/042day-college-design/' | relative-url }}">College of Design</a>)</li>
   <li>Detention Ward (See Boarding Cottage - West)</li>
   <li>"Dinkey"</li>
   <li>Disposal Plant</li>
