@@ -186,9 +186,9 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a></li>
   <li>Depot (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
   <li>Design Center (See <a href="{{ '/texts/buildings/042day-college-design/' | relative-url }}">College of Design</a>)</li>
-  <li>Detention Ward (See Boarding Cottage - West)</li>
-  <li>"Dinkey"</li>
-  <li>Disposal Plant</li>
+  <li>Detention Ward (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>)</li>
+  <li><a href="{{ '/texts/004day-transportation/#ames-and-college-railway-the-dinkey' | relative_url }}">"Dinkey"</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#sewers-and-drainage' | relative_url }}">Disposal Plant</a></li>
   <li>Domestic Economy Hall (See South Hall)</li>
   <li>Domestic Technology Building (See MacKay Hall)</li>
   <li>Dormitory for Women</li>
