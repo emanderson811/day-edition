@@ -158,7 +158,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/042day-college-design/' | relative_url }}">College of Design</a></li>
   <li>Collegiate Press Building (See <a href="{{ '/texts/buildings/117day-isu-press/' | relative_url }}">I.S.U. Press Building</a>)</li>
   <li><a href="{{ '/texts/buildings/043day-communications/' | relative_url }}">Communications Building</a></li>
-  <li>Computer Garage</li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#computer-garage' | relative_url }}">Computer Garage</a></li>
   <li><a href="{{ '/texts/buildings/044day-computer-science/' | relative_url }}">Computer Science</a></li>
   <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#construction-storage-shed' | relative_url }}">Construction Storage Shed</a></li>
   <li>Continuing Education Building (See <a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Educ. Bldg.</a>)</li>
