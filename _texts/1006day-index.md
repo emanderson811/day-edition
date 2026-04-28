@@ -181,8 +181,8 @@ publication-date: 1980
 ## -D-  
 
 <ul class="list-unstyled">
-  <li>Dairy Building (See East Hall)</li>
-  <li>Dairy Industry</li>
+  <li>Dairy Building (See <a href="{{ '/texts/buildings/056day-east-hall/' | relative_url }}">East Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/051day-dairy-industry/' | relative_url }}">Dairy Industry</a></li>
   <li>Davidson Hall</li>
   <li>Depot (See The Hub)</li>
   <li>Design Center (See College of Design)</li>
