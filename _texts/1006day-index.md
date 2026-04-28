@@ -173,7 +173,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/049day-creamery-second/' | relative_url }}">Creamery (Second)</a></li>
   <li>Crop Science Laboratory (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
   <li><a href="{{ '/texts/buildings/050day-curtiss-hall/' | relative_url }}">Curtiss Hall</a></li>
-  <li>Curtiss Residence (See Farm House)</li>
+  <li>Curtiss Residence (See <a href="{{ '/texts/buildings/070day-farm-house/' | relative_url }}">Farm House</a>)</li>
   <li>Custodian's Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
   <li>Cyclones</li>
 </ul>
