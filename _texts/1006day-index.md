@@ -140,7 +140,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Building</a></li>
   <li>Child Nursery Annex (See <a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a>)</li>
   <li>Child Nursery Building (See <a href="{{ '/texts/buildings/108day-horticulture-barn/' | relative_url }}">Horticulture Barn</a>)</li>
-  <li>Chilled Water</li>
+  <li><a href="{{ '/texts/006day-utilities/#stream-distribution-tunnels-and-chilled water' | relative_url }}">Chilled Water</a></li>
   <li>Chronological List of Campus Buildings</li>
   <li>Class Gifts</li>
   <li>Classroom - Office Building</li>
