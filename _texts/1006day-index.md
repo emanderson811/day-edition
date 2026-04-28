@@ -160,7 +160,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/043day-communications/' | relative_url }}">Communications Building</a></li>
   <li>Computer Garage</li>
   <li><a href="{{ '/texts/buildings/044day-computer-science/' | relative_url }}">Computer Science</a></li>
-  <li>Construction Storage Shed</li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#construction-storage-shed' | relative_url }}">Construction Storage Shed</a></li>
   <li>Continuing Education Building (See <a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Educ. Bldg.</a>)</li>
   <li>Cooking Shed (See Cattle Shed)</li>
   <li><a href="{{ '/texts/buildings/045day-coover-hall/' | relative_url }}">Coover Hall</a></li>
