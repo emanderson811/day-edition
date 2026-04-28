@@ -183,8 +183,8 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li>Dairy Building (See <a href="{{ '/texts/buildings/056day-east-hall/' | relative_url }}">East Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/051day-dairy-industry/' | relative_url }}">Dairy Industry</a></li>
-  <li>Davidson Hall</li>
-  <li>Depot (See The Hub)</li>
+  <li><a href="{{ '/texts/buildings/052day-davidson-hall/' | relative_url }}">Davidson Hall</a></li>
+  <li>Depot (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
   <li>Design Center (See College of Design)</li>
   <li>Detention Ward (See Boarding Cottage - West)</li>
   <li>"Dinkey"</li>
