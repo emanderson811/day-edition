@@ -227,11 +227,11 @@ publication-date: 1980
   <li>Elm Lodge (See <a href="{{ '/texts/buildings/157day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges</a>)</li>
   <li>Emergency Chemistry (See <a href="{{ '/texts/buildings/202day-south-studio/' | relative_url }}">South Studio</a>)</li>
   <li><a href="{{ '/texts/buildings/060day-emergency-hall/' | relative_url }}">Emergency Hall</a></li>
-  <li>Energy & Mineral Resources Research Institute</li>
-  <li>Engineering Annex</li>
-  <li>Engineering Building #1 (See Sweeney Hall)</li>
-  <li>Engineering Building #2 (See Town Engineering Bldg.)</li>
-  <li>Engineering Hall (See Laboratory of Mechanics; Marston Hall)</li>
+  <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url }}">Energy & Mineral Resources Research Institute</a></li>
+  <li><a href="{{ '/texts/buildings/061day-engineering-annex/' | relative_url }}">Engineering Annex</a></li>
+  <li>Engineering Building #1 (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
+  <li>Engineering Building #2 (See <a href="{{ '/texts/buildings/214day-town-engineering/' | relative_url }}">Town Engineering Bldg.</a>)</li>
+  <li>Engineering Hall (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>; <a href="{{ '/texts/buildings/136day-marston-hall/' | relative_url }}">Marston Hall</a>)</li>
   <li>Engineering Research Institute</li>
   <li>Engineer's Cottage</li>
   <li>Engine House (See Pump House; Workshop)</li>
