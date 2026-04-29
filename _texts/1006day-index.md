@@ -222,11 +222,11 @@ publication-date: 1980
   <li>Edgerton House (See <a href="{{ '/texts/buildings/063day-engineers-cottage/' | relative_url }}">Engineer's Cottage</a>)</li>
   <li><a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric & Paint Shop</a></li>
   <li><a href="{{ '/texts/006day-utilities/#electric-power-and-light' | relative_url }}">Electric Power & Lighting</a></li>
-  <li>Electrical Engineering Building (See Coover Hall)</li>
-  <li>Elm Hall (See Oak-Elm Hall)</li>
-  <li>Elm Lodge (See Oak-Elm Lodges)</li>
-  <li>Emergency Chemistry (See South Studio)</li>
-  <li>Emergency Hall</li>
+  <li>Electrical Engineering Building (See <a href="{{ '/texts/buildings/045day-coover-hall/' | relative_url }}">Coover Hall</a>)</li>
+  <li>Elm Hall (See <a href="{{ '/texts/buildings/156day-oak-elm-halls/' | relative_url }}">Oak-Elm Hall</a>)</li>
+  <li>Elm Lodge (See <a href="{{ '/texts/buildings/157day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges</a>)</li>
+  <li>Emergency Chemistry (See <a href="{{ '/texts/buildings/202day-south-studio/' | relative_url }}">South Studio</a>)</li>
+  <li><a href="{{ '/texts/buildings/060day-emergency-hall/' | relative_url }}">Emergency Hall</a></li>
   <li>Energy & Mineral Resources Research Institute</li>
   <li>Engineering Annex</li>
   <li>Engineering Building #1 (See Sweeney Hall)</li>
