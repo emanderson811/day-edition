@@ -255,9 +255,9 @@ publication-date: 1980
   <li>Faculty Club House (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
   <li><a href="{{ '/texts/buildings/068day-fair-oaks-mansion/' | relative_url }}">Fair Oaks Mansion</a></li>
   <li>Farm Barn (See <a href="{{ '/texts/buildings/035day-cattle-barn-first/' | relative_url }}">Cattle Barn - First</a>)</li>
-  <li>Farm Barn & Machine Shed (See Horse Barn & Machine Shed)</li>
-  <li>Farm Boarding Club</li>
-  <li>Farm Crops Laboratory (See Agronomy Farm Crops Lab)</li>
+  <li>Farm Barn & Machine Shed (See <a href="{{ '/texts/buildings/105day-horse-barn/' | relative_url }}">Horse Barn & Machine Shed</a>)</li>
+  <li><a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a></li>
+  <li>Farm Crops Laboratory (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
   <li>Farm Foreman's Cottage (See Creamery - First)</li>
   <li>Farm House</li>
   <li>Farm Laborer's Cottage</li>
