@@ -218,10 +218,10 @@ publication-date: 1980
   <li>East Hall (See <a href="{{ '/texts/buildings/083day-freeman-hall/' | relative_url }}">Freeman Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/057day-east-hall-addition/' | relative_url }}">East Hall Addition</a></li>
   <li>East Hall Annex (See <a href="{{ '/texts/buildings/127day-lincoln-way-cottage/' | relative_url }}">Lincoln Way Cottage</a>)</li>
-  <li>Eastwood Cottage</li>
-  <li>Edgerton House (See Engineer's Cottage)</li>
-  <li>Electric & Paint Shop</li>
-  <li>Electric Power & Lighting</li>
+  <li><a href="{{ '/texts/buildings/058day-eastwood-cottage/' | relative_url }}">Eastwood Cottage</a></li>
+  <li>Edgerton House (See <a href="{{ '/texts/buildings/063day-engineers-cottage/' | relative_url }}">Engineer's Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric & Paint Shop</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#electric-power-and-light' | relative_url }}">Electric Power & Lighting</a></li>
   <li>Electrical Engineering Building (See Coover Hall)</li>
   <li>Elm Hall (See Oak-Elm Hall)</li>
   <li>Elm Lodge (See Oak-Elm Lodges)</li>
