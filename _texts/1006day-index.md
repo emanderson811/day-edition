@@ -251,10 +251,10 @@ publication-date: 1980
 ## -F- 
 
 <ul class="list-unstyled">
-  <li>Facilities Building (See Olsen Building)</li>
-  <li>Faculty Club House (See Farm Boarding Club)</li>
-  <li>Fair Oaks Mansion</li>
-  <li>Farm Barn (See Cattle Barn - First)</li>
+  <li>Facilities Building (See <a href="{{ '/texts/buildings/159day-olsen/' | relative_url }}">Olsen Building</a>)</li>
+  <li>Faculty Club House (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
+  <li><a href="{{ '/texts/buildings/068day-fair-oaks-mansion/' | relative_url }}">Fair Oaks Mansion</a></li>
+  <li>Farm Barn (See <a href="{{ '/texts/buildings/035day-cattle-barn-first/' | relative_url }}">Cattle Barn - First</a>)</li>
   <li>Farm Barn & Machine Shed (See Horse Barn & Machine Shed)</li>
   <li>Farm Boarding Club</li>
   <li>Farm Crops Laboratory (See Agronomy Farm Crops Lab)</li>
