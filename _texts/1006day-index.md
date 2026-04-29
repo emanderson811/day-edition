@@ -232,20 +232,20 @@ publication-date: 1980
   <li>Engineering Building #1 (See <a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a>)</li>
   <li>Engineering Building #2 (See <a href="{{ '/texts/buildings/214day-town-engineering/' | relative_url }}">Town Engineering Bldg.</a>)</li>
   <li>Engineering Hall (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>; <a href="{{ '/texts/buildings/136day-marston-hall/' | relative_url }}">Marston Hall</a>)</li>
-  <li>Engineering Research Institute</li>
-  <li>Engineer's Cottage</li>
-  <li>Engine House (See Pump House; Workshop)</li>
-  <li>English Office Building</li>
-  <li>Enrollments</li>
-  <li>Entomology Building (See Insectary & Greenhouse)</li>
-  <li>Equipment Storage (See Driver Training Storage)</li>
-  <li>Equipment Storage Building (at VMRI)</li>
-  <li>Exhibit Hall</li>
-  <li>Experiment Station Barn</li>
-  <li>Experiment Station Building (See Bevier House)</li>
-  <li>Experiment Station Foreman's Cottage (See Teamster's Cottage #2)</li>
-  <li>Experiment Station Machine Shed</li>
-  <li>Experimental Barn</li>
+  <li><a href="{{ '/texts/buildings/062day-engineering-research-inst./' | relative_url }}">Engineering Research Institute</a></li>
+  <li><a href="{{ '/texts/buildings/063day-engineers-cottage/' | relative_url }}">Engineer's Cottage</a></li>
+  <li>Engine House (See <a href="{{ /texts/buildings/176day-pump-house/' | relative_url }}">Pump House</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>)</li>
+  <li><a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a></li>
+  <li><a href="{{ '/texts/1001day-appendices/#enrollments' | relative_url }}">Enrollments</a></li>
+  <li>Entomology Building (See <a href="{{ '/texts/buildings/116day-insectary-greenhouse/' | relative_url }}">Insectary & Greenhouse</a>)</li>
+  <li>Equipment Storage (See <a href="{{ '/texts/buildings/054day-driving-training-storage/' | relative_url }}">Driver Training Storage</a>)</li>
+  <li>Equipment Storage Building (at <a href="{{ '/texts/007day-special-areas/#veterinary-medicine-research-institute' | relative_url }}">VMRI</a>)</li>
+  <li><a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a></li>
+  <li><a href="{{ '/texts/buildings/067day-experiment-station-barn/' | relative_url }}">Experiment Station Barn</a></li>
+  <li>Experiment Station Building (See <a href="{{ '/texts/buildings/019day-bevier-house/' | relative_url }}">Bevier House</a>)</li>
+  <li>Experiment Station Foreman's Cottage (See <a href="{{ '/texts/buildings/211day-teamsters-cottage/' | relative_url }}">Teamster's Cottage #2</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#experiment-station-machine-shed-implement-shed-dept-of-farm-mechanics' | relative_url }}">Experiment Station Machine Shed</a></li>
+  <li><a href="{{ '/texts/buildings/066day-experimental-barn/' | relative_url }}">Experimental Barn</a></li>
 </ul>
 
 ## -F- 
