@@ -262,9 +262,9 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/070day-farm-house/' | relative_url }}">Farm House</a></li>
   <li><a href="{{ '/texts/buildings/071day-farm-laborers-cottage/' | relative_url }}">Farm Laborer's Cottage</a></li>
   <li>Farm Mechanics Building (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall</a>)</li>
-  <li>Farm Workman's Cottage (See Eastwood Cottage)</li>
-  <li>Farrier's Shop (See Agric. Engr. Shop & Shed)</li>
-  <li>Feed Barn (See Feed Storage Elevator)</li>
+  <li>Farm Workman's Cottage (See <a href="{{ '/texts/buildings/058day-eastwood-cottage/' | relative_url }}">Eastwood Cottage</a>)</li>
+  <li>Farrier's Shop (See <a href="{{ '/texts/buildings/004day-agricultural-eng-shop/' | relative_url }}">Agric. Engr. Shop & Shed</a>)</li>
+  <li>Feed Barn (See <a href="{{ '/texts/buildings/074day-feed-storage-elevator/' | relative_url }}">Feed Storage Elevator</a>)</li>
   <li>Feeding Barn</li>
   <li>Feeding Sheds</li>
   <li>Feed Storage Elevator</li>
