@@ -265,13 +265,13 @@ publication-date: 1980
   <li>Farm Workman's Cottage (See <a href="{{ '/texts/buildings/058day-eastwood-cottage/' | relative_url }}">Eastwood Cottage</a>)</li>
   <li>Farrier's Shop (See <a href="{{ '/texts/buildings/004day-agricultural-eng-shop/' | relative_url }}">Agric. Engr. Shop & Shed</a>)</li>
   <li>Feed Barn (See <a href="{{ '/texts/buildings/074day-feed-storage-elevator/' | relative_url }}">Feed Storage Elevator</a>)</li>
-  <li>Feeding Barn</li>
-  <li>Feeding Sheds</li>
-  <li>Feed Storage Elevator</li>
-  <li>Fick Observatory</li>
-  <li>Field House-Auditorium (See Hilton Coliseum)</li>
-  <li>Field House - P.E.W.</li>
-  <li>Field Shed</li>
+  <li><a href="{{ '/texts/buildings/072day-feeding-barn/' | relative_url }}">Feeding Barn</a></li>
+  <li><a href="{{ '/texts/buildings/073day-feeding-sheds/' | relative_url }}">Feeding Sheds</a></li>
+  <li><a href="{{ '/texts/buildings/074day-feed-storage-elevator/' | relative_url }}">Feed Storage Elevator</a></li>
+  <li><a href="{{ '/texts/buildings/075day-fick-observatory/' | relative_url }}">Fick Observatory</a></li>
+  <li>Field House-Auditorium (See <a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a>)</li>
+  <li><a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a></li>
+  <li><a href="{{ '/texts/buildings/1000day-minor-buildings/#field-shed-horticulture-barn-machine-shed' | relative_url }}">Field Shed</a></li>
   <li>Film Production (See Norton House)</li>
   <li>Film Storage</li>
   <li>Filter Plant</li>
