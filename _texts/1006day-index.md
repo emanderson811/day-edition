@@ -272,19 +272,19 @@ publication-date: 1980
   <li>Field House-Auditorium (See <a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a>)</li>
   <li><a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a></li>
   <li><a href="{{ '/texts/buildings/1000day-minor-buildings/#field-shed-horticulture-barn-machine-shed' | relative_url }}">Field Shed</a></li>
-  <li>Film Production (See Norton House)</li>
-  <li>Film Storage</li>
-  <li>Filter Plant</li>
-  <li>Fire Department Building (See Fire Protection) (See Hose House)</li>
-  <li>Firemanship Training</li>
-  <li>Fire Protection</li>
-  <li>Fires</li>
-  <li>Fisher House (See Nickell-Fisher House)</li>
-  <li>Fisher Theater</li>
-  <li>Flagpoles</li>
-  <li>Floods</li>
-  <li>Food Processing Laboratory (See Food Technology)</li>
-  <li>Food Processing - Temporary (See Temporary Building "P")</li>
+  <li>Film Production (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
+  <li><a href="{{ '/texts/buildings/077day-film-storage/' | relative_url }}">Film Storage</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#water-supply' | relative_url }}">Filter Plant</a></li>
+  <li>Fire Department Building (See <a href="{{ '/texts/008day-misc/#fire-protection' | relative_url }}">Fire Protection</a>) (See <a href="{{ '/texts/1000day-minor-buildings/#hose-house' | relative_url }}">Hose House</a>)</li>
+  <li><a href="{{ '/texts/buildings/078day-firemanship-training/' | relative_url }}">Firemanship Training</a></li>
+  <li><a href="{{ '/texts/008day-misc/#fire-protection' | relative_url }}">Fire Protection</a></li>
+  <li><a href="{{ '/texts/008day-misc/#fires' | relative_url }}">Fires</a></li>
+  <li>Fisher House (See <a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell-Fisher House</a>)</li>
+  <li><a href="{{ '/texts/buildings/079day-fisher-theater/' | relative_url }}">Fisher Theater</a></li>
+  <li><a href="{{ '/texts/008day-misc/#flagpoles' | relative_url }}">Flagpoles</a></li>
+  <li><a href="{{ '/texts/008day-misc/#storms-floods-and-cyclones' | relative_url }}">Floods</a></li>
+  <li>Food Processing Laboratory (See <a href="{{ '/texts/buildings/080day-food-tech-lab/' | relative_url }}">Food Technology</a>)</li>
+  <li>Food Processing - Temporary (See <a href="{{ '/texts/buildings/212day-temp-buildings/#building-p/' | relative_url }}">Temporary Building "P"</a>)</li>
   <li>Food Technology</li>
   <li>Forage Crops Laboratory (See North Studio)</li>
   <li>Forage Shed</li>
