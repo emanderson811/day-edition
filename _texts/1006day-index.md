@@ -281,10 +281,10 @@ publication-date: 1980
   <li><a href="{{ '/texts/008day-misc/#fires' | relative_url }}">Fires</a></li>
   <li>Fisher House (See <a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell-Fisher House</a>)</li>
   <li><a href="{{ '/texts/buildings/079day-fisher-theater/' | relative_url }}">Fisher Theater</a></li>
-  <li><a href="{{ '/texts/008day-misc/#flagpoles' | relative_url }}">Flagpoles</a></li>
+  <li><a href="{{ '/texts/008day-misc/#flag-poles' | relative_url }}">Flagpoles</a></li>
   <li><a href="{{ '/texts/008day-misc/#storms-floods-and-cyclones' | relative_url }}">Floods</a></li>
   <li>Food Processing Laboratory (See <a href="{{ '/texts/buildings/080day-food-tech-lab/' | relative_url }}">Food Technology</a>)</li>
-  <li>Food Processing - Temporary (See <a href="{{ '/texts/buildings/212day-temp-buildings/#building-p/' | relative_url }}">Temporary Building "P"</a>)</li>
+  <li>Food Processing - Temporary (See <a href="{{ '/texts/buildings/212day-temp-buildings/#building-p' | relative_url }}">Temporary Building "P"</a>)</li>
   <li>Food Technology</li>
   <li>Forage Crops Laboratory (See North Studio)</li>
   <li>Forage Shed</li>
