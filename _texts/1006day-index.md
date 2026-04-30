@@ -289,13 +289,13 @@ publication-date: 1980
   <li>Forage Crops Laboratory (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
   <li><a href="{{ '/texts/buildings/081day-forage-shed/' | relative_url }}">Forage Shed</a></li>
   <li><a href="{{ '/texts/buildings/026day-botany-forestry-greenhouse/' | relative_url }}">Forestry Greenhouse</a></li>
-  <li>Forage Shop (See <a href="{{ '/texts/buildings/030day-buildings-b/' | relative_url }}">Building "B"</a>)</li>
+  <li>Forage Shop (See <a href="{{ '/texts/buildings/030day-building-b/' | relative_url }}">Building "B"</a>)</li>
   <li><a href="{{ '/texts/004day-transportation/#the-interurban' | relative_url }}">Fort Dodge, Des Moines & Southern Railway</a></li>
   <li>Foundry (See <a href="{{ '/texts/buildings/029day-building-a/' | relative_url }}">Building "A"</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#foundry-store-house' | relative_url }}">Foundry Store House</a></li>
   <li><a href="{{ '/texts/buildings/082day-four-apartment-house/' | relative_url }}">Four Apartment House</a></li>
   <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}">Franklin Park</a></li>
-  <li><a href="{{ '/texts/buildings/083day-freeman-hall/' | relative_url }}">Freeman Hall<</li>
+  <li><a href="{{ '/texts/buildings/083day-freeman-hall/' | relative_url }}">Freeman Hall</a></li>
   <li><a href="{{ '/texts/buildings/084day-friley-hall/' | relative_url }}">Friley Hall</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#fruit-house' | relative_url }}">Fruit House</a></li>
   <li><a href="{{ '/texts/buildings/085day-fruit-storage-shed/' | relative_url }}">Fruit Storage Shed</a></li>
