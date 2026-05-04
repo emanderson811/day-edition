@@ -319,7 +319,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/087day-genetics-lab/' | relative_url }}">Genetics Laboratory</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-poultry-laboratory' | relative_url }}">Genetics Poultry Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/088day-genetics-plant-pathology-greenhouse/' | relative_url }}">Genetics & Plant Pathology Greenhouse</a></li>
-  <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-storage-building-genetics-shaving-storage' | relative_url }}">Genetics Storage Building</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-storage-building-genetics-shavings-storage' | relative_url }}">Genetics Storage Building</a></li>
   <li><a href="{{ '/texts/buildings/089day-gilman-hall/' | relative_url }}">Gilman Hall</a></li>
   <li>Gladstone Hotel (See <a href="{{ '/texts/buildings/182day-ridgeway-house/' | relative_url }}">Ridgeway House</a>)</li>
   <li><a href="{{ '/texts/buildings/090day-golf-club-house/' | relative_url }}">Golf Club House</a></li>
