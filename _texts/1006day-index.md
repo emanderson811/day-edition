@@ -304,14 +304,14 @@ publication-date: 1980
 ## -G-  
 
 <ul class="list-unstyled">
-  <li>Gables (The)</li>
-  <li>Garage (See Exhibit Hall)</li>
-  <li>Garage - Extension Service (See Driver Training Storage)</li>
-  <li>Garages</li>
-  <li>Gardener's Cottage (See Grounds Cottage)</li>
-  <li>Garden House (See Boarding Club)</li>
-  <li>Gardens</li>
-  <li>Gas Supply</li>
+  <li><a href="{{ '/texts/buildings/086day-gables/' | relative_url }}">Gables (The)</a></li>
+  <li>Garage (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
+  <li>Garage - Extension Service (See <a href="{{ '/texts/buildings/054day-driving-training-storage/' | relative_url }}">Driver Training Storage</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#garages' | relative_url }}">Garages</a></li>
+  <li>Gardener's Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
+  <li>Garden House (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Boarding Club</a>)</li>
+  <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens/ | relative_url }}">Gardens</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#gas-supply-and-distribution' | relative_url }}">Gas Supply</a></li>
   <li>Geddes House (See Music Hall)</li>
   <li>General Shops (See Grounds Shop)</li>
   <li>General Stores Building (See Botany Hall - North Wing)</li>
