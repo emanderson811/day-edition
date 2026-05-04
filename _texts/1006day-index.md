@@ -350,8 +350,8 @@ publication-date: 1980
   <li>Hibbard House (See <a href="{{ '/texts/buildings/186day-safford-cottage/' | relative_url }}">Safford Cottage</a>)</li>
   <li><a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#hockey' | relative_url }}">Hockey Fields</a></li>
-  <li>Hog Barn (See Feeding Sheds)</li>
-  <li>Hog Barn & Pavilion</li>
+  <li>Hog Barn (See <a href="{{ '/texts/buildings/073day-feeding-sheds/' | relative_url }}">Feeding Sheds</a>)</li>
+  <li><a href="{{ '/texts/buildings/102day-hog-barn-pavilion/' | relative_url }}">Hog Barn & Pavilion</a></li>
   <li>Hog Houses</li>
   <li>Hog Serum Plant (See Serum Plant)</li>
   <li>Holden House (See Engineer's Cottage) (See White House)</li>
