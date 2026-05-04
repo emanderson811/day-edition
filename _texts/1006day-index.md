@@ -342,14 +342,14 @@ publication-date: 1980
 ## -H- 
 
 <ul class="list-unstyled">
-  <li>Handball Courts</li>
-  <li>Hanmer House (See Sloss House)</li>
-  <li>Hawthorn Court</li>
-  <li>Helser Hall</li>
-  <li>Herdsman's Cottage</li>
-  <li>Hibbard House (See Safford Cottage)</li>
-  <li>Hilton Coliseum</li>
-  <li>Hockey Fields</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#handball' | relative_url }}">Handball Courts</a></li>
+  <li>Hanmer House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>)</li>
+  <li><a href="{{ '/texts/buildings/098day-hawthorn-court/' | relative_url }}">Hawthorn Court</a></li>
+  <li><a href="{{ '/texts/buildings/099day-helser-hall/' | relative_url }}">Helser Hall</a></li>
+  <li><a href="{{ '/texts/buildings/100day-heardsmans-cottage/' | relative_url }}">Herdsman's Cottage</a></li>
+  <li>Hibbard House (See <a href="{{ '/texts/buildings/186day-safford-cottage/' | relative_url }}">Safford Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a></li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#hockey' | relative_url }}">Hockey Fields</a></li>
   <li>Hog Barn (See Feeding Sheds)</li>
   <li>Hog Barn & Pavilion</li>
   <li>Hog Houses</li>
