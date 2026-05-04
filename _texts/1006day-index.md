@@ -330,13 +330,13 @@ publication-date: 1980
   <li>Gray Cottage (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
   <li><a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a></li>
   <li><a href="{{ '/texts/buildings/-92day-greenhouse-exp-station/' | relative_url }}">Greenhouse (at Exp. Sta. Bldg.)</a></li>
-  <li>Greenhouse (at Hort. Lab)</li>
-  <li>Greenhouse & Controlled Environment Center (See Botany & Forestry Greenhouses)</li>
-  <li>Grounds Cottage</li>
-  <li>Grounds Shop</li>
-  <li>Gun Shed</li>
-  <li>Gymnasium</li>
-  <li>Gymnasium (See State Gymnasium)</li>
+  <li><a href="{{ '/texts/buildings/093day-greenhouse-hort-lab/' | relative_url }}">Greenhouse (at Hort. Lab)</a></li>
+  <li>Greenhouse & Controlled Environment Center (See <a href="{{ '/texts/buildings/026day-botany-forestry-greenhouse/' | relative_url }}">Botany & Forestry Greenhouses</a>)</li>
+  <li><a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/095day-grounds-shop/' | relative_url }}">Grounds Shop</a></li>
+  <li><a href="{{ '/texts/buildings/096day-gun-shed/' | relative_url }}">Gun Shed</a></li>
+  <li><a href="{{ '/texts/buildings/097day-gymnasium/' | relative_url }}">Gymnasium</a></li>
+  <li>Gymnasium (See <a href="{{ '/texts/buildings/206day-state-gym/' | relative_url }}">State Gymnasium</a>)</li>
 </ul>
 
 ## -H- 
