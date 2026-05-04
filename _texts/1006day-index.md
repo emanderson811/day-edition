@@ -329,7 +329,7 @@ publication-date: 1980
   <li>Granary (See <a href="{{ '/texts/1000day-minor-buildings/#machine-shed-granary' | relative_url }}">Machine Shed</a>)</li>
   <li>Gray Cottage (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
   <li><a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a></li>
-  <li><a href="{{ '/texts/buildings/-92day-greenhouse-exp-station/' | relative_url }}">Greenhouse (at Exp. Sta. Bldg.)</a></li>
+  <li><a href="{{ '/texts/buildings/092day-greenhouse-exp-station/' | relative_url }}">Greenhouse (at Exp. Sta. Bldg.)</a></li>
   <li><a href="{{ '/texts/buildings/093day-greenhouse-hort-lab/' | relative_url }}">Greenhouse (at Hort. Lab)</a></li>
   <li>Greenhouse & Controlled Environment Center (See <a href="{{ '/texts/buildings/026day-botany-forestry-greenhouse/' | relative_url }}">Botany & Forestry Greenhouses</a>)</li>
   <li><a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a></li>
