@@ -310,11 +310,11 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#garages' | relative_url }}">Garages</a></li>
   <li>Gardener's Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
   <li>Garden House (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Boarding Club</a>)</li>
-  <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens/ | relative_url }}">Gardens</a></li>
+  <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens' | relative_url }}">Gardens</a></li>
   <li><a href="{{ '/texts/006day-utilities/#gas-supply-and-distribution' | relative_url }}">Gas Supply</a></li>
-  <li>Geddes House (See Music Hall)</li>
-  <li>General Shops (See Grounds Shop)</li>
-  <li>General Stores Building (See Botany Hall - North Wing)</li>
+  <li>Geddes House (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
+  <li>General Shops (See <a href="{{ '/texts/buildings/095day-grounds-shop/' | relative_url }}">Grounds Shop</a>)</li>
+  <li>General Stores Building (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall - North Wing</a>)</li>
   <li>Genetics Chick Isolation</li>
   <li>Genetics Laboratory</li>
   <li>Genetics Poultry Laboratory</li>
