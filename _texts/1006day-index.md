@@ -315,15 +315,15 @@ publication-date: 1980
   <li>Geddes House (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
   <li>General Shops (See <a href="{{ '/texts/buildings/095day-grounds-shop/' | relative_url }}">Grounds Shop</a>)</li>
   <li>General Stores Building (See <a href="{{ '/texts/buildings/027day-botany-hall/' | relative_url }}">Botany Hall - North Wing</a>)</li>
-  <li>Genetics Chick Isolation</li>
-  <li>Genetics Laboratory</li>
-  <li>Genetics Poultry Laboratory</li>
-  <li>Genetics & Plant Pathology Greenhouse</li>
-  <li>Genetics Storage Building</li>
-  <li>Gilman Hall</li>
-  <li>Gladstone Hotel (See Ridgeway House)</li>
-  <li>Golf Club House</li>
-  <li>Golf Course</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-chick-isolation' | relative_url }}">Genetics Chick Isolation</a></li>
+  <li><a href="{{ '/texts/buildings/087day-genetics-lab/' | relative_url }}">Genetics Laboratory</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-poultry-laboratory' | relative_url }}">Genetics Poultry Laboratory</a></li>
+  <li><a href="{{ '/texts/buildings/088day-genetics-plant-pathology-greenhouse/' | relative_url }}">Genetics & Plant Pathology Greenhouse</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#genetics-storage-building-genetics-shaving-storage' | relative_url }}">Genetics Storage Building</a></li>
+  <li><a href="{{ '/texts/buildings/089day-gilman-hall/' | relative_url }}">Gilman Hall</a></li>
+  <li>Gladstone Hotel (See <a href="{{ '/texts/buildings/182day-ridgeway-house/' | relative_url }}">Ridgeway House</a>)</li>
+  <li><a href="{{ '/texts/buildings/090day-golf-club-house/' | relative_url }}">Golf Club House</a></li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#golf-course' | relative_url }}">Golf Course</a></li>
   <li>Governing Boards</li>
   <li>Graduate Student Dormitory (See Buchanan Hall)</li>
   <li>Granary (See Machine Shed)</li>
