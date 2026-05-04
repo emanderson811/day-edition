@@ -324,8 +324,8 @@ publication-date: 1980
   <li>Gladstone Hotel (See <a href="{{ '/texts/buildings/182day-ridgeway-house/' | relative_url }}">Ridgeway House</a>)</li>
   <li><a href="{{ '/texts/buildings/090day-golf-club-house/' | relative_url }}">Golf Club House</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#golf-course' | relative_url }}">Golf Course</a></li>
-  <li>Governing Boards</li>
-  <li>Graduate Student Dormitory (See Buchanan Hall)</li>
+  <li><a href="{{ '/texts/1001day-appendices/#governing-boards' | relative_url }}">Governing Boards</a></li>
+  <li>Graduate Student Dormitory (See <a href="{{ '/texts/buildings/028day-buchanan-hall/' | relative_url }}">Buchanan Hall</a>)</li>
   <li>Granary (See Machine Shed)</li>
   <li>Gray Cottage (See Norton House)</li>
   <li>Greenhouse</li>
