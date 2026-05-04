@@ -326,10 +326,10 @@ publication-date: 1980
   <li><a href="{{ '/texts/005day-athletic-rec/#golf-course' | relative_url }}">Golf Course</a></li>
   <li><a href="{{ '/texts/1001day-appendices/#governing-boards' | relative_url }}">Governing Boards</a></li>
   <li>Graduate Student Dormitory (See <a href="{{ '/texts/buildings/028day-buchanan-hall/' | relative_url }}">Buchanan Hall</a>)</li>
-  <li>Granary (See Machine Shed)</li>
-  <li>Gray Cottage (See Norton House)</li>
-  <li>Greenhouse</li>
-  <li>Greenhouse (at Exp. Sta. Bldg.)</li>
+  <li>Granary (See <a href="{{ '/texts/1000day-minor-buildings/#machine-shed-granary' | relative_url }}">Machine Shed</a>)</li>
+  <li>Gray Cottage (See <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
+  <li><a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a></li>
+  <li><a href="{{ '/texts/buildings/-92day-greenhouse-exp-station/' | relative_url }}">Greenhouse (at Exp. Sta. Bldg.)</a></li>
   <li>Greenhouse (at Hort. Lab)</li>
   <li>Greenhouse & Controlled Environment Center (See Botany & Forestry Greenhouses)</li>
   <li>Grounds Cottage</li>
