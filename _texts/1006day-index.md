@@ -361,31 +361,31 @@ publication-date: 1980
   <li>Home Management Duplex "B" (See <a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell-Fisher House</a>)</li>
   <li>Home Management Duplex "C" (See <a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a>)</li>
   <li>Home Management Storage (See <a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a>)</li>
-  <li>Horse Barn - First</li>
-  <li>Horse Barn (See Landscape Architecture)</li>
-  <li>Horse Barn #2</li>
-  <li>Horse Barn #3 (See Ruminant Nutrition Lab)</li>
-  <li>Horse Barn & Machine Shed</li>
-  <li>Horse Barn at Service Area</li>
-  <li>Horticulture Barn - First</li>
-  <li>Horticulture Barn</li>
-  <li>Horticulture Barn (See Field Shed)</li>
-  <li>Horticulture & Botany Greenhouse (See Greenhouse)</li>
-  <li>Horticulture Cottage</li>
-  <li>Horticulture Cottage (See Beach House)</li>
-  <li>Horticulture Cottage - Old (See Grounds Cottage)</li>
-  <li>Horticulture Fruit Shed (See Fruit Storage Shed)</li>
-  <li>Horticulture Gardens Building</li>
-  <li>Horticulture Hall (See Farm Boarding Club)</li>
-  <li>Horticulture Hall & Greenhouse</li>
-  <li>Horticulture Lab - Old</li>
-  <li>Horticulture Lab (See Farm Boarding Club)</li>
-  <li>Hose House</li>
-  <li>Hospital (See Boarding Cottage - West) (See Sanitary Building) (See Student Services Bldg.)</li>
-  <li>Hospital Annex (See Quarantine Hospital)</li>
-  <li>Hub, The</li>
-  <li>Hughes Hall (See Friley Hall)</li>
-  <li>Hydraulics Laboratory (See Laboratory of Mechanics)</li>
+  <li><a href="{{ '/texts/buildings/104day-horse-barn-first/' | relative_url }}">Horse Barn - First</a></li>
+  <li>Horse Barn (See <a href="{{ '/texts/buildings/124day-landscape-architecture/' | relative_url }}">Landscape Architecture</a>)</li>
+  <li><a href="{{ '/texts/buildings/105day-horse-barn/' | relative_url }}">Horse Barn #2</a></li>
+  <li>Horse Barn #3 (See <a href="{{ '/texts/buildings/185day-ruminant-nutrition-lab/' | relative_url }}">Ruminant Nutrition Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/105day-horse-barn/' | relative_url }}">Horse Barn & Machine Shed</a></li>
+  <li><a href="{{ '/texts/buildings/106day-horse-barn-service/' | relative_url }}">Horse Barn at Service Area</a></li>
+  <li><a href="{{ '/texts/buildings/107day-horticulture-barn-first/' | relative_url }}">Horticulture Barn - First</a></li>
+  <li><a href="{{ '/texts/buildings/108day-horticulture-barn/' | relative_url }}">Horticulture Barn</a></li>
+  <li>Horticulture Barn (See <a href="{{ '/texts/1000day-minor-buildings/#field-shed-horticulture-barn-machine-shed' | relative_url }}">Field Shed</a>)</li>
+  <li>Horticulture & Botany Greenhouse (See <a href="{{ '/texts/buildings/091day-greenhouse/' | relative_url }}">Greenhouse</a>)</li>
+  <li><a href="{{ '/texts/buildings/109day-horticulture-cottage/' | relative_url }}">Horticulture Cottage</a></li>
+  <li>Horticulture Cottage (See <a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a>)</li>
+  <li>Horticulture Cottage - Old (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
+  <li>Horticulture Fruit Shed (See <a href="{{ '/texts/buildings/085day-fruit-storage-shed/' | relative_url }}">Fruit Storage Shed</a>)</li>
+  <li><a href="{{ '/texts/buildings/110day-horticulture-gardens/' | relative_url }}">Horticulture Gardens Building</a></li>
+  <li>Horticulture Hall (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
+  <li><a href="{{ '/texts/buildings/111day-horticulture-hall-greenhouse/' | relative_url }}">Horticulture Hall & Greenhouse</a></li>
+  <li><a href="{{ '/texts/buildings/112day-horticulture-lab-old/' | relative_url }}">Horticulture Lab - Old</a></li>
+  <li>Horticulture Lab (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#hose-house' | relative_url }}">Hose House</a></li>
+  <li>Hospital (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>) (See <a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Building</a>) (See <a href="{{ '/texts/buildings/208day-student-services/' | relative_url }}">Student Services Bldg.</a>)</li>
+  <li>Hospital Annex (See <a href="{{ '/texts/1000day-minor-buildings/#quarentine-hospital-hospital-annex-isolation-house' | relative_url }}">Quarantine Hospital</a>)</li>
+  <li><a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">Hub, The</a></li>
+  <li>Hughes Hall (See <a href="{{ '/texts/buildings/084day-friley-hall/' | relative_url }}">Friley Hall</a>)</li>
+  <li>Hydraulics Laboratory (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
 </ul>
 
 ## -I-
