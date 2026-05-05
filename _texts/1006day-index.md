@@ -346,21 +346,21 @@ publication-date: 1980
   <li>Hanmer House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>)</li>
   <li><a href="{{ '/texts/buildings/098day-hawthorn-court/' | relative_url }}">Hawthorn Court</a></li>
   <li><a href="{{ '/texts/buildings/099day-helser-hall/' | relative_url }}">Helser Hall</a></li>
-  <li><a href="{{ '/texts/buildings/100day-heardsmans-cottage/' | relative_url }}">Herdsman's Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/100day-herdsmans-cottage/' | relative_url }}">Herdsman's Cottage</a></li>
   <li>Hibbard House (See <a href="{{ '/texts/buildings/186day-safford-cottage/' | relative_url }}">Safford Cottage</a>)</li>
   <li><a href="{{ '/texts/buildings/101day-hilton-coliseum/' | relative_url }}">Hilton Coliseum</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#hockey' | relative_url }}">Hockey Fields</a></li>
   <li>Hog Barn (See <a href="{{ '/texts/buildings/073day-feeding-sheds/' | relative_url }}">Feeding Sheds</a>)</li>
   <li><a href="{{ '/texts/buildings/102day-hog-barn-pavilion/' | relative_url }}">Hog Barn & Pavilion</a></li>
-  <li>Hog Houses</li>
-  <li>Hog Serum Plant (See Serum Plant)</li>
-  <li>Holden House (See Engineer's Cottage) (See White House)</li>
-  <li>Home Economics Annex (See Field House - P.E.W.)</li>
-  <li>Home Economics Hall (See MacKay Hall)</li>
-  <li>Home Management Duplex "A" (See Child Development Building)</li>
-  <li>Home Management Duplex "B" (See Nickell-Fisher House)</li>
-  <li>Home Management Duplex "C" (See Andrews-Richards House)</li>
-  <li>Home Management Storage (See Beach House)</li>
+  <li><a href="{{ '/texts/buildings/103day-hog-houses/' | relative_url }}">Hog Houses</a></li>
+  <li>Hog Serum Plant (See <a href="{{ '/texts/buildings/194day-serum-plant/' | relative_url }}">Serum Plant</a>)</li>
+  <li>Holden House (See <a href="{{ '/texts/buildings/063day-engineers-cottage/' | relative_url }}">Engineer's Cottage</a>) (See <a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a>)</li>
+  <li>Home Economics Annex (See <a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a>)</li>
+  <li>Home Economics Hall (See <a href="{{ '/texts/buildings/131day-mackay-lebaron-hall/' | relative_url }}">MacKay Hall</a>)</li>
+  <li>Home Management Duplex "A" (See <a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Building</a>)</li>
+  <li>Home Management Duplex "B" (See <a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell-Fisher House</a>)</li>
+  <li>Home Management Duplex "C" (See <a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a>)</li>
+  <li>Home Management Storage (See <a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a>)</li>
   <li>Horse Barn - First</li>
   <li>Horse Barn (See Landscape Architecture)</li>
   <li>Horse Barn #2</li>
