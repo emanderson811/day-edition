@@ -400,18 +400,18 @@ publication-date: 1980
   <li>Industrial Education II (See <a href="{{ '/texts/buildings/218day-veterinary-clinic/' | relative_url }}">Veterinary Clinic</a>)</li>
   <li><a href="{{ '/texts/buildings/115day-insectary-first/' | relative_url }}">Insectary - First</a></li>
   <li><a href="{{ '/texts/buildings/116day-insectary-greenhouse/' | relative_url }}">Insectary & Greenhouse</a></li>
-  <li>Institute for Atomic Research</li>
-  <li>Institution Names</li>
-  <li>Instrumentation Research Lab. (See Quadrangle)</li>
-  <li>International House (See The Gables)</li>
-  <li>Interurban</li>
-  <li>Intramural Fields</li>
-  <li>Intramural Hut</li>
-  <li>Iowa State Center</li>
-  <li>ISU Foundation</li>
-  <li>I.S.U. Press Building</li>
-  <li>Isolation Barn</li>
-  <li>Isolation House (See Quarantine Hospital)</li>
+  <li><a href="{{ '/texts/007day-special-areas/#ames-laboratory' | relative_url }}">Institute for Atomic Research</a></li>
+  <li><a href="{{ '/text/1001day-appendices/#institution-names' | relative_url }}">Institution Names</a></li>
+  <li>Instrumentation Research Lab. (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
+  <li>International House (See <a href="{{ '/texts/buildings/086day-gables/' | relative_url }}">The Gables</a>)</li>
+  <li><a href="{{ '/texts/004day-transportation/#the-interurban' | relative_url }}">Interurban</a></li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#recreational-and-intramural-areas' | relative_url }}">Intramural Fields</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#intramural-hut' | relative_url }}">Intramural Hut</a></li>
+  <li><a href="{{ '/texts/007day-special-areas/#iowa-state-center' | relative_url }}">Iowa State Center</a></li>
+  <li><a href="{{ '/texts/007day-special-areas/#iowa-state-center' | relative_url }}">ISU Foundation</a></li>
+  <li><a href="{{ '/texts/buildings/117day-isu-press/' | relative_url }}">I.S.U. Press Building</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#isolation-barn' | relative_url }}">Isolation Barn</a></li>
+  <li>Isolation House (See <a href="{{ '/texts/1000day-minor-buildings/#quarantine-hospital-hospital-annex-isolation-house' | relative_url }}">Quarantine Hospital</a>)</li>
 </ul>
 
 ## -J- 
