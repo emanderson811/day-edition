@@ -168,7 +168,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/046day-corn-cribs/' | relative_url }}">Corn Cribs</a></li>
   <li>Corn &amp; Stock Judging Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
   <li><a href="{{ '/texts/buildings/047day-cottages/' | relative_url }}">Cottages ("Silver City")</a></li>
-  <li>Cranford Hall (See <a href="{{ '/texts/buildings/187dy-sanitary/' | relative_url }}">Sanitary Building</a>)</li>
+  <li>Cranford Hall (See <a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Building</a>)</li>
   <li><a href="{{ '/texts/buildings/048day-creamery-first/' | relative_url }}">Creamery (First)</a></li>
   <li><a href="{{ '/texts/buildings/049day-creamery-second/' | relative_url }}">Creamery (Second)</a></li>
   <li>Crop Science Laboratory (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>)</li>
@@ -382,7 +382,7 @@ publication-date: 1980
   <li>Horticulture Lab (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#hose-house' | relative_url }}">Hose House</a></li>
   <li>Hospital (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>) (See <a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Building</a>) (See <a href="{{ '/texts/buildings/208day-student-services/' | relative_url }}">Student Services Bldg.</a>)</li>
-  <li>Hospital Annex (See <a href="{{ '/texts/1000day-minor-buildings/#quarentine-hospital-hospital-annex-isolation-house' | relative_url }}">Quarantine Hospital</a>)</li>
+  <li>Hospital Annex (See <a href="{{ '/texts/1000day-minor-buildings/#quarantine-hospital-hospital-annex-isolation-house' | relative_url }}">Quarantine Hospital</a>)</li>
   <li><a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">Hub, The</a></li>
   <li>Hughes Hall (See <a href="{{ '/texts/buildings/084day-friley-hall/' | relative_url }}">Friley Hall</a>)</li>
   <li>Hydraulics Laboratory (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
