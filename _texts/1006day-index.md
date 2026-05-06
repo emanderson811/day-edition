@@ -445,7 +445,7 @@ publication-date: 1980
   <li>Ladies Hall (See <a href="{{ '/texts/buildings/134day-margaret-hall/' | relative_url }}">Margaret Hall</a>)</li>
   <li><a href="{{ '/texts/003day-land/#lake-la-verne' | relative_url }}">Lake LaVerne</a></li>
   <li><a href="{{ '/texts/003day-land/#land' | relative_url }}">Land</a></li>
-  <li>Landscape Architects (Staff)</li>
+  <li><a href="{{ '/texts/1001day-appendices/#landscape-architects-staff' | relative_url }}">Landscape Architects (Staff)</a></li>
   <li>Landscape Architecture</li>
   <li>Landscaping</li>
   <li>Lanphear House (See White House)</li>
