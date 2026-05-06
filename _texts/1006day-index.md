@@ -391,10 +391,10 @@ publication-date: 1980
 ## -I-
 
 <ul class="list-unstyled">
-  <li>Ice Houses</li>
-  <li>Ice Skating</li>
-  <li>Implement Shed (See Experiment Station Machine Shed; Tool House)</li>
-  <li>Incinerator (See Tile Storage Shed)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#ice-house---college' | relative_url }}">Ice Houses</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#ice-skating' | relative_url }}">Ice Skating</a></li>
+  <li>Implement Shed (See <a href="{{ '/texts/1000day-minor-buildings/#experiment-station-machine-shed-implement-shed-dept-of-farm-mechanics' | relative_url }}">Experiment Station Machine Shed</a>; <a href="{{ '/texts/1000day-minor-buildings/#tool-house-implement-shed' | relative_url }}">Tool House</a>)</li>
+  <li>Incinerator (See <a href="{{ '/texts/1000day-minor-buildings/#tile-storage-shed-incinerator' | relative_url }}">Tile Storage Shed</a>)</li>
   <li>Industrial Arts (See Engineering Research Institute)</li>
   <li>Industrial Education</li>
   <li>Industrial Education II (See Veterinary Clinic)</li>
