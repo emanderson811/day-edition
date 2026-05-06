@@ -425,16 +425,16 @@ publication-date: 1980
 ## -K- 
 
 <ul class="list-unstyled">
-  <li>Kent House (See Mortensen Cottage)</li>
-  <li>Kildee Cottage</li>
-  <li>Kildee Hall & Lush Auditorium</li>
-  <li>Kirkwood Cottage (See Boarding Cottage - East)</li>
-  <li>Klatter Klub (See Bevier House)</li>
-  <li>Knapp Hall (See Knapp-Storms at Commons)</li>
-  <li>Knapp House (See Coburn House)</li>
-  <li>Knapp-Storms & Commons</li>
-  <li>Knapp-Wilson House (See Farm House)</li>
-  <li>Knoll, The</li>
+  <li>Kent House (See <a href="{{ '/texts/buildings/147day-mortensen-cottage/' | relative_url }}">Mortensen Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/120day-kildee-hall-lush-auditorium/' | relative_url }}">Kildee Hall & Lush Auditorium</a></li>
+  <li>Kirkwood Cottage (See <a href="{{ '/texts/buildings/023day-boarding-east/' | relative_url }}">Boarding Cottage - East</a>)</li>
+  <li>Klatter Klub (See <a href="{{ '/texts/buildings/019day-bevier-house/' | relative_url }}">Bevier House</a>)</li>
+  <li>Knapp Hall (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms at Commons</a>)</li>
+  <li>Knapp House (See <a href="{{ '/texts/buildings/041day-coburn-house/' | relative_url }}">Coburn House</a>)</li>
+  <li><a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons</a></li>
+  <li>Knapp-Wilson House (See <a href="{{ '/texts/buildings/070day-farm-house/' | relative_url }}">Farm House</a>)</li>
+  <li><a href="{{ '/texts/buildings/122day-knoll/' | relative_url }}">Knoll, The</a></li>
 </ul>
 
 ## -L- 
