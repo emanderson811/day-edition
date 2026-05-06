@@ -446,27 +446,27 @@ publication-date: 1980
   <li><a href="{{ '/texts/003day-land/#lake-la-verne' | relative_url }}">Lake LaVerne</a></li>
   <li><a href="{{ '/texts/003day-land/#land' | relative_url }}">Land</a></li>
   <li><a href="{{ '/texts/1001day-appendices/#landscape-architects-staff' | relative_url }}">Landscape Architects (Staff)</a></li>
-  <li>Landscape Architecture</li>
-  <li>Landscaping</li>
-  <li>Lanphear House (See White House)</li>
-  <li>Larch Hall (See Maple-Willow-Larch)</li>
-  <li>Laundry & Chemical Truck Building (See Electric & Paint Shop)</li>
-  <li>Laundry Storage</li>
-  <li>LeBaron Hall (See MacKay Hall)</li>
-  <li>Leighton-MacKay House (See Farm Laborer's Cottage)</li>
-  <li>Library</li>
-  <li>Library Storage</li>
-  <li>Lighting</li>
-  <li>Lincoln Way Cottage</li>
-  <li>Linden Hall</li>
-  <li>Link (See Office & Laboratory Bldg.)</li>
-  <li>Little Ankeny (See Field House - P.E.W.)</li>
-  <li>Little Theater (See Fisher Theater)</li>
-  <li>Locomotive Sheds</li>
-  <li>Lodges, The (See Oak-Elm Lodges)</li>
-  <li>Lush Auditorium (See Kildee Hall)</li>
-  <li>Lynn Fuhrer Lodge</li>
-  <li>Lyon Hall</li>
+  <li><a href="{{ '/texts/buildings/124day-landscape-architecture/' | relative_url }}">Landscape Architecture</a></li>
+  <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens' | relative_url }}">Landscaping</a></li>
+  <li>Lanphear House (See <a href="{{ '/texts/buildings/228day-georgia-white-house/' | relative_url }}">White House</a>)</li>
+  <li>Larch Hall (See <a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple-Willow-Larch</a>)</li>
+  <li>Laundry & Chemical Truck Building (See <a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric & Paint Shop</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#laundry-storage' | relative_url }}">Laundry Storage</a></li>
+  <li>LeBaron Hall (See <a href="{{ '/texts/buildings/131day-mackay-lebaron-hall/' | relative_url }}">MacKay Hall</a>)</li>
+  <li>Leighton-MacKay House (See <a href="{{ '/texts/buildings/071day-farm-laborers-cottage/' | relative_url }}">Farm Laborer's Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/125day-library/' | relative_url }}">Library</a></li>
+  <li><a href="{{ '/texts/buildings/126day-library-storage/' | relative_url }}">Library Storage</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#electric-power-and-light' | relative_url }}">Lighting</a></li>
+  <li><a href="{{ '/texts/buildings/127day-lincoln-way-cottage/' | relative_url }}">Lincoln Way Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/128day-linden-hall/' | relative_url }}">Linden Hall</a></li>
+  <li>Link (See <a href="{{ '/texts/buildings/158day-office-lab/' | relative_url }}">Office & Laboratory Bldg.</a>)</li>
+  <li>Little Ankeny (See <a href="{{ '/texts/buildings/076day-field-house/' | relative_url }}">Field House - P.E.W.</a>)</li>
+  <li>Little Theater (See <a href="{{ '/texts/buildings/079day-fisher-theater/' | relative_url }}">Fisher Theater</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#locomotive-sheds' | relative_url }}">Locomotive Sheds</a></li>
+  <li>Lodges, The (See <a href="{{ '/texts/buildings/157day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges</a>)</li>
+  <li>Lush Auditorium (See <a href="{{ '/texts/buildings/120day-kildee-hall-lush-auditorium/' | relative_url }}">Kildee Hall</a>)</li>
+  <li><a href="{{ '/texts/007day-special-areas/#the-ymca-and-lynn-fuhrer-lodge' | relative_url }}">Lynn Fuhrer Lodge</a></li>
+  <li><a href="{{ '/texts/buildings/129day-lyon-hall/' | relative_url }}">Lyon Hall</a></li>
 </ul>
  
 ## -M-
