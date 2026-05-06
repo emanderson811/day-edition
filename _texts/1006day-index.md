@@ -417,9 +417,9 @@ publication-date: 1980
 ## -J- 
 
 <ul class="list-unstyled">
-  <li>Jones House (See Music Hall)</li>
-  <li>Judging Pavilion</li>
-  <li>Judging Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Theater Workshop)</li>
+  <li>Jones House (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/118day-judging-paviliion/' | relative_url }}">Judging Pavilion</a></li>
+  <li>Judging Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>) (See <a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a>) (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
 </ul>
    
 ## -K- 
