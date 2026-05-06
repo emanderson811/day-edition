@@ -440,11 +440,11 @@ publication-date: 1980
 ## -L- 
 
 <ul class="list-unstyled">
-  <li>Laboratory of Mechanics</li>
-  <li>Laborer's Boarding Club (See Farm Boarding Club)</li>
-  <li>Ladies Hall (See Margaret Hall)</li>
-  <li>Lake LaVerne</li>
-  <li>Land</li>
+  <li><a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a></li>
+  <li>Laborer's Boarding Club (See <a href="{{ '/texts/buildings/069day-farm-boarding-club/' | relative_url }}">Farm Boarding Club</a>)</li>
+  <li>Ladies Hall (See <a href="{{ '/texts/buildings/134day-margaret-hall/' | relative_url }}">Margaret Hall)</li>
+  <li><a href="{{ '/texts/003day-land/#lake-la-verne' | relative_url }}">Lake LaVerne</a></li>
+  <li><a href="{{ '/texts/003day-land' | relative_url }}">Land</a></li>
   <li>Landscape Architects (Staff)</li>
   <li>Landscape Architecture</li>
   <li>Landscaping</li>
