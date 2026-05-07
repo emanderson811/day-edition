@@ -448,7 +448,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1001day-appendices/#landscape-architects-staff' | relative_url }}">Landscape Architects (Staff)</a></li>
   <li><a href="{{ '/texts/buildings/124day-landscape-architecture/' | relative_url }}">Landscape Architecture</a></li>
   <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens' | relative_url }}">Landscaping</a></li>
-  <li>Lanphear House (See <a href="{{ '/texts/buildings/228day-georgia-white-house/' | relative_url }}">White House</a>)</li>
+  <li>Lanphear House (See <a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a>)</li>
   <li>Larch Hall (See <a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple-Willow-Larch</a>)</li>
   <li>Laundry & Chemical Truck Building (See <a href="{{ '/texts/buildings/059day-electric-paint-shop/' | relative_url }}">Electric & Paint Shop</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#laundry-storage' | relative_url }}">Laundry Storage</a></li>
