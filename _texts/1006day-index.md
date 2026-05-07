@@ -477,46 +477,46 @@ publication-date: 1980
   <li>Machine Shed (See <a href="{{ '/texts/1000day-minor-buildings/#field-shed-horticulture-barn-machine-shed' | relative_url }}">Field Shed</a>)</li>
   <li>Machine Shop (See <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>; <a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Lab</a>)</li>
   <li><a href="{{ '/texts/buildings/131day-mackay-lebaron-hall/' | relative_url }}">MacKay Hall</a></li>
-  <li><a href="{{ '/texts/008day-misc/#post-offices-and-mail-services' | relative_url }}">Mail Service</a></li>
+  <li><a href="{{ '/texts/008day-misc/#post-offices-and-mail-service' | relative_url }}">Mail Service</a></li>
   <li><a href="{{ '/texts/buildings/132day-main/' | relative_url }}">Main Building</a></li>
   <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#maintenance-shop' | relative_url }}">Maintenance Shop</a></li>
-  <li>Maple Hall (See Maple-Willow-Larch)</li>
-  <li>Maples, The (See Music Hall)</li>
-  <li>Maple, Willow & Larch Halls & Commons</li>
-  <li>Margaret Hall</li>
-  <li>Margaret Hall Annex (See North Hall; White House)</li>
-  <li>Married Student Housing (See Hawthorn Court) (See Pammel Court) (See Schilletter Village) (See University Village)</li>
-  <li>Marston Cottage</li>
-  <li>Marston Hall</li>
-  <li>Mather Observatory (See Fick Observatory)</li>
-  <li>McKay House (See Farm Laborer's Cottage)</li>
-  <li>Meat Laboratory</li>
-  <li>Meats Laboratory</li>
-  <li>Mechanical Engineering Laboratory</li>
-  <li>Mechanical Engineering Lab Addition (See Naval Armory)</li>
-  <li>Mechanical Maintenance Building</li>
-  <li>Mechanics Laboratory (See Laboratory of Mechanics)</li>
-  <li>Meeker House (See Sloss House; Osborn Cottage)</li>
-  <li>Memorials</li>
-  <li>Memorial Union</li>
-  <li>Memorial Union Parking Ramp (See Parking Ramp - Memorial Union)</li>
-  <li>Men's Gymnasium (See State Gymnasium)</li>
-  <li>Men's Physical Education Bldg. (See Beyer Hall)</li>
-  <li>Metallurgy Building</li>
-  <li>Metals Development Building</li>
-  <li>Military Barracks (See Veterinary Physiology Research Laboratory)</li>
-  <li>Military Garage</li>
-  <li>Military Powder Magazines</li>
-  <li>Military Stables (Frame)</li>
-  <li>Military Stables - North (See Veterinary Obstetrics Lab.)</li>
-  <li>Military Stables - South (See Veterinary Surgery)</li>
-  <li>Military Stables - Utility (See Veterinary Physiology Research Lab)</li>
-  <li>Morrill Hall</li>
-  <li>Mortensen Cottage</li>
-  <li>Motor Depot (See Hub)</li>
-  <li>Music Building</li>
-  <li>Music Hall</li>
-  <li>Music Hall (See South Hall; Sanitary Bldg.</li>
+  <li>Maple Hall (See <a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple-Willow-Larch</a>)</li>
+  <li>Maples, The (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple, Willow & Larch Halls & Commons</a></li>
+  <li><a href="{{ '/texts/buildings/134day-margaret-hall/' | relative_url }}">Margaret Hall</a></li>
+  <li>Margaret Hall Annex (See <a href="{{ '/texts/buildings/152day-north-hall/' | relative_url }}">North Hall</a>; <a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a>)</li>
+  <li>Married Student Housing (See <a href="{{ '/texts/buildings/098day-hawthorn-court/' | relative_url }}">Hawthorn Court</a>) (See <a href="{{ '/texts/buildings/161day-pammel-court/' | relative_url }}">Pammel Court</a>) (See <a href="{{ '/texts/buildings/189day-schilletter-village/' | relative_url }}">Schilletter Village</a>) (See <a href="{{ '/texts/buildings/216day-university-village/' | relative_url }}">University Village</a>)</li>
+  <li><a href="{{ '/texts/buildings/135day-marston-cottage/' | relative_url }}">Marston Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/136day-marston-hall/' | relative_url }}">Marston Hall</a></li>
+  <li>Mather Observatory (See <a href="{{ '/texts/buildings/075day-fick-observatory/' | relative_url }}">Fick Observatory</a>)</li>
+  <li>McKay House (See <a href="{{ '/texts/buildings/071day-farm-laborers-cottage/' | relative_url }}">Farm Laborer's Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/137day-meat-lab/' | relative_url }}">Meat Laboratory</a></li>
+  <li><a href="{{ '/texts/buildings/138day-meats-lab/' | relative_url }}">Meats Laboratory</a></li>
+  <li><a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Laboratory</a></li>
+  <li>Mechanical Engineering Lab Addition (See <a href="{{ '/texts/buildings/150day-naval-armory/' | relative_url }}">Naval Armory</a>)</li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#mechanical-maintenance-buildings' | relative_url }}">Mechanical Maintenance Building</a></li>
+  <li>Mechanics Laboratory (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
+  <li>Meeker House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>; <a href="{{ '/texts/buildings/160day-osborn-cottage/' | relative_url }}">Osborn Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/008day-misc/#memorials-and-class-gifts' | relative_url }}">Memorials</a></li>
+  <li><a href="{{ '/texts/buildings/140day-memorial-union/' | relative_url }}">Memorial Union</a></li>
+  <li>Memorial Union Parking Ramp (See <a href="{{ '/texts/buildings/162day-parking-ramp-mu/' | relative_url }}">Parking Ramp - Memorial Union</a>)</li>
+  <li>Men's Gymnasium (See <a href="{{ '/texts/buildings/206day-state-gym/' | relative_url }}">State Gymnasium</a>)</li>
+  <li>Men's Physical Education Bldg. (See <a href="{{ '/texts/buildings/020day-beyer-hall/' | relative_url }}">Beyer Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/141day-metallurgy/' | relative_url }}">Metallurgy Building</a></li>
+  <li><a href="{{ '/texts/buildings/142day-metals-development/' | relative_url }}">Metals Development Building</a></li>
+  <li>Military Barracks (See <a href="{{ '/texts/buildings/223day-veterinary-physiology-research-lab/' | relative_url }}">Veterinary Physiology Research Laboratory</a>)</li>
+  <li><a href="{{ '/texts/buildings/143day-military-garage/' | relative_url }}">Military Garage</a></li>
+  <li><a href="{{ '/texts/buildings/144day-military-powder-magazines/' | relative_url }}">Military Powder Magazines</a></li>
+  <li><a href="{{ '/texts/buildings/145day-military-stables/' | relative_url }}">Military Stables (Frame)</a></li>
+  <li>Military Stables - North (See <a href="{{ '/texts/buildings/221day-veterinary-obstetrics-lab/' | relative_url }}">Veterinary Obstetrics Lab.</a>)</li>
+  <li>Military Stables - South (See <a href="{{ '/texts/buildings/222day-veterinary-surgery/' | relative_url }}">Veterinary Surgery</a>)</li>
+  <li>Military Stables - Utility (See <a href="{{ '/texts/buildings/223day-veterinary-physiology-research-lab/' | relative_url }}">Veterinary Physiology Research Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/146day-morrill-hall/' | relative_url }}">Morrill Hall</a></li>
+  <li><a href="{{ '/texts/buildings/147day-mortensen-cottage/' | relative_url }}">Mortensen Cottage</a></li>
+  <li>Motor Depot (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">Hub</a>)</li>
+  <li><a href="{{ '/texts/buildings/148day-music-building/' | relative_url }}">Music Building</a></li>
+  <li><a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a></li>
+  <li>Music Hall (See <a href="{{ '/texts/buildings/201day-south-hall/' | relative_url }}">South Hall</a>; <a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Bldg.</a></li>
 </ul>
 
 ## -N- 
