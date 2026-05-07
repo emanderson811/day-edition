@@ -522,15 +522,15 @@ publication-date: 1980
 ## -N- 
 
 <ul class="list-unstyled">
-  <li>Names of Institution</li>
-  <li>Naval Armory</li>
-  <li>Naval Diesel School Lab (See Naval Armory)</li>
-  <li>Nickell-Fisher House</li>
-  <li>Nickell House (See Child Development Bldg.)</li>
-  <li>Noble House (See Pope Cottage)</li>
-  <li>North Hall</li>
-  <li>North Studio</li>
-  <li>Norton House</li>
+  <li><a href="{{ '/texts/1001day-appendices/#institution-names' | relative_url }}">Names of Institution</a></li>
+  <li><a href="{{ '/texts/buildings/150day-naval-armory/' | relative_url }}">Naval Armory</a></li>
+  <li>Naval Diesel School Lab (See <a href="{{ '/texts/buildings/150day-naval-armory/' | relative_url }}">Naval Armory</a>)</li>
+  <li><a href="{{ '/texts/buildings/151day-nickell-fisher-house/' | relative_url }}">Nickell-Fisher House</a></li>
+  <li>Nickell House (See <a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Bldg.</a>)</li>
+  <li>Noble House (See <a href="{{ '/texts/buildings/170day-pope-cottage/' | relative_url }}">Pope Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/152day-north-hall/' | relative_url }}">North Hall</a></li>
+  <li><a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a></li>
+  <li><a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">Norton House</a></li>
   <li>Nuclear Engineering Laboratory</li>
   <li>Nursery School (See Child Development Bldg.)</li>
   <li>Nurses' Home (See White House; Beyer House)</li>
