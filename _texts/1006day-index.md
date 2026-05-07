@@ -494,10 +494,10 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/138day-meats-lab/' | relative_url }}">Meats Laboratory</a></li>
   <li><a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Laboratory</a></li>
   <li>Mechanical Engineering Lab Addition (See <a href="{{ '/texts/buildings/150day-naval-armory/' | relative_url }}">Naval Armory</a>)</li>
-  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#mechanical-maintenance-buildings' | relative_url }}">Mechanical Maintenance Building</a></li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#mechanical-maintenance-building' | relative_url }}">Mechanical Maintenance Building</a></li>
   <li>Mechanics Laboratory (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
   <li>Meeker House (See <a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a>; <a href="{{ '/texts/buildings/160day-osborn-cottage/' | relative_url }}">Osborn Cottage</a>)</li>
-  <li><a href="{{ '/texts/buildings/008day-misc/#memorials-and-class-gifts' | relative_url }}">Memorials</a></li>
+  <li><a href="{{ '/texts/008day-misc/#memorials-and-class-gifts' | relative_url }}">Memorials</a></li>
   <li><a href="{{ '/texts/buildings/140day-memorial-union/' | relative_url }}">Memorial Union</a></li>
   <li>Memorial Union Parking Ramp (See <a href="{{ '/texts/buildings/162day-parking-ramp-mu/' | relative_url }}">Parking Ramp - Memorial Union</a>)</li>
   <li>Men's Gymnasium (See <a href="{{ '/texts/buildings/206day-state-gym/' | relative_url }}">State Gymnasium</a>)</li>
