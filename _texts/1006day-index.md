@@ -472,14 +472,14 @@ publication-date: 1980
 ## -M-
 
 <ul class="list-unstyled">
-  <li>Machinery & Storage Shed</li>
-  <li>Machine Shed</li>
-  <li>Machine Shed (See Field Shed)</li>
-  <li>Machine Shop (See Workshop; Mechanical Engineering Lab)</li>
-  <li>MacKay Hall</li>
-  <li>Mail Service</li>
-  <li>Main Building</li>
-  <li>Maintenance Shop</li>
+  <li><a href="{{ '/texts/buildings/130day-machinery-storage-shed/' | relative_url }}">Machinery & Storage Shed</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#machine-shed-granary' | relative_url }}">Machine Shed</a></li>
+  <li>Machine Shed (See <a href="{{ '/texts/1000day-minor-buildings/#field-shed-horticulture-barn-machine-shed' | relative_url }}">Field Shed</a>)</li>
+  <li>Machine Shop (See <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>; <a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/131day-mackay-lebaron-hall/' | relative_url }}">MacKay Hall</a></li>
+  <li><a href="{{ '/texts/008day-misc/#post-offices-and-mail-services' | relative_url }}">Mail Service</a></li>
+  <li><a href="{{ '/texts/buildings/132day-main/' | relative_url }}">Main Building</a></li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#maintenance-shop' | relative_url }}">Maintenance Shop</a></li>
   <li>Maple Hall (See Maple-Willow-Larch)</li>
   <li>Maples, The (See Music Hall)</li>
   <li>Maple, Willow & Larch Halls & Commons</li>
