@@ -531,25 +531,25 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/152day-north-hall/' | relative_url }}">North Hall</a></li>
   <li><a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a></li>
   <li><a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">Norton House</a></li>
-  <li>Nuclear Engineering Laboratory</li>
-  <li>Nursery School (See Child Development Bldg.)</li>
-  <li>Nurses' Home (See White House; Beyer House)</li>
+  <li><a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Laboratory</a></li>
+  <li>Nursery School (See <a href="{{ '/texts/buildings/039day-child-devel-building/' | relative_url }}">Child Development Bldg.</a>)</li>
+  <li>Nurses' Home (See <a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a>; <a href="{{ '/texts/buildings/021day-beyer-house/' | relative_url }}">Beyer House</a>)</li>
 </ul>
 
 ## -O-
 
 <ul class="list-unstyled">
-  <li>Oak-Elm Halls</li>
-  <li>Oak Hall (See Oak-Elm Hall)</li>
-  <li>Oak-Elm Lodges & Dining Room</li>
-  <li>Observatory (See Fick Observatory)</li>
-  <li>Office Building (See English Office Building)</li>
-  <li>Office & Laboratory Building</li>
-  <li>Old Horticulture Cottage (See Grounds Cottage)</li>
-  <li>Old Main (See Main Building)</li>
-  <li>Olsen Building</li>
-  <li>Orchards</li>
-  <li>Osborn Cottage</li>
+  <li><a href="{{ '/texts/buildings/156day-oak-elm-halls/' | relative_url }}">Oak-Elm Halls</a></li>
+  <li>Oak Hall (See <a href="{{ '/texts/buildings/156day-oak-elm-halls/' | relative_url }}">Oak-Elm Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/156day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges & Dining Room</a></li>
+  <li>Observatory (See<a href="{{ '/texts/buildings/075day-fick-observatory/' | relative_url }}">Fick Observatory</a>)</li>
+  <li>Office Building (See <a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/158day-office-lab/' | relative_url }}">Office & Laboratory Building</a></li>
+  <li>Old Horticulture Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
+  <li>Old Main (See <a href="{{ '/texts/buildings/132day-main/' | relative_url }}">Main Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/159day-olsen/' | relative_url }}">Olsen Building</a></li>
+  <li><a href="{{ '/texts/003day-land/#landscaping-including-orchards-and-gardens' | relative_url }}">Orchards</a></li>
+  <li><a href="{{ '/texts/buildings/160day-osborn-cottage/' | relative_url }}">Osborn Cottage</a></li>
 </ul>
 
 ## -P-
