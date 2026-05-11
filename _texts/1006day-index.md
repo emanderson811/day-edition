@@ -615,22 +615,22 @@ publication-date: 1980
 ## -R- 
 
 <ul class="list-unstyled">
-  <li>Rabbit Hutch</li>
-  <li>Radio & TV</li>
-  <li>Railroads</li>
-  <li>Recreation Building (See Driver Training Lab)</li>
-  <li>Recreational Areas</li>
-  <li>Refuse Disposal Plant (See Rendering Plant)</li>
-  <li>Rendering Plant</li>
-  <li>Research Building (See Spedding Hall)</li>
-  <li>Research Reactor</li>
-  <li>Richards-Andrews House (See Andrews-Richards House)</li>
-  <li>Richards House (See Beach House)</li>
-  <li>Ridgeway House</li>
-  <li>Roads</li>
-  <li>Roberts Hall</li>
-  <li>Ross Hall</li>
-  <li>Ruminant Nutrition Laboratory</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#rabbit-hutch' | relative_url }}">Rabbit Hutch</a></li>
+  <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi--am-fm---tv' | relative_url }}">Radio & TV</a></li>
+  <li><a href="{{ '/texts/004day-transportation/#railroads' | relative_url }}">Railroads</a></li>
+  <li>Recreation Building (See <a href="{{ '/texts/buildings/053day-driver-training-lab/' | relative_url }}">Driver Training Lab</a>)</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#recreational-and-intramural-areas' | relative_url }}">Recreational Areas</a></li>
+  <li>Refuse Disposal Plant (See <a href="{{ '/texts/buildings/180day-rendering-plant/' | relative_url }}">Rendering Plant</a>)</li>
+  <li><a href="{{ '/texts/buildings/180day-rendering-plant/' | relative_url }}">Rendering Plant</a></li>
+  <li>Research Building (See <a href="{{ '/texts/buildings/203day-spedding-hall/' | relative_url }}">Spedding Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/181day-research-reactor/' | relative_url }}">Research Reactor</a></li>
+  <li>Richards-Andrews House (See <a href="{{ '/texts/buildings/012day-andrews-richards-house/' | relative_url }}">Andrews-Richards House</a>)</li>
+  <li>Richards House (See <a href="{{ '/texts/buildings/016day-beach-house/' | relative_url }}">Beach House</a>)</li>
+  <li><a href="{{ '/texts/buildings/182day-ridgeway-house/' | relative_url }}">Ridgeway House</a></li>
+  <li><a href="{{ '/texts/003day-land/#roads-and-bridges' | relative_url }}">Roads</a></li>
+  <li><a href="{{ '/texts/buildings/183day-roberts-hall/' | relative_url }}">Roberts Hall</a></li>
+  <li><a href="{{ '/texts/buildings/184day-ross-hall/' | relative_url }}">Ross Hall</a></li>
+  <li><a href="{{ '/texts/buildings/185day-ruminant-nutrition-lab/' | relative_url }}">Ruminant Nutrition Laboratory</a></li>
 </ul>
 
 ## -S-
