@@ -606,10 +606,10 @@ publication-date: 1980
 ## -Q-
 
 <ul class="list-unstyled">
-  <li>Quadrangle</li>
-  <li>Quadrangle - North</li>
-  <li>Quarantine Hospital</li>
-  <li>Quarters, The (See Boarding Cottage - East)</li>
+  <li><a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a></li>
+  <li><a href="{{ '/texts/buildings/179day-quadrangle-north/' | relative_url }}">Quadrangle - North</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#quarantine-hospital-hospital-annex-isolation-house' | relative_url }}">Quarantine Hospital</a></li>
+  <li>Quarters, The (See <a href="{{ '/texts/buildings/023day-boarding-east/' | relative_url }}">Boarding Cottage - East</a>)</li>
 </ul>
 
 ## -R- 
