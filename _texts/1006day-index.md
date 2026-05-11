@@ -562,16 +562,16 @@ publication-date: 1980
   <li>Pattern Shop (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Laboratory</a>)</li>
   <li><a href="{{ '/texts/004day-transportation/#traffic-and-parking' | relative_url }}">Parking</a></li>
   <li>Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>) (See <a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a>) (See <a href="{{ '/texts/buildings/102day-hog-barn-pavilion/' | relative_url }}">Hog Barn & Pavilion</a>) (See <a href="{{ '/texts/buildings/118day-judging-pavilion/' | relative_url }}">Judging Pavilion</a>) (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
-  <li>Pearson Hall</li>
-  <li>Petersen, Christian</li>
-  <li>Physical (and Chemical) Laboratory (See Chemical and Physical Laboratory)</li>
-  <li>Physical Education Building</li>
-  <li>Physical Plant Personnel</li>
-  <li>Physical Plant Shops & Central Stores</li>
-  <li>Physical Plant Storage Shed</li>
-  <li>Physics Hall</li>
-  <li>Physics Hall Addition</li>
-  <li>Physiological Instrumentation Research Lab (See Quadrangle)</li>
+  <li><a href="{{ '/texts/buildings/163day-pearson-hall/' | relative_url }}">Pearson Hall</a></li>
+  <li><a href="{{ '/texts/008day-misc/#petersen-works' | relative_url }}">Petersen, Christian</a></li>
+  <li>Physical (and Chemical) Laboratory (See <a href="{{ '/texts/buildings/038day-chemical-physical-lab/' | relative_url }}">Chemical and Physical Laboratory</a>)</li>
+  <li><a href="{{ '/texts/buildings/164day-physical-education/' | relative_url }}">Physical Education Building</a></li>
+  <li><a href="{{ '/texts/1001day-appendices/#physical-plant-personnel' | relative_url }}">Physical Plant Personnel</a></li>
+  <li><a href="{{ '/texts/buildings/165day-physical-plant-shops/' | relative_url }}">Physical Plant Shops & Central Stores</a></li>
+  <li><a href="{{ '/texts/buildings/166day-physical-plant-storage/' | relative_url }}">Physical Plant Storage Shed</a></li>
+  <li><a href="{{ '/texts/buildings/167day-physics-hall/' | relative_url }}">Physics Hall</a></li>
+  <li><a href="{{ '/texts/buildings/167day-physics-hall/' | relative_url }}">Physics Hall Addition</a></li>
+  <li>Physiological Instrumentation Research Lab (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
   <li>Piggery (See Hog Houses)</li>
   <li>Pines, The (See Sloss House)</li>
   <li>Plant Introduction Greenhouse</li>
