@@ -541,8 +541,8 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li><a href="{{ '/texts/buildings/156day-oak-elm-halls/' | relative_url }}">Oak-Elm Halls</a></li>
   <li>Oak Hall (See <a href="{{ '/texts/buildings/156day-oak-elm-halls/' | relative_url }}">Oak-Elm Hall</a>)</li>
-  <li><a href="{{ '/texts/buildings/156day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges & Dining Room</a></li>
-  <li>Observatory (See<a href="{{ '/texts/buildings/075day-fick-observatory/' | relative_url }}">Fick Observatory</a>)</li>
+  <li><a href="{{ '/texts/buildings/157day-oak-elm-lodges-dining/' | relative_url }}">Oak-Elm Lodges & Dining Room</a></li>
+  <li>Observatory (See <a href="{{ '/texts/buildings/075day-fick-observatory/' | relative_url }}">Fick Observatory</a>)</li>
   <li>Office Building (See <a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a>)</li>
   <li><a href="{{ '/texts/buildings/158day-office-lab/' | relative_url }}">Office & Laboratory Building</a></li>
   <li>Old Horticulture Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
@@ -555,13 +555,13 @@ publication-date: 1980
 ## -P-
 
 <ul class="list-unstyled">
-  <li>Paint & Graphite Shop</li>
-  <li>Pammel Court</li>
-  <li>Pammel Woods</li>
-  <li>Parking Ramp - Memorial Union</li>
-  <li>Pattern Shop (See Aerospace Laboratory)</li>
-  <li>Parking</li>
-  <li>Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Hog Barn & Pavilion) (See Judging Pavilion) (See Theater Workshop)</li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#paint-and-graphite-shop' | relative_url }}">Paint & Graphite Shop</a></li>
+  <li><a href="{{ '/texts/buildings/161day-pammel-court/' | relative_url }}">Pammel Court</a></li>
+  <li><a href="{{ '/texts/003day-land/#pammel-woods' | relative_url }}">Pammel Woods</a></li>
+  <li><a href="{{ '/texts/buildings/162day-parking-ramp-mu/' | relative_url }}">Parking Ramp - Memorial Union</a></li>
+  <li>Pattern Shop (See <a href="{{ '/texts/buildings/001day-aerospace-lab/' | relative_url }}">Aerospace Laboratory</a>)</li>
+  <li><a href="{{ '/texts/004day-transportation/#traffic-and-parking' | relative_url }}">Parking</a></li>
+  <li>Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>) (See <a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a>) (See <a href="{{ '/texts/buildings/102day-hog-barn-pavilion/' | relative_url }}">Hog Barn & Pavilion</a>) (See <a href="{{ '/texts/buildings/118day-judging-pavilion/' | relative_url }}">Judging Pavilion</a>) (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
   <li>Pearson Hall</li>
   <li>Petersen, Christian</li>
   <li>Physical (and Chemical) Laboratory (See Chemical and Physical Laboratory)</li>
