@@ -616,7 +616,7 @@ publication-date: 1980
 
 <ul class="list-unstyled">
   <li><a href="{{ '/texts/1000day-minor-buildings/#rabbit-hutch' | relative_url }}">Rabbit Hutch</a></li>
-  <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi--am-fm---tv' | relative_url }}">Radio & TV</a></li>
+  <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi---am-fm---tv' | relative_url }}">Radio & TV</a></li>
   <li><a href="{{ '/texts/004day-transportation/#railroads' | relative_url }}">Railroads</a></li>
   <li>Recreation Building (See <a href="{{ '/texts/buildings/053day-driver-training-lab/' | relative_url }}">Driver Training Lab</a>)</li>
   <li><a href="{{ '/texts/005day-athletic-rec/#recreational-and-intramural-areas' | relative_url }}">Recreational Areas</a></li>
