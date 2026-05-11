@@ -583,24 +583,24 @@ publication-date: 1980
   <li>Post Mortem & Rendering Plant (See <a href="{{ '/texts/buildings/180day-rendering-plant/' | relative_url }}">Rendering Plant</a>)</li>
   <li>Post Office (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
   <li><a href="{{ '/texts/008day-misc/#post-offices-and-mail-service' | relative_url }}">Post Offices</a></li>
-  <li>Poultry Farm</li>
+  <li><a href="{{ '/texts/007day-special-areas/#poultry-farm-and-buildings' | relative_url }}">Poultry Farm</a></li>
   <li><a href="{{ '/texts/buildings/171day-poultry-houses/' | relative_url }}">Poultry Houses</a></li>
-  <li>Poultry Isolation Building</li>
-  <li>Poultry Laboratory (See Soils Testing Lab)</li>
-  <li>Power & Heating Plant</li>
-  <li>Power Station</li>
-  <li>Practice House (See Coburn House; Norton House)</li>
-  <li>Presidents (of the Institution)</li>
-  <li>President's Barn</li>
-  <li>President's House (See South Hall; The Knoll)</li>
-  <li>Press Building (See I.S.U. Press Building)</li>
-  <li>Printing Building</li>
-  <li>Professors' Houses (See South Hall; Music Hall; Marston Cottage)</li>
-  <li>Propagating House (See Greenhouse at Expt. Sta. Bldg.) (See Greenhouse at Hort. Lab)</li>
-  <li>Public Grounds Barn (See Horse Barn at Service Area)</li>
-  <li>Pump House</li>
-  <li>Pumping Station (See Power Station)</li>
-  <li>Purchasing Warehouse</li>
+  <li><a href="{{ '/texts/007day-special-areas/#veterinary-medicine-research-institute' | relative_url }}">Poultry Isolation Building</a></li>
+  <li>Poultry Laboratory (See <a href="{{ '/texts/buildings/200day-soil-testing-lab/' | relative_url }}">Soils Testing Lab</a>)</li>
+  <li><a href="{{ '/texts/buildings/172day-power-heating-plant/' | relative_url }}">Power & Heating Plant</a></li>
+  <li><a href="{{ '/texts/buildings/173day-power-station/' | relative_url }}">Power Station</a></li>
+  <li>Practice House (See <a href="{{ '/texts/buildings/041day-coburn-house/' | relative_url }}">Coburn House</a>; <a href="{{ '/texts/buildings/154day-norton-house/' | relative_url }}">Norton House</a>)</li>
+  <li><a href="{{ '/texts/1001day-appendices/#presidents' | relative_url }}">Presidents (of the Institution)</a></li>
+  <li><a href="{{ '/texts/buildings/174day-presidents-barn/' | relative_url }}">President's Barn</a></li>
+  <li>President's House (See <a href="{{ '/texts/buildings/201day-south-hall/' | relative_url }}">South Hall</a>; <a href="{{ '/texts/buildings/122day-knoll/' | relative_url }}">The Knoll</a>)</li>
+  <li>Press Building (See <a href="{{ '/texts/buildings/117day-isu-press/' | relative_url }}">I.S.U. Press Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/175day-printing/' | relative_url }}">Printing Building</a></li>
+  <li>Professors' Houses (See <a href="{{ '/texts/buildings/201day-south-hall/' | relative_url }}">South Hall</a>; <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>; <a href="{{ '/texts/buildings/135day-marston-cottage/' | relative_url }}">Marston Cottage</a>)</li>
+  <li>Propagating House (See <a href="{{ '/texts/buildings/092day-greenhouse-exp-station/' | relative_url }}">Greenhouse at Expt. Sta. Bldg.</a>) (See <a href="{{ '/texts/buildings/093day-greenhouse-hort-lab/' | relative_url }}">Greenhouse at Hort. Lab</a>)</li>
+  <li>Public Grounds Barn (See <a href="{{ '/texts/buildings/106day-horse-barn-service/' | relative_url }}">Horse Barn at Service Area</a>)</li>
+  <li><a href="{{ '/texts/buildings/176day-pump-house/' | relative_url }}">Pump House</a></li>
+  <li>Pumping Station (See <a href="{{ '/texts/buildings/173day-power-station/' | relative_url }}">Power Station</a>)</li>
+  <li><a href="{{ '/texts/buildings/177day-purchasing-warehouse/' | relative_url }}">Purchasing Warehouse</a></li>
 </ul>
 
 ## -Q-
