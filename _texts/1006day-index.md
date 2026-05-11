@@ -572,19 +572,19 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/167day-physics-hall/' | relative_url }}">Physics Hall</a></li>
   <li><a href="{{ '/texts/buildings/167day-physics-hall/' | relative_url }}">Physics Hall Addition</a></li>
   <li>Physiological Instrumentation Research Lab (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
-  <li>Piggery (See Hog Houses)</li>
-  <li>Pines, The (See Sloss House)</li>
-  <li>Plant Introduction Greenhouse</li>
-  <li>Plant Propagation Building (See Horticulture Hall & Greenhouse)</li>
-  <li>Plant Science Building (See Bessey Hall)</li>
-  <li>Plumbing Shop</li>
-  <li>Polo Field</li>
-  <li>Pope Cottage</li>
-  <li>Post Mortem & Rendering Plant (See Rendering Plant)</li>
-  <li>Post Office (See The Hub)</li>
-  <li>Post Offices</li>
+  <li>Piggery (See <a href="{{ '/texts/buildings/103day-hog-houses/' | relative_url }}">Hog Houses</a>)</li>
+  <li>Pines, The (See <a href="{{ '/texts/buildings/198day-sloss-house' | relative_url }}">Sloss House</a>)</li>
+  <li><a href="{{ '/texts/buildings/168day-plant-intro-greenhouse/' | relative_url }}">Plant Introduction Greenhouse</a></li>
+  <li>Plant Propagation Building (See <a href="{{ '/texts/buildings/111day-horticulture-hall-greenhouse/' | relative_url }}">Horticulture Hall & Greenhouse</a>)</li>
+  <li>Plant Science Building (See <a href="{{ '/texts/buildings/018day-bessey-hall/' | relative_url }}">Bessey Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/169day-plumbing-shop/' | relative_url }}">Plumbing Shop</a></li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#polo' | relative_url }}">Polo Field</a></li>
+  <li><a href="{{ '/texts/buildings/170day-pope-cottage/' | relative_url }}">Pope Cottage</a></li>
+  <li>Post Mortem & Rendering Plant (See <a href="{{ '/texts/buildings/180day-rendering-plant/' | relative_url }}">Rendering Plant</a>)</li>
+  <li>Post Office (See <a href="{{ '/texts/buildings/113day-hub/' | relative_url }}">The Hub</a>)</li>
+  <li><a href="{{ '/texts/008day-misc/#post-offices-and-mail-service' | relative_url }}">Post Offices</a></li>
   <li>Poultry Farm</li>
-  <li>Poultry Houses</li>
+  <li><a href="{{ '/texts/buildings/171day-poultry-houses/' | relative_url }}">Poultry Houses</a></li>
   <li>Poultry Isolation Building</li>
   <li>Poultry Laboratory (See Soils Testing Lab)</li>
   <li>Power & Heating Plant</li>
