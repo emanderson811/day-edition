@@ -636,65 +636,65 @@ publication-date: 1980
 ## -S-
 
 <ul class="list-unstyled">
-  <li>Safford Cottage</li>
-  <li>Sanitary Building</li>
-  <li>Scheman Continuing Education Bldg.</li>
-  <li>Schemann Residence (See Kildee Cottage)</li>
-  <li>Schilletter Village</li>
-  <li>Science Hall</li>
-  <li>Science Hall Addition #2</li>
-  <li>Sculpture</li>
-  <li>Seed Laboratory (See Seed Science Building)</li>
-  <li>Seed Processing Plant</li>
-  <li>Seed Science Building</li>
-  <li>Serum Plant</li>
-  <li>Servant's Hall (See North Hall)</li>
-  <li>Service Building (See Snedecor Hall)</li>
-  <li>Sewers & Drainage</li>
-  <li>Sexton Cottage (See Grounds Cottage)</li>
-  <li>Shattuck Theater (See Theater Workshop)</li>
-  <li>Sheep Barn</li>
-  <li>Sheep Barns & Sheds</li>
-  <li>Signs</li>
-  <li>Silos</li>
-  <li>Silver City (See Cottages)</li>
-  <li>Slaughter House</li>
-  <li>Slaughter & Refrigeration Plant (See Rendering Plant)</li>
-  <li>Sloss House</li>
-  <li>Sloss House - First (See Bevier House)</li>
-  <li>Snedecor Hall</li>
-  <li>Soil Testing Laboratory</li>
-  <li>Soil Testing Lab (See North Studio)</li>
-  <li>Sorghum Works</li>
-  <li>South Hall</li>
-  <li>South Hall (See Barton Hall)</li>
-  <li>South Studio</li>
-  <li>Spedding Hall</li>
-  <li>Speech Office Building (See English Office Building)</li>
-  <li>Stadium (Clyde Williams Field)</li>
-  <li>Stadium (South Campus)</li>
-  <li>Stange Memorial Clinic (See Veterinary Clinic)</li>
-  <li>Stanton Hall (See Boarding Cottage - West)</li>
-  <li>Stanton House (See Music Hall)</li>
-  <li>State Field</li>
-  <li>State Gymnasium</li>
-  <li>Statistics (See Temporary Building "R")</li>
-  <li>Steam Distribution</li>
-  <li>Steam & Gas Laboratory (See Mechanical Engineering Lab)</li>
-  <li>Steam & Gas Laboratory Addition (See Mechanical Engineering Laboratory)</li>
-  <li>Stephens Auditorium</li>
-  <li>Stock Pavilion (See Agronomy Farm Crops Lab) (See Carpenter Shop) (See Judging Pavilion) (See Theater Workshop)</li>
-  <li>Storage Building</li>
-  <li>Storage Shed (See Gun Shed)</li>
-  <li>Storage Shed - Service Area (See Machinery & Storage Shed)</li>
-  <li>Storms</li>
-  <li>Storms Hall (See Knapp-Storms & Commons)</li>
-  <li>Structural Engineering Lab (See Laboratory of Mechanics)</li>
-  <li>Student Services Building</li>
-  <li>Summers House (See Osborn Cottage)</li>
-  <li>Superintendent's Office (See English Office Building)</li>
-  <li>Sweeney Hall</li>
-  <li>Synchrotron Building</li>
+  <li><a href="{{ '/texts/buildings/186day-safford-cottage/' | relative_url }}">Safford Cottage</a></li>
+  <li><a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Building</a></li>
+  <li><a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Education Bldg.</a></li>
+  <li>Schemann Residence (See <a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a>)</li>
+  <li><a href="{{ '/texts/buildings/schilletter-village/' | relative_url }}">Schilletter Village</a></li>
+  <li><a href="{{ '/texts/buildings/190day-science-hall/' | relative_url }}">Science Hall</a></li>
+  <li><a href="{{ '/texts/buildings/191day-science-hall-addition/' | relative_url }}">Science Hall Addition #2</a></li>
+  <li><a href="{{ '/texts/008day-misc/#sculpture' | relative_url }}">Sculpture</a></li>
+  <li>Seed Laboratory (See <a href="{{ '/texts/buildings/193day-seed-science/' | relative_url }}">Seed Science Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/192day-seed-processing-plant/' | relative_url }}">Seed Processing Plant</a></li>
+  <li><a href="{{ '/texts/buildings/193day-seed-science/' | relative_url }}">Seed Science Building</a></li>
+  <li><a href="{{ '/texts/buildings/194day-serum-plant/' | relative_url }}">Serum Plant</a></li>
+  <li>Servant's Hall (See <a href="{{ '/texts/buildings/152day-north-hall/' | relative_url }}">North Hall</a>)</li>
+  <li>Service Building (See <a href="{{ '/texts/buildings/199day-snedecor-hall/' | relative_url }}">Snedecor Hall</a>)</li>
+  <li><a href="{{ '/texts/006day-utilities/#sewers-and-drainage' | relative_url }}">Sewers & Drainage</a></li>
+  <li>Sexton Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
+  <li>Shattuck Theater (See <a href="{{ '/texts/buildings/213day-theater-workshop | relative_url }}">Theater Workshop</a>)</li>
+  <li><a href="{{ '/texts/buildings/195day-sheep-barn/' | relative_url }}">Sheep Barn</a></li>
+  <li><a href="{{ '/texts/buildings/196day-sheep-barns-sheds/' | relative_url }}">Sheep Barns & Sheds</a></li>
+  <li><a href="{{ '/texts/008day-misc/#signs' | relative_url }}">Signs</a></li>
+  <li><a href="{{ '/texts/buildings/197day-silos/' | relative_url }}">Silos</a></li>
+  <li>Silver City (See <a href="{{ '/texts/buildings/047day-cottages/' | relative_url }}">Cottages</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#slaughter-house' | relative_url }}">Slaughter House</a></li>
+  <li>Slaughter & Refrigeration Plant (See <a href="{{ '/texts/buildings/180day-rendering-plant/' | relative_url }}">Rendering Plant</a>)</li>
+  <li><a href="{{ '/texts/buildings/198day-sloss-house/' | relative_url }}">Sloss House</a></li>
+  <li>Sloss House - First (See <a href="{{ '/texts/buildings/019day-bevier-house/' | relative_url }}">Bevier House</a>)</li>
+  <li><a href="{{ '/texts/buildings/199day-snedecor-hall/' | relative_url }}">Snedecor Hall</a></li>
+  <li><a href="{{ '/texts/buildings/200day-soil-testing-lab/' | relative_url }}">Soil Testing Laboratory</a></li>
+  <li>Soil Testing Lab (See <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#sorghum-works' | relative_url }}">Sorghum Works</a></li>
+  <li><a href="{{ '/texts/buildings/201day-south-hall/' | relative_url }}">South Hall</a></li>
+  <li>South Hall (See <a href="{{ '/texts/buildings/015day-barton-hall/' | relative_url }}">Barton Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/202day-south-studio/' | relative_url }}">South Studio</a></li>
+  <li><a href="{{ '/texts/buildings/203day-spedding-hall/' | relative_url }}">Spedding Hall</a></li>
+  <li>Speech Office Building (See <a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a>)</li>
+  <li>Stadium (<a href="{{ '/texts/buildings/204day-stadium-clyde-williams/' | relative_url }}">Clyde Williams Field</a>)</li>
+  <li><a href="{{ '/texts/205day-stadium-south/' | relative_url }}">Stadium (South Campus</a>)</li>
+  <li>Stange Memorial Clinic (See <a href="{{ '/texts/buildings/218day-veterinary-clinic/' | relative_url }}">Veterinary Clinic</a>)</li>
+  <li>Stanton Hall (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>)</li>
+  <li>Stanton House (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url }}">State Field</a></li>
+  <li><a href="{{ '/texts/buildings/206day-state-gym/' | relative_url }}">State Gymnasium</a></li>
+  <li>Statistics (See <a href="{{ '/texts/buildings/212day-temp-buildings/#building-r' | relative_url }}">Temporary Building "R"</a>)</li>
+  <li><a href="{{ '/texts/006day-utilities/#steam-distribution-tunnels-and-chilled-water' | relative_url }}">Steam Distribution</a></li>
+  <li>Steam & Gas Laboratory (See <a href="{{ '/texts/buildings/130day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Lab</a>)</li>
+  <li>Steam & Gas Laboratory Addition (See <a href="{{ '/texts/buildings/130day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Laboratory</a>)</li>
+  <li><a href="{{ '/texts/buildings/207day-cy-stephens-auditorium/' | relative_url }}">Stephens Auditorium</a></li>
+  <li>Stock Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>) (See <a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a>) (See <a href="{{ '/texts/buildings/118day-judging-pavilion/' | relative_url }}">Judging Pavilion</a>) (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#storage-building-7---10' | relative_url }}">Storage Building 7-10</a></li>
+  <li>Storage Shed (See <a href="{{ '/texts/buildings/096day-gun-shed/' | relative_url }}">Gun Shed</a>)</li>
+  <li>Storage Shed - Service Area (See <a href="{{ '/texts/buildings/130day-machinery-storage-shed/' | relative_url }}">Machinery & Storage Shed</a>)</li>
+  <li><a href="{{ '/texts/008day-misc/#storms-floods-and-cyclones' | relative_url }}">Storms</a></li>
+  <li>Storms Hall (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons</a>)</li>
+  <li>Structural Engineering Lab (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
+  <li><a href="{{ '/texts/buildings/208day-student-services/' | relative_url }}">Student Services Building</a></li>
+  <li>Summers House (See <a href="{{ '/texts/buildings/160day-osborn-cottage/' | relative_url }}">Osborn Cottage</a>)</li>
+  <li>Superintendent's Office (See <a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a>)</li>
+  <li><a href="{{ '/texts/buildings/209day-sweeney-hall/' | relative_url }}">Sweeney Hall</a></li>
+  <li><a href="{{ '/texts/buildings/210day-synchrotron/' | relative_url }}">Synchrotron Building</a></li>
 </ul>
   
 ## -T-
