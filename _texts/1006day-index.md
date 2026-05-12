@@ -712,15 +712,15 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#tile-storage-shed-incinerator' | relative_url }}">Tile Storage Shed</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#tool-house-implement-shed' | relative_url }}">Tool House</a></li>
   <li>Towers, The (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons; Wallace-Wilson & Commons</a>)</li>
-  <li>Town Engineering Building</li>
-  <li>Tractor Garage (See Agric. Engr. Garage)</li>
-  <li>Traffic</li>
-  <li>Trailers</li>
-  <li>Training Shed</li>
-  <li>Transmitter Building - Radio</li>
-  <li>Transportation Building (See Engineering Research Institute)</li>
-  <li>Truck Building (See Exhibit Hall)</li>
-  <li>Tunnels</li>
+  <li><a href="{{ '/texts/buildings/213day-theater-workshop/' | relative _url }}">Town Engineering Building></li>
+  <li>Tractor Garage (See <a href="{{ '/texts/buildings/002day-agricultural-eng-garage/' | relative_url }}">Agric. Engr. Garage</a>)</li>
+  <li><a href="{{ '/texts/004day-transportation/#traffic-and-parking' | relative_url }}">Traffic</a></li>
+  <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}"> Trailers</a></li>
+  <li><a href="{{ '/texts/buildings/215day-training-shed/' | relative_url }}">Training Shed</a></li>
+  <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi---am-fm---tv' | relative_url }}">Transmitter Building - Radio</a></li>
+  <li>Transportation Building (See <a href="{{ '/texts/buildings/062day-engineering-research-inst/' | relative_url }}">Engineering Research Institute</a>)</li>
+  <li>Truck Building (See <a href="{{ '/texts/buildings/065day-exhibit-hall/' | relative_url }}">Exhibit Hall</a>)</li>
+  <li><a href="{{ '/texts/006day-utilities/#steam-distribution-tunnels-and-chilled-water' | relative_url }}">Tunnels</a></li>
 </ul>
   
 ## -U- 
