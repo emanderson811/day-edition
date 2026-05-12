@@ -702,7 +702,7 @@ publication-date: 1980
 <ul class="list-unstyled">
   <li>Teamster's Cottage #1 (See <a href="{{ '/texts/buildings/048day-creamery-first/' | relative_url }}">Creamery - First</a>)</li>
   <li><a href="{{ '/texts/buildings/211day-teamsters-cottage/' | relative_url }}">Teamster's Cottage #2</a></li>
-  <li>Telecommunications Building (See <a href="{{ '/texts/buildings/043day-communication/' | relative_url }}">Communications Bldg.</a>)</li>
+  <li>Telecommunications Building (See <a href="{{ '/texts/buildings/043day-communications/' | relative_url }}">Communications Bldg.</a>)</li>
   <li><a href="{{ '/texts/006day-utilities/#telephones' | relative_url }}">Telephones</a></li>
   <li><a href="{{ '/texts/buildings/212day-temp-buildings/' | relative_url }}">Temporary Buildings "C" to "S"</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#tennis-courts' | relative_url }}">Tennis Courts</a></li>
@@ -712,7 +712,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#tile-storage-shed-incinerator' | relative_url }}">Tile Storage Shed</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#tool-house-implement-shed' | relative_url }}">Tool House</a></li>
   <li>Towers, The (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons; Wallace-Wilson & Commons</a>)</li>
-  <li><a href="{{ '/texts/buildings/213day-theater-workshop/' | relative _url }}">Town Engineering Building></li>
+  <li><a href="{{ '/texts/buildings/213day-theater-workshop/' | relative _url }}">Town Engineering Building</a></li>
   <li>Tractor Garage (See <a href="{{ '/texts/buildings/002day-agricultural-eng-garage/' | relative_url }}">Agric. Engr. Garage</a>)</li>
   <li><a href="{{ '/texts/004day-transportation/#traffic-and-parking' | relative_url }}">Traffic</a></li>
   <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}"> Trailers</a></li>
