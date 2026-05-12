@@ -726,8 +726,8 @@ publication-date: 1980
 ## -U- 
 
 <ul class="list-unstyled">
-  <li>University Village</li>
-  <li>Utility Barn (See Seed Processing Plant)</li>
+  <li><a href="{{ '/texts/buildings/216day-university-village/' | relative_url }}">University Village</a></li>
+  <li>Utility Barn (See <a href="{{ '/texts/buildings/192day-seed-processing-plant/' | relative_url }}">Seed Processing Plant</a>)</li>
 </ul>
 
 ## -V-
