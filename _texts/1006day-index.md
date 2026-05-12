@@ -640,7 +640,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/187day-sanitary/' | relative_url }}">Sanitary Building</a></li>
   <li><a href="{{ '/texts/buildings/188day-scheman-cont-ed/' | relative_url }}">Scheman Continuing Education Bldg.</a></li>
   <li>Schemann Residence (See <a href="{{ '/texts/buildings/119day-kildee-cottage/' | relative_url }}">Kildee Cottage</a>)</li>
-  <li><a href="{{ '/texts/buildings/schilletter-village/' | relative_url }}">Schilletter Village</a></li>
+  <li><a href="{{ '/texts/buildings/189day-schilletter-village/' | relative_url }}">Schilletter Village</a></li>
   <li><a href="{{ '/texts/buildings/190day-science-hall/' | relative_url }}">Science Hall</a></li>
   <li><a href="{{ '/texts/buildings/191day-science-hall-addition/' | relative_url }}">Science Hall Addition #2</a></li>
   <li><a href="{{ '/texts/008day-misc/#sculpture' | relative_url }}">Sculpture</a></li>
@@ -652,7 +652,7 @@ publication-date: 1980
   <li>Service Building (See <a href="{{ '/texts/buildings/199day-snedecor-hall/' | relative_url }}">Snedecor Hall</a>)</li>
   <li><a href="{{ '/texts/006day-utilities/#sewers-and-drainage' | relative_url }}">Sewers & Drainage</a></li>
   <li>Sexton Cottage (See <a href="{{ '/texts/buildings/094day-grounds-cottage/' | relative_url }}">Grounds Cottage</a>)</li>
-  <li>Shattuck Theater (See <a href="{{ '/texts/buildings/213day-theater-workshop | relative_url }}">Theater Workshop</a>)</li>
+  <li>Shattuck Theater (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
   <li><a href="{{ '/texts/buildings/195day-sheep-barn/' | relative_url }}">Sheep Barn</a></li>
   <li><a href="{{ '/texts/buildings/196day-sheep-barns-sheds/' | relative_url }}">Sheep Barns & Sheds</a></li>
   <li><a href="{{ '/texts/008day-misc/#signs' | relative_url }}">Signs</a></li>
@@ -672,7 +672,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/203day-spedding-hall/' | relative_url }}">Spedding Hall</a></li>
   <li>Speech Office Building (See <a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a>)</li>
   <li>Stadium (<a href="{{ '/texts/buildings/204day-stadium-clyde-williams/' | relative_url }}">Clyde Williams Field</a>)</li>
-  <li><a href="{{ '/texts/205day-stadium-south/' | relative_url }}">Stadium (South Campus</a>)</li>
+  <li><a href="{{ '/texts/buildings/205day-stadium-south/' | relative_url }}">Stadium (South Campus</a>)</li>
   <li>Stange Memorial Clinic (See <a href="{{ '/texts/buildings/218day-veterinary-clinic/' | relative_url }}">Veterinary Clinic</a>)</li>
   <li>Stanton Hall (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>)</li>
   <li>Stanton House (See <a href="{{ '/texts/buildings/149day-music-hall/' | relative_url }}">Music Hall</a>)</li>
@@ -680,8 +680,8 @@ publication-date: 1980
   <li><a href="{{ '/texts/buildings/206day-state-gym/' | relative_url }}">State Gymnasium</a></li>
   <li>Statistics (See <a href="{{ '/texts/buildings/212day-temp-buildings/#building-r' | relative_url }}">Temporary Building "R"</a>)</li>
   <li><a href="{{ '/texts/006day-utilities/#steam-distribution-tunnels-and-chilled-water' | relative_url }}">Steam Distribution</a></li>
-  <li>Steam & Gas Laboratory (See <a href="{{ '/texts/buildings/130day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Lab</a>)</li>
-  <li>Steam & Gas Laboratory Addition (See <a href="{{ '/texts/buildings/130day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Laboratory</a>)</li>
+  <li>Steam & Gas Laboratory (See <a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Lab</a>)</li>
+  <li>Steam & Gas Laboratory Addition (See <a href="{{ '/texts/buildings/139day-mechanical-engineering-lab/' | relative_url }}">Mechanical Engineering Laboratory</a>)</li>
   <li><a href="{{ '/texts/buildings/207day-cy-stephens-auditorium/' | relative_url }}">Stephens Auditorium</a></li>
   <li>Stock Pavilion (See <a href="{{ '/texts/buildings/005day-agronomy-crop-lab/' | relative_url }}">Agronomy Farm Crops Lab</a>) (See <a href="{{ '/texts/buildings/032day-carpenter-shop/' | relative_url }}">Carpenter Shop</a>) (See <a href="{{ '/texts/buildings/118day-judging-pavilion/' | relative_url }}">Judging Pavilion</a>) (See <a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater Workshop</a>)</li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#storage-building-7---10' | relative_url }}">Storage Building 7-10</a></li>
