@@ -751,24 +751,24 @@ publication-date: 1980
 ## -W-
 
 <ul class="list-unstyled">
-  <li>Walks</li>
-  <li>Wallace Hall, Wilson Hall & Commons</li>
-  <li>Wallace Road Residence Halls (See Maple-Willow-Larch)</li>
-  <li>Warehouse</li>
-  <li>Warehouse & Shop</li>
-  <li>Wash House (See Workshop)</li>
-  <li>Waste Disposal Facility</li>
-  <li>Water Filtration Plant</li>
-  <li>Water Supply</li>
+  <li><a href="{{ '/texts/003day-land/#walks' | relative_url }}">Walks</a></li>
+  <li><a href="{{ '/texts/buildings/224day-wallace-wilson-hall/' | relative_url }}">Wallace Hall, Wilson Hall & Commons</a></li>
+  <li>Wallace Road Residence Halls (See <a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple-Willow-Larch</a>)</li>
+  <li><a href="{{ '/texts/buildings/011day-ames-lab-reactor/#warehouse' | relative_url }}">Warehouse</a></li>
+  <li><a href="{{ '/texts/buildings/010day-ames-lab-service/#warehouse--shop' | relative_url }}">Warehouse & Shop</a></li>
+  <li>Wash House (See <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>)</li>
+  <li><a href="{{ '/texts/buildings/011day-ames-lab-reactor/#waste-disposal-facility' | relative_url }}">Waste Disposal Facility</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#water-supply' | relative_url }}">Water Filtration Plant</a></li>
+  <li><a href="{{ '/texts/006day-utilities/#water-supply' | relative_url }}">Water Supply</a></li>
   <li>Water Tower</li>
-  <li>Weather Station</li>
-  <li>Welch East (See Birch Hall)</li>
-  <li>Welch Hall</li>
-  <li>Welch Home Management House (See Coburn House)</li>
-  <li>Wells</li>
-  <li>West Boarding Cottage (See Boarding Cottage - West)</li>
-  <li>West Chemical Engineering (See Nuclear Engineering Lab)</li>
-  <li>West Court</li>
+  <li><a href="{{ '/texts/buildings/011day-ames-lab-reactor/#weather-station' | relative_url }}">Weather Station</a></li>
+  <li>Welch East (See <a href="{{ '/texts/buildings/022day-birch-hall/' | relative_url }}">Birch Hall</a>)</li>
+  <li><a href="{{ '/texts/buildings/225day-welch-hall/' | relative_url }}">Welch Hall</a></li>
+  <li>Welch Home Management House (See <a href="{{ '/texts/buildings/041day-coburn-house/' | relative_url }}">Coburn House</a>)</li>
+  <li><a href="{{ '/texts/006day-utilities/#water-supply' | relative_url }}">Wells</a></li>
+  <li>West Boarding Cottage (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>)</li>
+  <li>West Chemical Engineering (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Lab</a>)</li>
+  <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}">West Court</a></li>
   <li>Westgate Cottage (See White House)</li>
   <li>Westgate Hall</li>
   <li>West Hall (See Lyon Hall)</li>
