@@ -769,14 +769,14 @@ publication-date: 1980
   <li>West Boarding Cottage (See <a href="{{ '/texts/buildings/024day-boarding-west/' | relative_url }}">Boarding Cottage - West</a>)</li>
   <li>West Chemical Engineering (See <a href="{{ '/texts/buildings/155day-nuclear-engineering-lab/' | relative_url }}">Nuclear Engineering Lab</a>)</li>
   <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}">West Court</a></li>
-  <li>Westgate Cottage (See <a href="{{ '/texts/buildings/227day-georgia-white-hosue/' | relative_url }}">White House</a>)</li>
+  <li>Westgate Cottage (See <a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a>)</li>
   <li><a href="{{ '/texts/buildings/226day-westgate-hall/' | relative_url }}">Westgate Hall</a></li>
   <li>West Hall (See <a href="{{ '/texts/buildings/129day-lyon-hall/' | relative_url }}">Lyon Hall</a>)</li>
-  <li><a hef="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a></li>
+  <li><a href="{{ '/texts/buildings/227day-georgia-white-house/' | relative_url }}">White House</a></li>
   <li><a href="{{ '/texts/005day-athletic-rec/#athletic-fields' | relative_url }}">Williams Field, Clyde</a></li>
   <li>Willow Hall (See <a href="{{ '/texts/buildings/133day-maple-willow-larch-halls/' | relative_url }}">Maple-Willow-Larch</a>)</li>
   <li>Wilson Hall (See <a href="{{ '/texts/buildings/224day-wallace-wilson-hall/' | relative_url }}">Wallace-Wilson & Commons</a>)</li>
-  <li>WOI Radio-Television Building (See <a href="{{ '/texts/buildings/043day-communication/' | relative_url }}">Communications Bldg.</a>)</li>
+  <li>WOI Radio-Television Building (See <a href="{{ '/texts/buildings/043day-communications/' | relative_url }}">Communications Bldg.</a>)</li>
   <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi---am-fm---tv' | relative_url }}">WOI Transmitting Station</a></li>
   <li><a href="{{ '/texts/008day-misc/#radio-and-televisionwoi---am-fm---tv' | relative_url }}">WOI - AM Transmitting Tower</a></li>
   <li>Women's Gymnasium (See <a href="{{ '/texts/buildings/164day-physical-education/' | relative_url }}">Physical Education Building</a>)</li>
@@ -787,6 +787,6 @@ publication-date: 1980
 ## -Y-
 
 <ul class="list-unstyled">
-  <li>YMCA (See also Alumni Hall; North Studio)</li>
-  <li>YMCA Hut</li>
+  <li><a href="{{ '/texts/007day-special-areas/#the-ymca-and-lynn-fuhrer-lodge' | relative_url }}">YMCA</a> (See also <a href="{{ '/texts/buildings/009day-alumni-hall/' | relative_url }}">Alumni Hall</a>; <a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">North Studio</a>)</li>
+  <li><a href="{{ '/texts/buildings/153day-north-studio/' | relative_url }}">YMCA Hut</a></li>
 </ul>
