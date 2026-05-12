@@ -712,7 +712,7 @@ publication-date: 1980
   <li><a href="{{ '/texts/1000day-minor-buildings/#tile-storage-shed-incinerator' | relative_url }}">Tile Storage Shed</a></li>
   <li><a href="{{ '/texts/1000day-minor-buildings/#tool-house-implement-shed' | relative_url }}">Tool House</a></li>
   <li>Towers, The (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons; Wallace-Wilson & Commons</a>)</li>
-  <li><a href="{{ '/texts/buildings/213day-theater-workshop/' | relative _url }}">Town Engineering Building</a></li>
+  <li><a href="{{ '/texts/buildings/214day-town-engineering/' | relative _url }}">Town Engineering Building</a></li>
   <li>Tractor Garage (See <a href="{{ '/texts/buildings/002day-agricultural-eng-garage/' | relative_url }}">Agric. Engr. Garage</a>)</li>
   <li><a href="{{ '/texts/004day-transportation/#traffic-and-parking' | relative_url }}">Traffic</a></li>
   <li><a href="{{ '/texts/003day-land/#west-court-and-trailers' | relative_url }}"> Trailers</a></li>
