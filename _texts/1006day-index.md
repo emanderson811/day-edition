@@ -734,18 +734,18 @@ publication-date: 1980
 
 <ul class="list-unstyled">
   <li><a href="{{ '/texts/005day-athletic-rec/#golf-course' | relative_url }}">Veenker Golf Course</a></li>
-  <li>Veterinary Diagnostic Clinic (See Quadrangle - North)</li>
-  <li>Veterinary Barn</li>
-  <li>Veterinary Clinic</li>
-  <li>Veterinary Hospital (See Veterinary Barn)</li>
-  <li>Veterinary Hospital</li>
-  <li>Veterinary Medicine Facilities</li>
-  <li>Veterinary Medicine Research Institute</li>
-  <li>Veterinary Obstetrics Lab.</li>
-  <li>Veterinary Physiology Research Laboratory</li>
-  <li>Veterinary Quadrangle (See Quadrangle)</li>
-  <li>Veterinary Sugery</li>
-  <li>Victory Bell</li>
+  <li>Veterinary Diagnostic Clinic (See <a href="{{ '/texts/buildings/179day-quadrangle-north/' | relative_url }}">Quadrangle - North</a>)</li>
+  <li><a href="{{ '/texts/buildings/217day-veterinary-barn/' | relative_url }}">Veterinary Barn</a></li>
+  <li><a href="{{ '/texts/buildings/218day-veterinary-clinic/' | relative_url }}">Veterinary Clinic</a></li>
+  <li>Veterinary Hospital (See <a href="{{ '/texts/buildings/217day-veterinary-barn/' | relative_url }}">Veterinary Barn</a>)</li>
+  <li><a href="{{ '/texts/buildings/219day-veterinary-hospital/' | relative_url }}">Veterinary Hospital</a></li>
+  <li><a href="{{ '/texts/buildings/220day-veterinary-medicine-facilities/' | relative_url }}">Veterinary Medicine Facilities</a></li>
+  <li><a href="{{ '/texts/007day-special-areas/#veterinary-medicine-research-institute' | relative_url }}">Veterinary Medicine Research Institute</a></li>
+  <li><a href="{{ '/texts/buildings/221day-veterinary-obstetrics-lab/' | relative_url }}">Veterinary Obstetrics Lab.</a></li>
+  <li><a href="{{ '/texts/buildings/223day-veterinary-physiology-research-lab/' | relative_url }}">Veterinary Physiology Research Laboratory</a></li>
+  <li>Veterinary Quadrangle (See <a href="{{ '/texts/buildings/178day-quadrangle/' | relative_url }}">Quadrangle</a>)</li>
+  <li><a href="{{ '/texts/buildings/222day-veterinary-surgery/' | relative_url }}">Veterinary Sugery</a></li>
+  <li><a href="{{ '/texts/008day-misc/#victory-bell' | relative_url }}">Victory Bell</a></li>
 </ul>
   
 ## -W-
