@@ -700,18 +700,18 @@ publication-date: 1980
 ## -T-
 
 <ul class="list-unstyled">
-  <li>Teamster's Cottage #1 (See Creamery - First)</li>
-  <li>Teamster's Cottage #2</li>
-  <li>Telecommunications Building (See Communications Bldg.)</li>
-  <li>Telephones</li>
-  <li>Temporary Buildings "C" to "S"</li>
-  <li>Tennis Courts</li>
-  <li>Theater-Auditorium (See Stephens Auditorium)</li>
-  <li>Theater-Workshop</li>
-  <li>Theoretical & Applied Mechanics Bldg. (See Laboratory of Mechanics)</li>
-  <li>Tile Storage Shed</li>
-  <li>Tool House</li>
-  <li>Towers, The (See Knapp-Storms & Commons; Wallace-Wilson & Commons)</li>
+  <li>Teamster's Cottage #1 (See <a href="{{ '/texts/buildings/048day-creamery-first/' | relative_url }}">Creamery - First</a>)</li>
+  <li><a href="{{ '/texts/buildings/211day-teamsters-cottage/' | relative_url }}">Teamster's Cottage #2</a></li>
+  <li>Telecommunications Building (See <a href="{{ '/texts/buildings/043day-communication/' | relative_url }}">Communications Bldg.</a>)</li>
+  <li><a href="{{ '/texts/006day-utilities/#telephones' | relative_url }}">Telephones</a></li>
+  <li><a href="{{ '/texts/buildings/212day-temp-buildings/' | relative_url }}">Temporary Buildings "C" to "S"</a></li>
+  <li><a href="{{ '/texts/005day-athletic-rec/#tennis-courts' | relative_url }}">Tennis Courts</a></li>
+  <li>Theater-Auditorium (See <a href="{{ '/texts/buildings/207day-cy-stephens-auditorium/' | relative_url }}">Stephens Auditorium</a>)</li>
+  <li><a href="{{ '/texts/buildings/213day-theater-workshop/' | relative_url }}">Theater-Workshop</a></li>
+  <li>Theoretical & Applied Mechanics Bldg. (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>)</li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#tile-storage-shed-incinerator' | relative_url }}">Tile Storage Shed</a></li>
+  <li><a href="{{ '/texts/1000day-minor-buildings/#tool-house-implement-shed' | relative_url }}">Tool House</a></li>
+  <li>Towers, The (See <a href="{{ '/texts/buildings/121day-knapp-storms/' | relative_url }}">Knapp-Storms & Commons; Wallace-Wilson & Commons</a>)</li>
   <li>Town Engineering Building</li>
   <li>Tractor Garage (See Agric. Engr. Garage)</li>
   <li>Traffic</li>
