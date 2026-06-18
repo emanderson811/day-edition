@@ -5,7 +5,7 @@ gallery: true
 
 <div class="card mb-4 text-center">
 
-   <a class="spotlight gallery-img" data-download="true" title="map" href="{{ page.map_url | relative_url }}">
+   <a class="spotlight gallery-img" title="{{page.title}}" href="{{ page.map_url | relative_url }}">
     <img src="{{ page.map_url | relative_url }}" alt="map" class="img-fluid">
     <div><small class="text-dark">Click to view full screen</small></div>
     </a>
@@ -44,3 +44,4 @@ gallery: true
         <span aria-hidden="true">&laquo;</span> Campus Maps
       </a>
   </div>
+</div>
