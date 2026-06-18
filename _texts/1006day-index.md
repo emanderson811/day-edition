@@ -234,7 +234,7 @@ publication-date: 1980
   <li>Engineering Hall (See <a href="{{ '/texts/buildings/123day-lab-mechanics/' | relative_url }}">Laboratory of Mechanics</a>; <a href="{{ '/texts/buildings/136day-marston-hall/' | relative_url }}">Marston Hall</a>)</li>
   <li><a href="{{ '/texts/buildings/062day-engineering-research-inst./' | relative_url }}">Engineering Research Institute</a></li>
   <li><a href="{{ '/texts/buildings/063day-engineers-cottage/' | relative_url }}">Engineer's Cottage</a></li>
-  <li>Engine House (See <a href="{{ /texts/buildings/176day-pump-house/' | relative_url }}">Pump House</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>)</li>
+  <li>Engine House (See <a href="{{ '/texts/buildings/176day-pump-house/' | relative_url }}">Pump House</a>; <a href="{{ '/texts/buildings/228day-workshop/' | relative_url }}">Workshop</a>)</li>
   <li><a href="{{ '/texts/buildings/064day-english-office/' | relative_url }}">English Office Building</a></li>
   <li><a href="{{ '/texts/1001day-appendices/#enrollments' | relative_url }}">Enrollments</a></li>
   <li>Entomology Building (See <a href="{{ '/texts/buildings/116day-insectary-greenhouse/' | relative_url }}">Insectary & Greenhouse</a>)</li>
