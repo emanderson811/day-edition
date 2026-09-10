@@ -408,7 +408,7 @@ Veenker Golf Course 70 Veterinary Diagnostic Clinic 396
 (See Veterinary Barn) Veterinary Hospital 452 Veterinary M~dicine Facilities454 Veterinary Medicine Research 
 Insititute 103 Veterinary Obstetrics Lab. 455 Veterinary Physiology Research 
 Laboratory 455 Veterinary Quadrangle 394 
-(See Quadrangle) Veterinary Sugery 455 Victory Be11 142 
+(See Quadrangle) <a id="vet-surgery" class="pop-annotation" tabindex="0">Veterinary Sugery</a> 455 Victory Be11 142 
 .:.-1'L::. -y  
 Walks 42 Wallace Hall, Wilson Hall & Commons 456 
 Wallace Road Residence Halls  335  
