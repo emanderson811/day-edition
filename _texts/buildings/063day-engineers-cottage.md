@@ -3,7 +3,7 @@ layout: building
 title: "Engineer's Cottage"
 alternative_name: "Edgerton House"
 built: 
-  - "1989"
+  - '<a id="engineers-cottage-build-date" class="pop-annotation" tabindex="0">1989</a>'
   - "Moved: 1915"
 addition:
 architect: 

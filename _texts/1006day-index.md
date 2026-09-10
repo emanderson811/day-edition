@@ -19,7 +19,7 @@ publication-date: 1980
 |Aeronautical Laboratory (See Exhibit Hall)| 236|
 |Aerospace Laboratory| 154| 
 |Agricultural Annex (See East Hall)| 224|
-|Agricultural By-Products Lab (See Nuclear Engineering Bldg.)| 366|
+|Agricultural By-Products Lab (See <a id="nuclear-engineering-lab" class="pop-annotation" tabindex="0">Nuclear Engineering Bldg.</a>)| 366|
 |Agricultural Engineering Addition (See Industrial Education)| 296|
 |Agricultural Engineering Garage| 154| 
 |Agricultural Engineering Hall (See Botany Hall)| 184| 
