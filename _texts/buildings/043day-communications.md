@@ -20,7 +20,7 @@ publication-date: 1980
 ---
 ---
 
-When planning for this building started in March 1969, it was studied with the concept of providing for four elements:[^fn1] 
+When planning for this building started in March <a id="communications-building-planning-date" class="pop-annotation" tabindex="0">1969</a>, it was studied with the concept of providing for four elements:[^fn1] 
 
 >1. Television Station facilities 
 >

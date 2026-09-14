@@ -42,4 +42,5 @@ for their food service employees.
  
 Some time later the Music Department was allocated space in the building until the end of 1928 when they moved into their new quarters in the Maples (Music Hall). In 1929 the second floor was converted into office space for the English Department, and in 1940 the name of the building was changed to English Office Building. 
 
-In 1973 all English and Speech offices were relocated to other buildings and the old Office Building became the headquarters for International Education Services.
+In 1973 all English and Speech offices were relocated to other buildings and <a id="english-office-after-day" class="pop-annotation" tabindex="0">
+the old Office Building</a> became the headquarters for International Education Services.

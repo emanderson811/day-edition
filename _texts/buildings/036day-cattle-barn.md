@@ -3,7 +3,7 @@ layout: building
 title: "Cattle Barn"
 alternative_name: 
 built: 
-    - "1924-25"
+    - '<a id="cattle-barn-build-date" class="pop-annotation" tabindex="0">1924-25</a>'
     - "Rebuilt: 1931-32"
 addition:
 architect: 

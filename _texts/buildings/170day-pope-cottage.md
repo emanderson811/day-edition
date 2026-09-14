@@ -59,4 +59,4 @@ Professor of Chemistry, Thomas E. Pope, built this house on the south side of wh
   </tr>
 </table>
 
-This frame house was typical of the residential design of its period with two stories and basement. Inside plumbing and electricity were installed in 1902. The porch on the southeast corner was added in 1924.
+This frame house was typical of the residential design of its period with two stories and basement. Inside plumbing and electricity were installed in 1902. The porch on the southeast corner <a id="pope-cottage-after-day" class="pop-annotation" tabindex="0">was added in 1924.</a>

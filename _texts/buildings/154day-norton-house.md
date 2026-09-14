@@ -30,4 +30,4 @@ From then until 1929 it was used as a practice cottage and was called Gray Cotta
 
 When Spedding Hall was about to be built in 1948, the site had to be cleared and the Norton House was moved north to its present location on north Morrill Road. 
 
-In recent years it has been the headquarters of the Film Production Unit.
+<a id="norton-house-after-day" class="pop-annotation" tabindex="0">In recent years</a> it has been the headquarters of the Film Production Unit.

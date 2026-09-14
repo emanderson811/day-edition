@@ -69,7 +69,7 @@ Occupants of the house have been:
  </tr>
  <tr>
   <td>1976 - </td>
-  <td>Honors Program</td>
+  <td><a id="osborn-cottage-after-day" class="pop-annotation" tabindex="0">Honors Program</td>
  </tr>
 </table>
 

@@ -37,6 +37,7 @@ When plans for the Metallurgy Building were developed it became necessary to mov
 
 They were moved to the north of Pammel Drive, facing west on what is now called North Morrill Road. 
 
-Bevier House continued as a home management house until 1953 and again served that function in 1955-56. In 1953-55 and 1956-61 it was home for graduate women. It then became office space for retired and emeritus faculty members.
+Bevier House continued as a home management house until 1953 and again served that function in 1955-56. In 1953-55 and 1956-61 it was home for graduate women. <a id="bevier-house-after-day" class="pop-annotation" tabindex="0">
+It then became office space</a> for retired and emeritus faculty members.
 
 [^fn2]: Minutes, April 15, 1925
